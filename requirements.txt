@@ -14,4 +14,4 @@ numpy
 scikit-learn
 requests
 python-dotenv
-ollama
+openai
