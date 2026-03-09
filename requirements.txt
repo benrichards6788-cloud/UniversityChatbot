@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+openai
+tiktoken
+pypdf
+unstructured
+unstructured-inference
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
