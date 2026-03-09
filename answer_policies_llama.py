@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 
-"""
-No HTTP, no API keys needed
-"""
-
 import textwrap
-import ollama  
-from query_policies import retrieve_policies  
+import os
+from query_policies import retrieve_policies
 
-MODEL_NAME = "llama3.1"  
+USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
+
+if USE_OLLAMA:
+    import ollama
+else:
+    from openai import OpenAI
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def call_llama(system_prompt: str, user_prompt: str) -> str:
+
     full_prompt = f"""SYSTEM:
 {system_prompt}
 
@@ -18,9 +21,23 @@ USER QUESTION AND CONTEXT:
 {user_prompt}
 """
 
-    # ollama.generate returns a dict like: {"model": ..., "response": "...", ...}
-    response = ollama.generate(model=MODEL_NAME, prompt=full_prompt)
-    return response["response"].strip()
+    if USE_OLLAMA:
+        response = ollama.generate(
+            model=MODEL_NAME,
+            prompt=full_prompt
+        )
+        return response["response"].strip()
+
+    else:
+        response = client.chat.completions.create(
+            model="gpt-5-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ]
+        )
+
+        return response.choices[0].message.content.strip()
 
 
 #formats retrieved chunks into readable context block for model
