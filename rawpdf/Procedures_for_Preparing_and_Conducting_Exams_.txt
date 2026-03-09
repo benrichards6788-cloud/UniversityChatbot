@@ -1,0 +1,1104 @@
+--- PAGE 1 ---
+
+Assessment and Feedback 
+Procedures for Preparing and Conducting Exams 
+ 
+Version 
+No. 
+Description Author Approval 
+body 
+Effective 
+Date 
+1.0 Procedures for Preparing and Conducting Exams Assessment 
+and 
+Feedback 
+Working 
+Group 
+Senate August 2025 
+     
+ 
+Review Date August 2028 
+Section Responsible Education Enhancement 
+ 
+ 
+Purpose of Policy 
+This document sets out the University’s procedures for exams. The definition of an exam is provided in the 
+Policy on Exams. These procedures apply to all programmes and provide a consistent approach to the 
+preparation and delivery of exams across the University. 
+Scope of Policy 
+These procedures apply to all exams as defined in the Policy on Exams and must be read in conjunction with 
+this policy. These procedures should also be read in conjunction with other relevant documents: the University 
+website contains policies and procedures on a range of assessment related matters under which this policy 
+resides; the University’s Disability Policy; and Guidance on Exam Arrangements for students with reasonable 
+adjustments is available from the Disability and Wellbeing Service.
+
+--- PAGE 2 ---
+
+Procedures for Preparing and Conducting Exams 
+Contents 
+Introduction ................................................................................................................................................................. 1 
+Exam timetabling ........................................................................................................................................................ 1 
+Department based exams .......................................................................................................................................... 3 
+Exam arrangements for students with reasonable adjustments ................................................................................ 3 
+Off campus exams ..................................................................................................................................................... 4 
+Use of computers in exams ........................................................................................................................................ 4 
+Exam papers ............................................................................................................................................................. 6 
+Invigilation .................................................................................................................................................................. 7 
+Exams conducted across multiple rooms/locations ......................................................................................... 7 
+Responsibilities of Invigilators ........................................................................................................................... 7 
+Responsibilities of the Invigilator in Charge ..................................................................................................... 9 
+Routine procedures of invigilation .............................................................................................................................. 9 
+Attendance of Invigilators ................................................................................................................................... 9 
+Preparation of the exam room ............................................................................................................................. 9 
+Admission of students ....................................................................................................................................... 10 
+Start of Exam ...................................................................................................................................................... 10 
+Use of Dictionaries ............................................................................................................................................. 11 
+Use of Electronic Devices .................................................................................................................................. 11 
+Open-book exams .............................................................................................................................................. 11 
+Late admission and extra time .......................................................................................................................... 11 
+Register of Attendance ...................................................................................................................................... 12 
+Queries from Students ....................................................................................................................................... 12 
+Temporary absence ............................................................................................................................................ 13 
+Toilet breaks ....................................................................................................................................................... 13 
+Departure on early completion of an exam ...................................................................................................... 13 
+Warning on end of exam .................................................................................................................................... 14 
+Procedure at the end of an exam ...................................................................................................................... 14 
+Removal of answer books from the exam room .............................................................................................. 14 
+Exceptional procedures of invigilation ...................................................................................................................... 14 
+Academic misconduct ....................................................................................................................................... 14 
+Disturbing behaviour ......................................................................................................................................... 15
+
+--- PAGE 3 ---
+
+S
+tudent Wellbeing .............................................................................................................................................. 15 
+Responding to a general disturbance .............................................................................................................. 15 
+Fire ....................................................................................................................................................................... 16 
+Power failure/system failure .............................................................................................................................. 16 
+Exam room evacuation procedures.................................................................................................................. 17 
+Illness .................................................................................................................................................................. 18 
+Marking and retention of answer books........................................................................................................... 19 
+Appendix 1: invigilator announcements for written exams ......................................................................................... 20 
+Appendix 2 invigilator announcements for computer-based exams........................................................................... 21
+
+--- PAGE 4 ---
+
+1  
+Procedures for Preparing and Conducting Exams 
+ 
+Introduction 
+1. This document sets out the University’s procedures for exams. The definition of an exam is provided in 
+the Policy on Exams. These procedures apply to all programmes and provide a consistent approach to 
+the preparation and delivery of exams across the University. These procedures must be read in 
+conjunction with the Policy on Exams. 
+ 
+2. These procedures should also be read in conjunction with other relevant documents: the University 
+website contains policies and procedures on a range of assessment related matters under which this 
+policy resides; the University’s Disability Policy; Guidance and Support for Students on Matters of Religion 
+and Belief; and, Guidance on Exam Arrangements for students with reasonable adjustments is available 
+from the Disability and Wellbeing Service. 
+ 
+3. Where this procedural document, and the accompanying Policy on Exams document, refer to a 
+Department, the action is the responsibility of the Head of Department or nominee, that nominee usually 
+being the Departmental Exam Coordinator (DEC) or the Module Organiser of the exam in question.  
+ 
+Exam timetabling 
+4. There are currently three formal assessment periods where exams are centrally scheduled: at the end of 
+Semester 1, end of Semester 2, and at the end of the summer teaching period (S3).  
+ 
+5. All exams, as defined in the Policy on Exams, must be communicated to the Exams Admin team (Student 
+Awards and Graduations) for inclusion in central exam timetabling. 
+ 
+6. Ahead of each formal assessment period, the Department must check, update, and return the exam 
+requirements information to the Exams Admin Team by the specified deadline. 
+ 
+7. The Exams Admin team will timetable all exams that have been confirmed by the Department by the 
+specified deadline. 
+ 
+8. The Exams Admin team have a pool of central rooms available for standard written exams and liaise with 
+the Room Bookings team for computer labs. Any other exams requiring specialist accommodation must be 
+included in the central exams timetable to avoid clashes, however the Department is responsible for 
+identifying and booking their location (see Department-based exams. Where students with disabilities 
+require alternative exam locations, these must be booked by the Department after publication of the main 
+timetable (see Exam arrangements for students with reasonable adjustments). 
+ 
+9. The Exams Admin team generate the timetable according to a set of guidelines detailed in the Exam 
+Sharepoint pages designed to create the most effective timetable possible, including: 
+ 
+a) Where possible avoiding the scheduling of two exams within a 23-hour period. Note: the wide range
+
+--- PAGE 5 ---
+
+2 
+of
+ undergraduate curriculum choices, the length of assessment period or availability of suitable 
+rooms may preclude this and students at all levels should expect that they may have exams in 
+consecutive slots (two exams scheduled for the same day, one in the morning and one in the 
+afternoon) or consecutive days (exams on separate but consecutive days); and  
+b) W
+here possible, in the Semester 2 formal assessment period, Honours exams are scheduled in the
+earlier part of the assessment period to facilitate marking ahead of Boards of Examiner meetings and 
+expedite the process of return of marks to enable students to make appropriate graduation 
+arrangements before the published deadline date. 
+10. I
+f Departments are aware of a student who requires 50% or more additional time in exams, they must
+inform the Exams Admin team at the point of confirming the requirements for that exam. Where possible, 
+the Exams Admin team will avoid consecutive exam slots for these students (consecutive slot meaning two 
+exams scheduled for the same day, one in the morning and one in the afternoon).  
+11. W
+here there is an unavoidable exam clash – that is where two exams are scheduled for the same day and
+time - it is recommended that students sit their first exam in the morning and the second exam in the 
+afternoon, and are supervised by the Department in the interim period which should be a minimum of  two 
+hours. At the Department’s discretion, an alternative exam paper can be provided for the second of the two 
+exams which will remove the requirement for the student to be supervised in the interim period.  
+12. I
+n instances where consecutive slot exams or exam clashes are unavoidable, the Department may
+implement reasonable adjustments to accommodate students with disabilities who may find the schedule 
+disadvantageous for disability-related reasons. 
+13. All exams for campus-bas ed modules shall normally take place on campus, or, in the case of a module
+t
+aught off campus, at an appropriate learning centre. In exceptional circumstances an exam may be held 
+elsewhere (see ‘Off-campus exams’ in the Policy on Exams) 
+14. W
+here possible, the Exams Admin team aims to publish a draft timetable approximately six weeks before
+t
+he formal assessment periods in Semesters 1 and 2 (currently December and April/May respectively), and 
+approximately four weeks before the summer teaching period’s (S3) formal assessment period (currently in 
+July/August). 
+15. T
+he stages of the timetabling process are detailed in the Exams Admin team pages.
+16. W
+here Departments are responsible for booking exam accommodation required for reasonabl e
+adj
+ustments, the location must be communicated to students by the Department at least seven calendar 
+days prior to the exam. 
+17. I
+n the event that a student contacts the University to advise that they have contracted a contagious disease
+(for example, chickenpox, measles, shingles etc.), the student should be advised NOT to attend their exam, 
+even in a sole occupancy room, as doing so would put other students and staff at risk. In such cases, 
+students should be advised to seek a medical certificate as soon as possible and submit using the
+
+--- PAGE 6 ---
+
+3  
+Personal Circumstances and Academic Appeals Procedure. 
+ 
+Department based exams 
+18. Departments may wish to hold specialised exams during the formal assessment period within 
+departmental rooms. These activities must be included in the central exam timetable, by the Department 
+notifying the Exams Admin team, for checking clashes with other scheduled exams.  
+ 
+19. Where exams require specialist accommodation booked by the Department, the Department must update 
+the exam requirement information to indicate that a central pool room is not required. This enables the 
+Exams Admin team to schedule a date and time only. 
+ 
+20. Departments should engage with Estates Services with regards to room capacities for exams. 
+ 
+21. The Department will receive the date and time when the draft timetable is released. The Department is 
+responsible for booking a suitable room. The Department must advise the Exams Admin team of the room 
+booked to enable the timetable to be updated to display the room details for students.  
+ 
+22. Procedures for the production, printing, and delivery of exam papers, can be found in the Exam Papers
+ 
+section of this document and on the Exam Sharepoint pages. 
+ 
+Exam arrangements for students with reasonable adjustments 
+23. The University’s Disability Policy outlines the requirements on staff to consider the needs of students with 
+a disability in all assessments and exams, and to make any necessary and reasonable adjustments to 
+ensure the accessibility of assessments for all students. 
+ 
+24. Departments are responsible for making the necessary arrangements for students with reasonable 
+adjustments to undertake exams. 
+ 
+25. Assessment of the needs of students with disabilities is carried out by the Disability & Wellbeing Service, 
+where evidence of a student’s needs is held and discussed prior to recommendations being made to 
+Departments about any necessary adjustments to assessments and exams. Departments are advised to 
+discuss these adjustments with the Disability & Wellbeing Service and the student concerned if they feel 
+that they can be improved on. Once agreed, these adjustments must be implemented. This ensures equity 
+in treatment among students across the institution. 
+ 
+26. Staff in the Disability & Wellbeing Service are available to discuss individual student’s exam needs with 
+colleagues in Departments who have responsibility for setting and administering exams. Where required, it 
+is expected that Departments be responsible for the production of non-standard exam papers and answer 
+books. The Disability Service only supports the provision of specialist exam software when the student’s 
+technological requirements are complex and need substantial individual configuration, or the software 
+licensing is restricted. 
+ 
+27. Where a student has requirements that mean they do not sit an exam with the main cohort, their exam
+
+--- PAGE 7 ---
+
+4 
+mus
+t overlap and where possible encompass the entire duration of the main cohort exam, although it may  
+vary in start and end time or duration according to the reasonable adjustments agreed for a student. 
+28. D
+epartments must make any necessary arrangements as early as possible. Where a student approaches
+the Department or the Disability & Wellbeing Service to request support late on in the academic year, 
+Departments retain an obligation to make any recommended reasonable adjustments. What  may be 
+reasonable may be linked to the available time prior to the exam taking place, but ensuring the student is 
+not disadvantaged remains essential. 
+29. W
+here reasonable adjustments have been identified, it may be necessary to employ individuals to act as
+scribes or readers as appropriate. Information regarding the necessary pre-employment checks for these 
+roles, and rates of pay are available on the Exam SharePoint pages. 
+30. D
+epartments are responsible for the production, printing, and delivery of their own exam papers for exams
+held in alternative locations for students with reasonable adjustments. 
+Off campus exams 
+31. Students ar e required to attend exams, including resits, in person on a University campus. However, in
+exceptional cases, a student may be allowed to take an exam off campus (see the Off- campus exams 
+section in the Policy on Exams). 
+32. F
+ollowing a request by a student to take an exam outwith the University, the Department should consider
+the case put forward by the student to warrant permission. Examples of exceptional circumstances that 
+may be considered include if they have left the UK to return to their home country and would incur major 
+costs in travelling to the UK for a re-sit, or if they may have problems obtaining a visa in time for the re-sit 
+exam. Other circumstances, such as personal illness, illness in the immediate family or the death of a 
+close family member may also be taken into account. See Personal Circumstances and Academic 
+Appeals Procedure. 
+Us
+e of computers in exams 
+33. When an exam is taken using a computer, or other electronic device, and on the University campus, all
+as
+pects of the Exams Policy and Guidance, including on invigilation, must be applied.  
+34. C
+omputers may be used in exams in the following circumstances:
+a) As an a
+ssistive technology in support of recommended reasonable adjustments
+b) A
+ requirement of the exam is the use of a computer (computer-based exam). For example, an exam
+that is run on Myplace, the University’s Virtual Learning Environment.  
+35. Where an exam is computer-based, the responsibility for the organisation and administration of that
+exam, other than timetabling, remains with the Department.
+
+--- PAGE 8 ---
+
+5 
+36. W
+here a specific slot is required in the formal assessment period, the computer-based exam must be
+id
+entified as a Departmental exam in the exam requirements submitted to the Exams Admin team, for 
+the purpose of central timetabling and clash checking. 
+37. P
+ractical and technical procedures will vary depending on the context and circumstances of the exam.
+For example, students may be required to use specific software applications, data sources and web 
+sites, but not be allowed to access others. It is essential that Departments ensure in advance that the 
+proposed arrangements will be technically feasible and appropriately supported on the day.  
+38. W
+here Departments are unsure about the technical feasibility of their proposed exam, including th e
+s
+upport required for it, a request may be made to the Information Services’ helpdesk pr ior  to the 
+module amendment approval. 
+39. F
+actors which should be considered when developing and conducting exams where computers are
+used: 
+a) C
+omputer-based exams must be carried out in suitable teaching labs on University-owned
+c
+omputers, except where reasonable adjustments require otherwise. 
+b) C
+onsideration should be given to the requirements of students with reasonable adjustments
+when designing and delivering computer-based assessments. Departments must ensure that 
+the software and systems they wish to use for computer-based exams meet accessibility 
+requirements and do not curtail assistive software. Assistive Technology Advisers in the 
+Disability Service can provide advice on this. 
+c) D
+epartments are responsible for ensuring that all computer-based exams and computing
+equipment undergo appropriate testing prior to the exam date to ensure they are functioning 
+properly and have not been adapted in any way. 
+d) S
+tudents must not bring any computer related equipment of their own (for example, a memory
+stick or mouse) into the exam. Where reasonable adjustments require otherwise, the equipment 
+must undergo prior checking and approval. 
+e) D
+epartments must ensure that any contingency plans, in the event of computer malfunction or
+failure, are appropriate and robust. Additional computers must be available, in the event of a 
+problem. 
+f) Ex
+am conditions as stated in the University’s Exams Policy, including in respect of invigilation,
+must apply in all computer-based exams. See Appendix 2 f or Invigilator announcements for 
+computer-based exams. 
+g) C
+omputers, or other electronic devices, should be configured according to the required
+conditions of the exam. For example:
+
+--- PAGE 9 ---
+
+6 
+• A
+ccess to the internet. For example, access to the internet may be disabled, or access
+enab
+led for only specific websites. 
+• A
+ccess to local to network drives. For example, access to USB pen drives and H: driv e
+di
+sabled. However, access to local hard drive enabled to save work before final 
+submission. 
+• W
+here it is not possible to apply the required exam conditions to devices used, other
+effective mechanisms must be put in place to prevent and/or detect any activity that 
+may be indicative of academic misconduct. 
+h) A
+ppropriate levels of invigilation must be provided, and students’ desks must be appropriately
+spaced to minimise the potential for academic misconduct. Departments should engage with 
+Estates Services with regards to room capacities for exams. 
+i) Al
+l work involving the use of computers and other display screen equipment should be set up
+with consideration for the comfort of those undertaking the exam. 
+j) D
+epartments must ensure that appropriate support is available prior to the start of all computer- 
+based exams and at any other necessary stages (for example, printing). 
+k) C
+onsideration must be given as to whether students require guidelines on how to use the
+software or hardware to be used in the exam. 
+l) W
+here it has not been possible to configure the online exam system, for example Myplace, t o
+aut
+omatically save students’ work at regular intervals, students should be instructed to save their 
+work frequently. Additional computers must be available, in the event of a problem, so students 
+can move to these without having to re-enter large amounts of work. Where there is a computer 
+issue during the conduct of an exam, please see the Power failure/system failure s
+ection of this 
+document). 
+m) S
+tudents must be allowed entry to the exam room in sufficient time for all students to log-in to
+U
+niversity systems, if necessary. 
+Exam papers 
+40. Module Organisers are responsible for preparing any exam paper(s) for their modules.
+41. T
+he front page must include clear statements about:
+a) An
+y information/materials (if any) that may be taken into the room (authorised material); and,
+b) T
+he use of calculators (if permitted) during the exam (authorised use).
+
+--- PAGE 10 ---
+
+7 
+42. T
+he information in paragraph 41 must also be made known to the students by Departments in good time
+pr
+ior to the exam. 
+43. T
+he finalised exam papers must be submitted to Exams Admin team via the specified process prior to the
+pub
+lished deadlines. T he Exams Admin team will arrange for the appropriate number of copies to be 
+printed and ensure any special printing requirements (for example, colour) included with the submission 
+are conveyed to the Print Unit. 
+44. At a
+ll stages of this process the contents of the exam paper are strictly confidential to the Internal and
+E
+xternal Examiner(s). Only named individuals have access to upload papers for printing for their own 
+Departments and are not permitted to view papers for any other Departments. 
+45. Departments are responsible for the paper that is submitted for printing. Departments must proof -r ead
+paper
+s thoroughly before submission, including checking content, such as correct representation of 
+symbols in documents, date and time of the exam, and number of papers to be printed. Papers will not 
+be checked by the Exams Admin team. 
+46. T
+he Exams Admin team will notify Departments when exam papers are ready to be collected.
+47. D
+epartments are responsible for the collection of their centrally printed exam papers from the Exams
+Admin Team and delivery to their exam location, including their secure storage.  
+48. D
+epartments are responsible for production, printing, secure storage, and delivery of their own exa m
+paper
+s not uploaded to the exam paper repository for printing, including exam papers for students with 
+reasonable adjustments. 
+Invigilation 
+Exams conducted across multiple rooms/locations 
+49. Where an exam takes place over more than one room/location, it is essential that all Invigilators are
+provided with identical instructions for the conduct of the exam (See Appendix 1 f or announcements to be 
+made by Invigilators for written exams and Appendix 2  f or  announcements to be made by Invigilators for 
+computer-based exams). 
+50. In t
+he event that any issues are identified with individual exam papers, immediate steps must be taken to
+ens
+ure consistent communication to students across all exam rooms. Each Department is responsible for 
+developing effective communication procedures to all Invigilators in such circumstances.  
+Responsibilities of Invigilators 
+51. The Exams Admin team will inform Departments of the required number of Invigilators for each exam
+ac
+tivity, according to the table below.
+
+--- PAGE 11 ---
+
+8 
+Number of students Minimum number of Invigilators present at any time  
+1-5 1 (see paragraph 52) 
+6-50 2 
+51+ 51-100 = 3
+101-200 = 4
+>200 = 5
+52. Where
+ only one Invigilator is required, the Department is responsible for developing effective lines of
+communication between the Invigilator and the Department to manage arrangements for 
+circumstances such as illness. 
+53. For eac
+h exam room, one Invigilator shall act as Invigilator in Charge. When two or more Departments
+share an exam room the Invigilator in Charge will normally be the Department with the greatest 
+number of students. When there is only one Invigilator, they are the Invigilator in Charge.  
+54. If an I
+nvigilator is unable to attend an exam, the Department is responsible for ensuring that an
+appropriate substitute is appointed and briefed. 
+55. Col
+lectively, all Invigilators are responsible for:
+a) Arr
+iving at the exam room at least 20 minutes before the scheduled start time of the exam;
+b) Ensur
+ing that if they are unable to attend the exam, they inform the Department as early as
+possible. 
+c) Ensur
+ing that the exam room is set up as required for their exam;
+d) Ensur
+ing that they are aware of the exam room emergency exit procedures and nearest toilet
+facilities; 
+e) Ensur
+ing that they have the correct exam papers for the exam being held;
+f) Assist
+ing in supervising students’ entry into the exam room and keeping a register of students
+attending each exam; 
+g) Dist
+ributing exam materials to students, and ensuring the security of the materials at all times;
+h) Superv
+ising the exam for the duration of the scheduled time, and any additional period resulting
+from late starts, power failure or fire alarm breaks, or for students allocated additional time, 
+ensuring vigilance at all times; 
+i) Being
+ aware of, and vigilant against, potential academic misconduct (see the Student Discipline
+Policy: Academic Misconduct);
+
+--- PAGE 12 ---
+
+9 
+j) Communi
+cating any problems/incidents/emergencies to the Invigilator in Charge of the exam;
+k) The co
+llection of answer book(s) from each student in attendance;
+l) Managing an
+d controlling the use by students of electronic devices;
+m) Ensuri
+ng students are not disturbed either by other students or by Invigilators;
+n) Ensuri
+ng students arriving late are dealt with quickly and according to procedures. See Late
+Admission and Extra Time; 
+o) Ensuri
+ng exam conditions are maintained when students leave the exam room; and
+p) Arrang
+ing the secure delivery of students' work to the relevant Department or appropriate internal
+examiner. 
+Responsibilities of the Invigilator in Charge 
+56. In addition to the responsibilities outlined in paragraph 55 for all Invigilators, the Invigilator in Charge
+shall: 
+a) Check wit
+h the other Invigilators on duty that proper provision has been made for all exams
+concerned before students are admitted to the room; 
+b) Checki
+ng that all Invigilators are satisfied that they have the correct exam papers for the exam
+being held; 
+c) Ensure
+ that invigilation is adequate and appropriately conducted throughout the exam;
+d) Ensure
+ there are arrangements in place for the secure delivery of all students’ answer books to
+the relevant Department or appropriate internal examiner; 
+e) To report
+/communicate to the relevant Department any irregularity in the conduct of an exam,
+including: 
+• Any instances of illness or distress;
+• The admission or non-admission of latecomers;
+• Queries/concerns raised by students which may subsequently be possible grounds for
+complaint or appeal; 
+• Any incidents or disruptions (see sections in this document on Academic Miscondu ct
+and Disturbing Behaviour); and, 
+• Failure on the part of an appointed Invigilator to attend an exam.
+Routine procedures of invigilation 
+Attendance of Invigilators 
+57. All Invigilators, as specified in para 51 above, must be present in the exam room at least 20 minutes before the
+scheduled start time of the exam and should normally be present in the room for the first fifteen minutes and the
+
+--- PAGE 13 ---
+
+10 
+last fifteen minutes of the exam. For the main part of the exam, Invigilators are expected to take turns on 
+active duty in the room. The number present at any one time will be determined by the Invigilator in 
+charge.
+Preparation of the exam room 
+58. Security Wardens may give assistance in the preparation of the exam room, including the distribution of
+answer books, but should not be expected to set out exam question papers in the absence of the 
+Invigilator responsible; and 
+59. When all n
+ecessary exam papers and answer books have been set out, Invigilators should inform the
+Invigilator in Charge that everything is prepared for the exam to start. 
+Admissi
+on of students 
+60. Students are normally admitted to the exam room approximately five minutes before the scheduled start
+time of the exam but should not be admitted before all preparations have been made.  
+61. Unless 
+a place is allocated to each student, Invigilators shall direct students to the area where they
+should sit. 
+62. There s
+hould be no communication between students as soon as they take their seat in the exam room.
+63. Textbook
+s, notes (see section in this document for use of dictionaries), all electronic devi ces and other
+aids may not be introduced into an exam room unless specifically permitted  
+64. Student
+s should be directed to deposit bags, coats and other personal belongings including mobile
+phones and earphones at the front of the exam room away from students' desks, or other appropriate 
+location as identified by Invigilators. 
+65. Durin
+g an exam, the consumption of food and drink, other than bottled water and small confectionery
+items, is not permitted in the exam room, unless this has been agreed as a reasonable adjustment. Use of 
+e-cigarettes is not permitted in the exam room, in line with the University’s local smoking rules.
+66. Once s
+tudents have been seated, they should not be allowed to leave the room for any reason, including
+toilet breaks, before the start of the exam. 
+Start of Exam 
+67. When students have been admitted to the exam room and are seated, the Invigilator in Charge must
+make the announcements set out in Appendix 1, prior to announcing that the exam has started, and 
+students may begin. It is usual to allow students to complete the cover of their answer book,  and the 
+attendance slip before the exam begins. 
+68. Students must be instructed to check and ensure that the paper in front of them is the one they should
+be sitt
+ing and listen carefully to the announcements made by the Invigilator in Charge at the beginning 
+of the exam.
+
+--- PAGE 14 ---
+
+11  
+69. Students must not leave the exam hall during the first third of the exam or during the last fifteen 
+minutes, unless a student has a reasonable adjustment permitting this. 
+70. The actual start time of the exam should be noted. Should the start of the exam be delayed for any 
+reason an equivalent period of extra time must be allowed. 
+ 
+Use of Dictionaries 
+71. Students may use unannotated paper-based English / native language dictionaries in University exams 
+(other than language exams). The use of electronic dictionaries is not permitted in University exams. 
+Invigilators are not expected to examine each paper-based dictionary but should examine a few at 
+random and with great thoroughness. 
+ 
+Use of Electronic Devices 
+72. Electronic devices are not permitted during exams unless required by a reasonable adjustment. 
+Electronic devices include (but are not limited to): mobile phones, music players, tablets, smart watches, 
+and smart glasses. Students are not permitted to bring earphones into the exam room.  
+ 
+73. The University accepts no responsibility for any loss or damage to mobile phones, earphones, or other 
+electronic devices while in the exam room. For this reason, the University recommends that students do 
+not bring such devices into the exam room. If they are brought into the exam room, then they must be 
+turned off and located away from the student for the duration of the exam, unless required by a 
+reasonable adjustment. 
+ 
+74. When authorised by the examiners and under terms determined by the Department, students may make 
+use of calculators in an exam room. Students are not permitted to share the use of calculators during an 
+exam. At the discretion of the Department, invigilators should normally try to ensure that calculators' 
+memories are cleared at the beginning of each exam. 
+ 
+Open-book exams 
+75. For open book exams, students are permitted to bring books, notes, and reference material with them, 
+and consult these throughout the exam, as described by the Department. 
+ 
+76. If extensive referencing is required as part of the exam, use of single occupancy rooms should be 
+considered, and where required, requested from the Exams Admin team. 
+ 
+Late admission and extra time 
+77. Students who arrive late, but within the first third of the scheduled duration of the exam may be admitted 
+to the exam but no extra time will be granted at the end of the exam. After this period has passed, 
+students are not to be admitted to the exam room (as students are allowed to leave the exam room after 
+the first third of the exam).
+
+--- PAGE 15 ---
+
+12 
+78. If
+ a student is admitted late, their answer book must be marked by an Invigilator to show the
+time that they were admitted. The Invigilator must also, preferably at the end of the exam, 
+take note of the circumstances that delayed the student's arrival and ensure that the 
+examiners are aware of them. 
+79. If
+ a student is admitted late, the Department should make the student aware of the Personal
+Circumstances and Academic Appeals Procedure i f appropriate.  
+R
+egister of Attendance 
+80. All students must complete the student identification form, copies of which are provided in the exa m
+r
+oom. The students should complete these before the exam starts and they should be collected within 
+the first 20 minutes of the exam. The completed and signed attendance forms must be returned to the 
+Department at the end of the exam as a record of attendance. 
+81. Al
+l students must place on their desk a physical student card/photographic ID that bears a photograph
+of the student. 
+82. If
+ a student does not have a form of photo ID, the Invigilator must annotate the student’s answer book to
+r
+ecord that they have no physical ID. The student should be offered the opportunity to provide ID to an 
+Invigilator immediately after the exam has ended. 
+83. A
+ list of students expected to attend each exam will accompany exam papers produced by the Exams
+Admin team. The student identification forms should be used to check those in attendance against the 
+list. The names of students whose reasonable adjustments require a separate room will be included on 
+the list and not removed. 
+84. T
+here may be students whose names do not appear on the list of expected students for the exam. The
+s
+tudents must be allowed to sit the exam, and they must have photo ID. The names of these students 
+must be added to the list and this list must be kept within the Department. Departments should make 
+equivalent arrangements for Department based exams. 
+85. T
+he University recognises that some people may wish to wear clothing or items that may obscure their
+face. It may be necessary for the purposes of identification during an exam to ask a student to 
+temporarily remove any garment that obscures their identity. In this case the student may request a 
+person of the same gender and a private area for identification checks to be made.  
+Queries from Students 
+86. Should a student raise a query on an exam question, the disruption to other students should be kept to a
+mi
+nimum. The Invigilators must obtain an answer as early as possible from the Department concerned 
+unless the Department has stated that no questions will be answered and that students must do the best 
+they can with the question concerned. 
+87. T
+he Invigilator in Charge should use their discretion on deciding whether information resulting from any
+
+--- PAGE 16 ---
+
+13  
+query should be made known to all students concerned, taking into consideration any disruption to 
+students sitting a different exam. It is usual for such information to be made known in the interests of 
+fairness and it may be helpful to suggest that the students who have already answered the question 
+concerned should note on their answer book that the information given out was made known after they 
+had written their answers. 
+ 
+88. In the event that any issues are identified with individual exam papers, immediate steps must be taken to 
+ensure consistent communication to students across all exam rooms. Each Department is responsible 
+for developing effective communication procedures to all Invigilators in such circumstances.  
+ 
+Temporary absence 
+89. When a student requests and is granted permission to leave the exam room temporarily (for illness see 
+section on illness during exams) they must be escorted as far as is reasonable throughout their absence. 
+An Invigilator has discretion to authorise any University employee they deem fit to act as a student’s 
+escort. 
+ 
+90. Students are not permitted to take any exam related materials or mobile devices with them from the exam 
+room. 
+ 
+91. Where a student has received approval for a time-limited temporary absence from an exam for religious 
+observance, in line with the Guidance and Support for Students on Matters of Religion and Belief, it is 
+recommended that the student is offered additional time commensurate with the approved absence. 
+ 
+92. No additional time will be granted for any absence from the exam room, except where a student has 
+relevant reasonable adjustments or approved absence for religious observance. 
+ 
+Toilet breaks 
+93. Students must be escorted as far as is reasonable by an Invigilator should they need to go to the toilet. 
+Students should be warned that if they are found to have taken a toilet break with unauthorised materials 
+in their possession they will be reported, and disciplinary action will be taken.  
+ 
+94. Once students have been seated, they should not be allowed to leave the room for any reason, including 
+toilet breaks, before the start of the exam, except in the case of emergencies. Students should not leave 
+the exam hall during the first third of the exam or during the last fifteen minutes (including for toilet 
+breaks), unless the student has a reasonable adjustment permitting this.  
+ 
+Departure on early completion of an exam 
+95. Students may leave an exam at any time after it has been in progress for one-third of its scheduled 
+duration but are not permitted to leave during the last fifteen minutes. This restriction is designed to 
+prevent the general disturbance that may be caused by the number of students who might otherwise 
+leave, particularly during the last five minutes. When fewer than ten students are present, the restriction is 
+not necessary. Invigilators should not record the time of a student’s departure from an exam on the
+
+--- PAGE 17 ---
+
+14  
+answer book. 
+Warning on end of exam 
+96. Fifteen minutes before the end of an exam, Invigilators must warn students that fifteen minutes of the 
+exam period remain and that students are no longer permitted to leave and must remain in their places 
+until the exam is over. Invigilators must also warn students again when only five minutes remain. (See 
+Appendix 1 for announcements). 
+ 
+Procedure at the end of an exam 
+97. At the end of an exam, students must remain in their seats until they are told they may leave. Invigilators 
+are responsible for collecting answer book(s) from each student whilst still in their places, starting with the 
+answer books of students nearest room exits. 
+ 
+98. To ensure all answer books have been collected, Invigilators should check the number of answer books 
+collected against the number of candidates in attendance. Invigilators should not allow students to leave 
+the exam room at the end of the exam until the number of papers has been reconciled to the attendance 
+list. 
+ 
+Removal of answer books from the exam room 
+99. The answer books and the register of attendance must be removed from the exam room by an 
+Invigilator/examiner concerned with the exam. Departments must ensure that an examiner/staff member is 
+in attendance at the end of an exam to collect answer books. 
+ 
+100. In exceptional circumstances in the absence of an examiner or an Invigilator from the relevant 
+Department, an Invigilator should make prior arrangements for the answer books and register of 
+attendance to be delivered to a staff member in the Department concerned. 
+ 
+101. When answer books are received by the Department, care must be taken to ensure that they are 
+securely stored. This includes the case where an exam finishes after normal working hours. 
+ 
+102. If there is no-one in the Department to receive the answer books, they remain the responsibility 
+of the Invigilator in terms of secure storage. Answer books must not be taken off campus.  
+ 
+Exceptional procedures of invigilation 
+Academic misconduct 
+103. When dealing with a student suspected of engaging in academic misconduct in an exam, the Invigilator 
+must involve another Invigilator as soon as possible to assist and act as a witness. This is important 
+from a legal point of view for the protection of the Invigilator and the University. When carrying out their 
+duties, an Invigilator will be supported by the University Senate in the action they take.  
+ 
+104. 'Engaging in academic misconduct' includes, for example, using unauthorised aids, copying from, and 
+communicating with other students. In the case of a computer-based exam this could include accessing
+
+--- PAGE 18 ---
+
+15  
+unauthorised websites or programmes. 
+ 
+105. When an Invigilator detects a case of suspected academic misconduct they must take appropriate action 
+to ensure that the point the student has reached in their answer book is clearly recorded, for example by 
+annotating the answer book at the point reached or, where this is possible without prejudice to the 
+student, by removing the answer book and supplying a fresh one. 
+ 
+106. Where a student is believed to be engaging in academic misconduct and where that student is required 
+to withdraw for conduct disturbing to other students, the Invigilator must send the answer book direct to 
+the Department, giving full details of the circumstances. 
+ 
+Disturbing behaviour 
+107. When dealing with a student whose conduct they believe to be disturbing to other students in an exam, 
+the Invigilator must involve another Invigilator as soon as possible to assist and act as a witness. This is 
+important from a legal point of view for the protection of the Invigilator and the University. When carrying 
+out their duties an Invigilator will be supported by the University Senate in the action they take.  
+ 
+108. A student whose conduct is, in the view of an Invigilator, disturbing to other students should receive a 
+warning from an Invigilator to stop the disturbing behaviours. If they persist in this conduct following 
+repeat warnings, students should be required to withdraw from an exam. 
+ 
+Student Wellbeing 
+109. Should a student disclose a potential risk to themselves, or appear to be distressed, Invigilators are 
+advised to accompany the student from the exam room and contact the Disability and Wellbeing Service 
+on 0141 548 3402. If possible, arrangements should be made for a student to speak to a Disability and 
+Wellbeing Advisor as soon as possible. In an emergency, Campus Security can be contacted on 0141 
+548 2222. Disability and Wellbeing should be advised of any risk that a student discloses as soon as the 
+Invigilator becomes aware of it. Programme teams responsible for preparing and conducting exams in 
+other locations (such as an approved University learning centre) should consider whether any further, 
+local services may be required and provide contact information for these as appropriate.  
+ 
+Responding to a general disturbance 
+110. In the event of a disturbance to the exam not covered explicitly by this policy, the Invigilator in Charge 
+must use their discretion to determine whether and to what extent the disturbance is affecting any of the 
+students being examined and should apply the general principles set out so that disturbance to students is 
+minimised. 
+ 
+111. I
+f the disturbance necessitates the evacuation of the exam room by all students, the Exam room  
+evacuation procedures must be followed, including the procedures for delaying the finish time of the 
+exam or determining that the exam may not recommence. Where the disturbance does not necessitate 
+the evacuation of the exam room, paragraphs 112 – 116 apply.
+
+--- PAGE 19 ---
+
+16  
+112. If a period of disturbance that the Invigilator in Charge deems to be significant occurs within the first 
+two-thirds of the exam period and lasts for 60 minutes or fewer, the end of the exam will be delayed by 
+the period of disruption. 
+ 
+113. Should the period of disruption occur within the first two-thirds of the exam period and last for more 
+than 60 minutes, the exam will end and will be re-sat at a time to be scheduled by the Exams Admin 
+team. A new exam paper will be produced by the Department. 
+ 
+114. If a disturbance that the Invigilator in Charge deems to be significant occurs within the last third of the 
+exam period, the exam will end and be assessed by the examiners, who will take the reduced period of 
+the exam into account. 
+ 
+115. In cases of emergency or where first aid is required Invigilators must contact the Security Wardens on 
+0141 548 2222. 
+ 
+116. If Invigilators encounter other problems with the exam room, such as temperature, desk arrangement or 
+clocks they must contact the Security Warden on duty at the earliest opportunity 0141 548 3333.  
+ 
+Fire 
+117. In the event of the fire-alarms being sounded during an exam, the points below should be acted upon as 
+Fire Regulations. The alarm sound is a continuous siren. The following actions are to be taken upon 
+the sounding of the fire alarm: 
+ 
+a) Invigilators shall act as fire safety assistants and will ensure that all students safely evacuate the 
+building in accordance with the Exam room evacuation procedures. 
+ 
+b) Once outside the building, Invigilators and students shall report to the designated assembly point and 
+await further instruction from the Security Wardens or the Fire Service. 
+ 
+Power failure/system failure 
+118. In the event of a power failure during an exam in a venue where there is no natural lighting (though there 
+is emergency lighting), students should be instructed to stop writing and remain seated for fifteen minutes 
+while the cause is investigated. If the lighting is restored during that time, the exam period must be 
+extended by the time missed and the Invigilator must report the occurrence to the Examiners and to 
+Security Wardens. Otherwise, the Exam room evacuation procedures
+ should be implemented. 
+ 
+119. If the exam is computer-based and there is a power or systems failure, the Invigilator in Charge should 
+liaise with the Department to determine whether it is feasible to recommence the exam without significant 
+loss of student work. 
+ 
+120. If the power or system failure affects only individual student(s), the Invigilator in Charge should 
+determine whether it is feasible for the affected student(s) to recommence the exam without significant 
+loss of student work. If the student recommences their exam, they must be moved to another computer
+
+--- PAGE 20 ---
+
+17  
+within the room to log on and complete their exam. If this occurs the student may be permitted additional 
+time to compensate for the time lost when changing computer. The Invigilator must note any  occurrences 
+of power or systems failure and report to the Examiner so that it can be taken into account if appropriate. 
+ 
+121. If the student(s) does not recommence the exam, the exam will be re-sat at a time to be scheduled by 
+the Exams Admin team. A new exam paper will be produced by the Department. 
+ 
+Exam room evacuation procedures 
+122. If it becomes necessary for all students to evacuate the exam room – for example, as a result of a fire 
+alarm or a power failure – Invigilators must ensure that students are: 
+a) instructed to stop writing answers; 
+ 
+b) informed that the exam may continue after the alarm and the end of the exams may be postponed. 
+Further instructions will be given at the assembly point (to be posted in each exam room);  
+ 
+c) instructed to evacuate the room leaving exam papers and answer books on the exam desks; 
+ 
+d) instructed not to collect bags or personal belongings before leaving; 
+ 
+e) asked to proceed as a group, quickly out of the building and to the assembly point; and 
+ 
+f) instructed not speak to each other or use electronic devices during the period of disruption. 
+ 
+123. The period of disruption resulting from an evacuation lasts from when the disruption begins – for 
+example, when the fire alarm sounds - until students are re-seated in the exam room and the 
+exam recommences. 
+ 
+124. If the period of disruption resulting from an evacuation begins within the first two -thirds of the 
+exam period and lasts for 60 minutes or fewer, the end of the exam will be delayed by the period 
+of disruption. Students must be informed of the revised end time for the exam. 
+ 
+125. The Invigilator in Charge should determine whether it is feasible to recommence the exam within 
+the 60-minute window as early as possible. 
+ 
+126. If the period of disruption resulting from an evacuation begins within the first two -thirds and the period 
+of disruption is expected to be more than 60 minutes, the exam will not recommence and will be re-sat at 
+a time to be scheduled by the Exams Admin team. A new exam paper will be produced by the 
+Department. 
+ 
+127. If the period of disruption resulting from an evacuation begins within the last third of the exam period, 
+the exam will end and be assessed by the examiners, who will take the reduced period of the exam into 
+account. 
+ 
+128. Invigilators and students may return to the exam room when authorised by the Security Wardens and
+
+--- PAGE 21 ---
+
+18  
+then, if the exam is to recommence, students must be readmitted in an orderly manner.  
+ 
+129. Examiners must be informed of the disruption so that they can take this into account when assessing 
+performance. 
+ 
+130. In the event of a significant disruption to a morning exam, it may be necessary to delay the beginning of 
+an afternoon exam until the room has been prepared.
+ 
+ 
+Illness 
+131. In the event of illness of a student during an exam the Invigilators are responsible for obtaining any 
+necessary assistance. Security Wardens provide first aid and should be contacted for first aid assistance 
+on extension 0141 548 2222, which is the University’s emergency number. 
+ 
+132. Invigilators must endeavour to ensure that the student experiencing an illness is attended to sensitively 
+while minimising the general disturbance that may be caused to the rest of the students sitting the exam. It 
+may be appropriate to allow the student to leave the room for treatment. If so, students must be escorted 
+as far as is reasonable throughout their absence. An Invigilator has discretion to authorise any University 
+employee they deem fit to act as a student’s escort. Students are not permitted to take with them any 
+exam related materials. Mobile devices and other personal belongings should only be accessed when 
+required for medical reasons. 
+ 
+133. The Invigilator in Charge should use their discretion on deciding whether the student should be permitted 
+to re-join the exam. If a student can continue the exam after a short absence, the period lost will be 
+annotated on the answer book, but no additional time will be granted. If the student is unable to continue, 
+the answer book(s) should be annotated with a note of the incident, including the time of occurrence and 
+the student's incapacity to continue the exam. In both cases, the register of attendance must also be 
+annotated with a note of the incident, including the time of occurrence and duration of the student's 
+absence or incapacity to continue the exam. Students must be made aware of the Personal
+ 
+Circumstances and Academic Appeals Procedure if appropriate. 
+ 
+Marking and retention of answer books 
+ 
+134. The marking of answer books must be conducted anonymously, in line with the Assessment and 
+Feedback Policy. 
+ 
+135. If the marker deems the answer book to be illegible, the Department shall arrange for the 
+student and a member of staff to transcribe the answer book, ensuring that nothing is added to 
+the original content of the answer book. 
+ 
+136. Following completion of marking, the Module Organiser is responsible for calculating the 
+composite mark obtained by each student for the module, and to prepare the marks for upload. 
+The marks return process must be followed as outlined in the Procedures for the Recording of 
+Marks and Dissemination of Results.
+
+--- PAGE 22 ---
+
+19  
+ 
+137. A deadline for the return of marks is set for each formal assessment period and is printed in the 
+Calendar of Dates. Marks must be returned to Student Business by the published deadline.  
+ 
+138. Answer books on which decisions have been taken by the appropriate Board of Examiners must 
+be retained for the period stipulated in the Policy on Exams. 
+ 
+139. In line with the Assessment and Feedback Policy, students may make a request to view their 
+answer books. Staff should facilitate access under supervision.
+
+--- PAGE 23 ---
+
+Appendix 1: invigilator announcements for written exams 
+If possible, students are to be allowed to enter the exam room approximately 10 minutes before the exam is 
+due to start. When the students are settled the following announcement should be made:  
+ 
+First announcement to be made by invigilator in charge, at the start of the exam 
+ 
+"Your attention please: 
+ 
+ 
+1. Please ensure that all mobile phones and other electronic devices are switched off and are placed in 
+your bag. 
+2. Please display your physical photo ID (no mobile devices) on your desk throughout the exam. 
+3. Complete the attendance slip if there is one on your desk. 
+4. Only authorised materials should be on your desk during the exam. 
+5. ***Check that the paper in front of you is the one you should be sitting. *** 
+6. ***All students should write clearly on the front of all answer books used, the desk number where they 
+are seated (as indicated on top right corner of desk). *** 
+7. Please read the instructions on the exam paper carefully. It is essential that you fill in your registration 
+number on the front of the answer book and on all stationery used. You should only seal the sticky edge 
+once you have completed the exam. 
+8. If you require continuation sheets or additional answer books, please let us know by raising your hand. 
+Treasury tags will be supplied for you to secure the continuation sheets to your answer book.  
+9. You cannot leave the hall during the first third of the exam or during the last fifteen minutes. I will 
+warn you when there are fifteen minutes and five minutes left. When leaving the room, please do so 
+quietly. 
+10. If you are found to have any unauthorised materials in your possession, including during breaks, you will 
+be reported, and disciplinary action will be taken. 
+11. If you complete the exam early, please raise your hand and wait for your answer book to be collected 
+before you leave the room. 
+12. At the end of the exam please remain in your seat and follow the invigilator instructions. 
+13. You may now begin writing …" 
+ 
+ 
+15 minutes before the end of the exam, Invigilators should remind students that they may NOT now 
+leave the room until the exam is formally over. 
+ 
+Invigilators should give students a final reminder 5 minutes before the end of the exam.
+
+--- PAGE 24 ---
+
+At the end of the exam the following announcement should be made: 
+ 
+ 
+Second announcement to be made by invigilator in charge, at the end of the exam 
+ 
+ 
+"Your attention please: 
+1. The exam is now over, please stop writing. 
+2. Please remain seated in silence while the answer books are collected. 
+3. Do not leave the room until instructed to do so by an invigilator.” 
+ 
+ 
+ 
+Contact details in the event of a disturbance during an exam 
+ 
+ 
+1. For a general disturbance (see Responding to a General Disturbance section in this document), call 
+University Security on 0141 548 3333. 
+2. In the event of illness/First Aid or another emergency (see Exceptional Procedures of Invigilation 
+section in this document), call University Security’s emergency number on 0141 548 2222.  
+3. For support from the Disability and Wellbeing Service in the event of a student disclosing a personal 
+risk to themselves or signs of distress (see Student Wellbeing section in this document), call 0141 548 
+3402.
+
+--- PAGE 25 ---
+
+Appendix 2 invigilator announcements for computer-based exams 
+If possible, students are to be allowed to enter the exam room approximately 10 minutes before the exam is due 
+to start. When the students are settled the following announcement should be made:  
+ 
+First announcement to be made by invigilator in charge, at the start of the exam 
+ 
+"Your attention please: 
+1. Please ensure that all mobile phones and other electronic devices are switched off and are placed in 
+your bag. 
+2. Please display your physical photo ID (no mobile devices) on your desk throughout the exam. 
+3. Complete the attendance slip if there is one on your desk. 
+4. Only authorised materials should be on your desk during the exam. 
+5. You are here to complete the < class/exam name >. If this is not the case, raise your hand now. 
+6. Please read and listen to any instructions carefully. 
+7. Only use the paper provided by invigilators. If you require continuation sheets or additional answer 
+books, please let us know by raising your hand. 
+8. You cannot leave the hall during the first third of the exam or during the last fifteen minutes. I will 
+warn you when there are fifteen minutes and five minutes left. When leaving the room, please do so 
+quietly. 
+9. If  you are found to have any unauthorised materials in your possession, including during breaks, you will 
+be reported, and disciplinary action will be taken. 
+10. Please ensure that you are only logged in to < specify for example myplace > and no other web page 
+or emails now. 
+a. If relevant 
+i. You are not permitted to view other web pages, online material or log in to your emails 
+for the duration of the exam. If you are found doing so, even if you have completed the 
+exam, you will be reported, and disciplinary action may be taken. 
+ 
+11. When you have completed the exam, please ensure that you click to submit your answers. You should 
+only click to submit your answers when you are ready as this may only be done once. At the end of the 
+exam please make sure that you log off. 
+12. If there is a fire alarm during the exam please click to submit your answers, log off the machine and 
+follow the invigilators instructions when evacuating and re-entering the exam room 
+13. If your machine hangs or crashes during the exam, please raise your hand to alert the Invigilator who will 
+transfer you to a new machine where you can log on and carry on the exam. If you have not clicked on  
+ 
+1
+
+--- PAGE 26 ---
+
+submit, your exam will still be in progress, and you will be able to carry on from where you were before 
+the machine crashed. 
+14. If you complete the exam early, please raise your hand and wait for the Invigilator to give permission for 
+you to leave. 
+15. At the end of the exam please remain in your seat and follow the invigilator instructions. 
+ 
+ 
+16. Depending on how the exam will be opened and closed either 16a or 16b should be used. 
+a. the exam will open automatically at <time> and close at <time> as shown by the clock on your 
+pc. Please make sure that you have clicked to submit your answers before the exam closes 
+otherwise this will be done automatically. 
+b. I will now open the exam which will run from <time> to <time> as shown by the clock on your pc. 
+Please make sure that you have clicked to submit your answers before the exam closes 
+otherwise this will be done automatically. 
+17. The exam will time out after <duration>. 
+18. 
+The password for this exam is: . 
+19. You may now follow the instructions to begin the exam. 
+ 
+ 
+15 minutes before the end of the exam Invigilators should remind students that they may NOT now leave 
+the room until the exam is formally over. 
+ 
+Invigilators should give students a final reminder 5 minutes before the end of the exam. 
+At the end of the exam the following announcement should be made: 
+Second announcement to be made by invigilator in charge, at the end of the exam 
+ 
+"Your attention please: 
+1. The exam is now over. 
+2. Please now click to submit your answers and log-off the machine. 
+3. Do not leave the room until instructed to do so by an invigilator.” 
+ 
+Contact details in the event of a disturbance during an exam 
+ 
+1. For a general disturbance (see Responding to a General Disturbance section in this document), call 
+University Security on 0141 548 3333. 
+2. In the event of illness/First Aid or another emergency (see Exceptional Procedures of Invigilation 
+section in this document), call University Security’s emergency number on 0141 548 2222.  
+3. For support from the Disability and Wellbeing Service in the event of a student disclosing a personal 
+risk to themselves or signs of distress (see Student Wellbeing section in this document), call 0141 548 
+3402.

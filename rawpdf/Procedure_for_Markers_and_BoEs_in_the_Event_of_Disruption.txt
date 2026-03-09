@@ -1,0 +1,1115 @@
+--- PAGE 1 ---
+
+1 
+ 
+ 
+  
+ 
+ 
+ 
+PROCEDURE FOR MARKERS 
+AND BOARDS OF EXAMINERS IN 
+THE EVENT OF WIDESPREAD, 
+SIGNIFICANT DISRUPTION 
+ 
+ 
+      Version 3.0 
+ 
+ 
+ 
+the place of useful learning  
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC015263 
+Version No. Description Author Approval Effective Date 
+1.0 Procedure for BoE & 
+Markers in Event of 
+Disruption 
+Education 
+Enhancement 
+Senate AY 2018/19 
+ 
+1.1 Minor refresh of document Education 
+Enhancement 
+Senate May 2020 
+2 Updated version to take 
+into account disruption 
+caused by Covid-19 
+Education 
+Enhancement 
+Senate April 2021 
+2.1 Updated version to take 
+into account continuing 
+disuprtion caused by 
+Covid-19 
+Education 
+Enhancement 
+Senate May 2022 
+3 Revisions to make the 
+Procedure and appended 
+Guidance a standing 
+document applicable to 
+various types of disruption 
+Education 
+Enhancement 
+Senate April 2023
+
+--- PAGE 2 ---
+
+2 
+ 
+  
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS ....................................................................................................... 2 
+PROCEDURE ....................................................................................................................... 4 
+INTRODUCTION ............................................................................................................... 4 
+CONTEXT ......................................................................................................................... 4 
+DECISION MAKING .......................................................................................................... 6 
+ADJUSTMENTS TO MODULES ........................................................................................ 8 
+CHANGES TO THE PERSONAL CIRCUMSTANCES PROCEDURE ............................... 8 
+SUPPORT FOR STUDENT WELLBEING ......................................................................... 9 
+FLEXIBILITY FOR EXTENSION REQUESTS ................................................................... 9 
+PROTECTING ACADEMIC STANDARDS ........................................................................ 9 
+GENERAL SUMMARY GUIDANCE ................................................................................ 10 
+APPENDIX A – GUIDANCE FOR BOARDS OF EXAMINERS ........................................... 11 
+GENERAL PRINCIPLES .................................................................................................  11 
+GUIDANCE FOR HEADS OF SCHOOLS/DEPARTMENTS RE BOARDS OF 
+EXAMINERS ................................................................................................................... 12 
+GENERAL GUIDANCE/FAQS FOR BOARDS OF EXAMINERS IN THE EVENT OF 
+WIDESPREAD, SIGNIFICANT DISRUPTION .................................................................  13 
+Board of Examiners Meetings .................................................................................................. 13 
+Board of Examiners Quorum .................................................................................................... 13 
+Convenors Experiencing Challenges Attending a Board of Examiners Meeting ............. 14 
+External Examiner Unable to Attend a Board of Examiners Meeting ................................ 14 
+External Examiner Resignation Due to Industrial Action ..................................................... 15 
+Ensuring Rigour of Marking ...................................................................................................... 16 
+Managing Cases Where Only Partial Assessment Profiles Are Available ........................ 16 
+Minimum Level of Credit Required for a Student to Progress ............................................. 17 
+Impact on the Award of Academic Compensation if Not All Marks Are Available ............ 17 
+Handling Personal Circumstances .......................................................................................... 17 
+Information Recorded by Boards of Examiners ..................................................................... 18
+
+--- PAGE 3 ---
+
+3 
+ 
+Managing Variations Within Student Cohorts ........................................................................ 18 
+Challenges in Board of Examiner Judgements with Missing Results ................................ 19 
+Relaying Board of Examiner Decisions to Student Lifecycle Services .............................. 19 
+Reconvening Boards of Examiners Once More Marks are Available ................................ 19 
+GUIDANCE FOR FINAL HONOURS BOARDS ............................................................... 19 
+External Examiner Participation ............................................................................................... 19 
+Classifying Degrees With Missing Results ............................................................................. 20 
+Student Graduation Without Confirmed Degree Classification ........................................... 20 
+Perceptions of a Devaluation of the University’s Degrees ................................................... 20 
+GUIDANCE FOR UNDERGRADUATE YEAR 1,2 & 3 PROGRESSION BOARDS .......... 20 
+Progressing Students in Periods of Disruption ...................................................................... 20 
+GUIDANCE FOR PGT BOARDS OF EXAMINERS ......................................................... 21 
+Awarding Merits or Distinctions ................................................................................................ 21 
+Motivational Merits and Distinctions ........................................................................................ 21 
+GUIDANCE FOR PGR EXAMINERS .............................................................................. 21 
+Examining Committee (Viva Voce or Orals) Schedules ....................................................... 21 
+PGR Examining Committee Quorum ...................................................................................... 21 
+Examining Conveners/Internal Examiners of Examining Committees ............................... 22 
+APPENDIX B – ENHANCED SUPPORT FOR STUDENTS: EXAMPLE FROM 
+DISRUPTION CAUSED BY COVID-19 PANDEMIC ........................................................... 23
+
+--- PAGE 4 ---
+
+4 
+ 
+ 
+PROCEDURE 
+INTRODUCTION 
+1. This Procedure is designed to be utilised during periods of significant disruption that 
+have a widespread impact across the University. Disruption affecting individual 
+students is managed via personal circumstances. Disruption involving part of a cohort 
+of students is managed locally by faculties, under the scrutiny of Executive Deans and 
+Vice Deans, with actions reported to Faculty Academic Committees.  
+ 
+2. Widespread, significant disruption may arise from, but is not limited to, the following: 
+ 
+a. UK and Scottish Government restrictions, such as occurred during the Covid-
+19 pandemic; 
+b. Widespread illness throughout the University community, for example an 
+outbreak of influenza; 
+c. A critical incident, for example a terrorist attack that limits access to campus 
+and/or facilities; 
+d. Extreme weather conditions, limiting access to campus and/or facilities; 
+e. Industrial action undertaken in relation to the University, and/or more widely, 
+such as to transport links; 
+f. Widespread energy restrictions or blackouts. 
+ 
+3. This Procedure details practice and guidance for markers, (those assessing work and/or 
+acting as Internal Examiners), at Module and Programme level and for members, 
+Conveners and Managers of Boards of Examiners. The 
+University Guidance for Boards 
+of Examiners in the Event of Widespread Disruption in Appendix A also provides useful 
+information for those managing and taking part in Boards of Examiners and Examination 
+Committee meetings. 
+ 
+4. This Procedure is intended for use where challenges have affected students at a cohort 
+level, which trigger a major disruption to learning, teaching and/or assessment.  
+ 
+5. This Procedure applies to all taught programmes of study at undergraduate and 
+postgraduate level. It also applies for resit assessment periods. 
+CONTEXT 
+6. During periods of widespread, significant disruption, the University Executive Team 
+carefully monitors the impact of this, across Schools, Departments and Faculties and 
+within the student community. Strathclyde commits to always placing its students at the 
+forefront of decision-making and planning, and will always seek to deliver the best 
+possible learning and student experience within any rapidly changing external 
+environment, dealing with any constraints that emerge. At all times the health, safety and 
+wellbeing of the whole University community is of paramount importance to the 
+University.  
+ 
+7. During any period of widespread, significant disruption, the University will seek to ensure 
+that no students are academically disadvantaged. In previous periods of widespread,
+
+--- PAGE 5 ---
+
+5 
+ 
+significant disruption, such as during the Covid-19 pandemic in 2020/21 and 2021/22 for 
+example, the University took a supportive and flexible approach in managing situations 
+where students were finding it challenging to engage with their studies due to personal 
+circumstances arising through the pandemic. 
+ 
+8. In the event of any widespread, significant disruption, the University will develop 
+guidance for staff and students, as demonstrated during the Covid-19 pandemic. These 
+documents will focus on planning for learning and teaching and adjusting assessment 
+requirements. The utilisation of such policies during a period of widespread, significant 
+disruption, will be approved by Senate. A standing set of 
+Guidelines to Support the 
+Learning and Teaching of Undergraduate and Postgraduate Taught Students During 
+Periods of Disruption o ffers guidance to staff to enable planning and to ensure enhanced 
+support for students during such periods of disruption. Supplementary guidance may be 
+produced by the University during particular periods of widespread, significant disruption, 
+to further support the student experience.  
+ 
+9. Markers and Boards of Examiners play a crucial role in ensuring appropriate outcomes 
+for students, whilst upholding academic standards. They are vital in ensuring that 
+students’ circumstances are considered, and any trends across modules are identified, 
+to ensure that appropriate progress and outcome decisions are made, and that academic 
+standards continue to be upheld. 
+ 
+10. Faculties have arrangements in place for ensuring that students’ personal circumstances 
+are considered ahead of Boards of Examiners meeting. In cases of widespread, 
+significant disruption it is important that Boards of Examiners are empowered to make 
+decisions regarding student progression and outcomes within a sympathetic framework, 
+considering personal circumstances and other circumstances outwith students’ control, 
+such as technical challenges and restricted access to Library resources, which may have 
+adversely impacted on assessment activities. In such cases, Senate will indicate to 
+Conveners of Boards of Examiners that such an approach should be taken. 
+ 
+11. Through this Procedure, the University seeks to facilitate decisions which are supportive 
+and student-centred, within our wider commitment to support the student experience. 
+Further, the University recognises the need to ensure consistency where possible and to 
+establish a position of managed difference where variations need to apply, particularly in 
+respect of awards where professional accreditation and recognition are core. 
+ 
+12. On behalf of the Board of Study, the Executive Dean and Vice Dean (Academic) of each 
+faculty, working with Programme Teams, have oversight to ensure marking practices are 
+quality-assured in line with University policy and procedures; to ensure equity in Board of 
+Examiners processes and to maintain standards while allowing flexibility to support the 
+particular circumstances of each discipline area at the programme level. Module and 
+programme teams will consider all the information and wider circumstances in which 
+assessments were undertaken and be supported by University guidance on how to 
+reflect this in determining module and programme results. Collectively, this information 
+will be central to the decision making of Boards of Examiners. 
+ 
+13. This Procedure is intended to create an overarching framework within which Faculty 
+Boards of Study, through Boards of Examiners can, with the authority of University 
+Senate, make progression decisions and approve awards. This formal Procedure has
+
+--- PAGE 6 ---
+
+6 
+ 
+been produced following instruction from the Executive Team to support the awarding of 
+degrees without conventional formally timetabled on campus final assessment, under the 
+auspices of Ordinance 3.3
+ and in line with our academic regulations.  
+ 
+14. Section 3.3 of the Ordinances of the University of Strathclyde outlines the Conditions of 
+Award for the qualification for admission to a Degree of the University. Section 3.3.3 
+articulates the role of Boards of Study and Senate in approving and authorising awards 
+without final examination in exceptional circumstances. 
+ 
+DECISION MAKING 
+15. This Procedure provides the flexibility for Boards of Examiners to draw on information 
+from previous years, particularly in making award decisions. It provides a framework 
+which is intended to provide consistency in student experience, while recognising the 
+need for variation, in particular where professional accreditation and recognition are 
+core. Module and programme teams will consider all the information and wider 
+circumstances within which assessments were undertaken and be supported by 
+University guidance on how to reflect this within decision-making on module and 
+programme results. Collectively, this information will be central to the decision making of 
+Boards of Examiners. This will support transparent decision making and communication 
+with students. 
+ 
+16. In exceptional cases where Boards of Examiners and Boards of Study cannot reach 
+consensus, Senate Business Committee, in consultation with the respective Faculty, will 
+discuss and agree how particular cases may be resolved. 
+ 
+17. The process for passing such cases to the Senate Business Committee is that the 
+Convener of the Board of Examiners writes to the Vice-Dean (Academic) of the Faculty 
+concerned, to inform them that a decision could not be made by the Board of Examiners. 
+The Convener will need to provide the Vice-Dean (Academic) with the following 
+documentation: 
+ 
+a. The student mark profile; 
+b. Information on any personal circumstances submitted by the student, either 
+via Pegasus or directly to the Programme Team;  
+c. Confirmation of arrangements put in place at programme and module level in 
+response to any widespread, significant disruption as deemed appropriate, 
+particularly in relation to assessment arrangements; 
+d. The decisions taken by the Board of Examiners in relation to the remainder of 
+the cohort; 
+e. An overview of the decisions taken in previous academic years for recent 
+programme cohorts, highlighting any profiles that bear a resemblance to that 
+of the student being considered, and incorporating detail on any wide-spread 
+disruption experienced during respective academic sessions; 
+f. A detailed record of Board of Examiners discussions regarding the student; 
+g. A summary as to why the Board of Examiners was not able to reach a 
+consensus for the student. 
+ 
+18. In conjunction with the Executive Dean, the Vice-Dean (Academic) will review the 
+information and will convene the Board of Study, usually via correspondence, to discuss
+
+--- PAGE 7 ---
+
+7 
+ 
+whether it is necessary for Senate Business Committee to consider this case or whether 
+the Board of Examiners should meet again to re-evaluate its position. 
+ 
+19. In cases where the Board of Study decides to escalate the matter to Senate Business 
+Committee for a final decision, they should write a brief overview detailing why they 
+support the decision to escalate to Senate Business Committee and set out any actions 
+they have taken with the Board of Examiners before making this decision. They should 
+also inform the student, in writing, of the delay to the decision being taken and confirm 
+expected timescales in relation to a decision being communicated, in liaison with the 
+Senate Business Committee Manager. 
+ 
+20. All documentation should be submitted to the Quality Enhancement & Assurance Team
+ 
+who will liaise with the Convener of Senate Business Committee on each case. 
+Following consideration of a case by Senate Business Committee or the Convener, the 
+Committee Manager will inform the Vice-Dean (Academic) of the outcome. The Vice-
+Dean (Academic) is subsequently responsible for liaising with the Programme Team and 
+Student Lifecycle Services to ensure that the decision is communicated to the student. 
+ 
+21. The University recognises that each student is an individual with their own specific 
+circumstances and that widespread, significant disruption will impact different 
+communities of students in differing ways. The University’s approach to supporting 
+student progression and outcomes takes account of these differing factors and, in the 
+event of widespread, significant disruption, guidance on managing student progression 
+will build on the foundations of the supportive and sympathetic approach taken during 
+the Covid-19 pandemic. 
+ 
+22. During periods of widespread, significant disruption, and subject to confirmation from the 
+University’s Senate of the following approach, Boards may have additional discretion in 
+considering the following: 
+ 
+a. The number of credits which can be compensated
+1; 
+b. The threshold for which compensation can be considered;  
+c. The discretion to reduce the Credit Weighted Average (CWA) threshold for 
+compensation to 40% for undergraduate students and 50% for postgraduate 
+and level 5 students, where this is in the best interests of the student and in 
+alignment with Faculty-specific guidance relevant to the subject;  
+d. Where appropriate, the number of credits that can be carried forward for 
+progression
+2.   
+ 
+23. In addition to the supportive measures above, in periods of widespread disruption, 
+Boards will continue to exercise discretion that is conventionally available and informed 
+                                                           
+1 This applies to undergraduate, up to and including Level 5, and postgraduate study. The University’s  Policy on 
+Compensation Scheme states that an undergraduate student who has achieved a credit weighted average of at least 45% but 
+has failed one or more modules shall be awarded a Pass by Compensation in classes totalling up to 20 credits where the 
+marks obtained are in the 30%-39% range. For postgraduate students the policy states, a postgraduate student who has 
+achieved a credit weighted average of at least 55% but has failed one or more modules shall be awarded a ‘Pass by 
+Compensation’ in modules totalling up to 20 credits where the marks obtained are in the 40-49% range.   
+ 
+2 Decisions to allow students to carry additional credits will be communicated such that students are clear of the risks and 
+implications of proceeding pending the outcome of outstanding results or resits.
+
+--- PAGE 8 ---
+
+8 
+ 
+by the consideration of individual Personal Circumstances in the progression or award 
+decisions for each student. Where appropriate, this includes the discretion to exclude 
+modules from the calculation of a CWA, which inform progression and award decisions. 
+The Board may also decide to discount a student’s attempt, where it is appropriate and 
+in the best interest of the student to do so
+3. Together, all of these measures reflect a 
+sympathetic and supportive approach that is informed by the Faculty/Programme’s 
+Personal Circumstances Board.  
+ 
+24. In cases where widespread, significant disruption is known about ahead of a Formal 
+Assessment Period, Departments and Schools will be asked to contact their students to 
+ensure that, where appropriate, all personal circumstances records are up to date and 
+logged in their Pegasus record.  
+ 
+25. With the student experience at the heart of the University’s approach to learning and 
+teaching and assessment activities, Strathclyde will ensure that mechanisms are put in 
+place to further support students in their studies during periods of widespread, significant 
+disruption, an example overview of which can be seen in the diagram in Appendix B
+. 
+ 
+ADJUSTMENTS TO MODULES 
+26. In periods of widespread, significant disruption, the University recognises that the mode 
+of delivery of planned learning and teaching activities may need to be altered, which may 
+include a shift in the balance of online and on-campus activity. During the Covid-19 
+pandemic, substantial guidance and training was provided to Programme Teams and 
+Module Leaders on how to utilise learning technologies to deliver learning and teaching 
+activities, alongside consideration of how to introduce alternative forms of assessment. 
+In the event of any future widespread, significant disruption requiring a pivot to blended 
+or fully online learning, updated guidance and training will be provided as required. 
+ 
+27. In the event of widespread, significant disruption, Programme Teams will make 
+significant efforts to ensure that teaching, learning and assessment continue to ensure 
+all our students are able to achieve the required learning outcomes and qualifications in 
+line with original, planned timescales.  All amendments to learning, teaching and 
+assessment plans and procedures are fully reviewed prior to formal approval to assure 
+academic quality and standards; including professional and accrediting body 
+requirements. This process ensures that Programme Teams have detailed oversight of 
+module activities and assessment which, when considered along with any Personal 
+Circumstances, ensure appropriate evidence is available to support decision making by 
+Boards of Examiners.   
+CHANGES TO THE PERSONAL CIRCUMSTANCES PROCEDURE 
+28. In periods of widespread, significant disruption, the University recognises the potential 
+impact on students which, in some cases, may adversely impact mental health and 
+general wellbeing.  
+ 
+                                                           
+3 An attempt discount allows a future attempt at the module, as a first attempt, without a fail appearing on the academic 
+transcript for the discounted attempt. The exception to this case is where a student would otherwise receive a compensated 
+pass. In this case the student will be awarded the compensated pass and will retain the option to have this removed and an 
+Attempt Discount applied.
+
+--- PAGE 9 ---
+
+9 
+ 
+29. To support students experiencing specific individual challenges during periods of 
+significant, widespread disruption, the University reviews its requirements for logging 
+personal circumstances and for providing medical evidence, and updates the Personal 
+Circumstances web page with this information. In instances where changes are made to 
+the personal circumstances requirements, additional guidance will be issued to staff and 
+students. 
+ 
+SUPPORT FOR STUDENT WELLBEING 
+30. The University has a focus on student and staff wellbeing, signposting support and 
+encouraging students to make use of the specialist support services available. Together 
+with appropriate use of the Personal Circumstances Procedure, a range of services are 
+in place to support students to achieve their academic potential, supported by 
+appropriate adjustments where required. The University’s Disability & Wellbeing Services
+ 
+has a range of advisers with specialist expertise in disability, health, mental health, 
+wellbeing and counselling. They offer a broad range of support to students with any 
+disability, mental health and wellbeing related needs and the services are available to all 
+students.  
+ 
+FLEXIBILITY FOR EXTENSION REQUESTS 
+31. During periods of widespread, significant disruption, Schools and Departments are 
+required to put in place mechanisms for considering requests for extensions to 
+assessment deadlines in a fair and sympathetic manner. Staff fully appreciate that there 
+are various ways in which any such disruption may impact on students’ time and their 
+study environment, which in turn could affect their ability to meet set assessment 
+deadlines.  
+ 
+32. In instances where students are experiencing challenges due to widespread, significant 
+disruption that may impact on their ability to meet assessment deadlines, they will be 
+advised to submit an extension request via Myplace in line with the 
+Policy and Procedure 
+on Extensions to Coursework Submission. At the direction of Senate or the Executive 
+Team, Extension Approvers are expected to consider such individual requests 
+sympathetically.  
+ 
+PROTECTING ACADEMIC STANDARDS 
+33. Every student journey at the University of Strathclyde is unique and we have a 
+fundamental responsibility to make certain that we uphold our academic standards and 
+the quality of our award, in turn ensuring the value of the degree that students are 
+awarded upon graduating.  
+ 
+34. The University reports annually on its academic provision to the 
+Scottish Funding 
+Council and is reviewed on a cyclical basis by the Quality Assurance Agency for Higher 
+Education Scotland. These processes are designed to scrutinise the University’s 
+academic provision for students and to verify that the degrees we are awarding are of an 
+appropriate academic standard. The University also has well established internal review 
+processes to confirm that learning and teaching standards are in line with those set out 
+in external frameworks, benchmarks, and professional body requirements.
+
+--- PAGE 10 ---
+
+10 
+ 
+35. In response to widespread, significant disruption, the University will carefully adapt and 
+evolve its quality assurance processes to ensure that students are not academically 
+disadvantaged by circumstances that are beyond their control, while maintaining 
+appropriate quality and standards of its academic provision.  
+ 
+GENERAL SUMMARY GUIDANCE 
+36. Decisions taken by Boards of Examiners will be based on academic judgement and 
+therefore not subject to appeal on these grounds, in line with the 
+Personal 
+Circumstances & Academic Appeals Procedure.  
+ 
+37. Further Guidance, both broad in scope and specific to level of study, is set out below in 
+Appendix A: Guidance for Boards of Examiners
+.  
+ 
+38. An illustrative example of enhanced support put in place to support students during the 
+widespread, significant disruption of the Covid-19 pandemic is provided in Appendix B
+.
+
+--- PAGE 11 ---
+
+11 
+ 
+APPENDIX A – GUIDANCE FOR BOARDS OF EXAMINERS 
+ 
+GENERAL PRINCIPLES 
+39. This document contains guidance for all staff and external examiners involved in Boards 
+of Examiners activities during periods of widespread, significant disruption. 
+ 
+40. As much information as possible must be provided to the Boards of Examiners on any 
+circumstances that students have made them aware of (i.e. connectivity problems, lack 
+of access to equipment/materials, etc.). 
+ 
+41. Progression and award decisions taken by the Board of Examiners will be informed by 
+the review of assessment requirements undertaken by the Programme Leader, and 
+communicated to students. 
+ 
+42. Where a decision is taken at a module-level to provide a grade based on incomplete 
+information, the Board of Examiners should record this, indicating the information that 
+was considered in reaching the grade. 
+ 
+43. Where a progression or award decision is taken by the Board of Examiners based on 
+incomplete information, the Board must record this, indicating the information and 
+considerations that determined the award made. 
+ 
+44. Boards of Examiners will consider the balance of assessment undertaken to date. 
+ 
+45. Boards of Examiners will be able to review student performance on the basis of existing 
+information including:  
+ 
+a. Examination marks to date;  
+b. Coursework;  
+c. Tutorials;  
+d. Labs;  
+e. Projects;  
+f. Dissertations, including where the original activity is not fully completed.  
+ 
+46. Boards of Examiners will consider personal circumstances, including the special 
+circumstances of students whose home environment may adversely impact on their 
+ability to engage in assessment activities. 
+ 
+47. These Guidelines allow the University to make evidence-based decisions, which is 
+consistent with our academic regulations and maintains the academic standards, rigour 
+and value of our degrees. In doing this, the University will make decisions based on all 
+the evidence available and in students’ best interests, to confirm academic progression 
+or in support of the conferment of awards, to facilitate transition to future employment 
+and/or further study within the originally intended timescales.
+
+--- PAGE 12 ---
+
+12 
+ 
+  
+GUIDANCE FOR HEADS OF SCHOOLS/DEPARTMENTS RE BOARDS OF EXAMINERS 
+48. In the event of widespread, significant disruption to study, the University's position is that 
+every effort will be made to ensure any teaching, assessment or examination activities 
+proceed as normal, with students being able to progress to the next stage of their 
+programme, or, being awarded their degrees, as appropriate. In such circumstances the 
+normal position is that the majority of modules are unaffected, and all assessments and 
+examinations proceed as normal. 
+ 
+49. This Guidance to Boards of Examiners is provided to minimise the adverse impact to 
+students of disruption to study without compromising academic standards. It should be 
+acknowledged that there may be some disruption where there is a significant and 
+widespread impact on the delivery of modules, and on the ability of students to 
+undertake scheduled assessments and examinations, either through missed 
+lectures/tutorials, through illness/self-isolation or in response to government advice to 
+universities. 
+ 
+50. In previous periods of widespread, significant disruption, Senate has approved the 
+following approaches, focused on further student support mechanisms, namely: 
+ 
+a. Adjustments to modules;  
+b. Changes to the Personal Circumstances Procedure
+;  
+c. Support for student wellbeing;  
+d. Flexibility for extension requests;  
+e. Formal assessment adjustments;  
+f. Guidance for staff.  
+ 
+51. Where Boards of Examiners cannot meet in person during periods of widespread, 
+significant disruption, Departments, Schools and Faculties will arrange for Boards of 
+Examiners to take place online. Where graduation ceremonies are unable to take place 
+in person, the University will facilitate graduations in absentia. Degree certificates will be 
+made available electronically to students.    
+ 
+52. This contingency planning is in place to provide guidance on expectations, supporting 
+consistency of practice and maintaining the academic standards of the University in 
+instances where significant disruption occurs.  
+ 
+53. This guidance should be read in conjunction with the 
+Formal Assessment Period: 
+Guidance in the Event of Disruption do cument . In the event of significant and widespread 
+disruption to study and assessment, the following principles should be considered:  
+ 
+a. Faculties, Departments and Schools are encouraged to adopt consistent guiding 
+principles in dealing with students in assessing taught elements of 
+undergraduate and postgraduate degrees. In the aforementioned Formal 
+Assessment Period: Guidance in the Event of Disruption document, the 
+University has set out guiding principles for managing alternative assessments 
+and examples of ways in which this can be achieved; 
+b. Actions should be supportive of students and a reasonable and sensible 
+approach to difficult circumstances arising from disruptions should apply;
+
+--- PAGE 13 ---
+
+13 
+ 
+c. Boards of Examiners may need to be accepting of some marks and assessment 
+results being returned and available later than normal; in particular, in instances 
+where assessment tasks and submissions have been amended, extended or 
+rescheduled; 
+d. Any penalties and actions should be applied fairly for students and not 
+adversely impact on progression or award where the work is of a pass standard;  
+e. Departments and Schools should make decisions based on the guidelines and 
+on the basis of overall prior attainment of students to date;  
+f. Where required, priority will be given to supporting Final Year and Postgraduate 
+students where assessments lead to award outcomes. This should be prioritised 
+in decision making by Boards of Examiners’;  
+g. Where possible and appropriate, it is anticipated that this Guidance will be 
+applied consistently across and within Faculties; particularly where students are 
+on joint programmes and where assessment is outwith their “home” 
+Department/School.  
+ 
+54. The University’s approach to disruption is to minimise the impact on students, without 
+compromising academic standards. Supplementary guidance documentation may be 
+produced for Boards of Examiners and Markers, depending on the circumstances. This 
+Guidance should be read in the light of overarching principles where the academic 
+judgement of the Board of Examiners will remain paramount, and the academic 
+standards of the University will be maintained.  
+ 
+GENERAL GUIDANCE/FAQS FOR BOARDS OF EXAMINERS IN THE EVENT OF 
+WIDESPREAD, SIGNIFICANT DISRUPTION  
+Board of Examiners Meetings 
+55. In the event of widespread, significant disruption, Boards of Examiners meetings should 
+take place in accordance with the current schedule. It may be that it is necessary to hold 
+meetings with a core group of members via video link, or alternatively to hold meetings 
+via correspondence. Even if the outcome of the meeting is that there is insufficient or 
+incomplete information available for the Board to take any decisions, it is important 
+Boards meet as scheduled as far as possible. Boards may find there is more information 
+available than they expect, allowing them to finalise decisions for many students. Boards 
+will be expected to take any decisions that can be made, as soon as they can.  
+ 
+56. In cases of severe and extraordinary disruption, the Convener of the Board of 
+Examiners, (or a senior internal examiner as designated by the Head of 
+Department/School), may be given delegated approval from Senate to make decisions 
+on behalf of the Board, which would be recorded and reported to Senate by the Faculty 
+Vice-Dean (Academic) for the Faculty Board of Study. Conveners who find themselves in 
+this position are encouraged to seek advice from Faculty Offices, Vice-Deans 
+(Academic) from within or outwith their faculties, Deputy Associate Principals and the 
+Director of Education Enhancement or nominee.  
+Board of Examiners Quorum 
+57. Boards of Study are responsible for the establishment of Boards of Examiners in 
+accordance with the University’s Regulations. The constitution and operational 
+procedures for General Boards of Examiners are determined locally in accordance with 
+University Regulation 1.10
+, with Quality Assurance Committee delegating authority to
+
+--- PAGE 14 ---
+
+14 
+ 
+Heads of Department/Schools for these local determinations. The rule of thumb for 
+determining whether a meeting is quorate (e.g. Court, Senate, Boards of Study and 
+University Committees of Senate) would normally be if a minimum of one third of the 
+membership were present. Although there is no published convention for progression 
+Boards of Examiners, there is an expectation that Boards should comprise a Convener, 
+Minute Secretary and at least one internal examiner. 
+ 
+58. For Graduate Diplomas and other programmes requiring Graduate Entry and for 
+Postgraduate Awards by Instruction, the Boards of Examiners shall consist of not less 
+than four persons, including an External Examiner and academic staff responsible for the 
+conduct of the programme. It shall normally meet under the Convenership of the 
+Programme Lead or Head of Department/School (see 
+General Academic Regulations for 
+Graduate and Postgraduate Awards, Re gulation  92).  
+ 
+59. There may be instances where it is necessary for a senior and experienced member of 
+academic staff to make decisions on Board of Examiners outcomes.  
+ 
+60. Internal and External Examiners should assume a Board will meet as normal and that 
+they should attend remotely or in person, unless otherwise informed by the Convener, 
+the Secretary or the Head of Department/School. 
+Convenors Experiencing Challenges Attending a Board of Examiners Meeting 
+61. If a Convener does not feel able to convene a Board of Examiners meeting due to an 
+absence from the University, they must alert their Head of Department/School as soon 
+as possible, so that an alternative Convener can be identified.  
+External Examiner Unable to Attend a Board of Examiners Meeting 
+62. The Convener of the Board of Examiners should take an account of the overall 
+engagement of the External Examiner throughout the year in conjunction with students’ 
+overall performance and profile; this will assist the Board in undertaking its duties, 
+maintaining standards and making its decisions in line with expectations for progression 
+and awards. This is outlined in Section 2 of the University’s 
+Formal Assessment Period: 
+Guidance in the Event of Disruption ( extracted below).  
+ 
+63. Factors the Convener will consider, include confirmation that the External Examiner has 
+engaged in some or all of the following:  
+ 
+a. Review of programme materials and assessment procedures; 
+b. Comment on the content of assessments to ensure that they are appropriate to 
+the learning outcomes of the module to be assessed; 
+c. Comment on assessment criteria provided; 
+d. Moderation and comment on any work at an earlier stage in the academic year; 
+e. Worked with other members of the External Examiner team at any other stage in 
+the academic year; 
+f. Participation in meetings with students; 
+g. Participation/involvement in oral examinations; 
+h. Attendance at any other Boards of Examiner meetings at any other stage in the 
+academic year; 
+i. Already signed off marks, progression decisions and awards agreed by the 
+Board of Examiners.
+
+--- PAGE 15 ---
+
+15 
+ 
+64. An active involvement is normally expected from the External Examiners in the business 
+of the Board. The views and comments of External Examiners should be made known to 
+the Boards of Examiners. Where an External Examiner is not able to attend a meeting of 
+a Board of Examiners, the Head of Department/School or Programme Leader should 
+seek the views and comments from the External Examiner in advance and in writing. The 
+External Examiner(s) for the degree programme in question may sit on the Board or 
+provide their input in alternative ways.  
+ 
+65. The precise role of the External Examiner is specified in section 7 of the 
+Procedures and 
+Guidelines for External Examiners of Taught Programmes and is stated below:  
+ 
+a. External Examiners provide the University with an objective point of reference, 
+and report annually on:  
+ 
+i. whether the academic standards set by the University are being 
+maintained and whether the University’s students are achieving the 
+required standard;  
+ii. whether the assessment process measuring student achievement is 
+rigorous, consistent and fair to the students and has been fairly 
+conducted within the University’s regulations, policies and guidelines;  
+iii. the comparability of academic standards and student achievement with 
+those in similar institutions with which they are familiar;  
+iv. whether the aims and objectives of the programme(s) are appropriate in 
+terms of academic and professional subject matter, with reference as 
+applicable to the UK Quality Code for Higher Education, subject 
+benchmark statements, the qualifications framework and the 
+requirements of professional and statutory bodies;  
+v. whether the assessments enable learners to demonstrate the 
+achievement of the intended Learning Outcomes and whether the 
+curriculum remains current and supports students in the acquisition and 
+development of key skills.  
+ 
+66. If an External Examiner is unable to undertake their duties and resigns from their post, 
+due to widespread, significant disruption, it may be possible to reappoint said External 
+Examiner to their post at a later date. 
+External Examiner Resignation Due to Industrial Action 
+67. If an External Examiner resigns their post due to industrial action, the resignation should 
+be accepted with no expectation of a resumption of duties. A period of no less than three 
+years must elapse before re-appointment can be considered. In cases where an External 
+Examiner does resign, Departments/Schools should attempt to utilise alternative 
+External Examiners to provide cover, where appropriate, or should initiate the nomination 
+and approval process.  
+ 
+68. As outlined in paragraph 59 of the 
+Procedure & Guidelines for External Examiners of 
+Taught Programmes, payment of external examiner fees will only be processed once the 
+annual report has been submitted. Therefore, if an External Examiner resigns their post 
+before attending the Board of Examiners meeting and submitting their annual report, 
+they will not be eligible to claim fees.
+
+--- PAGE 16 ---
+
+16 
+ 
+69. In cases where there is not enough time to appoint another External Examiner before the 
+Board of Examiners meeting, any available previous input from the External Examiner 
+during the academic year should be conveyed to the members of the Boards of 
+Examiners, if available, for example, sampling of assessments, comments on draft 
+examination scripts, responses to updates on previous annual reports etc. 
+Ensuring Rigour of Marking 
+70. The University has procedures to ensure marking is carried out in line with rigorous 
+academic standards and is based on clearly defined assessment criteria. In the majority 
+of circumstances, the University expects programme teams to operate as usual in 
+relation to assessment and moderation. However, during instances of extraordinary 
+disruption it may be necessary to consider student profiles at Boards of Examiners 
+where it has not been possible to implement in full the University’s Policy on Moderation 
+and Double Marking. Unless there are concerns about an individual student’s 
+performance, in which case moderation of marks will be required, the absence of 
+moderation activities should not preclude an award or progress decision being made.  
+Managing Cases Where Only Partial Assessment Profiles Are Available 
+71. Where sufficient results are available to allow an academically robust decision on 
+performance to be taken, Boards will be expected to do so. It is the case that Boards 
+ultimately have the discretion to exercise academic judgement and to reach the decision 
+that they deem best reflects the student’s academic performance.  
+ 
+72. Students are normally permitted to carry no more than 20 credits into the next year; 
+however, Regulation 7 of the 
+General Academic Regulations for Undergraduate, 
+Integrated Masters and Professional Graduate Degree Programme Level  s tates that 
+exceptionally, the relevant Board of Study acting on the recommendation of the Board of 
+Examiners may allow a student to proceed to the next year with fewer credits than 
+specified in Regulations 66-69, or in the higher progress requirements stated in that 
+student’s programme regulations, although only for good cause shown. In extraordinary 
+periods of significant, widespread disruption, the Boards of Examiners may decide that 
+students are allowed to progress to the next stage of their studies without having 
+undertaken all credit-bearing assessments.  
+ 
+73. In accordance with Regulation 47, the award structure of UG programmes shall normally 
+accord with the following:  
+Award  Credit Requirement  Minimum level of requirement  
+CertHE  120 credits  100 credits at Level 1  
+DipHE  240 credits  100 credits at Level 2  
+Ordinary Degree  360 credits  60 credits at Level 3  
+Honours Degree  480 credits  90 credits at both Level 3 and 4
+
+--- PAGE 17 ---
+
+17 
+ 
+Minimum Level of Credit Required for a Student to Progress 
+74. In accordance with Regulation 66 the minimum number of credits permitted for 
+progression is outlined below:  
+Progression  Credit Requirement  
+First – Second Year  100* 
+Second – Third Year  220+ 
+Third – Fourth Year  360+ 
+Fourth – Fifth Year 480+ 
+ 
+ * Or 20 credits less than the number specified in the relevant Programme Regulations  
++ Or the total number of credits specified in the relevant Programme Regulations 
+75. As outlined in paragraph 30 above, in cases of extraordinary significant, widespread 
+disruption, it may be appropriate to allow a student to proceed to the next year of study 
+with less than the standard credit requirement. If this decision is undertaken on an 
+individual basis by the Board of Examiners, this would require careful management with 
+a programme of support and progress review put in place. In these cases, students 
+would ‘Proceed’ and be viewed as at risk. The implications and degree of risk associated 
+with proceeding in these circumstances should be carefully explained to students by 
+programme teams, (i.e. of failing to meet the required standard for progression, the basis 
+on which they are being allowed to progress, and what this does or does not mean for 
+their final degree award). The wording of progress decisions requires to be such that 
+students are clear of the risks and implications of proceeding pending the outcome of 
+outstanding results or resits.  
+ 
+76. If students are permitted to proceed to the next year of study due to a University-wide 
+decision on the matter, students will not be considered as proceeding at risk, as outlined 
+in paragraph 76,and will simply progress to the next stage without the caveats detailed.  
+Impact on the Award of Academic Compensation if Not All Marks Are Available 
+77. There may be implications for the award of academic compensation when the final 
+credit-weighted average mark (CWA) is not yet known due to missing marks.  
+ 
+78. Students may be required to re-sit a module for which, had the CWA been known and 
+above the required threshold (45% for undergraduates and 55% for postgraduate taught 
+programmes), a compensated pass could have been awarded for that module, as 
+outlined in the Policy on Compensation Scheme. Where sufficient results are available to 
+allow an academically robust decision on performance to be taken, Boards will be 
+expected to do so.  
+Handling Personal Circumstances 
+79. Boards of Examiners should be provided, at the start of the meeting, with a detailed note 
+of available information on the effects of any disruption on teaching schedules and the 
+marking of examinations or assessment so that this can properly inform the Board's 
+discussions. Boards of Examiners must take a sympathetic approach to considering 
+student outcomes, progression and final awards and will take account of personal
+
+--- PAGE 18 ---
+
+18 
+ 
+circumstances that have been made known to them through the Personal Circumstances 
+Procedure.  
+ 
+80. In circumstances concerning sensitive matters, Personal Circumstances may be made 
+known to the Board by a designated member of staff, and not formally reported through 
+the Pegasus system. While the detail of the circumstances will not be shared with the 
+Board, the designated staff member can convey the impact such circumstances have 
+had on behalf of the student.  
+Information Recorded by Boards of Examiners 
+81. Discussions and decisions should be carefully recorded (noting any additional 
+information considered). Boards will need to be in a position to recall all of the detail of 
+the decisions taken. Full and accurate minutes will also assist with transmission of 
+information between the current and any reconvened or future meetings of the Board. In 
+cases where meetings are taking place via video link, and secretariat support is not 
+available, it may be appropriate for the Convener to record the meeting with the 
+agreement of all others involved. This will be for the purposes of creating minutes 
+following the meeting, rather than for storing a recording. 
+ 
+82. Minutes/recordings must include, where possible:  
+ 
+a. Attendance and absence of originally nominated Board members;  
+b. Any change in the role of members (e.g. appointment of an Acting Convener or 
+substitute Internal or External Examiners);  
+c. Information on the availability of results for individual students;  
+d. Any information available on the effects of the disruption on performance;  
+e. Instances where an examination was disrupted (rescheduled/false starts, etc.); 
+f. Information on alternative assessments put in place for students, including extended 
+deadlines;  
+g. References to any guidance or regulations consulted or invoked;  
+h. A full record of the reasons for any award or absence of award for a student, where a 
+full set of assessment results for that student is not available;  
+i. In Honours years, detailed records must be kept of any particular circumstances 
+relevant to classification by a future Board.  
+ 
+83. Conveners of Boards of Examiners will need to ensure the Minute Secretary is properly 
+briefed and equipped for the role.   
+Managing Variations Within Student Cohorts 
+84. It is not the case that different standards will be applied in relation to marking, grading, or 
+deciding on degree classification. The overarching principle is that the University’s 
+academic quality standards and processes are maintained in reaching decisions and 
+confirming final results and awards. The University’s Formal Assessment Period: 
+Guidance in the Event of Disruption underlines the consistency of practice across the 
+institution in this regard. It may be that some students may be informed of their overall 
+results for the year before others.  
+ 
+85. It is important to note that in cases where extraordinary and unprecedented disruption 
+occurs, it may be necessary to assess students on the same module by different means. 
+Academic judgement will be employed by Module Leaders and Programme Leaders to 
+ensure that the appropriate learning outcomes are assessed by the alternative
+
+--- PAGE 19 ---
+
+19 
+ 
+assessment, and the Formal Assessment Period: Guidance in the Event of Disruption 
+document should be consulted. Any changes must be carefully managed through 
+communications with students.  
+Challenges in Board of Examiner Judgements with Missing Results 
+86. The minutes/recording of the Board should record the level of information available and 
+the reasons for the Board’s decision. Notification of the outcome, even where this is that 
+no decision could be made, should be submitted as part of the online process for the 
+upload of results and awards.  
+Relaying Board of Examiner Decisions to Student Lifecycle Services 
+87. It is imperative that Student Lifecyle Services is informed if a Board is deferred or re-
+scheduled (without decisions having been made) or re-convened (with some decisions 
+having been made) as this has implications for internal business processes. The 
+Convener is responsible for keeping Student Lifecycle Services abreast of developments 
+in this regard.  
+Reconvening Boards of Examiners Once More Marks are Available 
+88. The Board will need to reconvene as soon as any additional marks become available 
+after the end of any period of disruption, in order to confirm outcomes. Guidance on how 
+to update the student record with the confirmed outcome will be provided by Student 
+Lifecycle Services. 
+ 
+GUIDANCE FOR FINAL HONOURS BOARDS  
+External Examiner Participation 
+89. External Examiners provide a quality assurance function in the examination process, as 
+stated in the Procedures and Guidelines for External Examiners of Taught Programmes
+ 
+and in section 7 above. If an External Examiner cannot participate in the Honours Board 
+of Examiners meeting for any reason, their quality assurance function still needs to be 
+carried out. This can be done by another External Examiner, or by achieving a level of 
+externality to the Board of Examiners’ decision by having internal sign-off on behalf of 
+the relevant Department/School/Faculty, via the Vice-Dean (Academic) who will 
+subsequently make a report to Senate, via the Quality Assurance Committee or the 
+Convener of this Committee.  
+ 
+90. Student Lifecycle Services should be notified of circumstances in which a Board 
+proceeds without an External Examiner’s participation, where this would otherwise have 
+been expected. 
+ 
+91. Where available, the Convener of the Board of Examiners should take account of the 
+overall engagement of the External Examiner throughout the year in conjunction with 
+students’ overall performance and profile; this will assist the Board in undertaking its 
+duties, maintaining standards and making its decisions in line with expectations for 
+progression and awards. This is outlined in Section 2 of the University’s Formal 
+Assessment Period: Guidance in the Event of Disruption. In usual circumstances, an 
+active involvement is expected from the External Examiners in the business of the 
+Board. The views and comments of External Examiners should be made known to the 
+Boards of Examiners. Where an External Examiner is not able to attend a meeting of a 
+Board of Examiners, the Head of Department/School or Programme Leader should seek 
+the views and comments from the External Examiner in advance and in writing.
+
+--- PAGE 20 ---
+
+20 
+ 
+Classifying Degrees With Missing Results 
+92. In periods of widespread, significant disruption to learning and teaching activities and 
+associated assessment, the University works to ensure that this is minimised where 
+possible, and therefore it is expected that classification decisions will be made across the 
+vast majority of programmes. In cases of severe, unexpected disruption, Senate will 
+issue specific guidance regarding the classification of degrees if required. 
+Student Graduation Without Confirmed Degree Classification 
+93. It is not necessary for a student's degree classification to be known before they can 
+graduate. Some students may be invited to graduate with an honours degree that is 
+unclassified at the time of the ceremony. If a student does choose to graduate with an 
+unclassified degree at the time of the graduation ceremony and subsequently wishes to 
+appeal the degree classification once it has been confirmed, they must follow the 
+appeals procedure as set out in the 
+Personal Circumstances and Academic Appeals 
+Procedure. 
+ 
+94. The final class of degree will then be confirmed to each student by Student Lifecycle 
+Services as soon as the relevant assessment information becomes available, and 
+Boards have confirmed the final outcome. If Boards do not have enough results available 
+to them to classify a degree but do have sufficient information to be certain that a student 
+has reached at least the minimum requirement to be awarded an honours degree or 
+pass degree, this can be conferred.  
+ 
+95. Boards will be asked to confirm to Student Lifecycle Services the student’s eligibility for 
+either an Interim/Conditional Honours Unclassified or an Interim/Conditional Pass 
+Degree. Once all the assessment information becomes available, Boards will classify the 
+degree, or award the actual Honours degree. An interim/conditional award of a Pass 
+degree will be revoked where the final outcome confirms that a student has achieved an 
+Honours degree.  
+Perceptions of a Devaluation of the University’s Degrees 
+96. This Procedure seeks to ensure that the University’s degrees remain of a high standard 
+and are not perceived as devalued.  Students' academic performance is assessed by 
+Boards in the light of two overriding principles which form the basis for assessment at all 
+times: the maintenance of the University's academic standards and consistency of 
+treatment of students. Clear guidance will be issued to staff about the assessment of 
+work in the context of disruption, based firmly on the existing quality, academic 
+standards and regulatory frameworks. Where decisions are made on the basis of 
+incomplete results, the Board must be satisfied that, in its academic judgement, the 
+classification assigned is correct and the decision beyond reasonable doubt.  
+ 
+97. It remains the case that it is not within the power of a Board of Examiners to recommend 
+the award of any degree, diploma or certificate without substantial evidence of 
+attainment to at least the lowest level required for the award of that qualification.  
+ 
+GUIDANCE FOR UNDERGRADUATE YEAR 1,2 & 3 PROGRESSION BOARDS  
+Progressing Students in Periods of Disruption 
+98. In periods of widespread, significant disruption to learning and teaching activities and 
+associated assessment, the University works to ensure that this is minimised where 
+possible, and therefore it is expected that classification decisions will be made across the
+
+--- PAGE 21 ---
+
+21 
+ 
+vast majority of programmes. In cases of severe, unexpected disruption, Senate will 
+issue specific guidance regarding the classification of degrees if required. 
+ 
+GUIDANCE FOR PGT BOARDS OF EXAMINERS  
+Awarding Merits or Distinctions 
+99. In periods of widespread, significant disruption to learning and teaching activities and 
+associated assessment, the University works to ensure that this is minimised where 
+possible, and therefore it is expected that classification decisions will be made across the 
+vast majority of programmes. In cases of severe, unexpected disruption, Senate will 
+issue specific guidance regarding the classification of degrees if required. 
+ 
+100. There may be circumstances where students are allowed to progress to the Master’s 
+dissertation stage on the basis of a profile that is missing marks, and when those marks 
+are subsequently provided, they demonstrate that the student would not have 
+progressed had they been available. In these circumstances, the decision to allow a 
+student to progress will not be reversed if the decision to progress has already been 
+communicated to the student. In such a situation, the programme team should ensure 
+that the student is provided with enhanced support, usually via supervisory 
+arrangements. 
+ 
+101. Boards will need to be prepared to address issues arising where a student does well in a 
+Master’s dissertation but is subsequently found to have performed below the required 
+standard in Diploma coursework or examinations, the results of which were unavailable 
+to the Board at an earlier stage. In such cases, the Board of Examiners is advised to 
+consider the situation sympathetically. 
+Motivational Merits and Distinctions 
+102. Motivational merits and distinctions should be awarded during periods of widespread, 
+significant disruption. The University’s Policy on Motivational Merit & Distinction sets out 
+the criteria for being awarded a motivational merit (60% or more credit weighted 
+average) or motivational distinction (70% or more credit weighted average). The Policy 
+specifies that motivational merits or distinctions can only be awarded if all modules have 
+been passed at the first attempt.  
+ 
+103. Boards of Examiners will continue to award motivational merit and distinction where 
+students meet the normal criteria.   
+ 
+GUIDANCE FOR PGR EXAMINERS 
+Examining Committee (Viva Voce or Orals) Schedules 
+104. Viva voce and oral exams should proceed as scheduled where possible during periods 
+of widespread disruption. In instances where it is not possible for an exam of this type to 
+take place on campus, efforts should be made for the examination to be held via video 
+link so as not to cause undue delay for the student. Please see the University’s 
+Guidance on the Operation of Hybrid or Virtual Oral Examinations. 
+PGR Examining Committee Quorum 
+105. The University’s Policy and Code of Practice for Postgraduate Research Study 
+(paragraphs 212-216) states that the Examining Committee normally comprises at least
+
+--- PAGE 22 ---
+
+22 
+ 
+two active researchers – an Internal Examiner who is not part of the supervisory team 
+and an External Examiner (two External Examiners in the case of a Doctorate by 
+Publication) – and a Convener, who is not part of the supervisory team. Alternative 
+arrangements should be made to adjust the membership of Examining Committee at the 
+earliest opportunity, where any of the examiners are affected by significant disruption 
+and unable to attend in person or remotely.  
+ 
+106. Further general guidance is available for 
+External Examiners of a Postgraduate 
+Research Examining Committee. 
+Examining Conveners/Internal Examiners of Examining Committees 
+107. If a Convener or Internal Examiner does not feel able to act in their role, in the context of 
+widespread, significant disruption, they must alert their Head of Department/School as 
+soon as possible, so that an alternative Convener or Internal Examiner can be identified.
+
+--- PAGE 23 ---
+
+23 
+ 
+APPENDIX B – ENHANCED SUPPORT FOR STUDENTS: EXAMPLE FROM DISRUPTION 
+CAUSED BY COVID-19 PANDEMIC 
+ 
+Systems and Approaches to Support Module and Programme Activities  Systems to Target and Personalise Student Support 
+In preparation for the AY staff are provided with a range of guidance to enable them to 
+develop a blend of learning activities: 
+• Guidance for supporting the learning & teaching of students during periods of 
+disruption 
+• Guidance on Changes to Programmes and Module in the Event of Disruption 
+• Procedure for Markers & BoE in the Event of Disruption 
+• Guidance and FAQs for Boards of Examiners 
+• Guidance on the Use of Video Conferencing for Viva Voce Examinations 
+• Online Student Engagement Guidance 
+• Academic Continuity Guidance on Myplace 
+The University can put in place support for students in response to widespread significant 
+disruption in a range of different areas: 
+• Extended online counselling support 
+• 1:1 disability needs assessment 
+• 1:1 mental health assessment 
+• Digital Inclusion Programme 
+• Covid-19 Hardship Fund 
+• Emergency Aid Fund 
+• Free software 
+• Covid 19 Testing Facilities 
+• Online wellbeing programmes 
+ 
+The University has policies and procedures around assessment marking criteria: 
+• Assessment & Feedback Policy 
+• Policy on Moderation & Double Marking 
+• Policy on Compensation Scheme] 
+• Guidance on Marking Assessments in UG and PGR courses 
+The University can adjust key processes to support students: 
+• Extensions request system applied sympathetically 
+• Personal Circumstances Procedure adapted in response to widespread disruption 
+• Longer term circumstances discussed with Programme Leader and Disability & 
+Wellbeing Services to determine impact on students’ studies 
+ 
+All of the above policies and procedures are utilised by staff before marks are sent to the 
+Board of Examiners for confirmation 
+Confidential Personal Circumstances Boards meet before Boards of Examiners meetings to 
+consider personal circumstances logged on Pegasus and to subsequently make 
+recommendations to Boards of Examiners 
+Boards of Examiners 
+Membership includes independent external examiners 
+Boards will be provided with an updated Guidance and FAQs for Boards of Examiners in the Event of Disruption to Study (to be approved by Senate) 
+Boards of Examiners utilise the Policy on Honours Classification and Other Awards Ranking and Policy on Motivational Merit and Distinction to make outcome decisions 
+ 
+All of the above activities lead to Awards Decisions and Progression Decisions

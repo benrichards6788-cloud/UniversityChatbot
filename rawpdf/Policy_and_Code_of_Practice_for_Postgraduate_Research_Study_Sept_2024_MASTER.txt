@@ -1,0 +1,1889 @@
+--- PAGE 1 ---
+
+CODE OF PRACTICE 
+FOR POSTGRADUATE 
+RESEARCH STUDENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version 
+No. 
+Description Author Approval Effective Date 
+1.0 A comprehensive code 
+of practice for PGR 
+students throughout 
+their 
+academic journey. 
+Education 
+Enhancement 
+February 2021 February 2021 
+1.1 Minor amendments to 
+bring the Code up to 
+date with 
+current practice. 
+Education 
+Enhancement 
+September 2023 September 2023 
+1.2 Minor amendments to 
+incorporate reference 
+to the Supervisory 
+Agreement for PGRs 
+and their Researchers 
+Education 
+Enhancement 
+February 2024 February 2024 
+1.3 Para 150 – addition 
+relating to external 
+funding requirements 
+Education 
+Enhancement 
+Senate  
+September 2024 
+September 2024 
+ 
+ 
+  
+ 
+ 
+the place of useful learning 
+The University of Strathclyde is a charitable body, registered 
+in Scotland, number SC015263 
+Version 1.3
+
+--- PAGE 2 ---
+
+2  
+Table of Contents 
+Glossary of Terms ......................................................................................................................................... 4 
+Introduction .................................................................................................................................................... 5 
+Institutional Arrangements ........................................................................................................................... 6 
+Awards and Regulations .............................................................................................................................. 6 
+Award Descriptors ....................................................................................................................................... 6 
+Doctoral Awards ...................................................................................................................................... 6 
+MPhil or MRes ......................................................................................................................................... 7 
+Collaborative Provision ................................................................................................................................ 7 
+Joint Postgraduate Research Programmes (with Degree Awarding Bodies) .......................................... 8 
+External Research Students .................................................................................................................... 8 
+Commercialisation of Research and Intellectual Property (IP) .................................................................... 8 
+Research Environment ................................................................................................................................. 9 
+Facilities and Resources ........................................................................................................................... 10 
+Attendance to study ................................................................................................................................... 11 
+Research Integrity and Academic Misconduct .......................................................................................... 11 
+Research Governance and Ethics ......................................................................................................... 11 
+Research Data Management ................................................................................................................. 11 
+Academic Misconduct ............................................................................................................................ 12 
+Training and Development ........................................................................................................................ 12 
+Researcher Development Programme (RDP) ....................................................................................... 12 
+Student Wellbeing ..................................................................................................................................... 13 
+Governance .................................................................................................................................................. 14 
+Committees and their areas ...................................................................................................................... 14 
+Student Voice ............................................................................................................................................ 15 
+Admission and Registration ....................................................................................................................... 15 
+Candidate Entry Qualifications .................................................................................................................. 15 
+Applications ............................................................................................................................................... 16 
+Selection .................................................................................................................................................... 16 
+Research Proposal .................................................................................................................................... 16 
+Confirmation of Offer Letters ..................................................................................................................... 17 
+Registration ................................................................................................................................................ 17 
+Doctoral Studentship Funding ................................................................................................................... 17 
+Terms and Conditions ............................................................................................................................... 18 
+Responsibilities ........................................................................................................................................... 19 
+Responsibilities of the Student .................................................................................................................. 19 
+Responsibilities of the Supervisory Team.................................................................................................. 20 
+Responsibilities of the School/Department and Faculty ............................................................................ 21 
+Student / Supervisor Interactions .............................................................................................................. 21
+
+--- PAGE 3 ---
+
+3  
+Academic Counsellor ............................................................................................................................. 22 
+Appointment of Supervisors .................................................................................................................. 22 
+Relationship between the Student and Supervisory Team.................................................................... 22 
+Absence and Replacement of a Supervisor .......................................................................................... 22 
+Supervisory Process .............................................................................................................................. 23 
+Student Journey .......................................................................................................................................... 24 
+Induction .................................................................................................................................................... 24 
+Period of Study .......................................................................................................................................... 25 
+Mode of Study ........................................................................................................................................... 26 
+Extension of the Period of Study and/or Voluntary Suspension ................................................................ 26 
+Medical, Maternity, Paternity, Adoption, Shared Parental, and Carers Leave .......................................... 26 
+Annual Leave, Holidays and University Closures .................................................................................. 27 
+Complaints and Appeals ........................................................................................................................... 27 
+Graduate Teaching .................................................................................................................................... 27 
+Field Work ................................................................................................................................................. 28 
+Research Away from Strathclyde .......................................................................................................... 28 
+Administrative Systems and Monitoring .................................................................................................... 29 
+Interim and Annual Reviews ...................................................................................................................... 29 
+Progression ............................................................................................................................................ 30 
+Intermediate Assessment of Doctoral Candidates ................................................................................ 30 
+Submission and Examination .................................................................................................................... 30 
+Examining Committee ........................................................................................................................... 31 
+Operation of the Examining Committee ................................................................................................. 32 
+Recommendations, Corrections and Final Submission ............................................................................. 32 
+Recommendations of the Examining Committee .................................................................................. 32 
+Revision and Resubmission .................................................................................................................. 33 
+Examination following revision and resubmission ................................................................................. 33 
+Format and Submission of Theses ............................................................................................................ 34 
+Final Submission ....................................................................................................................................... 36 
+Access Restrictions and Moratoriums ....................................................................................................... 37 
+Award ........................................................................................................................................................ 37 
+Graduation ................................................................................................................................................. 37
+
+--- PAGE 4 ---
+
+4  
+Glossary of Terms 
+ 
+Board of Study A Faculty’s senior academic committee, which makes recommendations 
+directly to Senate and takes some decisions on behalf of Senate, via 
+delegated authority. 
+Department / School Academic Departments or Schools within each Faculty. 
+‘Completing’ Status Postgraduate students who have completed their normal duration of study 
+but are still working on their thesis are registered as ‘completing’. 
+Faculty The University has four faculties: 
+- Engineering 
+- Humanities and Social Sciences 
+- Science 
+- Strathclyde Business School 
+Oral Examination Also known as the Viva Voce, this refers to the oral examination in which 
+a research student defends their thesis in front of a Committee of 
+Examiners to determine the outcome of their study. 
+PEGASUS An online portal which provides access to a number of services for 
+students and staff members. 
+NEPTUNE/SPIDER NEPTUNE/SPIDER are administration systems used by Faculties to keep 
+track of student paperwork. NEPTUNE is used by the Faculties of SBS, 
+HaSS and Engineering. SPIDER is used by the Faculty of Science. 
+Primary Supervisor A member of the academic professional staff of the University with an 
+appropriate level of qualification and experience, who is appointed to 
+supervise a postgraduate research student. As part of the Supervisory 
+Team, the Primary Supervisor will have primary responsibility for the 
+supervision of the student. The Primary Supervisor is sometimes referred 
+to as the First Supervisor. 
+Programme Handbook Guide detailing specific programme-related information. 
+Research Degree / Higher 
+Degree by Research 
+Any higher degree offered by the University involving a substantial 
+research period and production of a thesis for examination. 
+Senate The academic governing body within the University, responsible for all 
+academic matters including academic standards and quality. 
+Second Supervisor A member of the student’s supervisory team who does not have primary 
+responsibility for the student, but is nevertheless a significant member of 
+the Supervisory team with relevant subject expertise and pastoral 
+responsibilities. The Second Supervisor may provide additional support if 
+the Primary Supervisor is absent for a period. 
+Supervisory Team The Supervisory Team comprises the Primary Supervisor and any 
+secondary Supervisors. The Supervisory Team provides independent 
+advice and support, brings subject expertise to the team, and, in some 
+cases, provides pastoral support. External team members are not 
+expected to undergo supervisory training. 
+University Regulations The Regulations describe the remit and composition of various University 
+committees; regulate the academic work of the University, the education 
+and discipline of its students; and such other matters as lie within the 
+functions of Senate. 
+These Regulations stand separate to the General Academic Regulations. 
+University Ordinances Regulatory document providing details on the way in which the University 
+is governed. 
+Voluntary Suspension A voluntary interruption of studies for an individual who has otherwise 
+qualified for continued study.
+
+--- PAGE 5 ---
+
+5  
+Introduction 
+ 
+1. This Code of Practice for Postgraduate Research Study was developed as part of a 
+review into the policy, procedure and experiences surrounding Postgraduate 
+Research at the University of Strathclyde. It replaces the Policy and Code of Practice 
+for Postgraduate Research Study (inst. 2013, rev. 2014, 2016, 2017). 
+2. This Code recognises that research students make a vital contribution to the 
+University of Strathclyde’s research culture and international reputation and that the 
+University of Strathclyde is committed to providing the highest quality of provision 
+and support for its postgraduate research students to assist in all stages of their 
+career. 
+3. This Code sets out the University’s expectations for institution-wide standards relating 
+to all its postgraduate research provision and outlines the responsibilities of all 
+parties involved in this provision. 
+4. This Code is available to all, but is primarily aimed at all those involved in research 
+degree programmes, including: 
+a. Research Students; 
+b. Supervisors of Research Students; 
+c. Members of Interim and Annual Review Panels; 
+d. Members of Progression Panels; 
+e. Examiners of Research Degrees; 
+f. Research Support and Administrative Staff; and 
+g. Any other staff involved in supporting or monitoring research programmes. 
+5. This Code should be read in conjunction with other relevant University policies, 
+including: 
+a. The General Academic Regulations (Postgraduate Research); 
+b. The University of Strathclyde’s Strategic Plan, 2020-2025; 
+c. The Research Data Policy, Research Code of Practice and other relevant 
+policies on ethics and research integrity; 
+d. The relevant Faculty or School/Department Handbook for Research 
+Students1;  
+e. Supervisory Agreement for Postgraduate Researchers and their Supervisors; 
+f. The University’s policy for PGR Leave for students with caring 
+responsibilities; and 
+g. The University’s Equality and Diversity Policy. 
+6. This Code has been drawn up with reference to the above and the UK Quality Code 
+for Higher Education, Advice and Guidance: Research Degrees (2018). Students and 
+Staff are urged to make themselves aware of these and other relevant policies on the 
+University’s Academic Regulations webpages. 
+7. All students and staff have a responsibility to make themselves aware of current and 
+ongoing policy changes arising from funders at regional, national, and international 
+levels which affect the conduct of research and/or the commercialisation, 
+dissemination or publication of research results or findings. These might include: 
+a. The Concordat to Support Research Integrity; 
+b. The Concordat on Open Research Data; 
+c. The Concordat for Engaging the Public with Research; 
+ 
+1 Individuals looking for Faculty or School/Department Handbooks should contact the relevant Faculty, 
+School/Department administrator.
+
+--- PAGE 6 ---
+
+6  
+d. The UKRI Statement of Expectations on Postgraduate Training; 
+e. The Knowledge Exchange Concordat; 
+f. The UKRI Common Principles on Data Policy; and 
+g. The UKRI Open Access Policy. 
+8. This Code is applicable to all University of Strathclyde research degrees, details of 
+which can be found within this Code and within the General Academic Regulations 
+(Postgraduate Research). 
+ 
+Institutional Arrangements 
+ 
+Awards and Regulations 
+9. The University offers a number of postgraduate awards with a predominant or 
+significant research component broadly equivalent to Level 11 (or SHE5) and Level 
+12 (SHE6) in the Scottish Credit and Qualifications Framework (SCQF). The relevant 
+academic awards include: 
+Masters Awards 
+a. The degree of Master of Philosophy (MPhil) 
+b. The degree of Master of Research (MRes) 
+Doctoral Awards 
+c. The degree of Doctor of Business Administration (DBA) 
+d. The degree of Doctor of Education (EdD) 
+e. The degree of Doctoral of Educational Psychology (DEdPsy) 
+f. The degree of Doctor of Engineering (EngD) 
+g. The degree of Doctor of Information Science (DInfSci) 
+h. The degree of Doctor of Pharmacy (DPharm) 
+i. The degree of Doctor of Philosophy (PhD) 
+j. The degree of Doctor of Philosophy with Integrated Studies (PhDIntSt) 
+Higher Research Awards 
+k. The degree of Doctor of Science 
+l. The degree of Doctor of Letters 
+10. Information on these awards, their regulations, and standards, can be found in the 
+General Academic Regulations: Postgraduate Research. 
+Award Descriptors 
+Doctoral Awards2 
+11. These degrees are awarded to students who have demonstrated all of the following: 
+a. The creation and interpretation of new knowledge, through original research 
+or other advanced scholarship, of a quality to satisfy peer review, extend the 
+forefront of the discipline, and merit publication; 
+b. Systematic acquisition and understanding of a substantial body of knowledge 
+which is at the forefront of an academic discipline or area of professional 
+practice; 
+c. The general ability to conceptualise, design and implement a project for the 
+generation of new knowledge, applications or understanding at the forefront 
+of the discipline, and to adjust the project design in the light of unforeseen 
+problems; and 
+d. A detailed understanding of applicable techniques for research and 
+ 
+2 These descriptors reflect the general sector expectations of the skills development during a doctoral award 
+programme. They are not meant as prescriptive, and this policy recognises that there will be differences 
+between structured and unstructured programmes. (See the General Academic Regulations: Postgraduate 
+Research for more guidance.)
+
+--- PAGE 7 ---
+
+7  
+advanced academic enquiry. 
+12. Typically, holders of the qualification will be able to: 
+a. Make informed judgements on complex issues in specialist fields, often in the 
+absence of complete data, and be able to communicate their ideas and 
+conclusions effectively to specialist and non-specialist audiences; 
+b. Continue to undertake pure and/or applied research and development at an 
+advanced level, contributing substantially to the development of new 
+techniques, ideas or approaches; and will have 
+c. The qualities and transferable skills necessary for employment requiring the 
+exercise of personal responsibility and largely autonomous initiative in 
+complex and unpredictable situations, in professional or equivalent 
+environments. 
+13.  A thesis must contain a substantial original contribution to knowledge or 
+understanding. 
+MPhil or MRes 
+14. The degrees of MPhil or MRes are awarded to students who have demonstrated: 
+a. A systematic knowledge and a critical awareness of current problems and/or 
+new insights, much of which is at, or informed by, the forefront of their 
+academic discipline, field of study, or area of professional practice; 
+b. A comprehensive understanding of techniques/methodologies available to 
+their own research or advanced scholarship; 
+c. Originality in the application of knowledge, together with a practical 
+understanding of how established techniques of research and enquiry are 
+used to create and interpret knowledge in the discipline; 
+d. Conceptual understanding that enables the student: 
+i. To evaluate critically current research and advanced scholarship in 
+the discipline; and 
+ii. To evaluate methodologies and develop critiques of them and, where 
+appropriate, to propose new hypotheses. 
+15. Typically, holders of the qualification will be able to: 
+a. Deal with complex issues both systematically and creatively, make sound 
+judgements in the absence of complete data, and communicate their 
+conclusions clearly to specialist and non-specialist audiences; 
+b. Demonstrate self-direction and originality in tackling and solving problems, 
+and act autonomously in planning and implementing tasks at a professional or 
+equivalent level; 
+c. Continue to advance their knowledge and understanding, and to develop new 
+skills to a high level, and will have the qualities and transferable skills 
+necessary for employment requiring: 
+i. The exercise of initiative and personal responsibility; 
+ii. Decision-making in complex and unpredictable situations; and 
+iii. The independent learning ability required for continuing professional 
+development. 
+16.  The MPhil is a degree of considerable distinction in its own right and an MPhil thesis 
+(or equivalent) is expected to display a good general knowledge of the field of study, 
+a comprehensive knowledge of some part or aspect of the field of study, and a 
+recognisable original contribution to knowledge or understanding. 
+Collaborative Provision
+
+--- PAGE 8 ---
+
+8  
+Joint Postgraduate Research Programmes (with Degree Awarding Bodies) 
+17.  Joint PhD programmes must be developed in conjunction with the Framework for 
+Joint PhD Awards, which was developed in line with the QAA Quality Code and the 
+QAA’s Characteristics Statement for qualifications involving more than one degree- 
+awarding body. 
+18.  Joint awards constitute a collaboration with another degree awarding institution 
+where both institutions will provide supervision, and in some cases teaching, during 
+the course of the award. 
+19.  With the approval of the Head of School/Department, the University may collaborate 
+with other institutions/agencies to provide joint postgraduate research programmes 
+leading to an award or joint award of the University where there is mutual advantage 
+to the student, the University and the collaborating organisation. Arrangements may 
+take the form of: 
+a. Registering a student to undertake a research programme out with the 
+University (e.g. in a company or Government Research Laboratory); or 
+b. Collaborating with another University to jointly supervise a student on a 
+research programme. 
+20.  Proposals for collaboration with another institution or agency to jointly supervise a 
+student must be explicitly notified to the Head of School/Department for approval 
+according to the provisions within the University Policy and Code of Practice for 
+Collaborative Education Provision. 
+21. Proposals to the Head of School/Department must confirm one of the following: 
+a. EITHER: The University of Strathclyde will be the administering University; 
+b. OR: Another University will be the administering University. 
+22. The policies and regulations of the administering institution will apply. 
+23.  Students will be entitled to use any of the student support services of either university 
+or organisation. 
+24. Administering institutions must have the power to award research degrees. 
+25.  In either option, the Senate of University of Strathclyde may insist, if required, that 
+the institution approves the Examining Committee. 
+External Research Students 
+26.  Any proposal to register for an award of the University of Strathclyde by an external 
+research student must be explicitly notified to the Head of School/Department. 
+Commercialisation of Research and Intellectual Property (IP) 
+27.  The University encourages the development of intellectual property by research 
+students. It encourages publication following scholarly activity and research, and 
+seeks to support the development of inventions and fully realise the benefit of 
+commercial opportunities where possible.3  
+28.  The University provides a framework for its development and exploitation of 
+intellectual property and offers rewards and incentives for doing so. 
+29.  The University’s IP & Commercialisation Team within Innovation & Industry 
+ 
+3 Staff and Students looking for information on moratoriums should consult the relevant sections of 
+this document and General Academic Regulations: Postgraduate Research (91-95).
+
+--- PAGE 9 ---
+
+9  
+Engagement makes available an established commercialisation framework which 
+includes managing the protection and registration of intellectual property, the 
+licensing of intellectual property and the creation of spinout companies. 
+30.  Postgraduate research students are required to assign (as a condition of admission) 
+the Commercial Rights created either in the course of research activity carried out as 
+part of the applicable research programme, or using a University contribution. The 
+assignation shall be made to the University (or a third party as directed by the 
+University) and shall be constituted by acceptance of any University Terms and 
+Conditions which incorporate this Policy. Postgraduate research students shall 
+execute any other documents or agreements considered necessary or desirable by 
+the University to give effect to this assignation promptly by request. There are two 
+exemptions to the request to assign: 
+a. The conditions of the Studentship funding prevent the student agreeing to the 
+provisions (for example, where there is a separate IP agreement in place with 
+a third party); and 
+b. There are other reasons for the student being unable to agree to the 
+provisions (for example, the student holds significant background IP). 
+31.  Postgraduate research students shall disclose details of any inventions or 
+Commercial Rights to the University on becoming aware of them. 
+32.  Where a postgraduate research student has assigned Commercial Rights to the 
+University, revenue generated from commercialisation activity will be shared with the 
+postgraduate research student on the same basis as applies to University staff 
+pursuant to the University Court’s Minute on Royalty Income (as updated, from time 
+to time). 
+33.  Postgraduate research students shall retain ownership of Scholarly Rights created 
+either in the course of research activity carried out as part of the applicable research 
+programme or using a University Contribution, provided that the University is granted 
+perpetual and royalty-free licence to use such Scholarly Rights for non-commercial 
+teaching, research, and academic purposes. Where any student wishes to exploit its 
+Scholarly Rights in a way which could affect or impair the value of Commercial Rights 
+in the same material (e.g. by publishing information which may be relevant to 
+potential patent applications), this shall be subject to the University’s prior approval. 
+The University shall act reasonably in considering any request for approval. 
+34. Terms in this section have the following definitions: 
+a. Commercial Rights: for this purpose, the term means all patents, utility 
+models, rights to inventions, copyright and related rights (including moral 
+rights), in computer software and/or code, trademarks, business names and 
+domain names, rights in get-up, rights in designs, database rights, rights to 
+use, and protect the confidentiality of, confidential information (including 
+know-how and trade secrets), semiconductor topography rights, and all other 
+intellectual property rights which could reasonably be considered to possess 
+commercial potential. 
+b. Scholarly Rights: means all copyrights in books, articles, plays, lyrics, scores 
+or lectures (unless specifically commissioned by the University) student 
+theses or papers, which are not Commercial Rights. 
+c. University Contribution: means any use of University funds, personnel, 
+resources, information or assets of any kind which are permitted, enabled, 
+arranged, administered or controlled by the University. 
+ 
+Research Environment
+
+--- PAGE 10 ---
+
+10  
+35.  The University of Strathclyde is committed to creating (and maintaining) a productive, 
+supportive and inclusive research environment. 
+36.  The University of Strathclyde is committed to providing opportunities for all research 
+students, through collaborative and innovative working with Faculties and the 
+Doctoral School. 
+37.  The University is committed to the highest standards of research integrity within its 
+research community, maintained with reference to a framework of University policies 
+(found on the University’s Research integrity webpages) as well as legal and funder 
+frameworks. 
+38. Research students are provided with an appropriate research environment, that is: 
+a. Where excellent research, recognised by the relevant subject community, is 
+occurring; 
+b. Where support is provided for engaging in, and learning about, research; and 
+c. Where appropriate representation for research students is established. 
+39.  The University assures the provision of an excellent research environment by 
+collaborative working with the Strathclyde Doctoral School and the student-led 
+Doctoral Researchers Group, and the consideration of Faculty Annual Reports and 
+the Postgraduate Research Experience Survey (PRES). The University will take 
+action to address any identified weaknesses. 
+40.  A School/Department or Faculty should assure the provision of an appropriate 
+research environment by considering the following: 
+a. Appropriate supervision of the proposed research topic can be provided by 
+existing members of staff; 
+b. There are sufficient numbers of research students and high calibre research- 
+active staff in the student’s chosen field and related areas; 
+c. There is an active research community to support the student, for example in 
+terms of the provision of regular research seminars, etc.; and 
+d. The necessary facilities and training to support the student can be provided. 
+Facilities and Resources 
+41.  Schools/Departments (working in conjunction with the relevant central services) are 
+responsible for ensuring that research students have the facilities and resources they 
+need to pursue their approved research. Guidance on the facilities and resources 
+provided should be included in the School/Department’s handbook for research 
+degree students. 
+42.  Schools/Departments are responsible for ensuring that students undertaking work 
+away from the University (e.g. fieldwork and research visits) have the facilities and 
+resources they need, and for undertaking any necessary health and safety or risk 
+assessments. 
+43. Facilities and resources should normally include: 
+a. Access to photocopying and printing; 
+b. Library resources (including training and relevant electronic resources); 
+c. Appropriate spaces for work and study; 
+d. Appropriate computing provision for their research project (hardware, 
+software, training and support); and, 
+e. Access to specialist facilities and materials and/or technical support (where 
+relevant).
+
+--- PAGE 11 ---
+
+11  
+44.  Schools/Departments should ensure that there is a well-publicised, equitable and 
+transparent procedure for allocating funding for conference attendance. 
+Attendance to study 
+45.  The University of Strathclyde encourages a healthy work-life balance for all research 
+students during their studies and staff should be cognisant of any student’s work 
+schedule provided they are regularly attending to their studies. It is the student’s 
+responsibility for regularly attending to their studies. 
+46.  For research students on a Student Route visa, please see the relevant section in 
+this document on attendance monitoring for additional guidance. 
+47.  Where a student’s study is impacted by ill-health, the student should follow the 
+appropriate procedure: 
+a. For absences of seven days or fewer, the student should record a self- 
+certification online via PEGASUS using the Personal Circumstances link. 
+b. Where sickness results in an absence of more than seven working days, 
+students should refer to the Personal Circumstances webpage. 
+c. In both circumstances, the student should notify both their Primary Supervisor 
+and the Department PGR Programme Administrator. 
+Research Integrity and Academic Misconduct 
+48.  The University expects research to be conducted in accordance with the highest 
+standards of research integrity and research methodology. 
+49.  Every Supervisor and Postgraduate Research Student should familiarise themselves 
+with the University’s Research Integrity policies and procedures upon starting a 
+research programme at the University. 
+Research Governance and Ethics 
+50.  The University’s Research Data Policy and Research Code of Practice should be 
+consulted before any relevant research takes place. 
+51.  It is the Primary Supervisor’s responsibility to ensure that all research is organised 
+and undertaken within a framework of best practice, that recognises the various 
+factors that may influence a student’s research project. 
+52.  The Primary Supervisor should work with the student to ensure that all necessary 
+permissions are obtained before the project (or research data gathering) begins, and 
+that there is clarity of role and responsibility among the research team (including the 
+student’s role) and with any collaborators. 
+53.  The Primary Supervisor is responsible for ensuring that all ethical issues relating to a 
+student’s research project funded from the Studentship (see above) are identified 
+and brought to the attention of the relevant approval or regulatory body. 
+Research Data Management 
+54.  Adherence to best practice, via the creation and implementation of a project Data 
+Management Plan (DMP), should be ensured by the student and their Primary 
+Supervisor where applicable. Project DMPs should describe the data being collected/ 
+generated, outlining how this will be managed (i.e. stored, secured, backed-up, 
+organised, and documented) during, and after, project completion. Data management 
+planning decisions should take account of any contractual obligations and funder 
+data requirements/mandates which are relevant to the project. DMPs should also 
+clarify how roles and responsibilities for data management planning will be allocated 
+within a project. In addition to complying with any funder and/or contractual 
+obligations, research students must comply with University policy - particularly the
+
+--- PAGE 12 ---
+
+12  
+Research Data Policy and Research Data Deposit Policy - by depositing the data 
+which underpins the research in the University’s institutional data repository within 
+Pure upon, or after, project completion, or following publication. 
+55.  Decisions about the suitability for sharing/publication, and future reuse of research 
+data, should be taken in consideration of any ethics and/or project collaboration 
+agreements and commercialisation issues (see relevant section of this document for 
+more information), as well as funder data policy/requirements and the University’s 
+Research Data Policy and Research Data Deposit Policy. Where any research data 
+require restriction (for example, to embargo data until after expiration of thesis 
+moratorium) research students should take steps to restrict visibility of the dataset, 
+accordingly. 
+Academic Misconduct 
+56.  The University is committed to developing high standards of academic practice 
+among its staff and students, and to safeguarding the standards of its academic 
+awards to individuals. The University regards any form of academic misconduct as 
+an extremely serious matter. 
+57. Staff and students should familiarise themselves with the following: 
+a. The University’s Procedures and Guidelines for Dealing with Possible 
+Instances of Academic Dishonesty; 
+b. Strathclyde’s Student Discipline Procedure; and 
+c. The University’s Good Academic Practice and the Avoidance of Plagiarism. 
+58.  The University’s Procedures and Guidelines for Dealing with Possible Instances of 
+Academic Dishonesty (58a) should be followed in all cases of alleged academic 
+misconduct and, in particular, in all instances staff should endeavour to ensure that 
+appropriate communication has taken place with the student regarding the 
+allegations and possible subsequent actions and outcomes. The student must be 
+afforded appropriate opportunity to discuss the matter and intimate any mitigating 
+circumstances. 
+Training and Development 
+Researcher Development Programme (RDP) 
+59.  The University of Strathclyde is committed to the ongoing personal and professional 
+development of research students and works to help them enhance their core skills 
+and competencies and widen their scope for future employability both inside and 
+outside of academia. All research programmes of study have stipulated skills training 
+and development requirements and these are outlined in the General Academic 
+Regulations: (Postgraduate Research) and the relevant Programme Regulations. 
+60.  Not all PGR students are required to undertake the Researcher Development 
+Programme. This included EdD students and any students based in the Strathclyde 
+Business School. SBS students undertake a PGCert in Research Methodology in 
+Business and Management. If unsure, staff and students are encouraged to check 
+with their relevant departmental/school administrator. 
+61.  The University uses the Vitae Researcher Development Framework to support 
+students in understanding their training and development needs for both their 
+academic research and their future career. The framework articulates the core 
+competencies and behaviours of successful research students and students are 
+invited to use it to create their own training and development plan.
+
+--- PAGE 13 ---
+
+13  
+62.  Opportunities to develop skills, knowledge and capabilities may take the form of 
+taught classes, short courses, workshops, events, programmes, funding, 
+opportunities, e-provision and personal experiential learning and development. The 
+Researcher Development Programme is delivered by Faculties, Professional 
+Services, and external partners to offer the research community a range of 
+opportunities to continue their personal, professional, and career management skills 
+development. 
+63.  For most research degrees that have no formal taught component students are 
+required to complete the PG Certificate in Researcher Professional Development. 
+Starting with a training needs analysis and a personal training and development plan, 
+students keep a portfolio of activities and learning that is mapped onto the learning 
+outcomes for the course. The PG Cert in Researcher Professional Development is a 
+credit bearing academic award and students’ learning and development is formally 
+assessed against learning outcomes aligned to the Researcher Development 
+Framework through a set of reflective essays. 
+64.  The PG Cert in Researcher Professional Development adheres to the relevant 
+standards and expectations set out by research funders, and within the UK Quality 
+Code for Higher Education: Research Degrees, the European Charter for 
+Researchers, the UK Concordat to Support the Career Development of Researchers, 
+and the Researcher Development Framework and Statement (RDF/S), alongside any 
+other nationally agreed policy. 
+Student Wellbeing 
+65.  The University takes it duty of care for postgraduate research students very 
+seriously. This includes a commitment to ensure that: 
+a. Staff responsible for supporting the student experience should be duly 
+sympathetic and informed of where students might seek assistance. 
+b. Students look after their own wellbeing and are encouraged and enabled to 
+do so; 
+c. Students are supported to develop skills and tools to support their own 
+wellbeing; 
+d. Students are able to seek appropriate assistance where required; and 
+66.  The University has several policies in place which set out the University’s 
+commitments to supporting students on a path to success and providing a stigma- 
+free atmosphere. This includes, among others, the following University policies and 
+guidance: 
+a. Equality and Diversity Policy; 
+b. Dignity and Respect Policy; 
+c. Equality and Diversity Strategy Committee Policy on Lesbian, Gay, Bisexual, 
+Trans (LGBT+) students and staff; 
+d. Guidance on supporting transgender students and staff; 
+e. Mental Health and Wellbeing Policy; 
+f. Disability Policy ; and 
+g. Guidance for students and staff on student maternity, maternity/paternity 
+support and adoption. 
+67.  Positive relationships between students and the supervisory team are key to a high- 
+quality student experience. While supervision is often seen as mainly intellectual 
+guidance, supervisors have a responsibility to be supportive of students and inform 
+themselves about relevant support mechanisms or services that they might engage 
+with or direct students to. 
+68.  In circumstances where students feel they cannot speak with their supervisory team,
+
+--- PAGE 14 ---
+
+14  
+they are advised to approach the Strathclyde Doctoral School, or relevant 
+School/Departmental contact. Students are encouraged to reach out for support 
+rather than suffer in silence. 
+69.  There are several Services within the University through which students may seek 
+assistance and support, including: 
+a. Counselling; 
+b. Disability Services; 
+c. Equality and Diversity; 
+d. Chaplaincy; 
+e. Sport; and 
+f. The Doctoral Researcher Group; 
+g. Financial Support Services; 
+h. Strathclyde Students’ Union. 
+ 
+Governance 
+ 
+Committees and their areas 
+70.  There are four main committees which have responsibilities allied to postgraduate 
+research students. These are: 
+a. The Research & Knowledge Exchange Committee (RKEC), which has 
+oversight of strategy, policy and monitoring with respect to research and 
+knowledge exchange activity. 
+i. The Researcher Development Sub-Committee addresses issues 
+specifically relating to the Postgraduate Researcher experience, and 
+is a sub-committee of RKEC. 
+b. The Learning Enhancement Committee, which is responsible for developing 
+and monitoring the University’s strategy for Learning, Teaching and 
+Assessment, and the enhancement of the student experience. 
+c. The Quality Assurance Committee, which is responsible for the quality 
+assurance of the University’s academic provision and standards through its 
+oversight of annual and cyclical quality assurance processes. 
+i. The Quality Assurance Committee reports to Senate through the 
+Education Strategy Committee. 
+d. The Student Experience Committee has delegated responsibility for student 
+experience matters and is a partnership committee between the University of 
+Strathclyde and Strath Union. 
+71.  Operational institutional responsibility for research students and research degree 
+programmes is as follows: 
+ 
+Area Office 
+ 
+Recruitment 
+Marketing and Development Services 
+Directorate; Faculties; Departments; 
+Schools 
+Admissions and Compliance Directorate of Student Experience 
+Supporting the research student journey 
+from enrolment through annual progression 
+to final examination and award 
+ 
+The Strathclyde Doctoral School
+
+--- PAGE 15 ---
+
+15  
+Research degree programme approval, 
+monitoring and review Senate 
+Research student induction and training Research and Knowledge Exchange 
+Services 
+Training for Graduate Teaching Assistants Faculties 
+Research Student Regulations and Code of 
+Practice Directorate of Education Enhancement 
+General Research Policy Research and Knowledge Exchange 
+Services 
+Research Ethics Research and Knowledge Exchange 
+Services 
+Training for Supervisors Organisational and Staff Development Unit 
+ 
+Student Voice 
+72.  The University commits to ensuring that postgraduate research students have 
+appropriate and adequate student voice representation, within Schools/Departments 
+and Faculties, as well as through the Students’ Union and the Doctoral Research 
+Group. 
+73.  The University will monitor PGR student experience through various student voice 
+processes. 
+a. This will include the Postgraduate Research Experience Survey (PRES), 
+which takes place at Strathclyde every two years. 
+ 
+Admission and Registration 
+ 
+74.  The standard admissions criteria for research degree programmes are set out in the 
+University’s Admissions Policy. Any additional criteria to the standard admissions 
+policy are set out in the annually published Individual Research Degree Regulations. 
+75.  Members of staff of the University of Strathclyde may apply for research degree 
+programmes as described in the University’s policy on postgraduate research study 
+for staff. Staff applicants must remain members of staff for the duration of the 
+research programme. The admissions criteria listed in the above Admissions Policy 
+will apply to University staff applicants. 
+Candidate Entry Qualifications 
+76.  The School/Department has overall responsibility for the initial assessment of the 
+suitability of a candidate for postgraduate research study, through evaluation of 
+academic qualifications, referees’ reports, ‘English as a Foreign Language’ 
+qualifications, interviews, or other mechanisms appropriate to the subject of study 
+and/or the candidate concerned. 
+77.  Any requirements to attend interviews or other assessment procedures will be 
+communicated in good time to the candidates (or if part of the standard assessment, 
+will be identified as part of the entry requirement). Where possible, alternative 
+formats should be offered, if, for whatever reason, travel is not possible. 
+78.  Postgraduate research entry requirements are outlined in the University’s 
+Admissions Policy (6.6.2). Programmes with specific additional entry requirements 
+are published on the University website. 
+79.  Heads of Schools/Departments are responsible for ensuring that all staff involved 
+in making an academic decision on qualification for entry are aware of both the 
+institutional and discipline specific entry requirements governing admission of
+
+--- PAGE 16 ---
+
+16  
+postgraduate research students. 
+Applications 
+80.  Applications for postgraduate research study should be made through the online 
+web-based application process. 
+81.  Prior to the submission of an application, prospective applicants are encouraged to 
+contact Schools/Departments directly to discuss possible research areas and to meet 
+prospective supervisors. 
+82.  Applications for postgraduate research study are accepted throughout the year, and 
+it is possible for a student to begin their studies at the start of any month, following 
+agreement with the relevant School/Department. Where possible, students should be 
+encouraged to commence their studies at either of the two traditional commencement 
+dates (October and January), in order to fully integrate into postgraduate research life 
+and culture. 
+83.  Students commencing their studies outside traditional commencement dates should 
+receive all relevant discipline/School/Department inductions, training and 
+introductions to relevant postgraduate communities. 
+84.  In line with other universities in the UK, the University of Strathclyde operates a 
+screening procedure for all applicants in respect of previous criminal convictions. For 
+more information, refer to the University’s Admissions Policy. 
+85.  Applications from international students to study in the UK at Strathclyde are subject 
+to UK immigration controls. 
+Selection 
+86.  The University will admit students to a postgraduate research programme only if they 
+are considered to have the necessary experience, qualifications, and motivations to 
+succeed in achieving the award. 
+87.  The decision to admit a student to postgraduate research study will be made by the 
+relevant Head of School/Department (or nominee), or Vice-Dean of the Faculty, as 
+appropriate, and at least one other member of staff with relevant expertise (normally 
+the prospective Primary Supervisor). The criteria for admission include the following: 
+a. Whether the applicant is appropriately qualified to undertake the proposed 
+research programme; 
+b. Whether the research programme fits into the research portfolio of the 
+School/Department, Faculty, or Centre for Doctoral Training to which the 
+candidate has applied; 
+c. Whether the student can be appropriately supervised and supporting within 
+the institution, in terms of the community, accommodation, facilities and 
+support services; and 
+d. Whether the student has adequate proficiency in the English Language. 
+88.  The University normally requires potential candidates whose first language is not 
+English to have a minimum score of 6.5 in the International English Language 
+Testing Service (IELTS), or equivalent. 
+a. The University provides English language courses, in-sessional and pre- 
+sessional. 
+Research Proposal 
+89.  Applicants are normally required to suggest and agree a general area of research 
+with the School/Department, Faculty or Centre for Doctoral Training to which they are 
+applying. Once the general area is agreed, the prospective student and their 
+supervisor should agree a brief outline research proposal. This should indicate the
+
+--- PAGE 17 ---
+
+17  
+proposed area of research, the methodology and how proposed work relates to any 
+previous research in relevant fields. 
+90.  If possible, a draft research proposal should be agreed prior to the issue of a formal 
+offer letter to the applicant by the University. This includes the need (where possible) 
+for any necessary (and known) ethical approvals to have been secured through both 
+internal University processes and any external (regulatory) requirements. Where 
+logistics prevent this from occurring, a draft proposal should be agreed, and all 
+ethical approvals obtained, as early as possible following the start of the official study 
+period. Failure to do this may preclude the student from continuing their studies. 
+a. A copy of the proposal and any ethical approval notices should be retained by 
+both the Student and the Supervisor. 
+91.  The general study arrangements for the programme must be agreed prior to the 
+issue of an offer by the University. This is particularly important in cases where 
+distance learning approaches are involved. 
+92.  If the applicant intends to use existing research and/or published output as part of 
+any examinable part of the research degree, this should be declared and agreed 
+prior to the issue of an offer by the University. There should also be agreement with 
+respect to any credit that will be applied in the context of Prior Learning. 
+Confirmation of Offer Letters 
+93.  The Admissions Team is responsible for issuing formal confirmation of an offer of 
+admission to postgraduate research students. These letters will include clear 
+statements of the following: 
+a. General field of study agreed; 
+b. Title of the award; 
+c. The names of both Supervisors (and any external supervisor, if known); 
+d. Minimum duration of study; 
+e. Fees to be paid for the first year; 
+f. The Policy and Code of Practice for Postgraduate Research Students, 
+alongside relevant information from the Finance Office; and 
+g. Any other terms and conditions that apply to the offer. 
+94.  In exceptional cases where the name of the Supervisor is not known, the 
+circumstances will be made clear to the student and the name of the relevant Head 
+of School/Department, or Vice-Dean Academic, will be given instead. 
+95.  Before the student accepts the offer and begins registration, the student should be 
+informed of any Commercialisation of Research and Property Rights (as identified in 
+the section above) that may impact or otherwise influence their decision to join the 
+University of Strathclyde. 
+Registration 
+96.  Students are required to accept the terms of the University’s offer of admission and 
+agree arrangements for payment of fees with the Finance Officer before they are 
+registered for postgraduate study. 
+97.  Registration is renewed annually in September for the agreed duration of study. 
+During the first registration, students should receive a student card confirming their 
+entitlement to use student services and facilities. Where this is not possible, 
+alternative methods of confirming the student’s entitlement to use student services 
+and facilities must be employed. 
+ 
+Doctoral Studentship Funding
+
+--- PAGE 18 ---
+
+18  
+ 
+Terms and Conditions 
+98.  The Terms and Conditions relating to all Doctoral students in receipt of funding from 
+the University of Strathclyde are detailed below. These University Terms and 
+Conditions may be superseded where any subsequent studentship funding award is 
+bound by the separate Terms and Conditions of a third party, and/or where a student 
+is self-funded. 
+99.  These Terms and Conditions are not a guarantee of studentship funding. Any 
+funding award will be issued via a formal Funding Award Letter which will state the 
+duration of the award. 
+100. The expected start and end dates for studentships should be agreed between the 
+Student, the Supervisor and the studentship funder. 
+101. Full-time studentship holders are expected to carry out their research for a minimum 
+of 35 hours per week during the University’s normal business hours (i.e. Monday to 
+Friday 9am to 5pm) for the duration of their study. The pro-rata value is expected for 
+part time students. 
+102. In the interests of avoiding excessive commitments and ensuring appropriate focus 
+on Doctoral study, it is important that paid work, including any time spent on 
+preparation, marking, and other activities directly supporting students, should be 
+limited to an average of 7 hours per week across a calendar year. 
+103. Full-time studentship holders cannot take on other paid work during the University’s 
+normal business hours (i.e. Monday to Friday 9am to 5pm) (with the exception of 
+internal teaching/tutoring as detailed above). 
+104. Students in full-time employment, or those wishing to take on full-time employment 
+part way through a studentship, will not be eligible for a stipend of any kind from the 
+University. A tuition fee studentship may be available for those in full time 
+employment, depending on the source of the funding. 
+105. Students in part-time employment, or those wishing to change their student status 
+to part-time in order to take up an internal or external part-time job, may be eligible 
+for a part-time studentship depending on the source of the funding. 
+106. A part-time studentship should normally be at the 0.5 FTE level. 
+107. UKRI-funded students cannot change status (full time to part time or vice versa) 
+within the final 6 months of a studentship. 
+108. UKRI-funded students cannot change status (full time to part time or vice versa) 
+more than once during their duration without approval from UKRI. 
+109. Students must inform their Supervisor and funder of any change in circumstances 
+that could affect the financial management of their studentship. Failure to do so could 
+result in the termination of the studentship and/or the reclamation of funds. 
+110. Students in receipt of a studentship must hold the right to live and study in the UK. 
+111. Students in receipt of funding from UKRI or other external funding body must meet 
+the relevant associated criteria. 
+112. No additional funds will be provided beyond the agreed end date of the studentship, 
+unless a separate additional agreement is agreed, or alternative studentship 
+awarded. 
+113. Unless agreed with their Supervisor and funder, students must live within a 
+reasonable travel time of the University to ensure that they are able to maintain
+
+--- PAGE 19 ---
+
+19  
+regular contact with their School/Department and Supervisor. 
+ 
+Responsibilities 
+ 
+114. All Staff and Students should familiarise themselves with the responsibilities 
+outlined below (115-122), as minimum expectations of behaviour and standards, 
+aligned with the Supervisory Agreement for Postgraduate Research Students. 
+Responsibilities of the Student 
+115. The responsibilities of research students include: 
+a. Carrying out their research for a minimum of 35 hours a week for the duration 
+of their study, where possible (or pro-rata value for part-time students); 
+b. Taking responsibility for their own personal and professional development, 
+including recognising when they need help and seeking it in a timely manner; 
+c. Taking advantage of the University of Strathclyde’s training4 made available 
+to them to support their research, enhance their employability, and to assist in 
+their career progress after the completion of their degree; 
+d. Recognising that much of the training that research students receive is 
+informal (from the supervisory team, the interim and annual review panels, or 
+the wider research community) and therefore engaging, as much as possible, 
+with informal training, networking and community-based learning; 
+e. Keeping an accurate and comprehensive record of all training (whether 
+provided centrally, departmentally or externally) and other enrichment 
+activities that they have undertaken (e.g. presentations made, conferences 
+attended, teaching, demonstrating, or internships undertaken, etc.); 
+f. Maintaining (a joint responsibility with supervisors) contact with the 
+supervisory team. Both full-time and part-time students are required to attend 
+regular formal supervisory meetings; 
+g. Preparing adequately for meetings with the supervisory teams and 
+progression panels; 
+h. Setting and keeping to timetables and deadlines, including planning and 
+submitting required work and generally maintaining satisfactory progress with 
+the programme of research; 
+i. Making supervisors aware of any specific needs or circumstances likely to 
+affect their work; 
+j. Raising any issues from their study with their supervisory team or relevant 
+staff member within a reasonable timeframe; 
+k. Engaging, as much as possible, with the research community at Strathclyde 
+(e.g. attending seminar series, networking events, participating in student 
+voice and other feedback channels, etc.); 
+l. Conducting research with integrity, in accordance with the University’s policy 
+framework and any legal compliance and/or funder requirements; and 
+m. Adhering to the University’s regulations, policies and guidance regarding 
+research degree programmes, including those relating to health and safety, 
+ 
+4 In line with the Concordat to Support the Career Development of Researchers, and the UKRI’s Statement of 
+Expectations for Doctoral Training
+
+--- PAGE 20 ---
+
+20  
+intellectual property, and all policies relating to equality, diversity, dignity and 
+respect of all other students and staff. 
+Responsibilities of the Supervisory Team 
+116. The responsibilities of the Supervisory Team of a research student are listed below. 
+The Primary Supervisor should coordinate with the Supervisory Team to ensure that 
+these responsibilities are distributed fairly between them. 
+a. Ensuring the student receives an appropriate induction to the registering 
+School/Department, the Faculty and the University (including any resources, 
+study areas and communities); 
+b. Providing satisfactory advice and guidance on the conduct of the research 
+and on the preparation of the thesis, as well as maintaining the necessary 
+supervisory expertise; 
+c. Supporting the student with the planning of research and identifying any 
+training and professional development needs; 
+d. Monitoring the progress of the student’s research programme, reporting on 
+progress to the Progression Panels, and ensuring the student is aware of the 
+need to submit the thesis by the specified deadline; 
+e. Encouraging the student to interact with others working in the field of 
+research, 
+f. Establishing and maintaining (a joint responsibility with the student) regular 
+contact with the student, including during any periods in which the student is 
+working on their research away from the University, and being accessible to 
+the student to give advice; 
+g. Providing timely, constructive, and effective feedback on the student’s work 
+and overall progress; 
+h. Where appropriate, helping and encouraging the student to submit 
+conference papers and articles to refereed journals; 
+i. Ensuring that, in the case of students undertaking laboratory work, there is an 
+appropriate level of supervision and monitoring, including regular checks on 
+data-recording and notebooks and occasional checks on the day-to-day 
+conduct of experiments; 
+j. Ensuring that appropriate ethical approval, if required, is obtained before 
+research commences; 
+k. Ensuring that the student is aware of relevant sources of advice within the 
+University; including those relating to wellbeing and mental health, careers 
+and the Students’ Union; and 
+117. Providing effective pastoral support and, where appropriate, referring the 
+student to other sources of such support within the University.Although 
+supervisors may encourage their students to seek advice on particular topics 
+from other members of staff, the supervisory team maintain primary responsibility 
+for directing the research to a satisfactory conclusion. 
+Training and Monitoring of Supervisors 
+118. The University believes effective supervision is a skill that is best learned 
+experientially, with the support of more experienced colleagues (the apprenticeship 
+model). Schools/Departments should, therefore, encourage staff who are new to 
+supervision to gain experience of the supervisory process through serving as 
+secondary supervisors and on Progression Panels. A Primary Supervisor who has
+
+--- PAGE 21 ---
+
+21  
+not seen a student through to successful completion of a doctoral research degree 
+must be paired with an experienced Secondary supervisor. 
+119. All staff who are acting as Primary or Secondary Supervisors for the first time are 
+required to complete the Strathclyde Supervisor Development Programme, delivered 
+by OSDU, unless they can demonstrate that they have undertaken equivalent 
+training elsewhere. All Supervisors are also encouraged to participate in other OSDU 
+and national events and training relevant to the supervision of postgraduate 
+research. 
+120. Schools/Departments should encourage those new to supervision, or in need of 
+updating their skills and knowledge, to take a training course in Supervision. OSDU 
+provide training opportunities for new and existing supervisors. 
+121. Research students should be asked about the supervision that they receive by the 
+Convenor at every Annual Review. Schools/Departments should ensure that any 
+problems highlighted through this mechanism are handled sensitively and 
+appropriately by the Head of School/Department (or their delegate). 
+Responsibilities of the School/Department and Faculty 
+122. The responsibilities of each School/Department and Faculty with research students 
+include: 
+a. Training and monitoring of supervisory teams to ensure best practice and 
+quality supervision; 
+b. Inducting all students into the School/Department and faculty community; 
+c. Providing access for students to the appropriate working space, facilities and 
+resources, as required; 
+d. Providing access to the appropriate equipment required to undertake their 
+research; 
+e. Ensuring that each research student is made aware of the appropriate 
+procedures to locate and access the above space, facilities, resources and 
+equipment; 
+f. Provide incoming research students with the information and documentation 
+relating to University regulations in respect of Health and Safety, Academic 
+Dishonesty, Intellectual Property, Equal Opportunities, Equality and 
+Accessibility, GDPR and any other relevant policies within the relevant 
+School/Department or Faculty. 
+g. Notifying students  of the procedure and timelines on supervisory processes, 
+including the requirements for making adequate progress with their studies; 
+and  
+h. Informing and enrolling students of any programmes which complies with 
+University regulations in respect of the Postgraduate Certificate in Researcher 
+Professional Development or equivalent (60 credits). 
+ 
+Student / Supervisor Interactions 
+ 
+123. The University expects that all parties will adhere to the standards laid out in 
+Supervisory Agreement for Postgraduate Research Students during all interactions. 
+124. The student-supervisor relationship is vital to all research degrees. Close contact 
+between supervisors and students is therefore essential.
+
+--- PAGE 22 ---
+
+22  
+Academic Counsellor 
+125. The University requires that each postgraduate research student has ready access 
+to a member of academic staff other than their Primary Supervisor with whom to 
+discuss any concerns or seek advice on a confidential basis. Such discussions may 
+include the student’s relationship with their Supervisor or problems associated with 
+the effectiveness of supervision. The role may be fulfilled by the Second Supervisor 
+or an identified Academic Counsellor or Postgraduate Tutor (or equivalent by another 
+title). 
+Appointment of Supervisors 
+126. At the start of each student’s research programme, the Head of School/Department 
+should nominate two Supervisors for approval by the relevant Vice Dean. 
+a. One of these Supervisors should be recorded as the Primary Supervisor. 
+b. Supervisors will normally be members of the academic staff (Academic, 
+Research Teaching, Knowledge Exchange) at least one of whom shall be on 
+Teaching and Research Grade 8 (or above). 
+c. Where appropriate, the Head of School/Department may also appoint a work- 
+based professional to act in the capacity of a mentor. This mentor will be a 
+member of the Supervisory team but shall be exempt from training 
+requirements. 
+Relationship between the Student and Supervisory Team 
+127. Respect, trust, confidence and fairness are essential elements of the student- 
+supervisor relationship. Most interpersonal problems between students and 
+supervisors can be avoided if students and supervisors contribute responsibly and 
+professionally to their working relationship by being respectful, courteous, punctual 
+and conscientious. 
+128. Students rely on contact with their supervisors for guidance and intellectual input to 
+their research. Supervision meetings provide time for discussing all matters relating 
+to the student’s research and development, including feedback on written work and 
+pastoral check-ins. Meetings and regular contact may take place face-to-face or 
+online. 
+129. In some circumstances, supervision will be at a distance, for example, for 
+distance learning research students, students on research trips, or during 
+pandemics.5 In such circumstances, the supervisory team and the student must 
+ensure that suitablearrangements are in place to support distance supervision, such 
+as access to some form of communication, and, where applicable, time differences. 
+130. Students and Supervisors have joint-responsibility for maintaining contact as 
+required, and at least twice in every three-month period. It is important that both the 
+student and the supervisory team agree, at the start of the programme, how often 
+meetings will be held and the purpose of those meetings. This can be revisited to 
+adapt to changing circumstances. It is important that students can easily contact their 
+supervisors for advice, so supervisors must also be available for additional non- 
+scheduled meetings. The amount of contact between students and supervisors will 
+vary depending on the length of the programme, how the research is being 
+conducted, and how much support the student needs. 
+Absence and Replacement of a Supervisor 
+131. Students should be informed of who would be their first point of contact if their 
+primary supervisor were to be temporarily unavailable. This would normally be 
+ 
+5 Please note that this list is not exhaustive.
+
+--- PAGE 23 ---
+
+23  
+another member of the supervisory team. 
+132. In the event of a primary supervisor becoming unable to continue supervising a 
+research student, a replacement supervisor should be appointed, after consultation 
+with the student, within one month of the primary supervisor becoming unavailable. In 
+the meantime, the designated person (see 127) should assume the role of the 
+primary supervisor. Heads of Schools/Departments should inform research students 
+formally in writing if their supervisor resigns, giving information on the arrangements 
+for continued supervision. 
+133. During the normal period of enrolment, if a student’s research project is dependent 
+on the supervision of a single, specialist member of academic staff and that member 
+of staff leaves the University, or is otherwise unable to continue supervising the 
+student, then the School/Department must seek to make alternative, comparable 
+arrangements to supervise the student to complete their research degree. This may 
+involve supporting the student’s transfer to another institution or it may involve 
+seeking comparable specialist supervision from outside the University, so that the 
+student can complete their research degree at Strathclyde. 
+134. If a research student is unhappy with their supervision, or feels that the supervisory 
+relationship has broken down, they should attempt to resolve the matter informally in 
+the first instance. If they feel unable to discuss this directly with their supervisor (or 
+any member of their supervisory team or progression panel), or the problem remains 
+unresolved having done this, then they should feel free to talk confidentially about the 
+problem with the Head of School/Department, Academic Counsellor, or other 
+relevant departmental officer. 
+a. If the problem remains unresolved, or if the student feels unable to approach 
+the aforementioned members of their School/Department (for instance, if the 
+supervisor is the Head of School/Department), the student should arrange to 
+speak in confidence to the Strathclyde Doctoral School who will advise the 
+student on the options available to them, which might include mediation with 
+the School/Department. The Strathclyde Students’ Union can also provide 
+independent advice. 
+135. Students who feel they have experienced inadequate supervision, or that 
+the above process has not adequately resolved any issues, can consult the 
+University’s Complaints Procedure. If there are problems with the supervisory 
+relationship, then University staff will respect confidentiality and limit disclosures 
+to as few colleagues as necessary to resolve the problem. 
+136. By mutual agreement between the research student and the School/Department, 
+and where permitted by the terms of the Research Council (or other sponsor/funding 
+body), supervisory responsibilities can be changed, at the request of either the 
+research student or a supervisor. 
+a. In circumstances where the terms of the Research Council (or other 
+sponsor/funding body) do not allow for supervisory responsibilities to be 
+changed, the School/Department should be able to make changes to the 
+supervisory team, by mutual agreement of the research student and the 
+School/Department in question. 
+Supervisory Process 
+137. The purpose and likely frequency of supervisory meetings, both formal and 
+informal, at different stages of the research degree programme, should be agreed at 
+the start of the research degree programme by the student and the supervisory team. 
+Research students and supervisors are jointly responsible for ensuring that regular 
+and frequent contact is maintained and both parties should feel able to take the 
+initiative when necessary.
+
+--- PAGE 24 ---
+
+24  
+a. A meeting with the supervisory team, if requested by the student, should 
+normally take place within one week. 
+138. Students and their Supervisory Team should discuss the Supervisory Agreement 
+for Postgraduate Students at the earliest appropriate opportunity to ensure clarity 
+and understanding of respective roles and responsibilities. 
+139. Expectations around progress, supervision, training, research and submission dates 
+should all be outlined at the first supervision meeting and revisited every six months. 
+140. Relevant guidance and documents on supervision can be found on the Strathclyde 
+Doctoral School’s Lifecycle SharePoint. 
+141. Formal supervisory meetings, at which substantial discussion of, and feedback on, 
+research progress, plans, development and training take place, are vital for ensuring 
+that a student’s research project remains on target. The frequency of supervisory 
+meetings will be dependent on the individual student’s needs and progress but there 
+would normally be 10 formal meetings every year. 
+142. Students should write up and keep a record of each formal supervisory meeting. 
+ 
+Student Journey 
+ 
+Induction 
+143. The University recognises that its postgraduate research students come to 
+Strathclyde from many different parts of the world into almost all of its academic 
+Schools/Departments and Faculties. It therefore commits to providing a full induction 
+for all its PGR students, which includes: 
+a. Schools/Departments and Faculty welcome arrangements; 
+b. A collaborative partnership with the City of Glasgow to organise an annual 
+welcome period, with ceremonies and events for all overseas students 
+introducing them to the University, Glasgow and the West of Scotland; 
+c. A Welcome Week, provided in conjunction with the Students’ Union; An 
+introduction to Strathclyde Doctoral School, the Doctoral Researchers Group, 
+the Students’ Union, and any relevant forms of student representation within 
+their Schools/Departments or Faculty; 
+d. Guidance on all important and mandatory induction events (like Research 
+Integrity Tutorials or similar); and 
+e. The provision of all relevant information for related events and activities 
+related to the Induction period. 
+144. Schools/Departments and Faculties welcome arrangements should be put in place 
+for all PGRs regardless of their start date. 
+145. Schools/Departments and Faculties induction programmes should include 
+department-specific information on supervisory arrangements, research and skill 
+training, networking opportunities, facilities, good research conduct, and health and 
+safety – including (where appropriate) health and safety while undertaking work away 
+from the University (e.g. fieldwork and research visits). 
+146. Schools/Departments and Faculties should also provide all new research students 
+with an appropriate handbook, for reference. 
+147. While postgraduate research student commencement dates are flexible and open to 
+all times of the year, Schools/Departments and Faculties should, where possible, 
+consider limiting the number of entry points to research programmes to facilitate the 
+participation of new students in University, Students’ Union and other relevant
+
+--- PAGE 25 ---
+
+25  
+induction community-building events. 
+148. The University of Strathclyde PGR Induction Programme is delivered twice per 
+academic year, for all first-year postgraduate research students. All postgraduate 
+research students are required to attend. 
+149. An online orientation programme should be available for all students who cannot 
+make the on-campus orientation. 
+Period of Study6 
+150. Standard minimum and maximum periods of study are set out in the table below. 
+The minimum period of study will be used to calculate the expected submission date, 
+and the maximum period of study will be used to calculate the final submission date. 
+Individual Research Degree Regulations will establish if part-time study is available, 
+and additional admissions requirements that might affect the minimum duration. Each 
+registering student will receive confirmation of the minimum and maximum duration 
+of their study. Where an external funder requests a different duration of study, 
+applications will be considered on a case-by-case basis. Such requests, if approved, 
+will be confirmed in writing taking into consideration any funding conditions in 
+accordance with and alongside the institutional requirements and standards 
+conditions. 
+ 
+Award Full Time (months) Part Time (months) 
+ Minimum 
+period of study 
+Maximum 
+period of study 
+Minimum 
+period of study 
+Maximum period 
+of study 
+DBA N/A N/A 48 60 
+EdD 36 48 60 96 
+DEdPsy 24 36 N/A N/A 
+EngD 48 60 96 108 
+DInfSci 36 48 60 72 
+DPharm 36 48 48 60 
+PhD 36 48 72 84 
+MPhil 12 24 24 36 
+MRes 12 24 24 36 
+PhDIntSt 48 60 96 108 
+ 
+151. Studentship holders should pay close attention to the duration of their funding, 
+indicated in the formal Funding Award Letter. How this affects the management of 
+the student’s studies should be discussed and agreed between the student and the 
+supervisory team at the outset. 
+152. If required, the supervisory team should take into account the period of funding 
+available to support individual students and should encourage and support the 
+student to complete within this period. 
+153. Any periods of voluntary suspension during the minimum period of study will be 
+added to the minimum period of study and the expected submission date and final 
+submission date adjusted accordingly. 
+154. A student is required to submit their thesis within the maximum period of study. 
+Students who receive funding that covers part or all of the completing period between 
+the minimum and maximum period of study are still required to complete within the 
+maximum period of study. 
+155. In exceptional circumstances, students can seek a regulation waiver to reduce the 
+ 
+6 For guidance and information of changes to registration status, see: General Academic Regulations: 
+Postgraduate.
+
+--- PAGE 26 ---
+
+26  
+minimum period of study. 
+156. Other than in exceptional circumstances, the University anticipates that all research 
+students will complete their degree within the maximum period outlined above. 
+Mode of Study 
+157. Regulations around changes to a research student’s mode of study are covered by 
+the General Academic Regulations: Postgraduate Research. 
+158. Students may request a transfer from full-time to part-time study, or vice-versa, by 
+submitting an application to their supervisory team, for approval by the relevant Vice- 
+Dean (or nominee). Transfers to a different mode of study will only be permitted in 
+instances where the transfer does not impact on the research project adversely. 
+159. Students cannot change their mode of study when they have transferred to 
+Completing status. 
+160. Studentship holders should consider the impact on their funding before submitting 
+an application to change their mode of study. The impact of any relevant terms and 
+conditions or policies of the Funding Body should also be considered by the student 
+and the supervisory team. 
+Extension of the Period of Study and/or Voluntary Suspension77 
+161. Supervisors should make every effort to ensure that their research students submit 
+their thesis within the maximum period of study set down in the Regulations. 
+162. In exceptional circumstances, requests for extensions may be made. Any extension 
+request must be made in writing to the Supervisor, Head of School/Department, or by 
+following the relevant Faculty procedure. Approval of any request for extension will 
+be made by the relevant Faculty Vice-Dean. 
+a. Where an extension is agreed, fees at the appropriate standard rate will 
+continue to be payable. 
+163. Applications to suspend study must be made using the formal Voluntary 
+Suspension Application form. Applications to suspend study will be made to the 
+relevant Vice-Dean. 
+a. The period for any voluntary suspension should not normally exceed two 
+years. Any approval will be on an annual basis. 
+b. No fees are payable during the suspension of study. 
+164. The Student and Supervisor should check the Terms and Conditions of the 
+Studentship before applying for an extension or voluntary suspension. 
+165. The period of studentship support may be extended at the University’s discretion to 
+offset a period of genuine absence, e.g. maternity leave, paternity leave, adoptive 
+leave, extended absences covered by a medical certificate, extended jury service, 
+provided additional funding can be sourced. 
+166. Stipendiary payments will not be paid during Voluntary Suspension, unless on the 
+grounds covered by UKRI or the PGR Leave Policy. 
+167. Guidance for supervisory teams on students returning from Voluntary Suspension 
+can be found on the Strathclyde Doctoral School’s Lifecycle SharePoint. 
+Medical, Maternity, Paternity, Adoption, Shared Parental, and Carers Leave 
+168. All Postgraduate Research Students are entitled to Medical, Maternity, Paternity, 
+ 
+7 For further information, see the Voluntary Suspension Guidelines.
+
+--- PAGE 27 ---
+
+27  
+Adoption, Shared Parental, and Carers Leave. Self-funded students should consult 
+with the Voluntary Suspension Guidelines. 
+169. All students funded by UKRI are eligible for Medical, Maternity, Paternity and 
+Adoption leave which is funded by the UKRI. UKRI funded students are eligible for 
+Shared Parental Leave but not Shared Parental pay. 
+170. All students funded by UKRI can apply to the University’s PGR Leave Fund for paid 
+Carers Leave and paid Shared Parental Leave. 
+171. All students funded by UKRI can apply to the University’s PGR Leave Fund for 
+Carers Leave. 
+172. All students with non UKRI funding can apply to the University’s PGR Leave fund 
+for Medical, Maternity, Paternity, Adoption, Shared Parental, and Carers Leave. 
+173. Students and Supervisory teams are encouraged to read the PGR Leave Fund 
+Policy and Process documents for further information on eligibility criteria, 
+entitlement, and the application process. 
+174. Student Carers are encouraged to read the University’s Student Carers Policy for 
+further information on available support at the University. 
+175. Applicants must be fully registered at the University and be in receipt of a stipend 
+(maintenance grant) to be eligible to apply. 
+176. Applicants are required to take voluntary suspension for the associated period of 
+leave. 
+177. Retrospective applications will not be considered, except in cases of medical 
+emergency. 
+178. There is no qualifying period for Maternity, Paternity, Adoption, Shared Parental or 
+Carers Leave. 
+179. Self-funded students are not eligible to apply to the PGR Leave Fund.Annual Leave, 
+Holidays and University Closures. 
+180. Research Students are entitled to Annual Leave and should consult with their 
+relevant School/Department Administrator about their entitlements. 
+181. Research Students should advise their School/Department about any planned 
+periods of Annual Leave. 
+182. In line with the UKRI expectations, reasonable holidays should be allowed for by 
+Supervisors. Full-time students are entitled to 31 days holiday per year (pro-rata 
+value for part-time students), inclusive of public holidays and university closures. 
+183. Students undertaking work in collaboration with non-academic partners are 
+expected to consider their obligations to those partners in planning leave. 
+Complaints and Appeals 
+184. The University Complaints Procedure should be consulted when dealing with 
+complaints of an academic and non-academic nature from research students and 
+others. The Dignity and Respect Policy should be consulted when dealing with 
+complaints relating to harassment of any kind. 
+185. The University’s Personal Circumstances and Academic Appeals Procedure should 
+be consulted when dealing with appeals of an academic nature or other personal 
+circumstances from research students or others. 
+Graduate Teaching 
+186. During their studies, a research student may, from time-to-time, be offered teaching
+
+--- PAGE 28 ---
+
+28  
+assistant duties (such as demonstrating or teaching), or other teaching-related work 
+within the University, for which they should receive payment (in addition to any 
+eligible studentship-related stipends). 
+187. Students and Staff should consult the Guidance for Postgraduate Research 
+Students who Support Teaching and Teaching-Related Activities for further 
+information and guidance. 
+188. For Supporting Guidance on the Processes around Payment and Training for 
+Students who Teach, staff and students should consult the relevant document. 
+189. The School/Department will be responsible for ensuring that the appropriate 
+discipline-specific support/training/induction is in place and undertaken by the 
+teaching assistants prior to undertaking duties. 
+Field Work 
+Research Away from Strathclyde 
+190. Research degree students may need to undertake research away from Strathclyde 
+for a variety of reasons. This may be for data collection (e.g. fieldwork, archival work) 
+or consultation with reference institutions (libraries, archives, museums). It may also 
+be because they are undertaking their research in industry as part of an approved 
+studentship or undertaking research in a partner academic institution. The ability of 
+Students on a Student Route Visa to undertake research away from Strathclyde may 
+be limited by UKVI rules and the University cannot override these restrictions. 
+191. Where a student is undertaking research away from Strathclyde, the supervisory 
+team retains primary responsibility for maintaining oversight of the student and their 
+research project. Supervisory meetings should continue as normal but may be held 
+by video-conferencing rather than face-to-face. If video-conferencing is not available, 
+the student and supervisory team should agree a method of communication.
+
+--- PAGE 29 ---
+
+29  
+Consideration must be given as to how research training and participation in other 
+academic activities can be facilitated while the student is away. 
+192. Where a student is undertaking research away from Strathclyde, formal reviews of 
+progress must be conducted in accordance with existing regulations, and any 
+standard attendance requirements of the relevant School/Department must be met 
+as normal. 
+193. Research degree students are responsible for informing their departmental/school 
+graduate administrator (or appropriate) when they will be conducting research away 
+from Strathclyde, and for completing any relevant paperwork prior to travel overseas. 
+Administrative Systems and Monitoring 
+194. Student progress is monitored and formally recorded following the completion of 
+Interim and Annual Reviews. 
+195. NEPTUNE is the student administration system used by the Strathclyde Business 
+School, Faculty of the Humanities and Social Sciences, and the Faculty of 
+Engineering. The Faculty of Science use the SPIDER student administration system. 
+196. Both systems notify students by email (and include relevant supervisors and 
+administrative staff) when a progress review is due. This will invite them to start the 
+review process by completing a set of core institutional questions online. 
+197. School/Departmental and Faculty Administrators are able to view reports on overall 
+progress and generate reminders, if required, to complete outstanding progress 
+forms and to return statistical data to the Centre. 
+Interim and Annual Reviews 
+198. The interim and annual formal reviews with students throughout the duration of 
+study (including periods of extension) should be used to assess the progress of the 
+student’s work against the research and study plans created at the start of their 
+programme. 
+199. Supervisory teams should ensure that reviews are completed on time with 
+constructive feedback given to the student. Faculties and Schools/Departments 
+should ensure that there is oversight of the progress for all their PGR students. Part- 
+time students should follow the same review schedule as full-time students. 
+200. Students who register initially for a Masters-level programme (including 1+3 
+studentship arrangements) with a view to progressing to a Doctoral programme must 
+be clearly advised that progression to the Doctoral programme is not automatically 
+achieved by passing the Masters-level programme. They also need to demonstrate 
+an ability to progress to Doctoral level with anticipated satisfactory performance at 
+that level, and within an appropriate timescale especially when associated with 
+external funding body requirements. 
+201. The University provides online systems for the maintenance of formal progress 
+review records. Each student is required to sign up and date their progress record 
+online following each session, to confirm that they have seen and understood the 
+feedback. 
+202. Assessment of overall progress is based on the student’s oral and written reports, 
+on their research, and any other relevant information such as presentations, literature 
+surveys and assessment of instructional feedback to the student on progress and 
+whether progress is satisfactory.
+
+--- PAGE 30 ---
+
+30  
+203. Written records should be updated at least on a 6-monthly basis for students 
+studying full-time (and adjusted appropriately for students undertaking non- 
+consecutive or part-time study). 
+a. Students should be able to view their completed online review, feedback and 
+progress decisions in line with GDPR. 
+204. The University has a core set of questions across the institution to be used for 
+interim and annual reviews with supplementary Faculty-based questions. The 
+process includes an annual review of each student by a Panel including at least one 
+person independent of the supervisory team. Towards the end of the first year of 
+study, this review takes the form of the Intermediate Assessment (see below). 
+205. If overall progress is reported to be unsatisfactory at any stage, the Supervisor will 
+explain clearly to the student what the student needs to do, and in what time-scale, in 
+order to rectify the situation. The Supervisor will report any instances of 
+unsatisfactory progress to the Head of School/Department who may take any action 
+as necessary.8  
+a. Failure to rectify the situation within the specified time-frame may result in 
+termination or a change in the student’s registration. 
+Progression 
+206. Each School/Department and Faculty should hold a minimum of one annual 
+meeting that reviews the progress of all postgraduate research students. 
+207. The purpose of the Progression meetings is to provide oversight of the progress of 
+all postgraduate research students, to review if supervisions and formal student 
+reviews have taken place, and to report on the progress of the student to complete 
+within the maximum duration of study. 
+Intermediate Assessment of Doctoral Candidates 
+208. Within twelve months of starting full-time study, or equivalent for non-consecutive, 
+or part-time study, the Head of School/Department should carry out the formal 
+intermediate assessment of progress against the criteria specified by the 
+School/Department or Faculty. 
+209. New entrants who have successfully completed an appropriate Masters-level 
+programme may be exempt from intermediate assessment. 
+210. The Supervisor will provide written details of the intermediate assessment and the 
+relevant criteria to the student at the outset of their doctoral studies, and should work 
+to maintain knowledge of these during the induction period. 
+211. Students must pass the intermediate assessment before being allowed to work 
+towards their Doctorate. 
+212. The Head of School/Department, or Vice-Dean Academic, may waive the 
+requirement for intermediate assessment for research students who have already 
+successfully completed an appropriate Masters level programme. 
+Submission and Examination 
+213. Students should consult with their Supervisor when their thesis is ready for 
+submission and should notify Student Business accordingly. For full-time doctoral 
+programmes, this normally occurs three months prior to the expected date of 
+submission. 
+214. Some Faculties have an ‘Intention to Submit Thesis’ form which must be completed 
+ 
+8 For further guidance, see General Academic Regulations: Postgraduate Research (39-43).
+
+--- PAGE 31 ---
+
+31  
+within the relevant timescale relative to the formal submission. Supervisors within 
+Faculties that have an ‘Intention to Submit Thesis’ form, should notify the student of 
+this during a relevant submission or review. 
+Examining Committee 
+215. The Examining Committee normally comprises at least two active researchers; an 
+Internal Examiner who is not part of the supervisory team and an External Examiner 
+(two External Examiners in the case of a Doctorate by Publication), and a Convenor, 
+who is member of academic stuff but not part of the supervisory team. 
+216. The Head of School/Department, in consultation with the Supervisory Team, the 
+Student, and the relevant Vice-Dean of the Faculty, nominates the members and the 
+Convenor of the Examining Committee for endorsement by the Vice-Dean. 
+217. The Examining Committee should be appointed and approved before the thesis is 
+submitted. 
+218. The External Examiner will, in many cases, be a senior academic in an institution of 
+at least equivalent reputation to the University of Strathclyde in the subject area in 
+question. They will normally be expected to have a proven publication record in the 
+field of study. 
+219. In some cases (in respect of relevant programmes such as the EngD and 
+Professional Doctorates), Examiners from industry, commerce, professional practice 
+and other organisations may be best suited to examining the research. Additionally, 
+an External Examiner should not normally: 
+a. Be an honorary member of the University of Strathclyde; 
+b. Have been a member of honorary member of the staff of the University of 
+Strathclyde in the three years prior to the assessment or whilst the student 
+has been carrying out research at the University (if this is more than three 
+years); 
+c. Have had any significant contact of a supervisory nature with the student or 
+their research project; or 
+d. Be appointed in the relevant Faculty more than five times in three years. 
+220. The Internal Examiner is expected to have sufficient knowledge and understanding 
+of the topic to enable them to judge the quality of the thesis and play a full part in the 
+examination. 
+221. The Convenor will be a member of staff of the University who is not part of the 
+Supervisory team. 
+222. The Convenor will not also be one of the Examiners. 
+223. The Convenor is responsible for convening the committee, ensuring the receipt of 
+preliminary reports from the Examiners, and for resolving any disagreements that 
+may arise. 
+224. The Convenor is also responsible for taking notes of the viva that clearly evidences 
+the process, indicating the elements outlined below. It is not intended to be a 
+verbatim record of the viva. 
+a. A record of the topics discussed; 
+b. The time allocated to each topic area of the examination; 
+c. 
+The time of any breaks taken; and 
+225. Any other relevant information.The Convenor is responsible for returning the 
+notes of the viva to the Directorate of Student Experience together with the External 
+Examiners’ report.
+
+--- PAGE 32 ---
+
+32  
+Operation of the Examining Committee 
+226. The Examiners scrutinise the student’s dissertation or thesis and are required to 
+submit to the Convenor an individual report prior to a meeting of the Examining 
+Committee. 
+227. The Examining Committee normally conducts an oral examination for Doctoral 
+students. For Masters candidates, the Committee may at its own discretion: 
+a. Conduct an oral examination; 
+b. Meet to confirm the outcome without conducting an oral; or 
+c. Complete the assessment by correspondence. 
+228. For both Doctoral and Masters orals, the Convenor of the Examining Committee 
+may, after consultation with the student, invite the Supervisors to attend the oral 
+examination and dissertation of the examiners in a non-voting capacity. 
+229. In cases of a thesis being rendered unexaminable as a result of remote (i.e. third- 
+party) printing errors or file corruption, the examiners should notify the Student 
+Business Team as soon as possible, and no later than four weeks after receipt. The 
+Student Business Team will contact the student to request an examinable version of 
+the thesis originally submitted for examination, to be submitted within ten working 
+days. 
+230. Where it has been agreed that the content of a candidate’s thesis should not be 
+divulged publicly, the examiners should honour the request: this may be particularly 
+important in the case of commercially-sponsored studentships and/or where access 
+to a thesis is to be restricted. In such cases, the candidate may be asked to provide 
+an abstract suitable for placing in the public domain. 
+Recommendations, Corrections and Final Submission 
+Recommendations of the Examining Committee 
+231. The Examining Committee bases its recommendation on the student’s thesis and, if 
+appropriate, their performance in any oral examination. 
+232. The Examining Committee makes its recommendations to the Vice Dean for 
+approval. 
+233. Recommendations and PhD Outcomes can be found in the General Academic 
+Regulations: Postgraduate Research (79-85). For a summary of the timeframes 
+allowed for each outcome, see below: 
+a. For minor or straightforward corrections, the student has a maximum of 3 
+months to make any changes. 
+b. For substantial or major corrections, the student has a maximum of 6 months 
+to make any changes. 
+c. For a resubmission of the thesis (with, or without, a further viva), the student 
+has a maximum of 12 months to make any changes. 
+234. The Examiners must prepare and sign a joint report that includes a summary of the 
+viva examination. 
+235. A hard copy of the form should be sent to the External Examiner, 
+alongside the thesis and any other relevant information.The Examiners’ Report 
+will either make an agreed recommendation or record particulars of any 
+disagreement along with a proposal for resolution. The Report should provide 
+clear justification for the Examining Committee’s decision. 
+a. The Report should be made available to the candidate. 
+236. The Convenor must report significant disagreements to the Faculty Board of Study
+
+--- PAGE 33 ---
+
+33  
+together with a proposal for resolution. The Convenor may, in such circumstances, 
+seek approval from the Board of Study for the appointment of a second External 
+Examiner. 
+237. The Convenor will return the Examiners’ Report to the Student Business Team, 
+countersigned to certify that all the instructional elements of the course have been 
+successfully completed, and inform the student and the Head of School/Department, 
+of the outcome and recommendations of the Examining Committee. Student 
+Business will forward any award recommendation to the relevant Faculty Board of 
+Study and Senate for ratification. 
+238. The Student Business Team will provide a written confirmation to the candidate 
+subject to ratification by the Board of Study and Senate. 
+239. For a student required to resubmit, the Convenor or Internal Examiner will 
+communicate what further work is required. 
+Revision and Resubmission 
+240. If the examiners agree that the requirements for the degree concerned have not yet 
+been satisfied, but there is the potential for the requirements to be satisfied, they may 
+recommend that the thesis should be revised and resubmitted for examination. The 
+Directorate of Student Experience will send official notification of this decision to the 
+candidate once the examiners’ report has been received and the decision has been 
+approved by the relevant Vice-Dean. The official notification will include a copy of, or 
+links to, the Examiner’s Report. 
+241. Where a recommendation for the revision and resubmission of a thesis is made, the 
+examiners should, within two weeks of the date of the oral examination, provide the 
+candidate with advice in writing concerning the points which should be borne in mind 
+by the candidate when revising the thesis. 
+242. The candidate should not expect to receive a mechanical list of revisions to be 
+made, particularly when the revisions required involve major improvements in the 
+depth, intellectual quality, analysis, argument or structure of the thesis. If the 
+candidate requires any clarification regarding the required revisions after receipt of 
+the examination report, the student should contact their supervisor who can then 
+judge if it is necessary to request further clarification from the internal examiner. 
+243. Neither student nor supervisor should contact the external examiner directly without 
+their express permission. 
+244. The University expects that a candidate will be given a fair and reasonable 
+opportunity to revise the thesis to the required standard, whatever the circumstances 
+of the resubmission. To this end, the candidate should be offered the opportunity of 
+an initial meeting with the supervisor to discuss the examiners’ requirements for 
+revision. Thereafter, the need for further meetings will vary from case to case, 
+according to, for example, the availability of the student and the extent of the 
+revisions needed. The University accepts that there may be cases in which the 
+student/supervisor relationship comes under strain as a result of the examiners’ 
+decision to refer the thesis; and in these cases it may be more appropriate, at the 
+discretion of the Head of School/Department for another member of the 
+School/Department to take on responsibility of mediating feedback. 
+245. Candidates in their revise and resubmit period will retain access to computing and 
+library facilities. 
+Examination following revision and resubmission 
+246. The outcomes of the examination are the same recommendations as listed in 
+General Academic Regulations: Postgraduate Research (79-85), except that a 
+candidate’s thesis may only be revised and resubmitted on one occasion.
+
+--- PAGE 34 ---
+
+34  
+247. The candidate should prepare and submit for examination copies of their revised 
+thesis as per the process for the original submission, and as specified in the 
+University’s requirements (see the relevant section for format and submission within 
+this document). 
+248. The re-examination of a candidate following the revision and resubmission of the 
+thesis will normally be conducted by the individuals who conducted the original 
+examination. In exceptional circumstances (for example, due to a change in health or 
+employment circumstances of an examiner), a new examiner or examiners may need 
+to be appointed by the Examining Committee. 
+249. Where an examiner must be replaced between an initial examination and a re- 
+examination of the thesis, the second examination will normally have the same status 
+as any other re-examination. The new examiner should have access to the original 
+examiners’ reports in order to inform their assessment, but the primary measure of 
+success should be the academic judgement of the examiners as to whether the 
+standards of the award have been met, rather than whether revisions outlined by the 
+original examiner have been made. 
+250. The decision as to whether or not to require a candidate to attend an oral 
+examination following the resubmission of a thesis is left to the discretion of the 
+examiners. However, if the examiners are considering a downgrade (with or without 
+corrections) or fail outcome, a second oral examination must be offered. 
+251. The decision on whether to require an oral examination should be made as soon as 
+possible and no later than six weeks after the receipt of the revised thesis by the 
+examiners. 
+252. Each examiner must submit an independent preliminary report on the resubmitted 
+thesis, whether or not an oral examination is required. If the examiners agree that an 
+oral examination is not required, they must specify their reasons for this decision in 
+their preliminary report. 
+253. If an oral examination is held, it should be within three months of the submission of 
+the revised thesis. 
+Format and Submission of Theses 
+254. The regulations relating to the format of theses, dissertations, designs or reports 
+submitted in pursuance of higher degrees by research and scholarship are given 
+below. It should be noted that they are specific in relation to the copy only and that 
+the candidate may make whatever arrangements they wish for additional copies.9  
+Number of Copies 
+The student is required to submit one digital copy to Student Business. 
+Materials Specification 
+255. The digital copy should be a single electronic file and shall conform to the 
+appropriate British or International standard as if it were to be printed. 
+Specification 
+256. The electronic file of the digital copy shall be in PDF format. 
+Method of Production 
+257. The text (including the summary) shall be in printed form and of such a quality as 
+will ensure a high standard of reproduction. All other material submitted (e.g. 
+ 
+9 Please note that some departments have arrangements with external partners that may require a printed 
+version be submitted. Supervisors and Students should confirm with their department the requirements for 
+binding, where that is required.
+
+--- PAGE 35 ---
+
+35  
+computer print-outs, diagrams, and maps), shall be of concomitant quality. 
+Abstract 
+258. The thesis, dissertation, design or report shall include an abstract of the contents, 
+not exceeding three hundred words in length, which shall be bound in at the 
+beginning of the general text. 
+Title Page 
+259. The thesis, dissertation, design or report shall contain a title page or equivalent 
+designator giving the name of the University School/Department or group of 
+Schools/Departments, the title of the thesis, the name of the author, the degree and 
+the year of submission of the thesis. Each separate component of the thesis shall 
+contain such a title page or equivalent designator. 
+Declaration of Authenticity and Author’s Rights 
+260. The thesis, dissertation, design or report shall include, on the page immediately 
+subsequent to the title-page, the following declarations of authenticity and author's 
+rights: 
+‘This thesis is the result of the author’s original research. It has been 
+composed by the author and has not been previously submitted for 
+examination which has led to the award of a degree.’ 
+'The copyright of this thesis belongs to the author under the terms of the 
+United Kingdom Copyright Acts as qualified by University of Strathclyde 
+Regulation 3.50. Due acknowledgement must always be made of the use of 
+any material contained in, or derived from, this thesis.’ 
+Signed: 
+Date: 
+Previously Published Material 
+261. A candidate who submits a thesis consisting in whole or in part of previously 
+published work for which they have been responsible must submit with their thesis a 
+signed statement clearly defining the extent of their contribution to such work. 
+Previously Submitted Work 
+262. A candidate should not submit material which they have presented for another 
+degree unless they consider that its omission would result in an inadequate 
+representation of their research. A candidate who has previously submitted the material, 
+or any part of it, for examination for a degree of the University or of another institution 
+must declare this in writing when submitting their thesis. In this case the declaration 
+required by 256 of this document should read: ‘This thesis is the result of the author’s 
+original research. It has been composed by the author and contains material that has 
+been previously submitted for examination leading to the award of a degree at 
+(institution) in (year).’ 
+Signed: 
+Date: 
+Length of Thesis 
+263. The length of the thesis is set out below: 
+a. For Doctorates of Philosophy and Engineering – no more than 100,000 
+words; 
+b. For Professional Doctorates – no less than 50,000 and no more than 60,000 
+words. 
+Language
+
+--- PAGE 36 ---
+
+36  
+264. The thesis shall be written in English. Exceptionally, the relevant Board of Study 
+may permit submission in a language other than English, in which case a translation 
+of the abstract into English must accompany the thesis. 
+Layout 
+265. The text shall appear on the recto side of the page only, lines double or one and-a- 
+half spaced. There shall be a margin (before trimming) of 40mm at the left-hand 
+(binding) edge, 25mm at the fore edge, of 20 mm at the head of the page and of 
+40mm at the tail. Illustrations, diagrams, tables, etc, may appear on either side of the 
+page, whether or not the other side is blank, provided that legibility is not impaired. 
+The margin should conform as far as possible to that specified above for text pages; 
+in any event, there must be an adequate binding edge margin. 
+Pagination 
+266. Text pages shall be numbered in continuous sequence irrespective of volumes. 
+Preliminary material (e.g. contents pages and abstract) and appendices may be 
+given separate pagination. Pages on the verso side, if they bear authorised material, 
+shall be numbered according to the facing page with the affix A. 
+Regulations for Submission of Theses 
+Submission 
+267. A candidate for a higher degree by research (other than the degree of DSc or DLitt) 
+who is required under the provisions of the General Academic Regulations: 
+Postgraduate Research to submit a thesis, dissertation, design or report shall submit 
+a single digital copy following the guidance above (251-264), which shall thereupon 
+become the property of the University. 
+268. Prior to any award being made, the candidate must submit a digital copy to Student 
+Business and a digital copy must be made available to the University of Strathclyde 
+Institutional Repository. 
+Supplementary Material 
+269. A thesis may be accompanied by supplementary material of a non-print form. Such 
+material, where possible, shall accord with University guidelines (available from 
+Student Business). Copies of the supplementary material shall be submitted with 
+digital copies of the thesis. 
+Property Rights 
+270. The copies of the thesis in digital format and any supplementary material in digital 
+format shall become the property of the University. 
+Consultation 
+271. Persons borrowing or consulting a thesis, or receiving copies of a thesis in whole or 
+in part, must observe the author’s rights set out in the declaration contained in entry 258 
+of this document. 
+Moratorium 
+272. For information on the availability of theses, students and staff should consult the 
+General Academic Regulations: Postgraduate Research (91-95). 
+Final Submission 
+273. At the end of the University examination process all successfully awarded 
+postgraduate research students are required to submit the following to Student 
+Business: 
+a. One completed Thesis submission form; 
+b. One completed Digital Thesis Licence Agreement; and 
+c. A PDF version of their thesis and any supplementary data that was required
+
+--- PAGE 37 ---
+
+37  
+for assessment. 
+274. The thesis submission process is administered by Student Business. 
+Access Restrictions and Moratoriums 
+275. Guidelines on Access Restrictions and Moratoriums should be read in conjunction 
+with the General Academic Regulations (Postgraduate Research) 90-94.10  
+276. Postgraduate Research Students may request moratoriums for a limited period of 
+time for a specific reason. This may be, for example: 
+a. That your thesis has been commercially sponsored, and an agreement signed 
+which does not permit the thesis to be made publicly available; or 
+b. You wish to pursue a publishing contract and publishing opportunities may be 
+compromised by the making available of a thesis in digital form; or 
+c. That the release of you thesis might endanger the physical or mental health 
+or the safety of an individual or individuals. 
+277. Theses can be requested under the Freedom of Information (Scotland) Act 2002, 
+and as such grounds for placing a moratorium can relate to one of the exemption 
+provisions within the Act. Students should discuss FOI exemptions with their 
+Supervisory team before submitting a completed Moratorium request form. 
+278. Theses can also be requested under the Environmental Information (Scotland) 
+Regulations 2004 (EIRs). Students should discuss EIR exceptions with their 
+Supervisory team before submitting a completed Moratorium request form. 
+279. Moratorium requests must be made by the thesis author or by an academic 
+member of the Supervisory Team (usually the Primary Supervisor) to the Student 
+Business team, via a completed moratorium request form (available on the library 
+webpages). 
+a. Approval from the relevant Head of School/Department must be sought 
+before submitting the form to student business. 
+280. A formal moratorium can last for up to five years and includes the print and digital 
+versions of a thesis. 
+Award 
+281. A student who satisfies the conditions of the Ordinances governing the award of 
+degrees, diplomas and certificates and of the general regulations will, on payment of 
+the required fees, be entitled to receive the appropriate award. 
+282. To qualify for the award, the student must have achieved no fewer than 60 credits 
+of researcher development skills and have satisfied the examiners with regards to the 
+thesis and oral examination. 
+283. The student will receive formal notification setting forth the details in which the 
+award has been granted. 
+Graduation 
+284. Students who have successfully passed the examination of their thesis, and have 
+uploaded the relevant documents, can register to graduate. 
+285. The student can register to graduate prior to the Examining Committee approving 
+the award, via the online enrolment form. 
+ 
+10 Support and enquiries can be accessed through the Library’s Cataloguing and Metadata team 
+(lib.bcd@strath.ac.uk).
+
+--- PAGE 38 ---
+
+38  
+a. If the award is not approved, the registration will roll to the next set of 
+graduation ceremonies. 
+286. Students can check their status through their Pegasus record, which will be updated 
+to reflect the approval of the award.

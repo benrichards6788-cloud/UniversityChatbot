@@ -1,0 +1,1383 @@
+--- PAGE 1 ---
+
+Research  
+Code of Practice 
+  
+ 
+  
+Prepared by: Research Policy & Information (RP&I) Team, Research & Knowledge  
+Exchange Services (RKES). 
+Approved by: University Senate on the recommendation of the University Research 
+& Knowledge Exchange Committee (RKEC). 
+Date of approval: Recommended for approval by RKEC on 24 September 2024. 
+Approved by Senate on 13 November 2024. 
+Date effective: 13 November 2024. 
+Version number: 3.2 
+Summary of 
+changes: 
+New clause on responsible use of generative artificial intelligence 
+(3.8); Clarification of permission to re-use or share personal data 
+(3.1.2; 3.7.2); Clarification of data management plan requirement for 
+Postgraduate Researchers to reflect Institutional Rights Retention 
+Policy (3.7.3); Clarification of example of notifying external bodies of 
+outcomes of misconduct investigation (Annex B); Updated links and 
+name changes (throughout). 
+Review process: Reviewed annually by the RP&I Team. 
+Previous versions: The first version of the Code was introduced in May 2010. Previous 
+updates were made in February 2017 (v2.0), May 2017 (v2.1), 
+November 2017 (v2.2), November 2021 (v2.3), March 2023 (v3.0), 
+November 2023 (v3.1).
+
+--- PAGE 2 ---
+
+RESEARCH CODE OF PRACTICE 
+ 
+ 
+Contents 
+1. Purpose, Scope and Oversight 
+1.1. Introduction 
+1.2. Purpose 
+1.3. Scope and definition of research 
+1.4. Oversight 
+2. Nature and Scope of Research Integrity 
+2.1. Definition of ‘Research Integrity’ 
+2.2. Roles and responsibilities regarding Research Integrity  
+2.3. Academic freedom 
+3. Planning and Conducting Research 
+3.1. Practical planning 
+3.2. Sources of research funding 
+3.3. Conflicts of interest 
+3.4. Collaborative and international research 
+3.5. Research ethics and governance 
+3.6. Insurance for research activities 
+3.7. Maintaining quality, consistency and authenticity 
+3.8. Use of generative artificial intelligence in research 
+4. Sharing Research 
+4.1. Research outputs 
+4.2. Recognition and authorship 
+4.3. Open access outputs and research data 
+5. Evaluating Research 
+5.1. Peer review 
+5.2. Other mechanisms of monitoring and review 
+6. Commercialising Research 
+6.1. Intellectual property 
+7. Addressing Research Misconduct 
+7.1. Definition of ‘Research Misconduct’ 
+7.2 Allegations of research misconduct 
+Annex A: Relevant Policies, Guidelines and Concordats 
+Annex B: Procedure for the Investigation of Misconduct in Research
+
+--- PAGE 3 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+1. Purpose, Scope and Oversight 
+1.1. Introduction 
+1.1.1. Established as a place of useful learning, the University of Strathclyde (hereafter ‘the University’) is 
+committed to delivering world-leading research in accordance with the highest standards of research 
+quality and integrity. As stated in the University’s Strategic Plan (Vision 2025), “we take it as our 
+responsibility to research, teach and be of benefit to society – to reach outside the University to make the 
+world better-educated, sustainable, prosperous, healthy, fair and secure.” 
+1.2. Purpose 
+1.2.1. The chief aim of this Research Code of Practice (hereafter the ‘Code’) is to promote the production and 
+dissemination of research of the highest quality across the whole University. The Code also aims to 
+prevent research misconduct through the clear articulation of standards for research practice.  
+1.2.2. This Code defines the core principles of research integrity (Section 2) and details the implementation of 
+those principles throughout the research lifecycle (Sections 3-6). Where these principles are not 
+maintained and research practice falls below the standards outlined in this Code, individuals may be 
+subject to the procedures for investigating allegations of misconduct (as described in Section 7).  
+1.3. Scope and definition of research 
+1.3.1. The Code applies to and must be observed by: 
+i. All University staff (regardless of contract type) engaging in research activities. 
+ii. All University students engaging in research activities. 
+iii. Any individuals who do not fall within (i) and (ii) above but who are otherwise associated with the 
+University and are authorised to use the University’s name, facilities and/or services when engaging 
+in research activities (such persons would include, for example, those holding visiting, honorary or 
+emeritus status). 
+All of the above shall be referred to as ‘Researchers’ throughout the Code.  
+1.3.2. For the purposes of this Code, the definition of ‘research’ is as set out in the Research Excellence 
+Framework (REF) 2021 Guidance on Submissions, (Annex C, para.261, published in 2019 and revised 
+October 2020):  
+“‘Research’ is defined as a process of investigation leading to new insights, effectively shared.” 
+1.3.3. Where knowledge exchange activities are aimed at generating and/or disseminating new knowledge, 
+these activities are within scope of this Code in accordance with the definition of research above. 
+1.3.4. The Code applies to research conducted in all fields, for any purpose. 
+1.4. Oversight  
+1.4.1. To ensure alignment with relevant regulations, legislation and sector best practice, at a minimum the 
+Code is reviewed on an annual basis, with updates and revisions made as and when required. This 
+process is overseen by the Research Policy and Information Team based in the Research and 
+Knowledge Exchange Services Directorate (hereafter ‘RKES’). Any queries or feedback on the Code 
+should be directed to researchpolicy@strath.ac.uk. 
+1.4.2. The University Research and Knowledge Exchange Committee (hereafter ‘RKEC’) is responsible for 
+reviewing and recommending any changes to the Code to University Senate for approval.
+
+--- PAGE 4 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+2. Nature and Scope of Research Integrity 
+2.1. Definition of ‘Research Integrity’ 
+2.1.1. The University expects all Researchers to conduct their research activities in accordance with The 
+Concordat to Support Research Integrity (hereafter ‘the Research Integrity Concordat’). This Concordat 
+provides a framework for good research practice and defines research integrity via five principles:  
+i. Honesty in all aspects of research, including in the presentation of research goals, intentions and 
+findings; in reporting on research methods and procedures; in gathering data; in using and 
+acknowledging the work of other Researchers; and in conveying valid interpretations and making 
+justifiable claims based on research findings. 
+ii. Rigour, in line with prevailing norms and standards in the Researcher’s research area, and in 
+performing research and using appropriate methods; in adhering to an agreed protocol where 
+appropriate; in drawing interpretations and conclusions from the research; and in communicating the 
+results. 
+iii. Transparency and open communication in declaring potential competing interests; in the reporting 
+of research data collection methods; in the analysis and interpretation of data; in making research 
+findings widely available, which includes publishing or otherwise sharing negative or null results to 
+recognise their value as part of the research process; in preserving and sharing data whenever 
+possible; and in presenting the work to other Researchers and to the public. 
+iv. Care and respect for all involved in research, and for the subjects/participants, users and beneficiaries 
+of research, including humans, animals, the environment and cultural objects. Those engaged with 
+research must also show care and respect for the integrity of the research record. 
+v. Accountability of funders, employers and Researchers to collectively create a research 
+environment in which individuals and organisations are empowered and enabled to own the research 
+process. Those engaged with research must also ensure that individuals and organisations are held 
+to account when behaviour falls short of the standards set by the Research Integrity Concordat. 
+2.1.2. These principles apply throughout the research lifecycle, from preparation and submission of project 
+proposals to dissemination and application of research findings. The core elements also apply to the 
+review on the proposals or publication of others’ research (i.e. peer review).  
+2.1.3. In addition to the Research Integrity Concordat (2012; 2019), the University is committed to a range of 
+research-related concordats and agreements between universities, funders and/or sector bodies, 
+including: Concordat to Support the Career Development of Researchers (2008; 2019) (hereafter ‘the 
+Researcher Development Concordat’); Concordat for the Advancement of Knowledge Exchange in 
+Higher Education (2020); Concordat on Open Research Data (2016); Concordat on Openness in Animal 
+Research (2014); Concordat for Engaging the Public with Research (2010); Technician Commitment 
+(2017); Guidance for Safeguarding in International Development Research (2020); San Francisco 
+Declaration on Research Assessment (DORA) (2013); Leiden Manifesto on Research Metrics (2015); 
+and Agreement on Reforming Research Assessment (2022). 
+A short description for each initiative is given in Annex A. Annex A also sets out key areas where 
+legislation shapes good research practice, internal policies that Researchers must adhere to in their 
+research activities, and broader national and international policies and guidelines that affect the 
+University’s approach to research integrity.   
+2.1.4. The Code and associated Guide to Good Research Practice are designed to complement these existing 
+frameworks and support Researchers to meet the expectations placed on them. Researchers should 
+ensure they are familiar with the expectations for good research practice as set out in the documents
+
+--- PAGE 5 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+referenced in Annex A, as applicable to their research, and maintain up-to-date knowledge of these 
+expectations in line with developing norms or standards of their research area.  
+2.1.5. Additional discipline-specific policies, guidelines and concordats are not provided here. As outlined above 
+and in the Research Integrity Concordat, it is the responsibility of Researchers to keep up-to-date 
+knowledge of and comply with professional standards that apply to their work. Guidance on discipline-
+specific expectations can be sought from managers and research leads in the Researcher’s discipline.  
+2.2. Roles and responsibilities regarding Research Integrity 
+Researchers 
+2.2.1. The Research Integrity Concordat states that the primary responsibility for ensuring that research is 
+conducted in accordance with the principles of research integrity lies with the individual Researcher. 
+Researchers have a responsibility to ensure that they are familiar and compliant with all policies 
+governing their research, including this Code and wider University policies as well as any other ethical, 
+legal and professional frameworks, obligations or standards.  
+2.2.2. Researchers must take responsibility for the integrity of their own actions, ensuring that they have the 
+necessary skills and knowledge to undertake activities in line with the University’s expectations and 
+requirements of their role, or raising any needs with their line manager where they do not.  
+2.2.3. In addition, Researchers must highlight any deviation from required standards in their own work, or in the 
+work of others, as soon as it is identified, using the procedures set out in Section 7.  
+2.2.4. Guidance and support for Researchers on adhering to the standards set out in the Code is available on 
+the University website and RKES Portal, including a Guide to Good Research Practice. Confidential 
+advice related to research integrity or research misconduct can be sought from the Research Policy and 
+Information team in RKES via email to research-integrity@strath.ac.uk. 
+Senior Staff 
+2.2.5. For the purposes of the Code, Senior staff is considered to be all staff whose role assigns responsibility 
+for setting and facilitating the strategic direction of the University. This includes but is not limited to: The 
+Principal; The Vice-Principal; The Associate and Deputy Associate Principals for Research and 
+Knowledge Exchange; The Executive Deans; Other Executive Officers; Faculty Vice Deans and 
+Associate Deans for Research and Knowledge Exchange; Heads of Departments and Schools and 
+Directors of Research; and Directors of relevant professional services directorates. 
+2.2.6. It is the responsibility of those in authority to maintain a research culture which enables Researchers to 
+act in accordance with the principles of research integrity at all times.  
+Research Leads (including Principal Investigators/ Supervisors) 
+2.2.7. Overall responsibility for the standard of research practice within a research project or research area lies 
+with the Research Lead, or with the student’s primary Supervisor in the case of student projects. This 
+responsibility applies to all staff named as the Principal Investigator, Co-Principal Investigator, Chief 
+Investigator, Co-Chief Investigator or Co-Investigator on a grant or project, whether externally funded or 
+internally supported. 
+2.2.8. These individuals are responsible for ensuring that Researchers involved in the research are aware of 
+and understand all policies governing the research, including this Code and wider University policies as 
+well as any other ethical, legal and professional frameworks, obligations or standards. Deviation from 
+these required standards must be highlighted as soon as it is identified.
+
+--- PAGE 6 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+2.2.9. Principal Investigators and Supervisors should also ensure that Researchers are able to access training, 
+resources and support to allow them to achieve the required standards of research practice and the 
+expectations of their role.  
+2.3. Academic freedom 
+2.3.1. This Code recognises that academic freedom is necessary to ensure the integrity of research. 
+Researchers must be able to exercise freedom in their academic choices, including questioning and 
+testing received wisdom; studying areas or topics that lead them to explore and/or collect research 
+material of a sensitive or controversial nature; using methods of research that are controversial or 
+sensitive; and, sharing new, controversial or unpopular views. The University supports its Researchers in 
+undertaking legitimate research of this nature and provides protective processes to ensure that this 
+research is not unnecessarily disrupted through unwarranted attention.  
+2.3.2. Academic freedom is given on the condition that it is used lawfully and in respect of the academic 
+freedom of others, and that views shared are the end results of adherence to high research standards of 
+procedure, evidence and proof shared by the academic community of which the Researcher is a member. It 
+should be noted that Researchers are not protected from the normal constraints of the law by appeal to 
+academic freedom as such. Furthermore, limitations to academic freedom may be imposed if there is 
+considered to be a high risk that the research will result in a breach of legal, ethical, or contractual 
+requirements.   
+2.3.3. It is the ethical responsibility of Researchers to recognise and acknowledge the scope of their 
+professional competence and not wilfully offer interpretations of data which go beyond the limits of that 
+expertise without signalling the lay status of such statements. Not to respect such a distinction is laying 
+false claims to expertise, which is an ethical abuse and could lead to the instigation of disciplinary 
+procedure (e.g. by the University as employer) and possibly litigation (e.g. by a funder). 
+2.3.4. Differing opinions and perspectives expressed as part of academic debate should be expressed 
+respectfully, in line with the University’s Dignity and Respect Policy.  
+3. Planning and Conducting Research 
+3.1. Practical planning 
+3.1.1. When planning research, Researchers should consider key factors that may affect the success of the 
+project and/or their adherence to the standards outlined in the Code. These may include researcher 
+training, ethical approval, data protection considerations, and collaboration agreements. Researchers are 
+encouraged to use the UKRIO Checklist for Researchers to support their planning. 
+3.1.2. Researchers are encouraged to consider at an early stage of the project whether they, or other 
+Researchers, may be able to reuse the data and plan accordingly. Decisions made concerning data 
+throughout the project lifecycle should be recorded in the project Data Management Plan (required for all 
+PGR student and staff research projects – see the Research Data Management and Sharing Policy). 
+Reuse of data requires the data to be prepared and have the proper consents in place before long-term 
+storage and/or sharing to avoid breaches of legal, ethical, funder or contractual requirements. In some 
+instances, these requirements may be such that reuse of data is not possible. For studies involving 
+human participants, the purposes for which you intend to use participants' personal data (that is, data that 
+relates to an identified or identifiable living individual) must be included in the ethics application and all 
+participant information and consent to participate forms, in particular any intended re-use or sharing of 
+personal data (including pseudonymised data). Participants must also be provided with a Privacy Notice 
+explaining how their personal data will be used and processed in accordance with data protection
+
+--- PAGE 7 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+legislation. If you only intend to re-use or share fully-anonymised data, there are no data protection 
+implications to sharing this data, however, in line with the Code of Practice on Investigations Involving 
+Human Beings, the University Ethics Committee considers it good practice to tell participants about this 
+when recruiting them to the study. Researchers should acquaint themselves with the legal obligations 
+around collecting and analysing ‘personal data’ in their research by reviewing the University’s Data 
+Protection Policy; the Information Governance Unit’s guidance on Data Protection and Research, and 
+completing Data Protection training, accordingly. If there is an intention to share personal data with a third 
+party appropriate data sharing agreements or clauses should be in place. 
+3.1.3. Due regard must be given to the risk of misuse of research when planning activities. This includes 
+concerns related to Trusted Research and Innovation (see clauses 3.4.2.-3.4.3), as well as 
+considerations about how research findings and/or data could be used to cause harm. Where significant 
+risks are identified, mitigations should be put in place in consultation with the Researchers’ Head of 
+Department/School, with recognition of any ethical, funder or contractual requirements for the research. 
+This could include amending the research design or limiting dissemination.  
+3.2. Sources of research funding 
+3.2.1. The University will only support ethically justifiable research funded by bona fide organisations. There is a 
+duty of disclosure on all Researchers to reveal, prior to agreeing a research contract, any material fact 
+that might influence the University’s wish to become associated with a particular research project or 
+funder. These include, but are not limited to legal, reputational and ethical issues, conflicts of interest, 
+security considerations, and funder conditions. 
+3.2.2. Where a Researcher has any such concern, this should be reported to the Head of Department/School 
+within which the research project is being conducted and to RKES if negotiations are under way with a 
+potential funder or if an Agreement has been signed with the funder. Any decision of the University to 
+terminate an ongoing project could be a breach of contract, and the University could be liable for certain 
+losses upon termination.  
+3.2.3. The ethical propriety of all sources of research support and engagement must be considered before any 
+agreement to undertake a research project for a funder or to license University Intellectual Property is 
+reached and confirmed. The University will assess the motives of a potential funder in the light of the 
+generally accepted ethical norms of the day and be satisfied that they are being asked to undertake a 
+piece of ethically justifiable research.  
+3.3. Conflicts of interest 
+3.3.1. Conflicts of interest can compromise research integrity if not fully disclosed and addressed from the 
+outset of a research project. Researchers have a responsibility to declare conflicts of interest at the outset 
+of any research. Failure to declare a conflict of interest can lead to research misconduct stemming from 
+issues such as undeclared financial gain, non-competitive procurement or suspect employment 
+arrangements. Guidance on the circumstances in which conflicts of interest may arise and how to 
+manage them is provided in the University’s Code of Practice on Conflicts of Interest. 
+3.4. Collaborative and international research 
+3.4.1. Collaborations between Researchers, disciplines, universities, organisations and communities are a key 
+part of research and knowledge exchange. Nonetheless, it can raise additional considerations relating to 
+regulations and expectations for good research practice. Where research is being conducted 
+collaboratively, and particularly within interdisciplinary or international partnerships, there needs to be 
+clear agreement on and articulation of the standards and frameworks that will apply to the work.
+
+--- PAGE 8 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+International research should be compliant with all relevant national and local regulatory systems in the host 
+country/countries where the work is conducted, in addition to the expectations outlined in this Code. 
+3.4.2. Researchers involved in external collaborations should familiarise themselves with the three principles of 
+Trusted Research & Innovation (TR&I) outlined by UKRI. As defined by the National Protective Security 
+Authority (NPSA), TR&I refers to the idea of protecting “the integrity of the system of international 
+research collaboration” by supporting Researchers, UK universities and industry partners to identify 
+potential risks and respond appropriately. Due to its extensive portfolio of industrial collaborations, the 
+University’s approach to TR&I takes in a broader view of collaboration with external parties, whether 
+commercial organisations, universities, research institutes and other organisations based abroad. This 
+approach relies on ensuring a trusted and protected approach to both University and partner 
+contributions, to get the most out of collaborations whilst protecting intellectual property, sensitive 
+research and personal information. For more information on the University’s approach to TR&I, visit the 
+RKES Portal. 
+3.4.3. Questions posed by TR&I should be part of the normal research design process and best practice. This 
+includes: the appropriateness of other institutions/Researchers involved in the research; the potential 
+applications of the research; the appropriate levels of security for data; ensuring separation of Intellectual 
+Property between projects; and conflicts of interest in receiving funding. In particular, Researchers 
+involved in informal collaborations, i.e. those that do not have an associated research grant or take place 
+in the context of an institutional Memorandum of Understanding or agreement with International Strategic 
+Partners, should be vigilant to TR&I concerns and email trusted-research@strath.ac.uk with any queries, 
+as this type of activity does not typically involve due diligence checks by RKES. Even where no TR&I 
+concerns are present at the outset of a project, Researchers should maintain an awareness of the 
+ongoing context in which they work and seek support via email to trusted-research@strath.ac.uk if they 
+think work may be moving into a relevant area.  
+3.4.4. When Researchers are collaborating with other laboratories, or where animal facilities are provided by 
+outside bodies, they should satisfy themselves that welfare standards are consistent with the principles of 
+UK legislation, the Animals (Scientific Procedures) Act 1986 (ASPA), revised in the light of European 
+Directive 2010/63/EU on the protection of animals used for scientific purposes. The revised legislation 
+came into force on 1 January 2013. They should also notify the University’s Animal Welfare and Ethical 
+Review Body (AWERB). 
+3.5. Research ethics and governance 
+3.5.1. All research carried out at the University must comply with relevant legal, regulatory, professional and 
+ethical requirements and standards, including but not limited to: Animals (Scientific Procedures) Act 
+(1986); Human Tissue Act (2004) and Human Tissue (Scotland) Act (2006); Declarations of Helsinki, UK 
+Policy Framework for Health and Social Care Research; data protection legislation; and Nagoya Protocol 
+on Access and Benefit-sharing (2014). Researchers should be familiar with, and know how to access, 
+such requirements including University ethical guidance and policies. Researchers who are unsure 
+whether such requirements apply to their projects should seek advice. All appropriate licences, 
+permissions and approvals must be in place before research starts and be updated as necessary if plans 
+change. 
+3.5.2. Ethical approval is required for all research involving human beings as participants, their data, and the 
+use and/or collection of human biological tissue and/or fluid. Ethical approval is also required for use of 
+secondary data if these include personal data, and under certain circumstances, is required for data 
+relating to deceased human subjects. Ethical approval must be in place prior to the research project 
+starting. This means that the process of recruiting research participants and collecting their data must not
+
+--- PAGE 9 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+begin until approvals are in place. No approval may be granted retrospectively for data collection that has 
+taken place in the absence of ethical and sponsorship approval. Details of the procedures by which the 
+University makes ethical judgements can be found in the Code of Practice on Investigations Involving 
+Human Beings. 
+3.5.3. All investigations requiring ethical approval must also be reviewed for management risk and sponsorship 
+via procedures outlined in the Code of Practice on Investigations Involving Human Beings. The research 
+project must not start until a formal letter/statement confirming sponsorship is received from the 
+designated sponsor. Research meeting specific criteria, such as working with the NHS or in clinical 
+settings, may also be subject to the approval of an appropriate national or international body after 
+securing University Sponsorship.  
+3.5.4. For research with relevant material under the Human Tissue Act (2004) and the Human Tissue 
+(Scotland) Act (2006), the University requires Researchers to take all appropriate steps to ascertain 
+whether any human tissue samples they plan to obtain, use or store need to be held under a Human 
+Tissue Authority licence and in accordance with relevant Standard Operating Procedures and the 
+standards of the Human Tissue Authority. Planned activity involving the University's Human Tissue 
+Authority licences must be notified in advance to the relevant Person Designate or Designated Individual. 
+3.5.5. Research involving animals requires a project license. In addition, Researchers must undertake 
+appropriate education and training before applying for a personal licence. Both licences are issued by the 
+Home Office. Researchers must consult the Animal Welfare and Ethical Review Body (AWERB) when 
+planning research involving animals, in order to obtain advice about the proper conduct of research 
+involving animals and obtain project review. Guidance on procedures for research involving animals, 
+including the University’s Policy on Animal Research, is available from the University’s Biomedical 
+Research webpage.  
+3.5.6. Research utilising non-human genetic resources (defined as “any material of plant, animal, microbial or 
+other origin containing functional unit of heredity”) or associated traditional knowledge (aTK) is subject to 
+the UK Access and Benefit Sharing Regulations (ABS). This legislation relates to the Nagoya Protocol of 
+the Convention on Biological Diversity which provides a framework to ensure the fair and equitable 
+sharing of benefits arising out of the utilisation of genetic resources. To comply with the regulations, the 
+University is required to seek, keep and transfer all relevant documentation to prove that projects are 
+either a) conducted in compliance with UK ABS compliance measures (as required by Article 4(3) of the 
+UK ABS Regulation), or b) out of scope. To be in scope, genetic resources will have been accessed on or 
+after 12 October 2015 from a country that is party to the Nagoya Protocol and has access and benefit 
+sharing (ABS) legislation (assuming that they are not already governed by a specialised international 
+instrument). 
+3.5.7. Accordingly, Researchers involved in research which does or may utilise non-human genetic resources or 
+associated traditional knowledge should: 
+i. Familiarise themselves with the UK Department for Environment, Food and Rural Affairs (Defra) 
+Guidance on the UK Access and Benefit Sharing Regulations (2022) and seek advice from RKES if 
+required. Queries can be directed to research-integrity@strath.ac.uk in the first instance. 
+ii. Conduct due diligence prior to project commencement and the acquisition of any genetic resources 
+(whether from the UK or overseas) to determine if a project is in scope of the UK ABS Regulations. 
+This can be done using the Office for Product Safety & Standards (OPSS) Self-Assessment Tool 
+which can be downloaded from the UK Government ABS Guidance webpage. This includes a link to 
+the ABS Clearing House which can be used to identify if a country is party to the Nagoya Protocol.
+
+--- PAGE 10 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+iii. Retain all relevant documentation (including that which proves that a project is out of scope) and 
+submit a copy to RKES via email to research-integrity@strath.ac.uk. Relevant documentation is likely 
+to include completed due diligence forms and evidence of the intended use and source of genetic 
+resources (e.g. project proposals, agreements and reports; correspondence with suppliers or research 
+partners, purchase orders and delivery notes). 
+iv. If the research involves genetic modification, submit a risk assessment and the relevant due 
+diligence paperwork to the Genetic Modification Safety Committee (GMSC) in accordance with the 
+University Occupational Health and Safety Standard on Genetic Modification. 
+3.5.8. Other pieces of legislation governing the use of non-human genetic resources, such as the Genetically 
+Modified Organisms (Contained Use) Regulations 2014, should be consulted and followed if applicable. 
+3.6. Insurance for research activities 
+3.6.1. The University maintains a range of covers and insurances that can provide indemnity and compensation 
+to staff and students if they are held liable for injury or damage occurring in the course of their University 
+activities, or if they themselves are injured during the course of their University activities. Researchers 
+should satisfy themselves that a research project has appropriate coverage by checking the Insurance 
+webpage and emailing insurance-services@strath.ac.uk with any queries. For research involving human 
+participants, coverage is confirmed as part of the sponsorship and ethical review process (see clauses 
+3.5.2-3.5.3). For research involving medical clinical trials or the evaluation and/or manufacture of medical 
+equipment (such as protheses), queries related to coverage should be directed to ethics@strath.ac.uk.  
+3.6.2. Insurance services must also be notified about research involving aviation products (such as aeroplanes 
+and their equipment) and the nuclear, gas or oil industries. These research activities may not involve human 
+participants and therefore may not have coverage confirmed through ethical review. In this instance, 
+Researchers should contact insurance-services@strath.ac.uk for advice.  
+3.7. Maintaining quality, consistency and authenticity 
+3.7.1. In a research project, there should always be a robust and reliable audit trail, which can be followed to 
+establish the authenticity of any discovery or invention and to defend the results of genuine research 
+endeavour. The authenticity of records, their provenance and date, must be defendable to support claims 
+of originality. This is in the interests of protecting both research integrity and inventorship, and in clarifying 
+resulting ownership of copyright and intellectual property. Examples of good record-keeping in research 
+include retaining master copies of data and applying a systemic version-control strategy for subsequent 
+versions (iterations); appropriately marking-up revisions – without deleting content; developing a data 
+management plan to document ongoing decisions about data (file) management; and employing robust 
+quality-control procedures. 
+3.7.2. The need to protect authenticity puts an obligation on the Researcher to maintain records in such a way 
+that they can be investigated and understood by anyone with a legitimate right to enquire. In particular, 
+Researchers are encouraged to preserve data and make them available (in an appropriate form, e.g. 
+anonymised or aggregate) whenever possible to support the validity of their research finding, for 
+example, in response to requests from publishers or others in the academic community. Where research 
+is covered by ethical approval, and intention to re-use or share data was not included in the participant 
+documentation or ethics application, Researchers must submit a request to the ethics committee that 
+approved the research to amend their approved ethics protocol in order to re-use or share participant 
+data, even if it has been fully anonymised. Where there are legal, ethical and/or commercial constraints 
+that prohibit the long-term storage and/or sharing of data, this should be made clear in outputs of the
+
+--- PAGE 11 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+research. If a request to access data for verification purposes has been received and cannot be fulfilled, 
+Researchers should contact research-integrity@strath.ac.uk.  
+3.7.3. Proper research data management is a key part of ensuring the integrity of the research record. 
+Researchers are responsible for looking after the data they collect/generate, as well as ensuring they 
+adhere to any contractual/ethical agreements and data protection legislation. Researchers should be 
+familiar with the requirements for research data management, as outlined in the Research Data 
+Management and Sharing Policy, and data protection, as outlined in the University’s Data Protection 
+policy. This includes a requirement for all staff and PGR students to have a Data Management Plan in 
+place prior to the commencement of the research, even where there are no funder data requirements/ 
+terms and conditions of the award, to ensure the responsible management of research data. Doctoral 
+research students are not expected to have a Data Management Plan (DMP) in place prior to 
+commencing their studies but they should implement a project DMP in line with Departmental 
+requirements for PGR progression review, or just prior to commencing the collection/generation of 
+research data, whichever comes first. Poor data management practices, such as inadequate storage 
+security or inappropriate disclosures of personal data, can lead to allegations of research misconduct.  
+3.7.4. Researchers have a responsibility to ensure that any inconsistencies or errors in their published material 
+are corrected in an appropriate and timely manner to protect the research record. The University will 
+support Researchers where honest inconsistencies or errors are reported to journals resulting in a 
+retraction. A retraction in this circumstance will not trigger an investigation. However, if the University 
+receives allegations of misconduct relating to published material, it has a duty to investigate and, if 
+necessary, rectify any errors or inconsistencies. The University makes a clear distinction between 
+retractions that result from honest errors being corrected and retractions that result from misconduct. 
+3.8. Use of generative artificial intelligence in research 
+3.8.1. Generative artificial intelligence is a type of artificial intelligence (AI) that can produce textual, visual and 
+audio content in response to user prompts or requests. It has the potential to accelerate scientific 
+discovery and improve the efficiency and effectiveness of research. However, it is important that 
+researchers use these tools in accordance with the principles of research integrity. While the University 
+does permit the use of generative AI in research and research outputs, Researchers must do so 
+transparently by acknowledging its use, and must not claim work generated by AI as their own original 
+work. 
+3.8.2. To support Researchers in using Generative AI, the University has adopted the Living Guidelines on the 
+Responsible Use of Generative AI in Research produced by the European Research Area (ERA) Forum 
+stakeholders and published by the European Commission. These Guidelines recommend that 
+Researchers: 
+i. “Remain ultimately responsible for the scientific output. 
+ii. Use generative AI transparently. 
+iii. Pay particular attention to issues related to privacy, confidentiality and intellectual property rights 
+when sharing sensitive or protected information with AI tools. 
+iv. When using generative AI, respect applicable national, EU and international legislation, as in their 
+regular activities. 
+v. Continuously learn how to use generative AI tools properly to maximise their benefits, including by 
+undertaking training. 
+vi. Refrain from using generative AI tools substantially in sensitive activities that could impact other 
+researchers or organisations (for example peer review, evaluation of research proposals, etc.).”
+
+--- PAGE 12 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+3.8.3. With regards to point 3.8.2.iii, Researchers must not input personal data, such as identifiable participant 
+information, into generative AI tools, as tools may not be compliant with UK data protection legislation.  
+3.8.4. Further guidance on the use of generative AI in research can be found on the RKES Portal [link to be 
+added when available]. The University will continue to monitor the development and use of generative AI 
+in research to ensure guidance remains up-to-date. 
+ 
+4. Sharing Research 
+4.1. Research outputs 
+4.1.1. It is the duty of Researchers to share the insights gained from their research effectively. Informed by 
+disciplinary practice, this can be done through various means including short and long form publications 
+(such as journal articles, conference contributions and books), research reports for external bodies, 
+databases, devices and products, exhibitions, software and patents. Researchers must ensure that 
+information about their research outputs is entered into Pure, kept up-to-date, and, wherever possible, 
+upload a copy of the accepted author manuscript.  
+4.1.2. It is the responsibility of Researchers to ensure that requirements on the dissemination of research 
+outputs, as stipulated by research funders (e.g. UKRI) and the University, are met in full. These 
+requirements may include but are not limited to: use of ORCID (Open Researcher and Contributor ID), 
+accurate institutional affiliation, acknowledgement of research funding, research data access statements 
+and specific open access requirements. Full details of these requirements are set out in the University 
+Research Publications Guidance. UKRI research councils also require that Researchers report on 
+research outputs and outcomes via Researchfish.  
+4.1.3. An increasing number of research funders, including Wellcome and UKRI, require the inclusion of a 
+Rights Retention Statement in manuscripts arising from their funded projects that are published via the 
+Green Open Access route, thereby allowing Researchers to maintain rights on their work. This approach 
+is the University’s preference as it promotes the deposit of full-text accepted manuscripts in institutional 
+systems upon manuscript acceptance under no embargo and under a Creative Commons licence. All 
+authors or co-authors affiliated to the University of Strathclyde, including postgraduate research students, 
+are encouraged to include a Rights Retention Statement in articles (including conference proceedings 
+and any third-party content where rights in that content have been secured) published while they are a 
+member of staff or student at Strathclyde, in line with the requirements of the Institutional Rights 
+Retention Policy for Research Publications.    
+4.1.4. Collaborators, clients and funders should respect the duty of Researchers to publish their research and 
+the findings of their research. Where Researchers believe undue influence is being exerted on their 
+research outputs, they should contact research-integrity@strath.ac.uk for advice and support.   
+Collaborators, clients and funders must not discourage or suppress appropriate publication practices or 
+attempt to influence the presentation or interpretation of findings inappropriately. Influence over the 
+content and or timing of publications should be properly approved by the University in instances where it 
+is required to protect privacy, commercially sensitive proprietary information, or patentable inventions. 
+4.2. Recognition and authorship 
+4.2.1. Contributions by all parties involved in a research project should be valued and recognised. 
+Considerations of recognition and authorship go beyond publication to include, for example, naming on 
+grant applications; association with research projects in Pure; and assignment as ‘data creator’ for 
+datasets. As a common area of research misconduct, specific guidance on authorship practices for
+
+--- PAGE 13 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+publications is given below; however, advice and support on matters relating to all aspects of recognition 
+and authorship can be obtained via email to research-integrity@strath.ac.uk. 
+4.2.2. The University expects that Researchers will follow good practice, accepting that the details may vary 
+slightly from one discipline to another. In particular, Researchers must follow the authorship guidelines 
+provided by the journals or conference proceedings in which an article is published. 
+4.2.3. A widely used approach to judging whether an individual should be named as author on a publication is to 
+use the following four criteria for authorship provided by the International Committee of Medical Journal 
+Editors (ICMJE). Using this approach, all those who meet the four criteria should be identified as authors.  
+i. “Substantial contributions to the conception or design of the work; or the acquisition, analysis, or 
+interpretation of data for the work; AND 
+ii. Drafting the work or revising it critically for important intellectual content; AND 
+iii. Final approval of the version to be published; AND 
+iv. Agreement to be accountable for all aspects of the work in ensuring that questions related to the 
+accuracy or integrity of any part of the work are appropriately investigated and resolved.” 
+4.2.4. All listed authors should have confidence in the integrity of the contributions of their co-authors. In 
+addition to being accountable for the parts of the work they have done, an author should be able to 
+identify which co-authors are responsible for specific other parts of the work.  
+4.2.5. Convention on the order of authors listed on an output will vary between different disciplines. Seniority is 
+not, on its own, a valid reason for being given a significant authorship position. Journals and conferences 
+may give guidance on authorship and may even ask that the authors sign that they have agreed to the 
+order. 
+4.2.6. Honorary authorship, which is authorship given to an individual despite a lack of substantial contributions 
+to a research project, including gift, guest and coercive authorship, is unacceptable and considered a 
+form of research misconduct.  
+4.2.7. The University encourages Researchers to recognise and thank others for their work which does not 
+merit authorship. This usually can be realised via acknowledgements (i.e. of editorial, technical, financial, 
+material or other support) or citation (to give due recognition to external sources of information and/or 
+publications drawn on). It may also be a funder or journal requirement to recognise funders in the 
+acknowledgements. This is standard practice and includes a reference in the manuscript 
+acknowledgements section to the research funder's full name and grant number. 
+4.3. Open access outputs and research data 
+4.3.1. Arranging for immediate open access to publications is a requirement of many funders, including UKRI. 
+Many publishers also have a policy on open access and open access to certain submitted research 
+outputs is required by the Research Excellence Framework (REF). Researchers must comply with any 
+open access requirements relevant to their research. Even where it is not externally required, the 
+University strongly encourages all Researchers to make their outputs and data open access whenever 
+possible.  
+5. Evaluating Research 
+5.1. Peer review 
+5.1.1. Researchers carrying out peer review of the work of others must follow the guidelines of the organisation 
+requesting the peer review, recognising the requirements for peer reviewers to be thorough, objective, 
+honest and fair. Any potential conflicts of interest should be identified to the requesting organisation.
+
+--- PAGE 14 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+Researchers should ensure that they have sufficient knowledge of peer review requirements and should 
+only accept requests for which they have appropriate expertise. Researchers carrying out peer review 
+must treat the process as confidential and should not take advantage of any new data or privileged 
+information, including for the purposes of furthering their own research.  
+5.1.2. While carrying out peer review, Researchers may become aware of possible misconduct, such as 
+plagiarism, fabrication or falsification, or have ethical concerns about the research. In such cases, they 
+should inform an appropriate representative of the requesting organisation. If this relates to an internal 
+peer review, the procedure for allegations of misconduct (see Section 7) should be followed.  
+5.2. Other mechanisms of monitoring and review 
+5.2.1. Research may be reviewed by funders or other relevant bodies as part of their monitoring or quality 
+assurance processes or in response to allegations of misconduct. Researchers must comply with any 
+monitoring or audit requirements by applicable bodies and are encouraged to familiarise themselves with 
+relevant sector requirements. This includes maintaining an awareness of and contributing as appropriate 
+to preparations for the next Research Excellence Framework (REF).  
+6. Commercialising Research 
+6.1. Intellectual property 
+6.1.1. Employees and Students of the University generate Intellectual Property (IP) in the course of their 
+employment and studies respectively. This IP makes a valuable contribution to the body of knowledge 
+relating to a wide range of disciplines. However, under certain circumstances research findings should 
+not be published without first speaking with Innovation and Industry Engagement (IIE) or RKES. These 
+circumstances are as follows: 
+i. disclosure of information (including information of a commercially sensitive nature) related to, 
+generated or disclosed in the course of certain funded research projects may result in a breach of 
+the funding contract. Advice should always be sought from the relevant Contracts Manager in RKES 
+who helped to negotiate the contract, to ascertain whether such information can be disclosed; 
+ii. where there is commercial value in a Researcher’s research findings, such findings must be kept 
+confidential and not disclosed prior to a patent being filed. Open publication of any concept before a 
+patent application has been filed constitutes a disclosure and can harm the patentability of inventions 
+based on that concept. Similarly, disclosure of any novel process or idea to a potential funder, 
+without the necessary contractual safeguard of a Confidentiality Agreement being signed by both 
+parties prior to disclosure, can also constitute disclosure. In order to protect the University's 
+intellectual property it is essential that staff consult with IIE before making disclosure of potentially 
+valuable intellectual property. IIE has processes in place to assist Researchers with protection of 
+inventions with commercial potential. 
+6.1.2. Where there is Potentially Exploitable IP, publication and dissemination may be deferred for a short time 
+pending decision on patent protection and exploitation. Researchers should maintain the confidentiality of 
+IP that they create until it has been decided if it is Potentially Exploitable IP. The full process of disclosure 
+and assessment of inventions is detailed in the Intellectual Property & Commercialisation Policy. This 
+process includes an expectation for University Employees and Postgraduate Research Students to 
+disclose inventions to the University. Data that relate to an invention disclosure must not be uploaded to 
+Pure. 
+6.1.3. Only Postgraduate Research Students are required to assign to the University (as a condition of 
+admission) Commercial Rights created either in the course of research activity carried out as part of the
+
+--- PAGE 15 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+applicable research programme or using a University contribution. Therefore, it is of paramount 
+importance, when involving a student other than Postgraduate Research Students on a research project 
+likely to generate intellectual property of commercial importance and/or importance to the supervisor’s 
+future research plans, for the supervisor (in discussion with the Responsible Person in the Faculty or 
+Department and using the services of the IP and Commercialisation team in IIE) to ensure that the 
+student assigns their intellectual rights to the University before their formal involvement in the project 
+commences. This is of particular concern in instances where a student is working on a project funded by 
+a third party. Unless the University formally has the student agree to abide by the contractual terms that 
+the University has entered into with the third party, in relation to such issues as confidentiality and 
+ownership of intellectual property, the University could find itself in breach of contract. 
+7. Addressing Research Misconduct  
+7.1. Definition of ‘Research Misconduct’ 
+7.1.1. In line with the Research Integrity Concordat definition, the University defines misconduct in research as 
+“behaviours or actions that fall short of the standards of ethics, research and scholarship required to 
+ensure that the integrity of research is upheld”. Responsibility for ensuring that no misconduct occurs 
+rests primarily with individual Researchers.  
+7.1.2. Research misconduct can take many forms, including but not limited to:  
+i. fabrication: making up results, other outputs (for example, artefacts) or aspects of research, 
+including documentation and participant consent, and presenting and/or recording them as if they 
+were real.  
+ii. falsification: inappropriately manipulating and/or selecting research processes, materials, 
+equipment, data, imagery and/or consents.  
+iii. plagiarism: using other people’s ideas, intellectual property or work (written or otherwise) without 
+acknowledgement or permission.  
+iv. failure to meet: legal, ethical and professional obligations, for example:  
+• not observing legal, ethical and other requirements for human research participants, animal 
+subjects, or human organs or tissue used in research, or for the protection of the environment; 
+• breach of duty of care for humans involved in research whether deliberately, recklessly or by 
+gross negligence, including failure to obtain appropriate informed consent; 
+• misuse of personal data, including inappropriate disclosures of the identity of research 
+participants and other breaches of confidentiality; 
+• improper conduct in peer review of research proposals, results or manuscripts submitted for 
+publication. This includes failure to disclose conflicts of interest; inadequate disclosure of clearly 
+limited competence; misappropriation of the content of material; and breach of confidentiality or 
+abuse of material provided in confidence for the purposes of peer review. 
+v. misrepresentation of:  
+• data, including suppression of relevant results/data or knowingly, recklessly or by gross 
+negligence presenting a flawed interpretation of data;  
+• involvement, including inappropriate claims to authorship or attribution of work and denial of 
+authorship/attribution to persons who have made an appropriate contribution; 
+• interests, including failure to declare competing interests of Researchers or funders of a study;  
+• qualifications, experience and/or credentials;
+
+--- PAGE 16 ---
+
+RESEARCH CODE OF PRACTICE  
+ 
+ 
+• publication history, through undisclosed duplication of publication, including undisclosed 
+duplicate submission of manuscripts for publication; 
+• risk, including to research participants, Researchers and funders of a study, or of reputational 
+damage to the University or other sponsoring organisation.  
+vi. improper dealing with allegations of misconduct: failing to address possible infringements, such 
+as attempts to cover up misconduct and reprisals against whistle-blowers, or failing to adhere 
+appropriately to agreed procedures in the investigation of alleged research misconduct accepted as 
+a condition of funding. Improper dealing with allegations of misconduct includes the inappropriate 
+censoring of parties through the use of legal instruments, such as non-disclosure agreements. 
+Honest errors and differences in, for example, research methodology or interpretations do not constitute 
+research misconduct.  
+7.1.3. The University takes a proportionate approach to research misconduct and recognises that, even when 
+the expected standards of rigour and integrity are understood, honest mistakes can occur. The preferred 
+approach to dealing with such mistakes, made unintentionally, unknowingly and without the intention of 
+causing harm, is through tailored training and/or mentoring, as appropriate. 
+7.1.4. In order to promote best practice in research and enhance research culture within the University and 
+beyond, Researchers are encouraged to identify and challenge detrimental research practices even if 
+they are considered a disciplinary norm and do not constitute research misconduct. As well as directly 
+shaping research practice, this allows for improved guidance, training, and support to be put in place 
+through the effective sharing of lessons learned. 
+7.2. Allegations of research misconduct 
+7.2.1. Any allegation of research misconduct involving a Researcher at the University is treated as a serious 
+matter and is investigated according to the processes outlined in subsequent clauses. 
+7.2.2. Allegations of research misconduct concerning registered University students will be considered under 
+the terms of the University’s Student Discipline Procedure: Academic Misconduct.  
+7.2.3. Allegations of research misconduct concerning University staff will be investigated according to the 
+process described in Annex B of this Code. 
+7.2.4. Allegations of research misconduct concerning any individual with visiting, honorary or emeritus status at 
+the University should be addressed in writing to the relevant Dean who will undertake an initial 
+assessment of the allegations, confidentially undertaking informal enquiries as necessary to clarify the 
+nature of the allegations. The Dean may delegate the undertaking of informal enquiries, ensuring that 
+such input avoids conflicts of interest and provides an appropriate level of expertise in the scientific area. 
+As those with visiting, honorary or emeritus status are not University employees, workers or registered 
+students, the process for any further investigation required and for determining subsequent actions will be 
+determined on a case-by-case basis by the relevant Dean.  
+7.2.5. The University also has a Public Interest Disclosure Policy which can be invoked in certain circumstances 
+and under which an investigation may be carried out to determine if any impropriety or breach of 
+University regulations has occurred.
+
+--- PAGE 17 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+Annex A: Relevant Policies, Guidelines and Concordats 
+Document Owner Relevance 
+Concordats and agreements 
+Concordat to Support 
+Research Integrity 
+Universities UK  This concordat provides a national framework for good research practice and governance. As a member of 
+Universities UK, the University is committed to the principles outlined in this document (and listed in 1.1.1).  
+Concordat to Support 
+the Career 
+Development of 
+Researchers 
+Universities UK This concordat is an agreement to improve the employment and support for Researchers and Researcher 
+careers in higher education in the UK. This includes a commitment to recognising and valuing the contributions 
+of all. As a signatory to this concordat, the University has made commitments to supporting the professional 
+development of Researchers. In particular, the Strategic Objective to ‘Champion and embed a positive 
+Research Culture’ is of relevance to this Code. 
+Concordat on Open 
+Research Data 
+UKRI This concordat seeks to ensure that the research data gathered and generated by members of the UK 
+research community is made openly available for use by others wherever possible, made openly available for 
+use by others in a manner consistent with relevant legal, ethical and regulatory frameworks and disciplinary 
+norms, and with due regard to the costs involved. As a member of Universities UK, the University is committed 
+to supporting Open Research. 
+Concordat on 
+Openness on Animal 
+Research in the UK 
+Understanding Animal 
+Research 
+This concordat is a set of commitments for UK-based life science organisations to enhance their animal 
+research communications. As a signatory, the University has committed to being open about the use of animals 
+in research. 
+Concordat for 
+Engaging the Public 
+with Research 
+UKRI The aim of the Concordat is to inspire Universities to embed support for activities which foster public 
+engagement with their research in their strategies and to encourage Researchers to commit fully to public 
+engagement activities as part of their professional development. In line with the Concordat to Support the 
+Career Development of Researchers, it seeks to ensure that public engagement is recognised and valued. The 
+University is a supporter of this Concordat and a signatory to the related Manifesto for  Public Engagement.  
+Concordat for the 
+Advancement of 
+Knowledge 
+Exchange in Higher 
+Education 
+Universities UK The knowledge exchange (KE) concordat seeks to improve KE within universities through the exchange of 
+good practice, highlight the good practice that exists and act as a catalyst for collaboration between universities 
+and with employers. As a signatory to this concordat, the University participated in a self-evaluation and 
+developed an action plan to enhance KE practice. 
+Technician 
+Commitment 
+The Gatsby Charitable 
+Foundation 
+This commitment is a university and research institution initiative, supported by the Science Council.  The 
+Commitment aims to ensure visibility, recognition, career development and sustainability for technicians 
+working in higher education and research, across all disciplines. As a signatory, the University has pledged to 
+support its technical staff. For the purposes of the Code, no distinction is made between Researchers and 
+Technicians as university staff engaging in research activities.  
+Guidance for 
+Safeguarding in 
+International 
+UK Collaborative on 
+Development 
+Research  
+This guidance was developed to protect everyone involved in the international development research chain, 
+from research funders, planners and practitioners to local community members. It provides guidance to inform 
+actions by all those involved in research processes to anticipate, mitigate and address potential and actual
+
+--- PAGE 18 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+Development 
+Research 
+harms in the funding, design, delivery and dissemination of research. The University conducts a significant 
+level of international development research and the safeguarding of all involved must take priority in this.  
+San Francisco 
+Declaration on 
+Research 
+Assessment (DORA) 
+DORA This declaration aims to improve the ways in which research outputs are evaluated by eliminating the use of 
+journal-based metrics. As a signatory, the University recognises the need for the responsible use of metrics to 
+assess research on its own merits and strives for transparency and inclusivity in its research evaluation.  
+Leiden Manifesto on 
+Research Metrics 
+Hicks, Wouters, 
+Waltman, Rijcke & 
+Rafols 
+Written by scientometricians and science policy analysts, the Leiden Manifesto sets out ten principles for the 
+responsible use of quantitative indicators in research evaluation. The University agrees with these principles 
+and seeks to align its research evaluation activities with this Manifesto. 
+Agreement on 
+Reforming Research 
+Assessment 
+Coalition for 
+Advancing Research 
+Assessment (CoARA) 
+As outlined in its preamble, this Agreement ‘sets a shared direction for changes in assessment practices for 
+research, Researchers and research performing organisations, with the overarching goal to maximise the 
+quality and impact of research. The Agreement includes the principles, commitments and timeframe for reforms 
+and lays out the principles for a Coalition of organisations willing to work together in implementing the 
+changes’. 
+Legislation shaping good research practice 
+Academic 
+Technology Approval 
+Scheme (ATAS) 
+Foreign, 
+Commonwealth & 
+Development Officer, 
+UK Government 
+The ATAS requires non-UK/EU/EEA nationals to gain permission to study certain topics at masters and 
+doctoral level. Guidance for students on the ATAS is available on the University webpage. Since 21 May 2021, 
+this scheme also applies to academic Researchers employed or visiting the university from certain countries to 
+work in certain research areas. While a prospective employee requires an ATAS certificate to obtain a UK visa, 
+visitors do not need this and the institution is obligated to check the certificate prior to starting research. 
+Guidance for staff on whether an ATAS certificate is required and how to apply is available on the UK 
+Government Website. 
+Export Control Export Control Joint 
+Unit & Department for 
+International Trade, 
+UK Government 
+Statutory controls apply to the transfer, directly or indirectly, outside of the UK, of technology which is either 
+linked to items in a consolidated list of strategic military and dual-use items1 or where there is reason to 
+suspect that the recipient of the technology intends to use it for weapons of mass destruction (WMD) purposes, 
+in combination with any one of the following conditions: 
+• work not being carried out in the public domain; 
+• work being applied rather than basic research (basic research characterised as Technology Readiness 
+Levels 1-3);  
+• work being classed as one of high-risk STEM disciplines2; 
+• recipient intends to use or send technology or information outside of the EU; and  
+• online research or other open source checks indicate the recipient is potentially involved in suspicious 
+activity. 
+‘Technology’ includes assets such as equipment, information and know-how (i.e. the knowledge and skills 
+required to be able to do something correctly) and ‘export’ includes transmission, e.g., by carrying a laptop or 
+ 
+1 See UK Government list of strategic military and dual-use items that require export authorisation  
+2 aeronautical and space technology, applied chemistry, biochemistry and chemical engineering, applied physics, biotechnology, electrical and mechanical 
+engineering, instrumentation and sensors, materials technology, nuclear technologies, production and process technology, telecommunications and information 
+technology.
+
+--- PAGE 19 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+storage device overseas, or accessing networked resources in the UK from overseas. Indirect export may 
+occur by transmission within the UK (e.g. via teaching or supervision) to a person associated with an overseas 
+WMD programme. 
+National Security and 
+Investment Act 2021 
+Department for 
+Business, Energy & 
+Industrial Strategy, UK 
+Government 
+The NSI Act enables the Secretary of State to ‘call-in’ for review acquisitions of sensitive entities or the grant of 
+right to use or control sensitive assets where there may be a potential for immediate or future harm to UK 
+national security, including risks to governmental and defence assets (infrastructure, technologies and 
+capabilities). Where call-ins result in a national security risk being present, sanctions for the Acquirer (entity 
+and individual directors/management) include criminal and civil penalties as well as the voiding of the original 
+transaction. As an example relevant to the University, the sale of a spinout to another party could be a reason 
+for the University to make a voluntary notification to ensure that the transaction would not be later declared 
+invalid. Should guidance be required on compliance with the Act please email nsi-act@strath.ac.uk in the first 
+instance. 
+Animals (Scientific 
+Procedures) Act 
+(1986) 
+Home Office, UK 
+Government 
+This Act regulates the use of protected animals in any experimental or other scientific procedure which may 
+cause pain, suffering, distress or lasting harm to the animal. Protected animals under the Act are any living 
+veterbrae other than man and any living cephalopod. At the heart of this act is the requirement to: 
+• only use animals in research when there are no alternatives 
+• use the minimum number of animals needed 
+• only cause the minimum necessary pain, suffering, distress or lasting harm to animals  
+The regulated procedures covered by this Act are controlled using a triple licensing system enforced by the 
+Home Office. 
+Human Tissue Act 
+(2004) and the 
+Human Tissue 
+(Scotland) Act (2006) 
+Human Tissue 
+Authority, Department 
+of Health and Social 
+Care, UK Government 
+The Human Tissue Act 2004 (HT Act) applies in its entirety in England, Wales and Northern Ireland; with 
+Section 45 on consent and DNA analysis implemented UK wide (including Scotland). Section 45 of the HT Act 
+applies to ‘bodily material’ from the living or from the deceased. This guidance also applies to RNA analysis 
+when used to provide information about DNA for research. 
+The Human Tissue (Scotland) Act 2006 sets out provisions for the removal, retention and use of ‘organs, tissue 
+and tissue samples’ from the deceased, i.e. body parts or bodily fluids (including any derivative of skin) 
+removed post mortem, and subsequently used for research. 
+UK Policy 
+Framework for 
+Health and Social 
+Care Research 
+Health Research 
+Authority (HRA), UK 
+Government 
+This policy framework sets out principles of good practice in the management and conduct of health and social 
+care research that take account of legal requirements and other standards. These principles protect and 
+promote the interests of patients, service users and the public in health and social care research, by describing 
+ethical conduct and proportionate, assurance-based management of health and social care research, so as to 
+support and facilitate high-quality research in the UK that has the confidence of patients, service users and the 
+public. 
+This means having an approach to mitigating risks that gives at least the same consideration to the risks that 
+arise if the research does not take place as to those that arise if it does, and the same consideration to their 
+likelihood as to their impact. The risk appetite should favour the research taking place. The prevailing focus 
+should be on the risks to the potential participants and the target population, not on the reputatio nal risks. 
+Data protection 
+legislation 
+Department for 
+Science, Innovation 
+and Technology 
+The legislation governs how organisations must process personal data, i.e. information relating to 
+identified/identifiable living individuals. It is based around seven key principles, which organisations must 
+adhere to when processing personal data.
+
+--- PAGE 20 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+UK Access and 
+Benefit Sharing 
+Regulations (ABS) 
+Department for 
+Business, Energy & 
+Industrial Strategy, 
+Office for Product 
+Safety & Standards & 
+Department for 
+Environment, Food & 
+Rural Affairs, UK 
+Government 
+This legislation relates to the Nagoya Protocol of the Convention on Biological Diversity which provides a 
+framework to ensure the fair and equitable sharing of benefits arising out of the utilisation of genetic resources. 
+To comply with the regulations, the University is required to seek, keep and transfer all relevant documentation 
+to prove that projects are either a) conducted in compliance with UK ABS compliance measures (as required 
+by Article 4(3) of the UK ABS Regulation), or b) out of scope. To be in scope, genetic resources will have been 
+accessed on or after 12 October 2015 from a country that is party to the Nagoya Protocol and has access and 
+benefit sharing (ABS) legislation (assuming that they are not already governed by a specialised international 
+instrument). 
+Genetically modified 
+organisms 
+(contained use) 
+regulations 2014 
+Health and Safety 
+Executive, UK 
+Government 
+These regulations set out the containment measures and other controls that need to be considered when 
+working with GMOs in contained facilities. The guidance covers the key requirements of:  
+• carrying out the risk assessment 
+• classifying the contained use work 
+• notifying to the competent authority 
+• applying the relevant control measures 
+• accident reporting 
+University policies and guidance 
+Guide to Good 
+Research Practice 
+University of 
+Strathclyde Research 
+and Knowledge 
+Exchange Committee 
+(Author: RKES) 
+The Guide to Good Research Practice is designed to complement Research Code of Practice – with links to 
+clauses in the Research Code of Practice provided for specific topics - but contains additional guidance and 
+signposting to support as appropriate. This Guide to Good Research Practice is aimed at promoting best 
+practice above and beyond the avoidance of research misconduct.  
+Code of Practice on 
+Investigations 
+Involving Human 
+Beings 
+University of 
+Strathclyde Senate 
+(Author: University 
+Ethics Committee) 
+Investigations involving human beings as participants are undertaken in the course of teaching and research. 
+The University seeks to ensure that the conduct of all its staff and students carrying out such work, whether 
+biological, psychological or sociological, conforms to standards set by professional bodies, and is known to do 
+so. The guidelines within the Code of Practice describe the overall principles and procedures by which the 
+University makes ethical judgements on teaching and research investigations that involve human beings as 
+participants. 
+Code of Practice for 
+Postgraduate 
+Research Study 
+University of 
+Strathclyde Senate 
+(Author: Education 
+Enhancement) 
+This Code recognises that research students make a vital contribution to the University’s research culture and 
+international reputation and that the University of Strathclyde is committed to providing the highest quality of 
+provision and support for its postgraduate research students to assist in all stages of their career. This Code 
+sets out the University’s expectations for institution-wide standards relating to all its postgraduate research 
+provision and outlines the responsibilities of all parties involved in this provision. 
+Research Data 
+Management and 
+Sharing Policy 
+University of 
+Strathclyde Senate 
+(Author: RKES & the 
+Library) 
+The Research Data Management and Sharing Policy establishes a framework to facilitate consistent good 
+practice in research data management. Key to this are enhanced requirements around data management 
+planning to ensure the highest standards of data collection, organisation, storage, sharing and preservation. To 
+this end, the policy requires that all staff and PGR student projects have a data management plan (DMP) – 
+proportionate to the research being undertaken - in place prior to commencement and maintain it throughout 
+the research lifecycle.
+
+--- PAGE 21 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+Institutional Rights 
+Retention Policy 
+University of 
+Strathclyde Senate 
+(Author: RKES & the 
+Library) 
+The Institutional Rights Retention Policy recognises that it is not necessary for an author to sign over their 
+copyright or grant an exclusive licence to a publisher in order for their scholarly work to be published or 
+disseminated. This policy sets out the steps authors should take to retain control over their published research 
+to enable full Open Access. 
+Dignity and Respect 
+Policy 
+University of 
+Strathclyde Senate 
+(Author: Human 
+Resources) 
+This policy confirms the University’s commitment to providing an environment in which all staff, students and 
+visitors are treated with dignity and respect at all times and to providing an environment which is based on a 
+sense of community and which is free from discrimination, harassment, bullying and victimisation. The policy 
+demonstrates the University’s compliance with the Equality Act 2010.  
+Equality, Diversity, 
+and Inclusion Policy 
+University of 
+Strathclyde Senate 
+(Author: Access, 
+Equality and Inclusion) 
+This policy outlines the principles that support the University to embed equality, diversity and inclusion across 
+all areas of its work. It enables staff, students and other relevant parties to understand their rights and 
+responsibilities and to assist the University in promoting equality of opportunity, diversity and preventing 
+discrimination. The policy assists the University in carrying out the duties of the public sector equality duty in 
+Scotland. 
+Code of Practice on 
+Conflicts of Interest 
+University of 
+Strathclyde Court 
+(Author: Governance & 
+Public Policy) 
+The purpose of this code is to provide guidance to employees of the University and those acting on behalf of 
+the University, such as members of Court, who may find themselves in a situation that could give rise to a 
+conflict of interest, whether actual or perceived, and the procedures to be followed for disclosing such 
+information.  
+Health and Safety 
+Policy 
+University of 
+Strathclyde Court 
+(Author: Safety, Health 
+and Wellbeing) 
+This Policy sets out the roles and responsibilities for ensuring the health, safety and wellbeing of all University 
+employees and those affected by its work, including students, visitors, members of the public, third parties and 
+contractors. It applies to every aspect of the University’s business, including all research and knowledge 
+exchange, commercial and management activities.  
+Records 
+Management Policy 
+University of 
+Strathclyde Senate 
+(Author: Information 
+Governance Unit) 
+This policy provides a framework for the creation, management and disposition of records within the University 
+of Strathclyde. Records are defined as: recorded information, in any form and regardless of media, created or 
+received by the University, in the transaction of business or conduct of affairs and retained as evidence (for a 
+set period) of such activities. 
+Intellectual Property 
+& Commercialisation 
+Policy 
+University of 
+Strathclyde Senate 
+(Author: Innovation & 
+Industry Engagement) 
+This policy provides guidance on the early identification of University Intellectual Property (IP), sets out 
+appropriate IP protection strategies and describes routes to commercialisation. The policy applies to all 
+Employees and Postgraduate Research Students of the University.  
+Data Protection 
+Policy 
+University of 
+Strathclyde Senate 
+(Author: Information 
+Governance Unit 
+This policy sets out the University’s commitment to comply with data protection legislation and describes the 
+responsibilities of the University and those who process personal data on its behalf.  
+Research 
+Publications 
+Guidance 
+University of 
+Strathclyde Research 
+and Knowledge 
+Exchange Committee 
+(Author: Scholarly 
+Publications and 
+This guidance formalises the University’s institutional commitment to the effective management of research 
+publications by its Researchers and seeks to ensure best practice is observed by Researchers when 
+publishing.
+
+--- PAGE 22 ---
+
+RESEARCH CODE OF PRACTICE: ANNEX A 
+ 
+ 
+Research Data Team, 
+Library) 
+National and international policies and guidelines related to research integrity  
+UK Research 
+Integrity Office’s 
+Code of Practice for 
+Research 
+UK Research Integrity 
+Office 
+This code is designed to encourage good research practice and help prevent misconduct, in order to assist 
+organisations and Researchers to conduct research of the highest quality. It provides general principles and 
+standards for good practice in research, applicable to both individual Researchers and to organisations that 
+carry out, fund, host or are otherwise involved in research. As a document of sector -wide significance, the 
+principles and standards in this code have been used to inform the University’s approach to Research Integrity.  
+UKRI Policy on the 
+Governance of Good 
+Research Practice 
+UKRI Building on UKRI’s commitments as a signatory to the Research Integrity Concordat, the policy sets out UKRI’s 
+approach to the establishment and maintenance of good research practice and specifies the Research 
+Councils’ expectations. As a key funder for the University, these expectations have been used to inf orm the 
+University’s approach to Research Integrity. 
+European Code of 
+Conduct for 
+Research Integrity  
+All European 
+Academies (ALLEA) 
+Similar to the frameworks above, this code describes professional, legal and ethical responsibilities for 
+Researchers and institutions to promote good research practice. 
+The Declarations of 
+Helsinki 
+World Medical 
+Association 
+This Declaration is a statement of ethical principles for medical research involving human subjects, including 
+research on identifiable human material and data. This states that while the primary purpose of medical 
+research is to generate new knowledge, this goal can never take precedence over the rights and interests of 
+individual research subjects.
+
+--- PAGE 23 ---
+
+ANNEX B of the Research Code of Practice, v.1.1 March 2023 
+ 
+ 
+   
+ 
+Procedure for the Investigation of Misconduct in Research 
+1. Introduction 
+1.1 This Procedure recognises that the investigation of allegations of research misconduct can involve 
+complex issues and seeks to discharge the University of Strathclyde’s responsibilities in a sensitive and 
+fair manner. It outlines the procedure to be followed when allegations of misconduct in research are 
+brought against a member of University staff in relation to research conducted under the auspices of the 
+University.  
+1.2 The procedure for handling allegations of misconduct involving Postgraduate Research Students is laid 
+out in the University’s Student Discipline Procedure: Academic Misconduct. 
+1.3 Allegations of research misconduct concerning University staff should be reported in writing to the 
+Associate Principal responsible for research who has designated responsibility as the ‘Named Person’ 
+for ensuring that the University responds to and upholds The Concordat to Support Research Integrity 
+(2019). The Named Person will act in accordance with this procedure.  
+1.4 Concerns regarding the conduct of research may be raised informally with the Named Person if the 
+basis for making an allegation is unclear. The raising of a concern does not constitute an allegation of 
+research misconduct. However, the Named Person may progress an informal concern to the Receipt of 
+Allegations Stage if they consider that further consideration of the conduct in question is required.  
+2. Definition of ‘research misconduct’ (as outlined in the Research Code of Practice, clause 7.1) 
+2.1 In line with the Research Integrity Concordat definition, the University defines misconduct in research as 
+“behaviours or actions that fall short of the standards of ethics, research and scholarship required to 
+ensure that the integrity of research is upheld”. Responsibility for ensuring that no misconduct occurs 
+rests primarily with individual Researchers.  
+2.2  Research misconduct can take many forms, including but not limited to:  
+i. fabrication: making up results, other outputs (for example, artefacts) or aspects of research, 
+including documentation and participant consent, and presenting and/or recording them as if they 
+were real. 
+ii. falsification: inappropriately manipulating and/or selecting research processes, materials, 
+equipment, data, imagery and/or consents.  
+iii. plagiarism: using other people’s ideas, intellectual property or work (written or otherwise) without 
+acknowledgement or permission.  
+iv. failure to meet: legal, ethical and professional obligations, for example:  
+• not observing legal, ethical and other requirements for human research participants, animal 
+subjects, or human organs or tissue used in research, or for the protection of the environment; 
+• breach of duty of care for humans involved in research whether deliberately, recklessly or by 
+gross negligence, including failure to obtain appropriate informed consent; 
+• misuse of personal data, including inappropriate disclosures of the identity of research 
+participants and other breaches of confidentiality;
+
+--- PAGE 24 ---
+
+ANNEX B of the Research Code of Practice, v.1.1 March 2023 
+ 
+ 
+• improper conduct in peer review of research proposals, results or manuscripts submitted for 
+publication. This includes failure to disclose conflicts of interest; inadequate disclosure of clearly 
+limited competence; misappropriation of the content of material; and breach of confidentiality or abuse 
+of material provided in confidence for the purposes of peer review. 
+v. misrepresentation of:  
+• data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence 
+presenting a flawed interpretation of data;  
+• involvement, including inappropriate claims to authorship or attribution of work and denial of 
+authorship/attribution to persons who have made an appropriate contribution; 
+• interests, including failure to declare competing interests of Researchers or funders of a study;  
+• qualifications, experience and/or credentials; 
+• publication history, through undisclosed duplication of publication, including undisclosed duplicate 
+submission of manuscripts for publication.  
+vi. improper dealing with allegations of misconduct: failing to address possible infringements, such as 
+attempts to cover up misconduct and reprisals against whistle-blowers, or failing to adhere 
+appropriately to agreed procedures in the investigation of alleged research misconduct accepted as a 
+condition of funding. Improper dealing with allegations of misconduct includes the inappropriate 
+censoring of parties through the use of legal instruments, such as non-disclosure agreements. 
+2.3 Honest errors and differences in, for example, research methodology or interpretations do not constitute 
+research misconduct.  
+3. Receipt of Allegations Stage  
+3.1 The purpose of the Receipt of Allegations Stage is to assess an allegation of research misconduct that has 
+been received by the University, in order to determine the most appropriate process to investigate or 
+otherwise address it. The primary aim is to determine whether the matter falls under the institutional 
+procedure for investigating misconduct in research (in terms of both the matter raised and the individuals 
+identified). 
+3.2 Allegations reported to the Named Person that are not considered to be serious in nature might be resolved 
+by informal discussion, training and guidance, and/or arbitration and/or dispute resolution, without the 
+requirement for a formal investigation. The Named Person may delegate this work to Faculty or 
+Departmental level as appropriate.  
+3.3 On receipt of an allegation, the Named Person will consult with the Research Standards Advisory Group 
+(RSAG) to come to a preliminary view on the following: 
+i. Whether the nature of the allegations are such that they could legitimately be considered as related to 
+research misconduct as defined under the University’s Research Code of Practice.   
+ii. Whether the allegations are of a frivolous, vexatious or malicious nature, or have been subject to 
+earlier investigation through an alternative process (e.g. the Staff Grievance Procedure). 
+iii. Whether the allegations are relatively minor and can be dealt with through training and guidance. 
+iv. Whether an evidential basis exists for the allegations. 
+3.4 The Research Standards Advisory Group will comprise: The Named Person (or nominee); the Director of 
+Research and Knowledge Exchange Services (or nominee); the Chief People Officer (or nominee); and 
+The Executive Dean from the relevant Faculty (or nominee).
+
+--- PAGE 25 ---
+
+ANNEX B of the Research Code of Practice, v.1.1 March 2023 
+ 
+ 
+3.5 The RSAG may at this stage need to seek further documentary evidence from the relevant Faculty and/or 
+Professional Services. The RSAG should advise the respondent that an allegation has been made and the 
+nature of this allegation and invite the submission of any evidence that might provide further insight in the 
+circumstances surrounding the allegation.  They may, in exceptional circumstances, request an initial 
+meeting with the complainant and/or respondent.  
+3.6 The RSAG may take the following actions at this stage: 
+i. Where the nature of the allegations is not considered to meet the definition of research misconduct, the 
+RSAG may refer to an alternative process such as the Staff Grievance or Disciplinary procedures. 
+ii. Where the allegations are considered to be of a frivolous, vexatious or malicious nature or where there 
+is no evidence to substantiate the claims, the RSAG may confirm to the complainant that the matter will 
+not be investigated with reference to the relevant policy where appropriate. 
+iii. Where the nature of the allegations is considered to meet the definition of research misconduct and 
+there is an evidential basis, RSAG will refer the matter to the Initial Investigation Stage below and 
+appoint an Investigating Officer(s). 
+iv. For allegations that have any relation to UKRI, the Director of RKES will make arrangement to report 
+the allegations to UKRI at the conclusion of the preliminary stage where the recommendation is to 
+move to a Stage 1 investigation. 
+v. Where the allegation refers to an ongoing project with a different funder, then the Director of RKES 
+should consider whether it is appropriate to inform them at this stage, or to wait until the outcome of the 
+Full Investigation Stage.  
+3.7 Arrangements will be made to advise both the Complainant(s) and Respondent(s) of the next steps. 
+4. Initial Investigation stage 
+4.1 The purpose of the Initial Investigation Stage is to determine whether there is sufficient evidence of 
+research misconduct to warrant a Full Investigation of the allegation or whether alternative action(s) should 
+be taken. 
+4.2 The RSAG will appoint an Investigating Officer who will be supported in conducting the initial investigation 
+by a member of the HR team. Exceptionally, in very serious and/or complex cases the RSAG may appoint 
+a small panel to undertake the initial investigation. 
+4.3 The Investigating Officer (Initial Stage) should meet with complainant(s) and respondent(s) and review 
+documentary evidence. Where appropriate the Investigation Team will meet with other relevant internal 
+colleagues who may be able to input further evidence to the investigatory process and, exceptionally, 
+external parties where relevant.   
+4.4 The Investigating Officer (Initial Stage) will draft a report of the findings from the investigation and may 
+make the following recommendations to the Named Person at this stage: 
+i. On further investigation the nature of the allegations are not considered to meet the definition of 
+research misconduct and the investigation should be referred to an alternative process such as the 
+disciplinary process. 
+ii. On further investigation the allegations are considered to be of a frivolous, vexatious or malicious 
+nature and the complainant may be investigated for potential misconduct. 
+iii. On further investigation, the allegations should be dismissed. 
+iv. On further investigation, the allegations should be upheld or upheld in part, but are of a sufficiently 
+minor nature as could be addressed via education, training and supervision.
+
+--- PAGE 26 ---
+
+ANNEX B of the Research Code of Practice, v.1.1 March 2023 
+ 
+ 
+v. An evidential basis for research misconduct has been found by the Investigating Officer(s) and it is 
+recommended that the allegation is progressed to the Full Investigation Stage. 
+4.5 The Named Person will consider the findings of the Investigation Officer (Initial Stage) and determine the 
+appropriateness of the recommendations made. 
+5. Full Investigation Stage 
+5.1 The purpose of the Full Investigation Stage is to review all the relevant evidence and: (a) conclude whether 
+an allegation of misconduct in research is upheld in full, upheld in part or not upheld; and 
+(b) make recommendations, for consideration by the appropriate University authorities, regarding any 
+further action the RSAG deems necessary to: address any misconduct it may have found; correct the 
+record of research, and/or address other matters uncovered during the course of its work. 
+5.2 Where the Investigating Officer (Initial Stage) has made a recommendation that there is sufficient evidence 
+that research misconduct has taken place this should be referred to the RSAG for further consideration. 
+The RSAG may at this stage choose to engage with internal or external discipline specialists to assist them 
+in their deliberations. 
+5.3 During the Full Investigation Stage, RSAG will undertake the following activity: 
+i. A review of the evidence presented by the Investigating Officer (Initial Stage) and whether this is 
+sufficient to come to a judgement on the case. 
+ii. Where the evidence is deemed insufficient or where there are additional points of clarification to be 
+sought, the RSAG may choose to conduct further evidence gathering activity. 
+iii. The RSAG may choose to meet with the Complainant(s) and Respondent(s) at this stage or with 
+additional witnesses. 
+5.4 The potential outcomes from the Full Investigation Stage are as follows: 
+i. The RSAG determines that research misconduct is not in evidence and the allegations are not upheld. 
+ii. The allegations are upheld in full or upheld in part and the RSAG determines what actions should be 
+taken as a result of the Full Investigation Stage findings.  This may include: 
+a. Referral to a disciplinary process 
+b. Further education, training or supervision.  
+iii. Findings of the Full Investigation Stage are circulated to all relevant parties including the 
+Respondent(s) and Complainant(s) 
+iv. Where appropriate, UKRI or other external body, is advised of the outcome of the formal process and 
+any corrective action taken (for example, raising concerns with relevant journals). 
+6. Timescales 
+6.1 The University will endeavour to undertake the Initial Investigation Stage within 3 weeks (or 15 working 
+days) from receipt of an allegation and the Full Investigation Stage within three months (or 70 working 
+days) from conclusion of the Initial Investigation Stage. Following completion of the Full Investigation Stage 
+appeals will be accepted by the University when received within 21 days.  
+6.2 Where these timescales cannot be met it will be because greater speed would jeopardise the principles of 
+the procedure and the University commits to proceeding as quickly as possible without compromising the 
+quality of the investigation.

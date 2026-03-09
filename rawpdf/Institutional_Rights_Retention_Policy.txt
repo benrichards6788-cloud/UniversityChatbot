@@ -1,0 +1,148 @@
+--- PAGE 1 ---
+
+Institutional Rights  
+Retention Policy for 
+Research Publications 
+ 
+ 
+ 
+Prepared by: Open Research Action Group (ORAG) 
+Approved by: University Senate on the recommendation of the University Research 
+& Knowledge Exchange Committee (RKEC). 
+Route to approval: Recommended for onward consideration and approval by: 
+• Research Sub-Committee (RSC) on 6 March 2025. 
+• RKEC on15 April 2025. 
+Date of approval: Approved by University Senate on 28 May 2025. 
+Date effective: 29 May 2025. 
+Version number: 1.1 
+Previous versions: The first version of the IRRP was introduced in 
+January 2024 (v1.0). 
+Review process: To be reviewed as and when required by the ORAG. 
+Related policies 
+and procedures: 
+Sector/Funder: 
+UK Research and Innovation (UKRI) Open Access Policy (Feb 2023) 
+REF 2021: Overview of open access policy and guidance (Nov 2019) 
+Coalition S 
+University of Strathclyde: 
+Intellectual Property and Commercialisation Policy (March 2023) 
+Research Code of Practice (March 2023)Code of Practice for 
+Postgraduate Research Students (Sept 2023)   
+Open Access Policy (March 2025) 
+Research Publications Guidance (Feb 2023) 
+Research Data Management and Sharing Policy (March 2023)
+
+--- PAGE 2 ---
+
+Introduction 
+1. This policy recognises that it is not necessary for an author to sign over their copyright or grant an 
+exclusive licence to a publisher in order for their scholarly work to be published or disseminated. 
+This policy sets out the steps authors should take to retain control over their published research to 
+enable full Open Access. 
+2. When publishing journal articles and other research outputs, authors at the University of Strathclyde 
+have traditionally signed a copyright transfer agreement which assigns their copyright to academic 
+publishers. This has resulted in many research publicat ions being under partial or complete 
+ownership of the academic publishers. Reuse of the published work is subsequently controlled by 
+the publishers while authors retain certain limited rights about when, where, how and with whom 
+their output can be shared.  This approach is increasingly divergent from the principles of Open 
+Research and funder expectations, including requirements for the Research Excellence Framework 
+(REF). 
+3. The University of Strathclyde is committed to the values, principles and culture of Open Research, 
+as set out in our Open Research Statement . The term Open Research covers Open Access 
+approaches to research outputs and data through open research platforms, tools and services. It 
+includes the drive for greater collaboration and transparency within the research lifecycle with the 
+aim to deliver im proved research quality and impact with greater engagement with the public. Not 
+retaining the copyright of publications may diminish the extent to which a member of staff or 
+postgraduate research student can make their work open.
+  
+4. To address the conflict between promoting Open Research and assigning partial or complete 
+ownership of work to a publisher, this policy supports authors to retain rights to their work to allow 
+them to increase the visibility of all their research outputs and comply with funding body requirements 
+for Open Access.  
+5. The purpose of this policy is to:  
+• support authors to retain the copyright to their publications and comply with funder 
+requirements; and 
+• enable the University to disseminate its research and scholarship as widely as possible, whilst 
+enabling its authors to publish their articles in a journal venue of their choice.    
+6. Questions relating to this policy should be directed to the University’s Open Access team at 
+openaccess@strath.ac.uk. 
+Scope 
+7. This policy applies to all authors or co -authors who are affiliated with the University of Strathclyde 
+(hereafter ‘authors’). This includes postgraduate research students, subject to requirements of 
+section 4.5 of the University’s Intellectual Property and Commercialisation Policy.
+1  
+8. This policy applies to all articles, authored or co- authored while the person is a member of staff or 
+student at Strathclyde, including conference proceedings (with an ISSN) and any third-party content 
+where rights in that content have been secured. Any ar ticles submitted for publication before the 
+date of adoption of this policy are exempt.  
+9. This policy applies to all Strathclyde articles regardless of whether they are published Gold Open 
+Access or not. This is an extension of applicable funders’ Open Access policies, in which the Rights 
+Retention mechanism only applies when there is no way to make an article Gold Open Access, 
+either by paying an Article Processing Charge (APC) or via the University’s Read and Publish deals. 
+To promote Open Research, Strathclyde has chosen to apply this this Institutional Rights Retention 
+Policy to all journal articles and conference papers.  
+ 
+1 See also Clauses 27-34 Code of Practice for Postgraduate Research Students.
+
+--- PAGE 3 ---
+
+10. This policy only applies to first copyright (the right to control use which automatically arises when an 
+individual or collective authors a work) in authored research publications. It does not extend to other 
+intellectual property rights in research which are covered by the University’s Intellectual Property 
+and Commercialisation Policy.  
+11. This policy does not apply to monographs, books, book chapters, edited collections or other research 
+outputs although the University strongly encourages authors to make them as openly available as 
+possible.  
+12. This policy does not apply to preprints. A preprint is a version of an article that precedes formal peer 
+view and publication in an academic journal. 
+Policy requirements 
+13. The adoption of this Institutional Rights Retention Policy means that Strathclyde authors do not, as 
+a rule, need to include a rights retention statement in their manuscript at point of submission to retain 
+copyright. In addition, over 100 publishers, incl uding those used most frequently by Strathclyde 
+researchers, have been formally notified that this policy is in effect. Generally, therefore, no specific 
+wording needs to be added to the acknowledgements section of the manuscript for a Creative 
+Commons Attribution (CC BY) licence to be applied to the full -text accepted manuscript once the 
+submission is accepted by the journal.  
+Where a funder requires it, or if a publisher has not been notified about the IRRP, authors should 
+include the following wording in the acknowledgements section of the manuscript: 
+‘For the purpose of open access, the author(s) has applied a Creative Commons Attribution 
+(CC BY) licence to any Author Accepted Manuscript version arising from this submission.’ 
+Authors are advised to check with the Open Access team at openaccess@strath.ac.uk  if they are 
+unsure if the wording should be included in the manuscript. 
+14. Upon acceptance for publication, each author with a responsibility for the research agrees to grant 
+the University a non-exclusive, irrevocable, worldwide licence to make the accepted manuscript of 
+each article publicly available under the terms of a CC BY  licence. The licence is granted to the 
+University by uploading a copy of the full -text accepted manuscript in Pure, whereupon the 
+manuscript will be deposited in the Strathprints institutional repository to satisfy the technical, 
+compliance, and discovery requirements of relevant open access policies. 
+15. The University will make the full -text of the AAM publicly available on the date of first online 
+publication  
+(or the conference end date for conference proceedings) under a CC BY licence. 
+16. The University recognises that there may be cases, and outside of an individual’s control, where it 
+is not possible to follow all aspects of this policy. Examples include: 
+• An alternative Creative Commons licence  may be used on the deposited AAM where a funder 
+allows it, or if there is no external funder mandate or REF requirement. The author must inform 
+the Open Access team of their preference for an alternative licence. 
+• If removal of third -party content would make the AAM unsuitable for sharing, an exception will 
+apply and the AAM will be retained as ‘closed’ access in Pure and Strathprints. 
+• If an existing contract with a publisher has been signed that prevents compliance with this policy, 
+an opt-out may be considered. Potential alternatives may be available, including negotiating with 
+publishers on amending copyright licences. Appropriate support will be provided if/where needed 
+by the University’s Copyright Officer 
+• Institutional authors should bring the need to meet the Institutional Rights Retention Policy 
+requirements to the attention of their co-authors as early as possible in the publishing cycle. If full 
+compliance turns out not to be feasible, there may be an option to apply an opt-out. 
+In such cases, it will be permissible for authors to voluntarily opt out of the requirement for immediate 
+open access upon publication, or the assignation of a CC BY licence. This, however, may cause the
+
+--- PAGE 4 ---
+
+research publication to be non-compliant with funder policies or ineligible for future REF exercises. 
+To opt out, authors must contact the Open Access team at openaccess@strath.ac.uk.   
+Related policies and guidance 
+17. This policy aligns with clause 4.5 of the University’s Intellectual Property and Commercialisation 
+Policy which states that authors own the copyright to their scholarly works and grant the University 
+a perpetual and royalty -free licence to use such Scholarly Rights for non- commercial teaching, 
+research and academic purposes.  
+18. This policy should be read in conjunction with the related University policies and guidelines listed on 
+the cover page.
