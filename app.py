@@ -184,7 +184,7 @@ with tab_chat:
                             st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
                                 f"""
-                                    <div style="
+                                <div style="
                                     background-color:#1e3a5f;
                                     padding:14px;
                                     border-radius:8px;
