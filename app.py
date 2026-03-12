@@ -1,4 +1,5 @@
 import base64
+from collections import defaultdict
 from pathlib import Path
 
 import streamlit as st
@@ -7,6 +8,8 @@ from answer_policies_llama import answer_question
 from query_policies import retrieve_policies
 
 PDF_DIR = Path("guidance pdf")
+FIXED_K = 10
+MAX_EXTRACT_CHARS = 700
 
 
 def render_pdf_embed(pdf_path: Path, height: int = 700):
@@ -30,6 +33,27 @@ def render_pdf_embed(pdf_path: Path, height: int = 700):
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 
+def strip_breadcrumbs(text: str) -> str:
+    """Remove leading [Policy: ...] [Section: ...] breadcrumbs from chunk text for UI display."""
+    if not text:
+        return ""
+
+    cleaned = text.strip()
+    if cleaned.startswith("[Policy:"):
+        parts = cleaned.split("]", 2)
+        if len(parts) == 3:
+            return parts[2].strip()
+    return cleaned
+
+
+def group_chunks_by_document(chunks):
+    grouped = defaultdict(list)
+    for chunk in chunks or []:
+        doc_title = chunk.get("doc_title") or "Unknown document"
+        grouped[doc_title].append(chunk)
+    return grouped
+
+
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
@@ -43,13 +67,12 @@ with tab_chat:
 
     with st.sidebar:
         st.header("Settings")
-        k = 10
         st.markdown("---")
         st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
 
-    for m in st.session_state.messages:
-        with st.chat_message(m["role"]):
-            st.markdown(m["content"])
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
     prompt = st.chat_input("Ask a policy question...")
 
@@ -59,11 +82,11 @@ with tab_chat:
         with st.chat_message("user"):
             st.markdown(prompt)
 
-        chunks = retrieve_policies(prompt, k=k)
+        chunks = retrieve_policies(prompt, k=FIXED_K)
 
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
-                answer = answer_question(prompt, k=k)
+                answer = answer_question(prompt, k=FIXED_K)
 
             st.markdown(answer)
 
@@ -71,34 +94,41 @@ with tab_chat:
                 if not chunks:
                     st.write("No sources retrieved.")
                 else:
-                    shown_pdfs = set()
+                    grouped_chunks = group_chunks_by_document(chunks)
 
-                    for i, c in enumerate(chunks, start=1):
-                        st.markdown(f"### Source {i}")
-                        st.write(f"**Title:** {c.get('doc_title')}")
-                        st.write(f"**Section:** {c.get('section')}")
+                    for source_num, (doc_title, doc_chunks) in enumerate(grouped_chunks.items(), start=1):
+                        first_chunk = doc_chunks[0]
+                        source_file = first_chunk.get("source_file")
+                        section_names = sorted({(c.get("section") or "Unknown section") for c in doc_chunks})
 
-                        source_file = c.get("source_file")
+                        st.markdown(f"### 📄 Source {source_num}")
+                        st.write(f"**Document:** {doc_title}")
+                        st.write(f"**Retrieved excerpts:** {len(doc_chunks)}")
+
+                        if section_names:
+                            if len(section_names) == 1:
+                                st.write(f"**Section:** {section_names[0]}")
+                            else:
+                                st.write(f"**Sections:** {', '.join(section_names[:3])}")
+
                         if source_file:
                             st.write(f"**PDF:** {source_file}")
 
-                        st.markdown("**Relevant extract:**")
-                        st.info(c.get("text", "")[:1200])
+                        for extract_num, chunk in enumerate(doc_chunks, start=1):
+                            chunk_text = strip_breadcrumbs(chunk.get("text", ""))
+                            st.markdown(f"**Relevant extract {extract_num}:**")
+                            st.info(chunk_text[:MAX_EXTRACT_CHARS])
 
                         if source_file:
                             pdf_path = PDF_DIR / source_file
+                            show_pdf = st.toggle(
+                                f"View source PDF: {source_file}",
+                                key=f"toggle_pdf_{source_num}_{source_file}"
+                            )
+                            if show_pdf:
+                                render_pdf_embed(pdf_path)
 
-                            # only offer one embed toggle per unique PDF
-                            if source_file not in shown_pdfs:
-                                shown_pdfs.add(source_file)
-
-                                show_pdf = st.toggle(
-                                    f"View source PDF: {source_file}",
-                                    key=f"toggle_pdf_{source_file}"
-                                )
-
-                                if show_pdf:
-                                    render_pdf_embed(pdf_path)
+                        st.divider()
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
