@@ -1,0 +1,489 @@
+--- PAGE 1 ---
+
+POLICY ON 
+MODERATION AND 
+DOUBLE MARKING 
+ 
+Version No. Description Author Approval Effective Date 
+1.0 Policy on Moderation 
+and Double Marking 
+– applicable to both 
+undergraduate and 
+postgraduate taught 
+courses 
+Assessment 
+and Feedback 
+Working 
+Group 
+Senate  
+ 
+From academic 
+year 2019-20 
+ Version 1.0 
+ 
+ 
+the place of useful learning  
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC015263
+
+--- PAGE 2 ---
+
+Policy on Moderation and Double Marking  
+1 
+ 
+1. RATIONALE 
+The QAA UK Quality Code for Higher Education  notes the expectations for higher education 
+providers to provide clear processes for staff  involved in internal quality assurance of 
+assessments, namely moderation and double marking. The aim s of these processes are to 
+ensure that appropriate (fair, valid and reliable) and rigorous standards are applied to summative 
+assessments, and that the standards are applied consistently across a cohort and in line with 
+published assessment criteria. The marking of all summative assessments should be in alignment 
+with published assessment criteria and appropriate standards, and should be subject to 
+moderation in a way that fits the discipline, the nature of the assessment, and the credit-weighting 
+of the assessment. This approach to marking is commonly referred to as ‘criteria-referenced’, 
+where students’ work is assessed agains t explicit criteria . The University does not  endorse a 
+‘norm-referenced’ approach to marking, where a fixed proportion (or narrow range of proportions) 
+of students are awarded grades within each grade band. This policy aims to provide guidance to 
+staff on implementing these internal processes in undergraduate and postgraduate taught 
+assessments. These processes, conducted internally by staff, are carried out in addition to the 
+quality assurance process conducted by External Examiners , where duties include approving 
+assessment design, moderating the achievement of students set by the University and/or 
+professional and statutory bodies for all classes  in order to ensure comparability of standards . 
+Guidance on the role of External Examiners can be found here.  
+ 
+2. WHAT IS MODERATION? 
+The process of moderation is independent of the marking of individual assessments , and is a 
+process that aims to ensure that the marking of assessments is fair, valid, and reliable, and that 
+assessment criteria have been applied consistently across students’  work, within and across 
+markers. Moderation will take different forms, depending on the nature of the assessment, level 
+of study, and credit-weighting, and while co-ordinated by course leaders , it is likely that all 
+members of a course team will contribute to moderation. 
+ 
+3. WHEN IS MODERATION REQUIRED? 
+Appropriate moderation processes are required for all summative assessments. The process of 
+moderation takes place after all marking has been carried out. Time should be allocated to the 
+process for all summative assessments so that moderation, and any actions from moderation, 
+will be completed prior to the return of grades and/or feedback to students within the agreed time 
+frame. (Note that the University expects feedback on coursework to be returned to students within 
+15 working days of an assessment submission).  While moderation is not required for non-
+weighted assessments (sometimes called formative assessments), arrangements should also be 
+in place here to ensure consistency of marking and feedback. 
+ 
+4. METHODS OF MODERATION 
+As previously mentioned, the appropriate method of moderation will depend on the discipline, the 
+nature of the assessment and the assessment’s credit weighting.
+
+--- PAGE 3 ---
+
+Policy on Moderation and Double Marking  
+2 
+ 
+Internal m oderation is the process of reviewing a sample of work to check that grades and 
+feedback consistently align to the set assessment criteria for the level of study.  
+In addition to this process of internal moderation, unseen double-marking is where an assessment 
+is independently marked by two markers who do not have access to the grades or comments of 
+the other marker . Seen double-marking is the process where an assessment is independently 
+marked by two markers, but where the second marker has access to the marks or comments of 
+the first marker. The following provides guidance as to the appropriate method of moderation. 
+The expectation will normally be that the internal moderation process is followed for classes of 
+20 credits or less, where a sample of assessments are moderated,  rather than double-marked. 
+Double-marking will only be used following the conditions below, or where professional bodies 
+require it.  
+ 
+4.1 Double-marking 
+The method of double- marking will normally be used for all summative assessments  where an 
+assessment has a credit weighting of 40 credits or higher. It is recommended that unseen double 
+marking is carried out for highly weighted summative assessments, and for dissertations or final 
+year projects, where the student is known to the first marker. Some areas may use seen double-
+marking for summative assessments with a high credit weighting.  
+ 
+4.2 Internal moderation  
+Internal moderation should be carried out only by suitably qualified University staff  (determined 
+by the Department/School). The process of internal moderation should be used for all summative 
+assessments where: 
+4.2.1 An assessment has been marked by one marker:  A sample of the marked assessments 
+should be reviewed by a moderator. The sample should normally include around 10% of 
+the marked assessments , and should cover the full range of grades awarded by the 
+marker. In addition to this sample, all assessments that have been graded a ‘Fail’ should 
+be included in the sample for moderation. Where the total number of assessments is 10 
+or less, the whole batch should be moderated. The moderator should be provided with the 
+complete list of grades awarded, and where possible,  summary statistics for the 
+assessment (e.g. mean mark, standard deviation, minimum and maximum marks).  See 
+Appendix 1 for guidance on generating these statistics in Myplace. 
+4.2.2 An assessment is marked by more than one marker:  In this case, moderators should be 
+provided with a sample of marking from  each individual marker, as well as the complete 
+list of grades awarded, and where possible, summary statistics for each marker (e.g. mean 
+mark, standard deviation, minimum and maximum marks). The sample should normally 
+include around 10% of the marked assessments, and should cover the full range of grades 
+awarded. In addition to this sample, all assessments that have been graded a ‘Fail’ should 
+be included in the sample for moderation.  Appendix 2 shows examples of effective 
+moderation practice where an assessment is marked by multiple markers. 
+4.2.3 A module is delivered by more than one teaching team (e.g. in more than one geographical 
+location, or mode of delivery), a separate sample should be moderated for each cohort.
+
+--- PAGE 4 ---
+
+Policy on Moderation and Double Marking  
+3 
+ 
+4.2.4 Assessments are marked using highly structured and objective marking schemes : 
+Moderation may simply involve procedural checking in order to ensure the marking 
+scheme is appropriate and is applied consistently across a sample of marking.  
+4.2.5 Assessments are computer marked: For assessments such as multiple choice 
+examinations and assessments that are conducted online and marked by a computer, 
+moderation will simply involve checking that the software is accurately assessing answers 
+to each question, and calculating overall marks correctly. 
+4.2.6 Assessments do not result in physical artefacts: Where an assessment does not result in 
+the creation of a physical object (e.g. a piece of written work ), such as presentations, 
+assessment on placement s, live performances, or practical demonstrations , 
+arrangements could be made for the moderator to observe a sample of the assessments, 
+via either their presence at the time of the assessment or via a video recording. Where 
+these options are not feasible (e.g. tutorial performance or placement assessments), the 
+following arrangements could be put in place: 
+a. Involve a second marker in assessing students’ work. For example, two markers can 
+be present during student presentations , following which, the two markers agree a 
+single mark.  
+b. Clearly specify written assessment criteria and take steps to ensure all markers have 
+a shared understanding of how they should apply the criteria. At honours and 
+postgraduate levels, the criteria should be discussed with an external examiner before 
+the assessment is undertaken for the first time.  
+c. Following the marking of all assessments, the class leader should review the grades 
+awarded by each marker . Wh ere marks for a marker(s) appear significantly 
+inconsistent with marks awarded by other markers of the assessment, the class leader 
+should discuss this with the marker concerned. Marks may then be adjusted,  if it is 
+agreed that the marking criteria was not applied fully and consistently across students. 
+4.2.7 Assessments that are marked by tutors and postgraduate students: Where assessments 
+are marked by external tutors, visiting lecturers/new staff, or postgraduate students, it is 
+expected that moderation processes will be more robust, usually through sampling a 
+greater proportion of marked work. It is important to communicate upfront the moderation 
+process to all markers, and the need for markers to be available during the moderation 
+period to respond to any points made by the moderator.  
+ 
+5. RESOLVING DIFFERENCES IN MARKS BETWEEN MODERATORS AND MARKERS 
+Moderators may disagree with marks and/or provided feedback. This disagreement may be minor 
+(i.e. reflect only a small grade difference) and limited to only isolated cases, or it may reflect more 
+consistent disagreement in the marks awarded, perhaps pointing in a single direction (e.g. 
+grading is too generous or too harsh in line with the assessment criteria), or it may be due to 
+greater variability in the extent to which grades align with the assessment criteria. Individual 
+grades of sampled assessments should not be recommended for adjustment, unless: a) the 
+marker has specifically requested that individual’s grade be checked; or b) the appropriate range 
+pertaining to that individual grade, or grade band, is then checked for all students in the class or 
+all marking carried out by an individual marker . Moderators may also request changes in the 
+content, tone, or detail of feedback, in order to improve the alignment between grades and 
+feedback, the usefulness of the feedback (i.e. comments that support the development of future 
+work), and between feedback and the assessment criteria.
+
+--- PAGE 5 ---
+
+Policy on Moderation and Double Marking  
+4 
+ 
+ 
+6. RESOLVING DIFFERENCES IN MARKS BETWEEN DOUBLE MARKERS 
+Where two markers have a difference in marks , a discussion should take place regarding the 
+strengths and limitations of a piece of work and how it aligns with the assessment criteria with a 
+view to agreeing the final mark . Where agreement is not reached between a first and second 
+marker, and there is a difference of 6 marks or more, a third marker may be appointed to arrive 
+at a final mark.  Where the difference is less than 6 marks, and agreement is not reached, the 
+average of the two marks, rounded up, should be awarded. The third marker may wish to view 
+the grades and comments of each marker, prior to determining the final mark to be awarded. A 
+record of how marks have been agreed should be maintained.  
+ 
+7. SCALING OF MARKS 
+Scaling of marking will be undertaken only in exceptional circumstances, for example, where 
+evidence has been provided that a  set of marks for an assessment do not accurately  reflect 
+student attainment of the learning outcomes being assessed. It is anticipated that in the majority 
+of cases the examiners will be satisfied with module performance and no scaling of marks should 
+be considered necessary . However, and exce ptionally, in cases where module performance 
+indicates a deviation from normal expectations, the Course Director and module coordinators  
+should investigate reasons as to why this may the case. Appendix 3 provides more information 
+on the procedure that should be followed in the event that a set of marks require scaling. 
+ 
+8. MAINTAINING RECORDS OF THE MODERATION PROCESS 
+The process of moderation and associated outcomes should be recorded, as part of the record 
+of an assessment and to support transparency and consistency in the steps taken to ensure the 
+quality assurance in the assessment of students’ work. This record can be reflected on within the 
+module review process. Appendix 4 shows an example form that can be used for this purpose. 
+Records of moderation should be kept for the same time period of associated assessments. 
+ 
+9. COMMUNICATION OF MODERATION PROCESSES 
+Often students are unaware of the range of checks and balances in place to ensure quality 
+assurance of assessment and feedback. It is  good practic e to communicate to students the 
+programme level approach to moderation, as making transparent the range of measures taken is 
+likely to promote trust. An example communication to students is available in Appendix 5 for staff 
+to edit to reflect the approach within their own programmes.  
+ 
+10. RESPONSIBILITIES FOR IMPLEMENTATION 
+10.1 Boards of Examiners are responsible for:  responding to the comments  of External 
+Examiners following external moderation for which they are responsible. 
+10.2 Heads of Department/School are responsible for ensuring: that all staff within their area 
+of responsibility are aware of this policy, and that the policy is implemented.
+
+--- PAGE 6 ---
+
+Policy on Moderation and Double Marking  
+5 
+ 
+10.3 Programme leaders/Directors of Teaching  are responsible for ensuring: this policy is 
+implemented within their areas of responsibility ; the records of moderation processes are 
+provided to External Examiners, where appropriate;  that scaling of marks is done only in 
+exceptional cases  and in consultation with the Head of Department/School . Programme 
+leaders/Directors of Teaching are also responsible for identifying any areas of development 
+for staff and teaching teams relating to assessment and feedback and course planning. 
+10.4 Module Coordinators/staff setting the assessment are responsible for:  Communicating 
+the moderation process to all markers, including the timing for returning any amendments to 
+marking; and Communicating the moderation process to students. 
+10.5 Markers of assessments are responsible for: responding to the comments made by a 
+Moderator in the time frame requested. 
+ 
+11. DEFINITION OF TERMS 
+ 
+External moderation Moderation of summative assessments by an external examiner. 
+Internal moderation The process of reviewing a sample of work to check that grades and 
+feedback consistently align to the set assessment criteria for the 
+level of study.  
+Scaling The process of applying a numeric adjustment to a set of marks. 
+Seen double marking Where an assessment is independently marked by two markers, but 
+where the second marker has access to the marks or comments of 
+the first marker. 
+Unseen double marking 
+ 
+Where an assessment is independently marked by two markers who 
+do not have access to the grades or comments of the other marker.
+
+--- PAGE 7 ---
+
+Policy on Moderation and Double Marking  
+6 
+ 
+Appendix 1. Guidance on generating descriptive statistics to support moderation 
+ 
+1.1 Generate descriptive statistics for Myplace assignments 
+Descriptive statistics can be generated for Myplace assignments by using the "Activity statistics" 
+link in the assignment administration menu. By default this shows a bar chart of grades for the 
+assignment in bands of 5 percentage points, and statistics such as mean and standard deviation 
+for the grades given. Where classes are using groups, these charts and statistics can be 
+generated per group, either by selecting a specific grouping or all groups. The data for the class 
+as a whole and the selected groups  can be exported to a CSV file for processing outside of 
+Myplace. 
+ 
+1.2 Use Microsoft Excel to generate descriptive statistics 
+The following ‘functions’ can be used to generate descriptive statistics for a set of marks in Excel. 
+Returns the average (arithmetic mean) of the arguments. For example, if the range A1:A20 
+contains numbers, the formula =AVERAGE(A1:A20) returns the average of the marks in column 
+A, rows 1:20. The table below shows the function for a number of useful descriptive statistics. 
+ 
+Purpose Statistic Function 
+Measure of central 
+tendency for 
+symmetrical distributions 
+Mean mark =average(A1:A20) 
+Measure of central 
+tendency for skewed 
+distributions 
+Median mark =median(A1:A20) 
+Measure of dispersion in 
+the data from the mean 
+Standard deviation =stdev(A1:A20) 
+The lowest mark in the 
+data 
+Minimum mark =min(A1:A20) 
+The highest mark in the 
+data 
+Maximum mark =max(A1:A20)
+
+--- PAGE 8 ---
+
+Policy on Moderation and Double Marking  
+7 
+ 
+Appendix 2. Some examples of effective practice 
+ 
+Where an assessment is marked by multiple markers. 
+In the contexts of large class sizes, moderators may find it beneficial to do one of the following 
+either prior to the commencement of marking, or early in the marking process: 
+1.1 Request that all markers (particularly where postgr aduate markers are used) send their 
+first marked assessment for review to the class leader, or staff member who set the 
+assessment. This provides an opportunity for markers to receive comments on the grade 
+and feedback they have provided, for consideration in the remainder of their marking. 
+1.2 Set up a meeting for all markers in order to develop a shared understanding of the 
+standards and assessment criteria. 
+1.3 To support moderation, calculate the mean grade, and the minimum and maximum grades, 
+awarded by each marker, and for the class as a whole. (See Appendix 1 for guidance).
+
+--- PAGE 9 ---
+
+Policy on Moderation and Double Marking  
+8 
+ 
+Appendix 3. Procedure for the Scaling of marks 
+As stated in Section 7, the scaling of marks should only be carried out in exceptional 
+circumstances and in consultation with the Director of Teaching and Head of Department/School. 
+In their investigation, the module coordinators and examiners should consider the following: 
+1. Is there statistical evidence of a deviation in overall module performance based on 
+historical records? (Note that statistical evaluation of modules with small class sizes can 
+be problematic) 
+2. Has the original marking scheme been fairly constructed, implemented and appropriately 
+applied? 
+3. Is there evidence for a technical or operational failure in teaching delivery or in the 
+assessment process?  
+a. Operational failures in teaching delivery could include: 
+i. Poor pre-assessment guidance to students that conflicts with the knowledge 
+and skills tested in the assessment. 
+ii. Assessed material weighting does not reflect the balance of the course 
+curriculum. 
+iii. Teaching delivery or study time was compromised. 
+b. Failure of assessment could reflect the following: 
+i. Ambiguous questions 
+ii. Non-anticipated solutions to questions 
+iii. Errors in questions 
+iv. Poor description of examination structure and assessment weighting 
+v. Unforeseeable circumstances. 
+ 
+If there is evidence that the distribution of class marks for the majority of the registered students 
+has been adversely affected by a technical or operational factor, then scaling may be considered. 
+If teaching delivery and assessment methods are considered to be fair and reasonable, no scaling 
+should be recommended by the module organiser. Individual student circumstances contributing 
+to poor performance are dealt with separately under personal circumstances procedures. Scaling 
+should not be applied to bring the average mark of a module into a specific range of marks without 
+specific evidence of concerns in the delivery or assessment of that module. 
+ 
+Scaling Implementation 
+Scaling must be overs een by the Director of Teaching and Head of Department/School . Any 
+scaling method must be uniformly applied to all students registered on a module that have made 
+a bone fide attempt to complete the required assessment. C are should be taken not to over -
+compensate student performance. The method of scaling may include:  
+1. The simple addition of a constant to the raw mark(s).  
+2. The application of a multiplication factor. 
+𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑚𝑚𝑠𝑠𝑚𝑚𝑚𝑚= 𝐴𝐴× (100 − 𝑚𝑚𝑠𝑠𝑟𝑟 𝑚𝑚𝑠𝑠𝑚𝑚𝑚𝑚) + 𝑚𝑚𝑠𝑠𝑟𝑟 𝑚𝑚𝑠𝑠𝑚𝑚𝑚𝑚 
+ 
+where A could equal 0.05 or 0.1, for example, which benefits lower scorers more and ensures all 
+marks are below 100%, whilst
+
+--- PAGE 10 ---
+
+Policy on Moderation and Double Marking  
+9 
+ 
+ 
+𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑚𝑚𝑠𝑠𝑚𝑚𝑚𝑚= 𝐴𝐴× 𝑚𝑚𝑠𝑠𝑟𝑟 𝑚𝑚𝑠𝑠𝑚𝑚𝑚𝑚 
+ 
+where A = 1.05 or 1.1, for example, benefits higher scorers more, and does not prevent the scaled 
+mark exceeding 100%, and thus should be used with care. 
+ 
+3. The exclusion of an assessed component or exam question from the calculation of the final 
+mark. 
+ 
+ 
+Scaling should normally follow a two stage process 
+Stage 1: If module scaling is deemed necessary, the scaling method should be chosen, applied 
+and the impact on the distribution of module marks determined. The module coordinator should 
+seek the approval of the Course Director and the Head of Department prior to the scaled marks 
+being uploaded. 
+Stage 2: The case for scaling should be made by the Department to the Board of Examiners prior 
+to the presentation of the schedule of marks. If the Board of Examiners does not consent to the 
+scaling, the un-scaled results for the module should stand. Therefore, the un-scaled marks must 
+be available at the Board of Examiners should the Board of Examiners disagree to the scaling 
+action.
+
+--- PAGE 11 ---
+
+Policy on Moderation and Double Marking  
+10 
+ 
+Appendix 4. Example Moderation Form 
+ 
+Report on moderation of marking 
+Moderation guidelines: The sample should normally include around 10% of the marked 
+assessments, and should cover the full range of grades awarded by the marker. In addition to 
+this sample, all assessments that have been graded a ‘Fail’ should be included in the sample for 
+moderation. Individual marks should not be recommended for adjustment unless a) the marker 
+has specific ally requested that an individual mark be checked or b) the appropriate r ange 
+pertaining to that individual mark is then checked for all students in the class, or for all 
+assessments marked by a specific marker(s). Please maintain a record of the assessments 
+sampled (e.g. for examinations, initial scripts, and for other assessm ents, record a note of the 
+registration numbers/participant IDs of those that were sampled). 
+Section A: To be completed by module lead and sent to Internal moderator 
+Academic year and Semester: 
+Module Code and Name: 
+Assessment Type and Description (e.g. written exam, essay): 
+Assessment title: 
+ 
+Marker(s)  Internal 
+Moderator 
+ Class 
+size 
+ Sample size 
+for 
+moderation 
+ 
+ 
+Student ID First Marker 
+Mark 
+Comments (if appropriate) 
+   
+   
+ 
+Distribution of marks across grade classifications 
+MEAN & SD   RANGE  
+Fails  40s  
+50s  60s  
+70s  80s+  
+Section B: To be completed by Internal moderator 
+I confirm that I have sampled a range of grades from all markers, and on the basis of the 
+sample considered, the marking of this assessment is:
+
+--- PAGE 12 ---
+
+Policy on Moderation and Double Marking  
+11 
+ 
+Consistent with the assessment criteria 
+If NO is indicated, please provide details in the comments section below 
+Yes/No 
+Overall comments on the quality of work and any other form of feedback: 
+ 
+Recommendations of adjustments to be made to marks and/or feedback: 
+ 
+Adjustment agreed by first marker and moderator: Yes/No 
+If No, why not? 
+ 
+ 
+Only complete if necessary: 
+ 
+Section C: To be completed by External Examiner 
+I confirm that I have sampled a range of grades from all markers, and on the basis of the 
+sample considered, the marking of this assessment is: 
+Consistent with the assessment criteria 
+If NO is indicated, please provide details in the comments section below 
+ 
+Yes/No 
+Overall comments on the quality of work and any other form of feedback: 
+ 
+External PRINT NAME:  
+Signature:  
+Date:
+
+--- PAGE 13 ---
+
+Policy on Moderation and Double Marking  
+12 
+ 
+Appendix 5. Example communication to students regarding the moderation process. 
+ 
+5.1 Email template communicating the moderation process to students 
+Dear Students, 
+The marking of your assessment will take place in the immediate days following the submission 
+deadline. Consistent with our quality assurance process, a proportion of all assessments  will be 
+scrutinised to ensure accuracy and consistency in the marking and feedback process, before the 
+marks and feedback are returned to you. This process is part of a wider set of processes that are 
+used to ensure that all stakeholders (students, families, the university, the government, the public, 
+and employers etc) maintain confidence in the UK H.E.'s assessment system.  
+The role of External Examiners (that is , experienced members of academic staff from 
+departments in other UK universities)  in the UK higher education system is an extremely 
+important one; their task is to ensure that our assessment and feedback procedures are robust, 
+fair, and that we apply standards that are consistent with other universities in the UK. This process 
+ensures that all stakeholders (students, families, the university, the government, the public, and 
+employers etc) maintain confidence in the UK H.E.'s assessment system.  
+Only once this process has been complete will we be in a position to release your grades and 
+feedback. The date for this will be:

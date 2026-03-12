@@ -1,0 +1,568 @@
+--- PAGE 1 ---
+
+UNIVERSITY TIMETABLING POLICY 
+Version No. Description Author Approval Effective Date 
+1.0 
+Guidance for staff on the 
+University’s teaching timetable, 
+the provision of facilities to 
+support teaching and the booking 
+of central pool teaching space for 
+non-teaching activities. 
+Timetabling Team N/A Guidance as at 
+May 2012. 
+1.1 
+Updated guidance for staff on the 
+University’s teaching timetable, 
+the provision of facilities to 
+support teaching and the booking 
+of central pool teaching space for 
+non-teaching activities. 
+Timetabling Team 
+and Education 
+Enhancement 
+Senate 7th February 
+2024 
+ 1.2 
+Updated guidance for staff on the 
+University’s teaching timetable, 
+the provision of facilities to 
+support teaching and the booking 
+of central pool teaching space for 
+non-teaching activities. 
+Timetabling Team 
+and Education 
+Enhancement 
+Senate 28th May 2025
+
+--- PAGE 2 ---
+
+2 
+ 
+ 
+UNIVERSITY TIMETABLING POLICY 
+ 
+CONTENTS 
+Glossary of Terms .................................................................................................................................................... 3 
+Purpose and Scope .................................................................................................................................................. 4 
+Guiding Principles .................................................................................................................................................... 4 
+Timetabling Team Responsibilities ......................................................................................................................... 5 
+The Teaching Year.................................................................................................................................................... 5 
+The Teaching Week .................................................................................................................................................. 6 
+Teaching Activities ................................................................................................................................................... 7 
+Teaching Space ........................................................................................................................................................ 7 
+Teaching Staff .......................................................................................................................................................... 8 
+Students .................................................................................................................................................................... 8 
+Prioritisation of Teaching Activities ....................................................................................................................... 9 
+Prioritisation and Notification of Quality Indicators ............................................................................................ 10 
+Non-teaching Events .............................................................................................................................................. 10 
+Student Elective Modules ...................................................................................................................................... 10 
+Timetable Publication ............................................................................................................................................ 11 
+Room Bookings ...................................................................................................................................................... 11
+
+--- PAGE 3 ---
+
+3 
+ 
+ 
+Glossary of Terms 
+1. This glossary sets out key terms used in this policy together with their associated definitions. Key 
+terms are highlighted in italics throughout this policy. 
+ 
+Term Definition 
+Central Pool Teaching Central Pool Teaching and learning space which is centrally 
+managed and timetabled and used for teaching activities and 
+non-teaching events 
+Compulsory Module A Module which must be taken as part of the programme 
+curriculum 
+Departmental Timetabling 
+Coordinator 
+A nominated staff member within each academic department 
+responsible for the management of the timetabling process at 
+departmental level 
+Elective Module A Module, offered by the University, which can be freely chosen 
+by a student or a Module available where students have to 
+choose from a specific list of modules 
+Faculty Timetabling 
+Coordinator 
+A nominated staff member within each Faculty responsible for 
+management of the timetable at Faculty level 
+Institutional Timetabling 
+System 
+The name used for the timetabling software (Syllabus 
+Plus/S+/Enterprise) 
+Module The individual components of a programme, normally worth 20 
+or 10 credits 
+Optional Module A Module chosen by a student from a list defined in a 
+programme curriculum, for example, specialisms within a 
+programme 
+Personalised Student 
+Timetable 
+A student’s individual timetable which shows all of the teaching 
+activities they have been allocated to 
+Programme The full degree programme leading to an award 
+Resource Booker The name of the software used to book resources (e.g. rooms, 
+desks, equipment) for non-teaching activities on an ad-hoc basis 
+Specialist Teaching 
+Structure 
+The study pattern for programmes of study which operate an 
+alternative teaching calendar to align with sector requirements, 
+for example teaching, social work, January start postgraduate 
+taught programmes; or to meet partner requirements, for 
+example apprenticeship degrees 
+Standard Teaching Structure This defines the pattern for teaching across 2 semesters, 
+incorporating Welcome/Consolidation and Development weeks,
+
+--- PAGE 4 ---
+
+4 
+ 
+ 
+ the formal assessment periods and vacation time. 
+Standard Teaching Week The Standard Teaching Week is Monday to Friday, 9.00am to 
+5.00 pm with the exception of Wednesday 1.00pm-5.00pm (for 
+undergraduate students). 
+Teaching Activity A teaching activity, delivered at specific times and locations, 
+including online, involving a member of staff 
+Teaching Year 52-weeks, numbered consecutively from week 1 to week 52. 
+These week numbers inform timetable scheduling within the 
+University’s operational timetabling system. The Teaching Year 
+commences the Monday which lies on or between 30th July and 
+5 August each year 
+Timetabling Team (TT) Timetabling Team (TT) within Estates Services 
+University Academic Week 
+Calendar 
+A calendar updated annually by the Timetabling Team, which 
+maps calendar dates week by week to key dates in the 
+academic year and the Standard Teaching Structure 
+ 
+Purpose and Scope 
+2. This policy sets out the University’s approach to the preparation, production and publication of 
+the University’s teaching timetable, the provision of facilities to support teaching and the booking 
+of central pool teaching space for non-teaching events. 
+ 
+3. This policy applies to the timetabling of John Anderson campus-based undergraduate and 
+postgraduate taught provision (including co- taught undergraduate masters and postgraduate 
+taught modules) scheduled in accordance with the framework set out within the Academic Year 
+and Teaching Calendar Policy. 
+ 
+4. Where possible, online, work-based learning and distance learning programmes will be delivered 
+within the broad parameters of the Standard Teaching Structure, however programmes may be 
+aligned to specialist requirements and/or external University partners’ requirements through a 
+Specialist Teaching Structure. Where this is the case, full information on the Specialist Teaching 
+Structure will be provided to all students enrolled on the programme , highlighting key areas of 
+divergence with the Standard Teaching Structure. 
+ 
+5. The terms of this Timetabling Policy will be applied fully, consistently and fairly across the 
+University. 
+ 
+6. This policy should be read in conjunction with the University’s Academic Year and Teaching  
+Calendar Policy, Wednesday Afternoon Policy (incorporated as Annex A within the Academic  
+Year and Teaching Calendar Policy), the Guidance and Support for Students on Matters of Religion 
+and Belief, the Equality, Diversity and Inclusion Policy and related Appendices, and the Policy 
+and Procedure on Programme and Module Approval.
+
+--- PAGE 5 ---
+
+5 
+ 
+ 
+ 
+Guiding Principles 
+7. The timetable will be designed based on: 
+• The primacy of the student learning experience 
+• The pedagogic imperatives as identified by the teaching staff 
+• The need to achieve and promote equality of opportunity, including equality of access to teaching 
+facilities and fair allocation 
+• The need to provide timely and accurate timetabling and room booking information to students 
+and staff 
+• The need to make efficient use of space, resources and the teaching estate 
+8. The timetable will be ‘demand-led’, constructed on the basis of accurate and up-to-date data, in 
+the knowledge of students’ module choices where possible (for continuing students) and based 
+on predictions of module choices (for new students). 
+ 
+9. Each year the timetable (including room allocations) will be rolled forward to provide a starting 
+point for the timetabling process.  The timetable will then be reviewed and updated accordingly 
+thereafter. Please note: room allocations are subject to change following review of data by the 
+Timetabling Team. 
+10. A range of factors will be taken into account when developing the timetable: 
+• Accurate data on all teaching activities 
+• Accurate data on all teaching rooms 
+• Accurate data on all teaching facilities 
+• Central pool (CP) and departmental teaching facilities 
+• Student choice – pathways 
+• Student availability 
+• Staff availability 
+• Clustering / distribution of activities 
+• Prioritisation of teaching and other ‘bookable’ activities. 
+Timetabling Team Responsibilities 
+11. The Timetabling Team (hereafter referred to as “TT”) has lead responsibility for the production of 
+the annual teaching timetable.  In producing the teaching timetable, the TT undertakes to 
+recognise and act on the needs and requirements of a range of stakeholders, principally students 
+but also teaching staff and departments.  The TT aims to produce an equitable and workable 
+institutional timetable that is designed to meet defined qualities, including optional pathways 
+within programmes, staff and student availability and the availability of suitably equipped teaching 
+rooms and facilities. 
+The Teaching Year 
+12. In accordance with the 52-week academic Teaching Year, the Standard Teaching Structure 
+is set out below: 
+ 
+Standard Teaching Structure Duration TY Week Number1 
+Welcome and Development Week 1 week Week 7 
+S1 Teaching Block 1 11 weeks Weeks 8 – 18
+
+--- PAGE 6 ---
+
+6 
+ 
+ 
+Formal Assessment Period 2 weeks Weeks 19 – 20 
+ 
+1 Week numbering used within the University’s operational timetabling system, based on a 52-week year.
+
+--- PAGE 7 ---
+
+7 
+ 
+ 
+Winter vacation 3 weeks Weeks 21 – 23 
+Consolidation and Development 1 week Week 24 
+S2 Teaching Block 2 11 weeks Weeks 25 – 35 
+Spring vacation 2 weeks Weeks 36 – 37 
+Formal Assessment Period 5 weeks Weeks 38 – 42 
+Summer vacation 16 or 17 weeks Weeks 43 – Week 6 
+Formal Assessment Period  2 weeks 
+(Wednesday - 
+Tuesday) 
+Weeks 52/53 – Week 
+2 
+ 
+13. For programmes following the Standard Teaching Structure, teaching will be scheduled during 
+S1 Teaching Block 1 (Weeks 8-18 inclusive) and S2 Teaching Block 2 (Weeks 25-35 inclusive). 
+For programmes following a Specialist Teaching Structure, teaching may be scheduled in 
+accordance with an alternative teaching structure. 
+ 
+14. For clarity, and lack of confusion, all published timetables and all timetable communications 
+will use the week numbering as defined above. 
+ 
+15. Further information on the structure of the academic year, the teaching calendar and the 
+relationship with operational timetabling procedures can be found in the University’s Academic 
+Year and Teaching Calendar Policy. 
+ 
+The Teaching Week 
+16. The Standard Teaching Week extends from Monday to Friday. Standard teaching hours for 
+students following the Standard Teaching Week  are from 9:00am to 5:00pm except for 
+Wednesday (9.00am to 1.00pm for undergraduate students) and students are expected to attend 
+scheduled activities within this period2. 
+ 
+17. Teaching activity outside the standard hours is permitted, provided this delivery was made clear 
+during the programme design and approval process (administered via the Course and Class 
+Approval System (C-CAP)), or at least two of the following are required: - 
+• In response to student needs or requests 
+• Head of Department has approved 
+• Faculty Timetabling Coordinator, or a nominated person, has been made aware. 
+ 
+18. For programmes following a Specialist Teaching Structure; in accordance with approved 
+programme design, teaching may be delivered at times outwith the Standard Teaching Week. 
+ 
+19. Teaching starts at 5 minutes past the hour and ends at 5 minutes to the hour, to allow students 
+and staff sufficient time between teaching activities. 
+ 
+2 The University recognises that Student Carers may be required off-campus at irregular times in order to carry out their 
+caring responsibilities. Student Carers are invited to meet with their Adviser of Studies at the earliest opportunity to discuss 
+their needs. Further information on support provision can be found in the University’s Student Carers Policy.
+
+--- PAGE 8 ---
+
+8 
+ 
+ 
+Teaching Activities 
+1. Teaching activities are associated with an approved module and have a time and location, 
+including online, which will be represented in the timetable. The process for setting up and 
+approving new modules and amending existing modules is defined in the University’s Policy and 
+Procedure on Programme and Module Approval. 
+ 
+2. Modules are designed and delivered by departments. Each department will determine the format 
+of the module it delivers, including: - 
+• The start date of the module 
+• The number of weeks for which it will run 
+• The number of teaching activities per week 
+• The format and duration of each teaching activity 
+• The teaching staff who will deliver the event. 
+• The suggested day and suggested time of the event 
+• The modality of the event (e.g. on campus/online) 
+ 
+3. Each Department is responsible for advising the TT team of any particular teaching resources 
+they require to deliver teaching. 
+4. Each Department must endeavour to accurately forecast an appropriate cohort size based on 
+previous module cohort size. Where a Department’s forecast is higher than the historical pattern, 
+an explanation for the predicted numbers must be provided to the TT team together with 
+associated evidence, to support further space planning. 
+ 
+5. The Student Records System holds the definitive record of modules that are being delivered 
+during a particular teaching year, in accordance with the Policy and Procedure on Programme  
+and Module Approval. 
+6. The Institutional Timetabling System shall hold the definitive record for the purpose of timetabling 
+of the number and format of teaching activities associated with a module, the weeks during which 
+the teaching activities will occur, and the teaching staff who will deliver activities.  Departmental 
+Timetabling Coordinators shall provide the TT with the necessary information via the defined 
+institutional process. 
+ 
+7. The Institutional Timetabling System will also hold the record of ad hoc/non- teaching activities, 
+booked via Resource Booker, for the current academic year only. 
+ 
+Teaching Space 
+8. All bookings in teaching space, regardless of whether they are in centrally -managed or 
+departmentally-managed rooms, must be reflected in the Institutional Timetabling System in order 
+to provide comprehensive information about space utilisation and to support the publication of full 
+and accurate timetabling information to staff and students. 
+ 
+9. Where ‘ownership’ of the space is retained by departments, departments will be able to utilise 
+those rooms as required for teaching activities. 
+ 
+10. Any additional teaching activities required for programme delivery must be made through the 
+Institutional Timetabling System and not Resource Booker.
+
+--- PAGE 9 ---
+
+9 
+ 
+ 
+11. All ad-hoc use of any teaching space should be booked via Resource Booker. 
+ 
+12. The number of participants in any teaching activity must not exceed the capacity of the room 
+allocated, unless a mechanism to manage attendance is in place and is equitable to all students. 
+Under no circumstances should the number of participants in a teaching room exceed the 
+capacity of the room allocated (see paragraph 50). 
+Teaching Staff 
+13. The Head of Department, or nominee, shall determine the allocation of teaching staff to teaching 
+activities. 
+ 
+14. In accordance with the University’s Equality, Diversity and Inclusion Policy  and related 
+Appendices, the University will make every  effort to  support staff with  a disability or health 
+condition. Staff requiring reasonable adjustments must inform their line manager, Head of 
+Department and/or the University’s Occupational Health Service as soon as possible in order that 
+these can be considered when scheduling teaching. 
+ 
+15. Departments must strive to provide information on the allocation of teaching staff to teaching 
+activities within the University Timetabling Timeline. Doing so will minimise the impact that any 
+potential staffing clashes will have on changes to the published timetable.  Where Departments 
+do not or cannot provide staff names within the teaching data review timelines, the Head of 
+Department or nominee will be responsible for allocating the teaching staff to the scheduled 
+teaching activity and for communicating this information to students.  Amendments to the final 
+timetables to accommodate problems arising from the non- allocation of staff can only be made 
+in exceptional circumstances. 
+ 
+16. In relation to staffing constraints, staff on academic contracts (including external staff) can be 
+scheduled to teach at any time during the standard teaching week , as specified by the 
+Department. This is subject to their contractual arrangements and any agreed agile and flexible 
+working arrangements. Constraints on staff availability for teaching are authorised by the Head 
+of Department. The Head of Department is required to consider the potential impact of these 
+constraints on the viability of the teaching timetable. 
+ 
+17. When scheduling compulsory modules within a programme, teaching staff must strive to ensure 
+any clashes for modules (including those delivered across faculties) are avoided.  When 
+developing a new module, making changes to an existing module, or introducing an existing 
+module to a programme, teaching staff should consult with the Course and Class Approval 
+System (C-CAP) (as appropriate), relevant stakeholders (including the current module leads for 
+any existing modules and other programme teams and faculties ), general regulations and 
+relevant Faculty operating procedures prior to the approval of a module’s inclusion in a 
+programme to ensure that timetabling constraints are considered in advance. 
+Students 
+18. Full-time students are expected to be available at any time during the Standard Teaching Week. 
+Teaching for students studying part-time in modular mode, e.g. on a ‘day-release’ basis, will be 
+scheduled in accordance with constraints specified by the relevant department. 
+ 
+19. The TT undertakes to schedule combinations of compulsory modules on programmes so that 
+they do not clash. The timetabling of optional combinations of modules is informed by the 
+selections students have made via the module selection process and is expected to be scheduled
+
+--- PAGE 10 ---
+
+10 
+ 
+ 
+by the departments to accommodate the options available within the programme regulations. 
+However, the TT undertakes to minimise the clashing of elective modules wherever possible, but 
+cannot guarantee to do so (see point 47).  Where a student enrols for two modules with a 
+timetable clash between lectures, they are advised to seek academic advice, from their 
+Department/Adviser of Studies. 
+ 
+20. In accordance with the University’s Equality, Diversity and Inclusion Policy and related 
+Appendices, the University will make  every effort to support students with a temporary or 
+permanent disability or health condition and  during pregnancy or maternity related conditions . 
+Students requiring reasonable adjustments must inform their department  or the University’s 
+Disability and Wellbeing Service as soon as possible in order that these can be considered within 
+the scheduling of teaching. 
+ 
+21. The University’s Disability and Wellbeing Service offer a broad range of support to students with 
+any disability, mental health and wellbeing related needs, including 1- 1 disability needs 
+assessments and mental health assessments, general health support, 1 -1 counselling and 
+assistance with adjustments for learning, teaching and assessment, and the  development of 
+Personal Emergency Evacuation Plans (PEEPs). 
+ 
+22. The Disability and Wellbeing Service will liaise with the TT regarding reasonable adjustments and 
+will advise students on alternative arrangements where adjustments could not be considered 
+reasonable. 
+Prioritisation of Teaching Activities 
+23. The following are guidelines for the allocation of activities in teaching spaces: 
+ 
+• Precedence will be given to teaching activities associated with modules which are offered to 
+students across multiple programmes, departments or Faculties. (These activities may also 
+be scheduled earlier in the process, because of the greater number of student availability 
+constraints). 
+• Teaching activities for modules with a student or staff member requiring reasonable 
+adjustments relating to disability or health conditions will be given precedence. 
+• Modules with a high number of planned students will have precedence over smaller modules 
+with lower planned number of students. 
+• Teaching activities which are regular will have precedence over sporadic or single- week 
+activities. 
+• In the case of specialist resources, precedence will be given to learning activities which 
+explicitly require access to the specialist equipment and/or accommodation. 
+• Learning activities, including module tests and student placements, timetabled during the 
+annual timetabling process will take precedence over all other activities. 
+• In person assessments, such as exams, exam boards and graduations will be scheduled after 
+teaching activities, but within the same delivery window as the teaching timetable. Bookings 
+for Departmental Open Days and UCAS events may be requested as  part of the timetable 
+construction process, however, due to the demand on teaching space there is no guarantee 
+that the rooms required will be available. 
+• Events such as departmental receptions, internal conferences and symposia and research 
+seminars will be scheduled after the scheduling of teaching activities, examinations, exam 
+boards and graduations. 
+• The impact of the request for late changes to the timetable will predominantly be borne by the 
+Faculty making the late change request.
+
+--- PAGE 11 ---
+
+11 
+ 
+ 
+Prioritisation and Notification of Quality Indicators 
+24. The timetabling process 1111recognises two quality indicators; ‘essential’ quality indicators, and 
+‘desirable’ quality indicators. These indicators must be notified to the TT by Departmental 
+Timetabling Coordinators. Essential quality indicators are inflexible restrictions, while desirable 
+quality indicators express preference and can be applied flexibly. 
+ 
+25. Essential quality indicators will include the following: 
+ 
+1. Suitabilities (Equipment or facility attached to location) – Where teaching activities have 
+set equipment requirements. 
+2. Sequencing – When tutorials must always follow lectures for modules taught on a 
+Programme. The expectation is that Departments will consider this when planning their 
+timetables. 
+26. Desirable quality indicators will include the following: 
+1. Avoiding large unscheduled gaps for students between teaching activities on the same 
+day, e.g. a teaching event on a Monday 9.00am to 10.00am with no further event 
+scheduled until Monday 4.00pm to 5.00pm. 
+2. Avoiding an undesirable distribution of lectures for students and staff e.g. all teaching 
+on the same two days or conversely spread sparsely across all five days. 
+3. Locations – where a central pool teaching room in a building or zone is requested. 
+4. Where possible, consecutive teaching for students should not exceed four hours 
+ 
+27. Quality indicators will be set at institutional level and will be applied based on the Guiding 
+Principles (point 7) set out within this policy. 
+Non-teaching Events 
+28. Centrally-managed teaching space may be used for a wide range of internal non-teaching events. 
+With the exception of centrally-managed examinations and graduation ceremonies, teaching 
+activities (see section Teaching activities, points 20- 26) will take precedence over bookings for 
+non-teaching events. 
+ 
+29. Conflicts of interest may arise where centrally -managed rooms are required simultaneously for 
+internal bookings and commercial bookings. Such conflicts will be referred to the Vice Principal 
+for their resolution. The Vice-Principal may delegate their authority in this respect. 
+Student Elective Modules 
+30. Where degree programmes incorporate provision for student choice of optional or elective 
+modules, giving rise to multiple pathways, the timetable will provide for a reasonable amount of 
+choice for the most popular pathways, but it must be recognised that the larger the number of 
+pathways included the more difficult it is to achieve a clash- free timetable. All departments must 
+therefore identify and prioritise the reasonable feasible pathways within their degree 
+programmes. Departments should, when developing and reviewing academic pathways, give full 
+consideration to the timetabling issues and should seek to minimise complexity wherever 
+possible. 
+ 
+31. Uncertainty in student numbers for any teaching activity is a major challenge of timetabling. 
+Where students are continuing (either for a new session or for Semester 2 (S2)) the deadlines 
+for student choice should be robustly enforced by departments.
+
+--- PAGE 12 ---
+
+12 
+ 
+ 
+Timetable Publication 
+32. Provisional Programme and Module Timetables (reflecting the broad shape of the teaching 
+timetable) are available to view on the web from the Timetables webpage prior to publication of 
+the timetable, from April to August. These remain subject to substantive change.  
+33. The teaching timetable (including teaching room allocation) is published (released) by the TT in 
+the first week of August. Only minor or essential changes, e.g. those arising from a late change 
+to student numbers, are expected to be made after its publication. 
+ 
+34. Personalised Student Timetables are available on the mobile app and/or Myplace only when 
+students have completed registration, confirmed their curriculum choices and been allocated to 
+groups. Further information is available on the Timetables webpage. 
+ 
+35. Following publication, Departmental Timetabling Coordinators are responsible for ensuring that 
+the timetable is appropriately reviewed and checked to ensure that all teaching activities have 
+been entered correctly and to check resourcing has been appropriately reflected in the TT 
+system. This includes ensuring that staff and locations are assigned to teaching activities. 
+36. Changes to the teaching timetable after publication should be kept to a minimum. 
+37. Changes requested to TT by departments will only be made at the request of the Departmental 
+Timetabling Coordinator. 
+ 
+Valid reasons for changes include: 
+• unexpected staff changes; 
+• a location that is/becomes a health or safety hazard; 
+• a module is no longer deemed viable to run; 
+• reasonable adjustments to accommodate students/staff with individual needs; 
+• actual module size exceeds the capacity of the room allocated; 
+• actual module size is considerably lower than the capacity of the room allocated 
+• additional occurrences have to be scheduled to take account of a growth in 
+student enrolments on the module. 
+Reasons for changes that are not valid include: 
+• room preference 
+• time preference 
+• historical allocation of particular location 
+ 
+38. Departmental Timetabling Coordinators are responsible for notifying all those staff and/or 
+students affected by a change they have made to the published timetable after the start of 
+teaching. Changes instigated by the TT will be notified directly to the DTCs for onward 
+communication to those impacted by the change. 
+ 
+Room Bookings 
+39. The use of rooms for teaching activities takes precedence over use for non- teaching events. 
+However, there are non-teaching events which are essential to the management and operation 
+of the University. Therefore, specific non-teaching events will be accommodated as follows:
+
+--- PAGE 13 ---
+
+13 
+ 
+ 
+• rolled forward University Calendar  of Dates activities for the academic year  will be  
+accommodated within the timetabling process; 
+• institutional quality assurance and enhancement activities. The TT will act on advice from 
+the relevant stakeholder offices within the University; 
+• essential centrally -managed University events and functions, including examinations, 
+graduation, student recruitment events and core Freshers’ events will be allocated 
+appropriate space prior to the scheduling of the timetable. The TT will act on advice from 
+the relevant stakeholder offices within the University; 
+• departmental-level activities and programmes in Freshers’ week will be allocated 
+appropriate space at the same time as the scheduling of the timetable and after the core 
+activities have been included; 
+ 
+40. Upon final publication of the teaching timetable, departments,  and professional services may 
+make room booking requests for any available centrally-managed space. The process for making 
+a room booking is outlined on the University Room Booking webpage. Additionally, any available 
+Departmental space can also be booked via Resource Booker. 
+ 
+41. Room booking requests for conferences or any event which involves external parties or the 
+charging of any fee must be made via Conferencing and Events. 
+ 
+42. The TT will not accept bookings directly from individual students (other than Postgraduate 
+research students). Student Clubs and Societies which are recognised by Strath Union may use 
+the room bookings service provided by TT in accordance with published policy and procedures. 
+43. In the event that a room booking is no longer required, the person who has booked the room must 
+cancel the booking themselves prior to the event using Resource Booker or inform TT by e-mail 
+as soon as is practicable. The TT will confirm the cancellation and release the space back into the 
+available room pool.

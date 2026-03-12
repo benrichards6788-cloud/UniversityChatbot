@@ -1,0 +1,900 @@
+--- PAGE 1 ---
+
+STUDENT MODULE 
+EVALUATION 
+PROCEDURES 
+ 
+ 
+Version No. Description Author Approval Effective Date 
+1.0 Procedures to 
+accompany the 
+University Policy 
+confirming 
+arrangements for the 
+University-wide 
+student evaluation of 
+modules. 
+Education 
+Enhancement 
+Student Module 
+Evaluation 
+Consultation Group  
+1st September 
+2021 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+the place of useful learning 
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC015263
+
+--- PAGE 2 ---
+
+2 
+ 
+1. Table of Contents 
+1. Table of Contents ............................................................................................................................... 2 
+2. Glossary of Terms .............................................................................................................................. 4 
+3. Introduction ........................................................................................................................................ 5 
+4. Summary of Student Module Evaluation Process ............................................................................... 5 
+Before evaluations go live ...................................................................................................................... 6 
+During evaluation window ...................................................................................................................... 6 
+After evaluations close ........................................................................................................................... 6 
+5. Timelines ........................................................................................................................................... 6 
+6. Pegasus Roles & Responsibilities ...................................................................................................... 7 
+7. Timing of Evaluations ......................................................................................................................... 7 
+8. Activating Evaluations ........................................................................................................................ 8 
+Data Sync with Myplace ........................................................................................................................ 8 
+Myplace form – Configuration ................................................................................................................ 8 
+Opting-out procedure ............................................................................................................................. 9 
+9. Questionnaires ................................................................................................................................... 9 
+Questionnaire format ............................................................................................................................. 9 
+Optional Questions – Question Personalisation ..................................................................................... 9 
+Exceptions to Core Questionnaire ....................................................................................................... 10 
+Questionnaire review and process ....................................................................................................... 10 
+10. Evaluations ...................................................................................................................................... 10 
+Student: Accessing Evaluations ........................................................................................................... 10 
+Students: amending feedback or re-setting links .................................................................................. 11 
+Monitoring response rates ................................................................................................................... 11 
+Tips for encouraging responses ........................................................................................................... 11 
+Extending deadlines ............................................................................................................................ 11 
+11. Email Communications .................................................................................................................... 12 
+Automated emails from Blue: Sent to Students .................................................................................... 12 
+Automated emails from Blue: Sent to Staff .......................................................................................... 12 
+Additional Email Communications to Staff ........................................................................................... 14 
+12. Reporting ......................................................................................................................................... 14 
+Reports Produced and Access within System ...................................................................................... 14 
+Accessing Module Reports .................................................................................................................. 14 
+Sub-groups and publication thresholds ................................................................................................ 14 
+Department/School Level Reporting .................................................................................................... 15 
+Process for Heads of Department/School to nominate access to reports ............................................. 15 
+Faculty Reporting ................................................................................................................................ 15
+
+--- PAGE 3 ---
+
+3 
+ 
+Requesting Bespoke Analysis ............................................................................................................. 15 
+13. Responding to Student Feedback .................................................................................................... 16 
+Responding to Student Feedback ........................................................................................................ 16 
+Extending the deadline for responding to student feedback ................................................................. 16 
+Process for generic Department/Faculty response .............................................................................. 16 
+14. Redaction of Comments ................................................................................................................... 17 
+15. Requesting Support ......................................................................................................................... 17 
+16. Safeguarding Procedures................................................................................................................. 17 
+17. Complaints ....................................................................................................................................... 17 
+18. Relevant Links ................................................................................................................................. 18 
+Student Module Evaluation Resources and Tutorial Videos: ................................................................ 18 
+Policies: ............................................................................................................................................... 18 
+19. Module Evaluation Schedule ............................................................................................................ 19 
+Notes ................................................................................................................................................... 19
+
+--- PAGE 4 ---
+
+4 
+ 
+2. Glossary of Terms 
+Aggregate reporting Reports which combine the responses for a specified group or groups 
+of respondents into a whole entity e.g. a Department/School report 
+shows a summary of the results from all student responses from 
+modules evaluated in that Department/School. 
+Class Site (Myplace) A Myplace space used for the delivery of teaching of a Module or 
+multiple modules.  See also Myplace roles. 
+Demographics Characteristics used to describe a population group or sub-group of 
+individuals e.g. gender, age, ethnicity, 
+domicile etc. 
+Department/School Report The report produced showing the aggregated student feedback for all 
+modules in a Department/School. 
+Evaluation Window The period during which module evaluation surveys can be issued to 
+students to complete.  There are two evaluation windows per Semester 
+(Mid and End of Semester).  Module leaders can select survey dates 
+within each evaluation window. 
+Module The individual components of a programme, normally worth 10 or 20 
+credits. 
+Module Evaluation The process of obtaining feedback from students on all aspects of 
+teaching, learning, and assessment within a 
+module. 
+Module Leader The person responsible for gathering Student Module Evaluation 
+feedback (see also Assessment and Feedback Policy). May also be 
+known as: Module Coordinator, Year Coordinator, Module Registrar, 
+Class Coordinator, Class Organiser. This individual must hold the Class 
+Organiser role in Pegasus to view and access 
+module reports. 
+Module report The report produced showing the aggregated student feedback for an 
+individual module.  
+Myplace Dashboard This is displayed as the home page when a user is 
+logged on to Myplace, found by clicking on Home in the main menu or 
+Dashboard in the Navigation bar. 
+Programme The full degree programme leading to an award. 
+Questionnaire The set of questions students are asked to complete to provide 
+feedback on a module. This normally refers to 
+the standardised set of core and optional questions provided by the 
+central system. 
+Redaction The removal of offensive or inappropriate comments from a module 
+report. This will be carried out by the Education Enhancement 
+Directorate, normally upon the 
+request of the Head of Department/School or nominee. 
+Response rate The responses received as a percentage of the invitations sent out by 
+the system 
+Student Report The report produced for students showing the aggregated student 
+feedback for a module along with the 
+reflections from teaching staff.  
+Survey Method of gathering feedback from a given sample of individuals; in 
+terms of module evaluation this is the method of gathering quantitative 
+feedback from students enrolled in a particular module, administered 
+via online 
+questionnaire. 
+Working days The University’s standard working week is normally Monday to Friday, 
+covering five working days.
+
+--- PAGE 5 ---
+
+5 
+ 
+3. Introduction 
+1. This document provides procedures for staff and students on the University’s approach to 
+Student Module Evaluation at the University of Strathclyde, defined in the University’s 
+Assessment and Feedback Policy as the process of obtaining feedback from students on all 
+aspects of teaching, learning, and assessment within a module. 
+2. Student Module Evaluation at the University is an enhancement-led activity, carried out to 
+provide   a means for staff to listen and respond to the Strathclyde student voice, supporting 
+improvements       to learning and teaching. 
+3. These Procedures should be read in conjunction with the University’s Student Module 
+Evaluation Policy, the Assessment and Feedback Policy,  Student Guidance on the Use of 
+Social Media and Virtual Learning Environments, the Dignity and Respect Policy, the Student 
+Representation Policy, the Student Discipline Procedure and the University’s Data Protection 
+Policy, which can be accessed from the University’s Data Protection pages on the website. 
+ 
+4. Summary of Student Module Evaluation Process 
+4. An overview of the Student Module Evaluation process is shown in the diagram below: 
+ 
+Key: 
+ 
+ 
+ 
+*Subject to individual Department/School preference; Module Leaders should refer to their 
+Department/School for guidance. 
+ 
+  
+Teaching staff ensure Pegasus 
+Roles & Responsibilities are up to 
+date for modules they are 
+teaching
+Module Leader (Class Organiser) 
+completes Quick Settings on 
+Myplace class site for timing and 
+frequency of evaluations*
+Module Leader receives email 
+with option to tailor evaluation 
+questionnaire*
+Module leader chooses 
+questions to include* Evaluation window opens
+Student receives email to 
+complete module evaluation.  
+Links to evaluation 
+questionnaires also available on 
+Myplace (Dashboard, Student 
+Voice tab and pop-up on login)
+Teaching staff receive email with 
+link to monitor response rates 
+Teaching staff invite students to 
+complete evaluation in class 
+using their portable device (or 
+online if no face-to-face 
+teaching)
+Student completes online 
+module evaluation questionnaire
+Reminder emails issued to 
+students who have yet to 
+complete their evaluation
+Reminder emails issued to 
+teaching staff to continue 
+monitoring response rates and 
+encourage response where 
+required
+Evaluation window closes
+Reports issued to Module Leader 
+via email and available on 
+Myplace (Dashboard and Student 
+Voice tab). Reports also available 
+to HOD/HOS
+Module Leader invited via email 
+to add reflections on student 
+feedback
+Module Leader submits response 
+to student feedback
+Reports (abridged) issued to 
+students with teaching staff 
+comments (via email and 
+Myplace)
+Final reports issued to teaching 
+Module Leader their comments.  
+Reports also available to 
+HOD/HOS
+Aggregate Department/School 
+reports issued to Head of 
+Department/School and 
+nominees 
+Module Leader/Staff input Student input System input Email notifications
+
+--- PAGE 6 ---
+
+6 
+ 
+5. Staff input to the Student Module Evaluation process is required at three stages: 
+Before evaluations go live 
+ Pegasus Roles & Responsibilities 
+ Myplace Quick Settings 
+ Question Personalisation (if applicable) 
+During evaluation window 
+ Monitor response rates 
+ Encourage students to participate 
+After evaluations close 
+ Review module report 
+ Submit response to acknowledge student feedback  
+ 
+6. Please refer also to the Timelines section for information on the timings and deadlines 
+associated with each stage of the process. 
+5. Timelines 
+7. The following table details the deadlines and cut-off dates relevant to each step in the student 
+module evaluation process.  Module Leaders can also refer to the Module Evaluation Schedule 
+for help with planning evaluation dates. 
+ 
+Stage in Process Timings 
+Set up  If Question Personalisation required – at least 2 weeks before 
+evaluation window opens 
+ If no Question Personalisation required – complete set-up by 
+5pm on a Thursday for module evaluation to go live the 
+following Monday 
+Data sync with 
+Myplace 
+ Data is synced with Myplace/Pegasus on Mondays and 
+Wednesdays. 
+ Changes made in Myplace after 5pm on a Monday through to 
+5pm on a Thursday will be reflected in the Blue system the 
+following Monday.   
+ Changes made between 5pm on a Thursday until 5pm on a 
+Monday will be updated on the following Wednesday. 
+Evaluations  Surveys open on a Monday of the start week and close at 
+midnight on Friday of the end week of the selected evaluation 
+window, e.g. evaluation for Weeks 4-5 would open on Monday 
+of Week 4 and close on Friday of Week 5. 
+Reporting  Module Reports issued within 3 calendar days of evaluation 
+closing  
+ Department/School aggregate reports issued once all 
+evaluations for the Department/School closed within the 
+evaluation window 
+ Student reports issued 7-10 working days after Mid-semester 
+and 15 working dates after End-of-semester evaluations close 
+Responding to 
+student feedback 
+ Task opens within 3 calendar days of evaluation closing  
+ Response required in 6 working days for Mid-semester 
+ Response required in 10 working days for End-of-semester
+
+--- PAGE 7 ---
+
+7 
+ 
+ 
+ 
+6. Pegasus Roles & Responsibilities 
+8. If Pegasus Roles & Responsibilities do not accurately reflect staff teaching commitments this 
+impacts on their receipt of notifications about student module evaluation.  
+9. Only those who hold the Class Organiser role in Pegasus are able to: 
+o Set up module evaluation in Myplace (some Admin staff can also do this, see Myplace 
+form - Configuration below) 
+o Personalise the evaluation question set (if applicable) 
+o Receive module reports 
+o Respond to student feedback on receipt of report 
+ 
+10. Email notifications for the above tasks will be sent only to the Class Organiser(s) for a module. 
+11. Teaching staff holding the Lecturer role in Pegasus will also receive a notification to monitor 
+response rates; this is to allow multiple members of a module teaching team to encourage 
+responses where relevant. 
+12. Pegasus Roles & Responsibilities should be updated before Myplace Quick Settings are 
+completed to ensure Module Leaders receive email notifications on time. 
+13. Pegasus Roles & Responsibilities should be updated each time the teaching responsibility for 
+an individual module changes; this avoids staff receiving notifications and reports that are no 
+longer relevant. 
+7. Timing of Evaluations 
+14. There are two opportunities to undertake module evaluations in each Semester, as highlighted 
+below.  There are also two evaluation windows during the Summer term to accommodate 
+modules where teaching extends into this period. 
+o Semester 1: Mid-semester between Week 4-6 (University Week 11-13) and End-of-
+semester between Week 9-11 (University Week 16-18) 
+o Semester 2: Mid-semester between Week 4-6 (University Week 28-30) and End-of-
+semester between Week 9-11 (University Week 33-35) 
+o Summer term: Mid-semester between University Week 41-45 and End-of-semester 
+between University Week 46-52 
+ 
+15. Module Leaders can opt to conduct evaluations at Mid-semester, End-of-semester or both.  
+Note that this evaluation schedule may be set at Faculty or Department/School level; for 
+confirmation of the preferred approach Module Leaders should refer to their Head of 
+Department/School or nominated contact. 
+16. Evaluation windows are designed to accommodate modules of varying lengths; note that the 
+mid and end evaluations refer to the point in the Semester, not the teaching point in the module 
+(i.e. Mid-semester evaluation may be an end of module evaluation for some modules and End-
+of-semester evaluations may be a mid-point evaluation for others). 
+17. Evaluation windows are intended to fit the majority of modules and are necessary for the 
+administration of the system because each module can only be evaluated once per evaluation 
+window.  Flexibility in the start and end dates for any module evaluation can be accommodated 
+(between 1 Aug and 31 July) by contacting modules@surveys.strath.ac.uk.
+
+--- PAGE 8 ---
+
+8 
+ 
+18. Before opting to undertake both a Mid-semester and End-of-semester evaluation, Module 
+Leaders should consider the deadlines required to ensure that students receive an 
+acknowledgement to the feedback they have provided at Mid-semester before the End-of-
+semester evaluations are sent out.     
+19. The Module Evaluation Schedule identifies the key deadlines for given evaluation periods. 
+8. Activating Evaluations 
+20. Module evaluations should be activated in Myplace using the toggle in Quick Settings (see 
+Myplace form Configuration below). 
+ 
+21. Myplace Module Evaluation settings default to ‘No’ if the module has not been included before.  
+Therefore, Module Leaders will be required to activate module evaluation and set the 
+evaluation window (refer to Myplace form – Configuration below).   
+22. Module evaluation settings in Myplace from the previous year will roll over into the next 
+academic year; this includes the evaluation windows and questionnaire format selected. 
+23. At the start of each Semester, Module Leaders (or the nominated Department/School 
+Administrator) should ensure that the Module Evaluation settings on the Myplace class site are 
+set to Yes and make any changes to timings as required.   
+24. Note that switching module evaluation off in Myplace will revoke access to module reports.  
+Please see Point 33. 
+Data Sync with Myplace 
+25. Data is currently synced between Myplace/Pegasus and the module evaluation system twice 
+weekly, on Mondays and Wednesdays. 
+26. Changes made to Myplace or to Pegasus Roles and Responsibilities will be reflected in the 
+module evaluation system at the next data sync; 
+o Changes made in Myplace after 5pm on a Monday through to 5pm on a Thursday will be 
+reflected in the Blue system the following Monday.   
+o Changes made between 5pm on a Thursday until 5pm on a Monday will be updated on 
+the following Wednesday. 
+ 
+27. A delay to setting up evaluations in Myplace or changing Roles and Responsibilities in 
+Pegasus may have an impact on the timing of evaluation surveys being sent out, and of 
+module reports and student reports (containing the Module Leader’s response) being issued. 
+Myplace form – Configuration 
+28. Module Evaluation settings can be changed by the Class Organiser or by staff (e.g. 
+Department/School admin colleagues) who hold a Class Administrator, Department/School or
+
+--- PAGE 9 ---
+
+9 
+ 
+Faculty Admin role in Myplace (see also Pegasus Roles and Responsibilities above).  Note that 
+only the Class Organiser will receive reports and notifications from the module evaluation 
+system. 
+29. Modules are activated by moving the Module Evaluation slider Quick Settings to Yes (setting 
+will change from red to green), and a form to allow the setting of evaluation window(s) will 
+appear. 
+30. If a Mid-semester evaluation is required, the option of a short format or standard format 
+questionnaire is offered. 
+31. If the Module Evaluation settings (i.e. evaluation wndow and required survey dates) are not 
+fully completed, the user will be prompted to complete missing fields before being able to save 
+their settings. 
+32. For further information, please refer to the tutorial video and guidance documentation on the 
+Student Module Evaluation – Staff Information Myplace page. 
+Opting-out procedure  
+33. Where it is felt that a module should be excluded from Student Module Evaluation, this should 
+be upon agreement with the relevant Head of Department/School. 
+34. An exception report of modules opting out of Student Module Evaluation will be reported to the 
+Heads of Department/School, Faculties and on to Quality Assurance Committee once per 
+Semester. 
+9. Questionnaires 
+Questionnaire format 
+35. For evaluations undertaken at Mid-semester, the questionnaire can be a short format (free-text 
+based with 3 open questions and one rating question) or a standard format (rating questions 
+with free text questions) option.  The choice of questionnaire is selected in the Myplace Quick 
+Settings. 
+36. End-of-semester evaluation questionnaires follow the standard format.   
+37. The Mid-semester standard format questionnaire is identical to End-of-semester questionnaire 
+except that the assessment and feedback questions are options rather than mandatory.   
+38. The core Mid-semester evaluation questionnaire has 8 rating questions plus 2 free text 
+questions, covering 4 sections. 
+39. The core End-of-semester evaluation questionnaire has 10 rating questions plus 3 free text 
+questions, covering 4 sections. 
+40. The current questionnaires can be found on Myplace (Student Module Evaluation Project 
+Page). 
+Optional Questions – Question Personalisation 
+41. Module Leaders have the option to tailor the core questionnaire to the needs of their module.  
+please refer to the Question Personalisation tutorial video and guidance documentation on the 
+Student Module Evaluation – Staff Information Myplace page. 
+o Note that some Departments/Schools may not have activated this functionality  
+42. Up to 4 additional questions can be added from the pre-set list of potential questions.  Any 
+combination of questions and themes can be included as appropriate to the individual module.
+
+--- PAGE 10 ---
+
+10 
+ 
+43. The optional additional question list is available on Myplace and is reviewed annually. 
+44. Optional additional questions are selected using the Question Personalisation process: 
+o Module evaluation is switched on in Myplace  
+o Prior to the start of an evaluation window a Module Leader receives an email inviting them to 
+select any additional questions they wish to ask students  
+o The questions displayed are options in addition to the core questionnaire  
+o Up to 4 additional questions can be selected 
+o When selecting optional questions from different sections, the section heading should also be 
+selected to ensure a logical question flow for students completing the evaluations 
+45. If Question Personalisation is required, Myplace Quick Settings for Module Evaluation should 
+be completed at least 2 weeks before the standard evaluation window opens.   
+46. If no Question Personalisation is required, Myplace Quick Settings for Module Evaluation must 
+be completed by 5pm on a Thursday for a module evaluation to go live on the Monday morning 
+of the following week.    
+Exceptions to Core Questionnaire  
+47. Any exceptions to the core questionnaire template will be agreed at Faculty or 
+Department/School level prior to the beginning of the academic year (no exceptions will be 
+made for individual modules) 
+48. The Student Surveys will discuss requirements with each Head of Department/School or 
+nominee at start of each Academic Year. 
+49. For Project and Dissertation modules where the core questionnaire is not felt to be relevant, it 
+is recommended that the Mid-semester short format questionnaire option is selected when 
+configuring settings in Myplace. 
+Questionnaire review and process 
+50. Questionnaires are reviewed once per academic year by the Student Surveys team.   
+51. The review will cover the duration of the questionnaire/number of questions, wording, response 
+patterns, and how often optional questions are used.   
+52. Feedback on the questionnaire will be gathered by the Student Surveys team from Faculties, 
+Departments and Schools throughout the year via the Consultation Group and anecdotal 
+feedback. 
+53. Suggestions for optional questions should be directed to modules@surveys.strath.ac.uk.  Note 
+that the questions included in the module evaluation questionnaires will only cover topics that 
+can be actioned at module level. 
+10. Evaluations 
+54. Only active students (i.e. those who are registered and not in academic suspension) enrolled in 
+the class are included within the module evaluations. 
+55. Module evaluation surveys open on a Monday of the start week and close at midnight on 
+Friday of the end week of the selected evaluation window.  For example an evaluation window 
+for Weeks 4-5 would open on the Monday of Week 4 and close on the Friday of Week 5. 
+Student: Accessing Evaluations  
+56. Module evaluations can be accessed from the following: 
+o Myplace – via the Student Module Evaluation block located on the Dashboard, select the
+
+--- PAGE 11 ---
+
+11 
+ 
+Module Evaluation link 
+o Myplace – from the Student Voice tab located in the top navigation menu, select Module 
+Evaluations 
+o Email invitation from Student Surveys containing a link  
+o Pop-up when logging into Myplace (note this only appears when there is an evaluation 
+available for completion) 
+o Module leaders, Departments/Schools may also include link in specific communications  
+57. All of the routes will lead to the student’s individual task list showing the list of modules to be 
+evaluated during current evaluation window. 
+58. See also: Module Evaluation - Information for Students on Myplace.  
+Students: amending feedback or re-setting links 
+59. Students should not forward or share their own module evaluation survey links as these are 
+personalised to each individual. 
+60. To change or delete feedback that has been submitted, students can contact 
+modules@surveys.strath.ac.uk.  The studen’s survey link will be reset allowing the survey to be 
+completed again. 
+61. The Student Surveys team will not update comments on a student’s behalf (i.e. impersonation). 
+Monitoring response rates 
+62. When an evaluation window opens, Module Leaders (Class Organiser) and teaching staff 
+holding the Lecturer role in Pegasus will receive an email notification with a link to monitor the 
+response rates. 
+63. Response rates are also accessible from the Student Module Evaluation block on the Myplace 
+Dashboard, select the Module Evaluations Return Rates option. 
+64. A response rate dashboard broken down by module is available for Heads of 
+Department/School and nominees for their Department/School.  A link to the dashboard will be 
+sent via email to all nominated individuals. (see Reporting for details on selecting nominees).   
+65. See also: Student Module Evaluation – Staff Information on Myplace. 
+Tips for encouraging responses 
+66. If possible, dedicate class time for completion; 10-15 minutes at the start of the class is the 
+most effective. 
+67. Use contact time (e.g. tutorials or online sessions) to remind students to complete evaluations. 
+68. Module Leaders can also share a link or reminder via Myplace or other communications. 
+69. Highlight that feedback helps to shape improvements for the future (and for the current year if 
+feedback is being requested midway through the module). 
+70. Ensure that you respond to acknowledge feedback already received – students are much more 
+likely to respond in future if they can see their feedback being actioned, addressed or 
+acknowledged 
+Extending deadlines 
+71. If an evaluation deadline needs to be extended e.g. to allow more students to respond, the 
+module leader should contact Student Surveys via modules@surveys.strath.ac.uk with the 
+required dates.
+
+--- PAGE 12 ---
+
+12 
+ 
+72. Note that extending the closing date for the completion of a survey will also extend the date for 
+reporting and acknowledging student feedback.  It is likely that students will expect a response 
+before the end of term therefore module leaders should consider this when deciding on final 
+closing dates. 
+11. Email Communications 
+73. As part of the Student Module Evaluation process a number of automated email notifications 
+and reminders are sent to staff and students.  These emails come from Student Surveys via 
+the Explorance Blue system and are detailed below. 
+74. Where possible, the automated system emails are batched together to avoid sending multiple 
+emails to the same student or Module Leader, e.g. if multiple evaluations open and close on 
+same day, only one email will be generated with a link to the task list.  Evaluations launching 
+and closing on different days will generate separate emails.  The same rule applies for emails 
+relating to reports and for acknowledging student feedback.   
+75. Note that emails are generated automatically by the system after each overnight data sync, 
+therefore may be sent outside of normal working hours.  There is no requirement to action any 
+emails outside of the normal working day and the email footer contains a note advising of this. 
+Automated emails from Blue: Sent to Students 
+Evaluation Survey Period 
+76. An email is sent when evaluations launch inviting students to complete evaluations.  This 
+contains a link to the individual’s task list and information on accessing evaluations from 
+Myplace, a reminder about the Dignity and Respect Policy and a link to the Student Module 
+Evaluation Privacy Notice. 
+77. Two reminder emails are generated for each evaluation; one mid-way through the evaluation 
+period and one on the day the evaluation closes.  Reminder emails are also batched by the 
+system where possible. 
+78. Reminder emails are only generated if evaluations have not yet been completed; students who 
+have completed their evaluation won’t receive a reminder. 
+79. Some additional reminders may be generated if the deadline for completing module evaluation 
+is extended.  
+Reporting 
+80. An email notification is sent when the student reports are available to view.  This contains a link 
+to the individual student’s report list where they can view the available reports for all of their 
+modules. 
+Automated emails from Blue: Sent to Staff  
+Question Personalisation 
+81. Email notifications will only be sent to Module Leaders within Departments/Schools who are 
+participating in Question Personalisation. 
+82. Shortly before the evaluation window opens an email is sent to the Module Leader inviting 
+them to select any additional optional questions they would like to ask students.  A deadline for 
+completion is also provided. 
+83. A reminder email to complete question personalisation is sent on the deadline day for Question 
+Personalisation.
+
+--- PAGE 13 ---
+
+13 
+ 
+Response Rate Monitoring 
+Module Leaders  
+84. An email is sent when evaluations launch inviting staff to monitor response rates.  This email 
+goes to the Module Leader and Lecturers on the class.  Note that this is the only email 
+notification that a person designated Lecturer in Pegasus will receive.  Lecturers will not have 
+access to reports unless they are also designated Class Organiser in Pegasus. 
+85. A reminder email to monitor response rates is issued mid-way through the evaluation period. 
+ 
+Head of Department/School and Nominees  
+86. An email is issued to Heads of Department/School and nominees advising that they can 
+monitor response rates for their Department/School via the Blue dashboard. 
+Reporting 
+Module Leaders 
+87. An email is sent to the Module Leader once their module report is available to view.  This 
+contains a link to the individual’s module report list – see the Reporting section for further 
+information. 
+88. A second email is sent to the Module Leader once the final module report, which incorporates 
+their response to students, is available. This email contains links to the Module Leader’s report 
+list and is for record only with no further action required. 
+Head of Department/School and Nominees  
+89. An email is sent to Heads of Department/School and nominees when the module reports are 
+available; note that this is sent when evaluations have closed for all modules participating 
+using the standard evaluation window dates.  No further email notification is sent for modules 
+with tailored evaluation dates outside of the standard evaluation period, however these reports 
+will appear automatically in report list when available. 
+90. A further email is sent to Heads of Department/School and nominees once the final module 
+reports incorporating Module Leaders’ responses to students are available. 
+91. An email is issued to Heads of Department/School and nominees when their 
+Department/School aggregate report is available.  This is issued at the end of the evaluation 
+window once all evaluations for the Department/School have closed. 
+92. An email is issued to Heads of Department/School and nominees when their 
+Department/School report with module level detail is issued.  Again this is issued at the end of 
+the evaluation window once all evaluations for the Department/School have closed. 
+Responding to Student Feedback (Closing the Feedback Loop)  
+93. An email is sent to the Module Leader with a task to submit a response to their students’ 
+feedback.  Contained in the email is a link to the individual Module Leader’s task list; they will 
+see multiple modules listed if they are responsible for more than one module. A completion 
+deadline is also included within the task list. (See also: Responding to student feedback) 
+94. Two further reminder emails to submit a response to student feedback are sent; one mid-way 
+through the task period, followed by a final reminder on the day the task is due.  Reminder 
+notifications are only sent where responses are outstanding; note that where a module has 
+multiple Class Organisers, all Module Leaders are sent the notifications regardless of whether 
+they have chosen to respond to students individually or via one individual.
+
+--- PAGE 14 ---
+
+14 
+ 
+Additional Email Communications to Staff 
+95. The Student Surveys team may also contact staff to remind them to compete tasks or to 
+request further information (e.g. confirmation of a Module Leader to issue a report). 
+12. Reporting 
+96. Please refer also to the Reporting and Results section of the Student Module Evaluation 
+Policy. 
+Reports Produced and Access within System  
+97. Reports are produced by the Blue system using a pre-designed template for module, student 
+and Department/School reports. 
+98. Faculty reports are produced manually by the Student Surveys team within the Education 
+Enhancement Directorate. 
+99. Other than Department/School and Faculty reports, aggregate reports for wider student insight 
+and demographic reporting will be produced on a bespoke basis. 
+100. Direct access to the module evaluation system for each type of report will be provided to the 
+users specified in Appendix A of the Student Module Evaluation Policy).  
+Accessing Module Reports 
+101. Module reports are usually issued to Module Leaders within 3 calendar days of the evaluation 
+closing; i.e. evaluations close on Friday, report is issued by end of day on Monday. 
+102. Module Leaders and Heads of Department/School and nominees can access their reports 
+either directly from the link in the email notification or from the Module Evaluation Reports link 
+in Myplace (see Student Module Evaluation - Staff Information on Myplace for further guidance 
+and a tutorial video). 
+103. In order to view their module reports, the Module Leader must hold the Class Organiser role in 
+Pegasus (see Myplace Support guidance on updating Roles & Responsibilities). 
+104. In order to continue to view the module reports after the evaluations have closed, the Module 
+Evaluation toggle in Myplace Quick Settings must stay set to Yes.  If Module Evaluation is 
+toggled off access to reports will be temporarily lost to students and staff.  Access can be re-
+activated by toggling the slider back on and reports will appear again after the next data sync.  
+It is recommended that the Student Surveys team are contacted to ensure that the reports 
+have been successfully reinstated. 
+Sub-groups and publication thresholds 
+105. Module reports are produced where one or more responses have been received to the 
+evaluation.  This allows teaching staff to view and respond to all feedback received from 
+students via module evaluation.   
+106. Where modules have small cohorts (e.g. fewer than 5 students), staff should make students 
+aware of the total cohort size being invited to feed back.  This allows students to make an 
+informed decision about participating in module evaluation. 
+107. All other reports (e.g. demographic reports) will require a minimum threshold of 5 responses. 
+108. For Aggregate and demographic reports, or bespoke analysis reports, results for sub-groups 
+with less than 5 responses will not be shown. 
+109. A demographic breakdown of results (e.g. by age, gender or other characteristics) is not
+
+--- PAGE 15 ---
+
+15 
+ 
+provided as standard in Module, Department or Faculty reports. Additional analysis can be 
+requested by contacting the Student Surveys team.  Demographic breakdowns will not, 
+however, be provided at module level to ensure that student confidentiality is maintained. 
+Department/School Level Reporting 
+110. Heads of Department/School automatically have access to all module reports and Department-
+level aggregate reports. 
+111. A list of Heads of Department/School is maintained centrally and any changes should be 
+shared with the team at the start of each Semester or when a change is required. 
+112. Heads of Department/School and nominees will only be able to see module-level results for 
+their own Department/School and any others they are nominated to view. 
+113. Two separate reports are produced at Department/School level; one showing the 
+Department/School’s aggregate results and one showing module-level detail for all modules 
+from that Department/School participating in the given evaluation window. 
+114. Department/School aggregate reports will be issued once all evaluations have closed within 
+the evaluation window for that Department/School. 
+Process for Heads of Department/School to nominate access to reports 
+115. Heads of Department/School may nominate colleagues (e.g. Deputy Head of 
+Department/School, Director of Teaching etc) to receive access to their Department/School 
+level reports and to the response rate monitoring dashboard.  If required, separate nominees 
+can be used for access only to the response rate monitoring dashboard (e.g. Admin/Support 
+staff). 
+116. At the beginning of each Academic Year, the Student Surveys team will contact Heads of 
+Department/School to confirm whether nominees are required and obtain details. 
+117. A list of Heads of Department/School and nominees is imported into the Blue system via a 
+manual process and this will be maintained by the Student Surveys team. 
+118. Nominee access to Department/School reports is the same as, and in addition to, the access 
+granted to Head of Department/School access. 
+119. Nominees will be reviewed at each Semester to ensure access is provided only to those 
+authorised by the relevant Head of Department/School. 
+120. Any changes mid-way through Semester should be notified to the team via the Helpdesk 
+system. 
+Faculty Reporting  
+121. Faculty reports will be produced manually by the Student Surveys team within the Education 
+Enhancement Directorate. 
+122. Faculty reports will be shared with Vice Deans and Deans via email.   
+123. One Faculty report will be produced per Semester after all module evaluations for that Faculty 
+have been completed. 
+Requesting Bespoke Analysis 
+124. Any requests for custom reports should be directed to modules@surveys.strath.ac.uk in the 
+first instance.
+
+--- PAGE 16 ---
+
+16 
+ 
+13. Responding to Student Feedback 
+Responding to Student Feedback 
+125. Module Leaders will receive an email notification to respond to student feedback via the Blue 
+system.  This email contains a link to the individual Module Leader’s task list showing all of the 
+modules where they are required to provide a response to students. 
+126. Tasks for Module Leaders to respond to student feedback usually open within 3 calendar days 
+of the module evaluation survey closing, i.e. evaluations close on a Friday, the task to respond 
+to student feedback will open on the following Monday shortly after the module report has been 
+issued. 
+127. A brief response is required to acknowledge student feedback.  Examples of responses 
+provided and further guidance on responding to student feedback can be found on the Myplace 
+Student Module Evaluation - Staff Information page. 
+128. It is important to respond to student feedback; normally this is required 6 working days after 
+Module Leaders receive the task.    Once the deadline has passed Module Leader will be 
+unable to access the task to submit a response; please see below how to request an extension 
+to the deadline.  For Mid-semester evaluations student reports containing the response from 
+teaching staff should be returned before students are asked to provide further feedback at the 
+End-of-semester; this helps to ensure strong response rates in the future.   
+129. The deadline for responding to student feedback is shown in the task list next to each module; 
+note that the deadlines may vary depending on the evaluation windows applied to each 
+module. 
+130. Student reports are typically issued 7-10 working days after evaluation surveys close for Mid-
+semester and 15 working days after evaluations close at End-of-semester.  Note, however, that 
+extensions to staff acknowledging feedback may impact on the timing of student reports being 
+issued. 
+131. Please refer also to the Module Evaluation Schedule to identify the timelines for evaluation 
+close, reports being issued and responses being required to students. 
+Extending the deadline for responding to student feedback 
+132. Extensions can be requested by contacting modules@surveys.strath.ac.uk.  
+133. The Student Surveys team may decide to extend the deadline for responses by up to a week 
+for all teaching staff e.g. to account for University holidays; this will be communicated via email 
+from the Blue system if it applies. 
+134. The new deadline for responding will be updated in the Module Leader’s task list as noted 
+above. 
+135. By exception Module Leaders or Heads of Department/School and nominees can nominate a 
+colleague to provide a response, for example to cover a planned absence, by contacting 
+modules@surveys.strath.ac.uk.  Note that this process is not applicable where the Class 
+Organiser has been incorrectly recorded in Pegasus (see Pegasus Roles & Responsibilities). 
+Process for generic Department/Faculty response 
+136. Student reports will not be issued without a response from staff. 
+137. The Student Surveys team monitor non-responses and will highlight these to the relevant 
+Department/School for further follow-up with Module Leaders.
+
+--- PAGE 17 ---
+
+17 
+ 
+138. Normally a short extension to the deadline would be provided to allow responses to be 
+submitted. 
+139. As indicated in Policy; where no module-specific response has been provided within the 
+specified timescale (including extensions), the Student Surveys team will contact the Head of 
+Department/School or nominee to request a Department/School-level response so that student 
+reports can be issued. 
+140. The Head of Department/School or nominee will provide a response directly to the Student 
+Surveys team, who will manually add this into the student reports before they are issued. 
+14. Redaction of Comments 
+141. Comments are not monitored by the Student Surveys team and no redaction is undertaken 
+prior to reports being issued to Module Leaders. 
+142. Requests to redact comments failing to adhere to the Dignity and Respect Policy should be 
+directed to modules@surveys.strath.ac.uk. 
+143. Education Enhancement will investigate any concerns relating to the Dignity and Respect 
+Policy on request from the Head of Department/School or nominee.  Note that individual 
+student respondents can be identified and traced by Blue system administrators if this is 
+required, in line with the University’s Student Module Evaluation Policy and/or the Student 
+Discipline Procedure. 
+15. Requesting Support 
+144. Support is available for staff and students via modules@surveys.strath.ac.uk. 
+145. This email address is linked to the Helpdesk system and will generate a ticket with the Student 
+Surveys team. 
+146. The team aim to respond within 2 working days of submitting a request. 
+147. Students with module-specific queries should contact their module teaching team or 
+Faculty/Department/School admin team. 
+16. Safeguarding Procedures 
+148. Module Leaders should raise any issues or concerns appearing in the free text comments with 
+their line manager, Head of Department/School or other nominated individual as indicated by 
+their Faculty guidance. 
+149. In the event of any safeguarding concerns, Heads of Department/School should inform Student 
+Surveys to allow this to be centrally recorded.  
+150. Education Enhancement will investigate safeguarding concerns on request from the Head of 
+Department/School or nominee.  Note that individual student respondents can be identified and 
+traced by Blue system administrators if this is required, in line with the University’s Student 
+Module Evaluation Policy. 
+151. Student Surveys will report any investigations to the Director of Education Enhancement and 
+the Director of Student Experience to ensure that these are recorded centrally.   
+17. Complaints 
+152. Staff with complaints or concerns about the Student Module Evaluation process should contact 
+their Head of Department/School or OSDU in the first instance.
+
+--- PAGE 18 ---
+
+18 
+ 
+153. Responses to survey questions are not considered formal complaints. Should a student  wish 
+to make a complaint, they should consult the guide for students on the Complaints Procedure 
+webpage. 
+18. Relevant Links  
+Student Module Evaluation Resources and Tutorial Videos: 
+Module Evaluation – Information for Students 
+Student Module Evaluation – Staff Information  
+ 
+Policies: 
+Student Module Evaluation Policy  
+Data Protection Policy, 
+Student Module Evaluation Privacy Notice  
+University’s Privacy Notice – Staff and Other Categories 
+Assessment and Feedback Policy 
+Student Guidance on the Use of Social Media and Virtual Learning Environments 
+Dignity and Respect Policy   
+Student Representation Policy  
+Student Discipline Procedure  
+University Records Retention Schedule
+
+--- PAGE 19 ---
+
+19 
+ 
+19. Module Evaluation Schedule 
+The Module Evaluation Schedule is also available on Myplace. 
+ 
+Evaluation Survey Close Module Report Issued to 
+Module Leader 
+Module Leader Response to 
+students due  Student reports issued  
+Semester 1       
+Week 4  (Friday) Week 5 (Monday) Week 6 (Tuesday) Week 6 (Friday) 
+Week 5 (Friday) Week 6 (Monday) Week 7 (Tuesday) Week 7 (Friday) 
+Week 6 (Friday) Week 7 (Monday) Week 8 (Tuesday) Week 8 (Friday) 
+Week 7 (Friday) Week 8 (Monday) Week 9 (Tuesday) Week 9 (Friday) 
+Week 8 (Friday) Week 9 (Monday) Week 10 (Tuesday) Week 10 (Friday) 
+Week 9 (Friday) Week 10 (Monday) Week 11 (Tuesday) Week 11 (Friday) 
+Week 10 (Friday) Week 11 (Monday) Exam Week 1 (Tuesday) Exam Week 1 (Friday) 
+Week 11 (Friday) Exam Week 1 (Monday) Exam Week 2 (Tuesday) Exam Week 2 (Friday) 
+Exam Week 1 (Friday) Exam Week 2 (Monday) 
+Christmas Vacation Week 1 
+(Wednesday) 
+Consolidation Week Sem 2 
+(Monday) 
+Exam Week 2 (Friday) 
+Christmas Vacation Week 1 
+(Monday) 
+Christmas Vacation Week 2 
+(Friday) 
+Consolidation Week Sem 2 
+(Monday)     
+Semester 2       
+Week 4  (Friday) Week 5 (Monday) Week 6 (Tuesday) Week 6 (Friday) 
+Week 5 (Friday) Week 6 (Monday) Week 7 (Tuesday) Week 7 (Friday) 
+Week 6 (Friday) Week 7 (Monday) Week 8 (Tuesday) Week 8 (Friday) 
+Week 7 (Friday) Week 8 (Monday) Week 9 (Tuesday) Week 9 (Friday) 
+Week 8 (Friday) Week 9 (Monday) Week 10 (Tuesday) Week 10 (Friday) 
+Week 9 (Friday) Week 10 (Monday) Week 11 (Tuesday) Week 11 (Friday) 
+Week 10 (Friday) Week 11 (Monday) Spring Break Week 1 (Tuesday) Exam  Week 1 (Tuesday) 
+Week 11 (Friday) 
+Spring Break Week 1 
+(Monday) Spring Break Week 2 (Tuesday) Exam  Week 1 (Tuesday) 
+Spring Break Week 1 
+(Friday) 
+Spring Break Week 2 
+(Monday) Exam Week 1 (Thursday) Exam Week 2 (Monday) 
+Spring Break Week 2 
+(Thursday) Exam Week 1 (Tuesday) Exam Week 2 (Wednesday) Exam Week 2 (Friday) 
+Exam Week 1 (Friday) Exam Week 2 (Monday) Exam Week 3 (Wednesday) Exam Week 3 (Friday) 
+Exam Week 2 (Friday) Exam Week 3 (Tuesday) Exam Week 4 (Wednesday) Exam Week 4 (Friday) 
+Exam Week 3 (Friday) Exam Week 4 (Monday) Exam Week 5 (Tuesday) Exam Week 5 (Friday)      
+Summer Term calculator - use when non-standard evaluation dates fall outside of Semester calendar (see Notes) 
+End of Week A (Friday) Week B (Monday) Week C (Tuesday) Week C (Friday) 
+ 
+Notes 
+ Module evaluation surveys open on a Monday and close at midnight on a Friday. 
+ Module reports are generated on the Monday after the module evaluation survey closes. 
+ Tasks for Module Leaders to respond to student feedback are issued on the same day as the module 
+report; the deadline for completion is the end of day on the Tuesday of the following week. 
+ Student reports are issued by the end of the week that the feedback loop closes.  
+ Note that any delay to closing the feedback loop will mean that the student report is issued in the 
+following week.   
+ This is particularly important to bear in mind for modules where a Mid-semester and End-of-Semester
+
+--- PAGE 20 ---
+
+20 
+ 
+evaluation is chosen; the Mid-Semester feedback loop should be closed before students are asked to 
+provide feedback at End-of-Semester.

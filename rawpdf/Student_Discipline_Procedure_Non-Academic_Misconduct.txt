@@ -1,0 +1,1135 @@
+--- PAGE 1 ---
+
+Student submits an appeal 
+ 
+ 
+No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STUDENT DISCIPLINE 
+PROCEDURE: NON- 
+ACADEMIC MISCONDUCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version No. Description Author Approval Effective Date 
+1.0 A procedure for 
+managing instances 
+of Non-academic 
+Misconduct 
+Education 
+Enhancement 
+Senate Academic year 
+2022/23 
+onwards 
+2.0 Incorporating minor 
+amendments to the 
+Procedure.  
+Education 
+Enhancement 
+Senate Academic year 
+2023/24 onwards 
+3.0 Incorporating minor 
+amendments to the 
+Procedure.  
+Education 
+Enhancement  
+Senate Academic Year 
+2024/25 onwards 
+ 
+ 
+ 
+ 
+the place of useful learning 
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC015263 
+ 
+Appeals Panel 
+takes place 
+ 
+Version 3.0
+
+--- PAGE 2 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+1 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Contents 
+TABLE OF CONTENTS .............................................................................................1  
+INTRODUCTION ........................................................................................................2  
+SCOPE .......................................................................................................................3  
+LEGAL PROCEEDINGS AND STANDARD OF PROOF ...........................................4 
+EXAMPLES OF NON-ACADEMIC MISCONDUCT ....................................................5 
+PROCEDURAL STEPS ..............................................................................................6  
+EARLY INTERVENTION/CAUTION ...........................................................................7  
+STAGE 1: MISCONDUCT OFFICER CONSIDERATION ............................................8 
+STAGE 2: SENATE DISCIPLINE COMMITTEE ...................................................... 11 
+RIGHT TO APPEAL .................................................................................................  14 
+Appeals Against Stage 1 Outcomes ....................................................................... 14 
+Appeals Against Stage 2 Outcomes ....................................................................... 15 
+ANNEX 1 - ROLES ................................................................................................... 18 
+ANNEX 2 – DEFINITIONS ....................................................................................... 20
+
+--- PAGE 3 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+2 
+ 
+ 
+INTRODUCTION 
+1. All students of the University are subject to the jurisdiction of the Senate, both for their studies 
+and for their conduct. The University’s Charter decrees that Senate is responsible for the 
+academic work of the University, in teaching, in research and in knowledge exchange, and for 
+the regulation and superintendence of the education and discipline of the students of the 
+University (Charter 8). 
+ 
+2. Senate membership comprises the Principal, Vice Principal, Associate Principals, Executive 
+Deans, Heads of Academic Departments/Schools, student representatives elected by students 
+of the University, and elected academic professional services staff elected by the academic 
+professional staff of the University. The powers vested in Senate by the Charter and Statutes 
+are confirmed in Statute 3.6 
+and include ‘to regulate the discipline of the students of the 
+University’ (Statute 3.6.13). 
+ 
+3. When students register at the University, they agree to abide by the University’s constitutional 
+regulations, academic regulations, policies, procedures, codes of practice and guidance (known 
+collectively within this Procedure as ‘Regulations’). In cases where there is evidence to suggest 
+that the Regulations may have been breached, Senate delegates authority for initial 
+consideration of allegations of Non-academic Misconduct to Departments (as outlined in Annex 
+2, the term ‘Department’ in this Procedure refers to Academic Department/School/Centre, 
+Faculty, Directorate or Service). Some of these cases are escalated to Senate and may be 
+heard by a Senate Discipline Committee (see paragraph 
+52 onwards) and, upon appeal, a 
+Senate Discipline Appeals Board (see paragraph 69 onwards). Senate delegates its powers to: 
+ 
+a. Departments to impose all penalties listed in paragraph 32; 
+b. Misconduct Officers to impose all penalties listed in paragraphs 32 and 47; 
+c. A Senate Discipline Committee and a Senate Discipline Appeals Board to impose all 
+penalties listed in paragraphs 32, 47 and 65. 
+ 
+4. These penalties will be imposed without referral to Senate for approval, although Senate does 
+receive anonymised reports on outcomes of cases at Stage 2 (see paragraph 95). 
+ 
+5. To operate effectively, all organisations need to set standards of conduct to which their 
+members are expected to adhere. This Student Discipline Procedure (the “Procedure”) focuses 
+on Non-academic Misconduct and sets out the University of Strathclyde’s approach to reporting, 
+investigating and responding to alleged breaches of University Regulations (as hereinafter 
+defined) relating to Non-academic Misconduct, by students of the University. It also sets out the 
+penalties that may be incurred because of a breach of Regulations. Annexes 1 and 2 
+provide a 
+list of roles and definitions, respectively, referred to within this Procedure. 
+ 
+6. It is important to note that this Procedure does not constitute a legal or criminal process, 
+however the Procedure is underpinned by the relationship, signed at registration, between the 
+University and the student. 
+ 
+7. For the duration of the implementation of this Procedure, Reported Students will normally be 
+allowed to continue their studies. If the Reported Student’s behaviour is negatively impacting on 
+other students and staff, either in terms of disruption or in a manner in which raises safety 
+concerns (both for the Reported Student or anyone else), the Reported Student may be
+
+--- PAGE 4 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+3 
+ 
+ 
+ 
+restricted, at any stage in this Procedure, from accessing University services, buildings and/or 
+other property, as a precautionary measure. 
+ 
+8. Guidance for staff on this Procedure is available from the Senate Office. The Strath Union 
+Advice Hub of fers independent advice and guidance to students on this Procedure and related 
+matters. 
+ 
+9. Allegations of Academic Misconduct, i.e. those that are linked to academic integrity rather than 
+behaviour, are managed through the Student Discipline Procedure: Academic Misconduct. If 
+allegations of both types of misconduct are made against a student, the two procedures will 
+normally be followed concurrently. In some cases, multiple inquiries may converge at the 
+discretion of Misconduct Officers and, in cases that have been escalated to a Senate Discipline 
+Committee, at the discretion of the University Secretary (or nominee). 
+ 
+10. If a case of Non-academic Misconduct is raised, or is already in process, for a student whose 
+graduation could be imminent, the student may be prevented from graduating while the case is 
+under consideration. Consequently, the award will be made (if eligible) once the case is 
+concluded. 
+ 
+11. In implementing this Procedure, the University will remain mindful of its duty of care in respect 
+of the confidential and sensitive nature of disciplinary matters. It will also observe its obligations 
+under the Data Protection Act 2018/General Data Protection Regulation
+. All University staff, 
+students, Professional Advisors, Representatives/Supporters of Reported Students, and 
+witnesses involved in any allegation of Non-academic Misconduct have a duty to the Reported 
+Student, Reporting Person and to any witnesses or others providing evidence, to limit any or all 
+disclosure. This is crucial both for the Reported Student’s and, where applicable, the Reporting 
+Person’s, wellbeing, and to ensure that potential criminal proceedings are not prejudiced. The 
+Reported Student is also expected to respect the confidentiality of the process. It is of course 
+reasonable for Reported Students to discuss the disciplinary process with family and close 
+friends. 
+ 
+SCOPE 
+12. This Procedure applies to any allegation of Non-academic Misconduct levelled at a registered 
+student, whether taking place on or off the University of Strathclyde campus, including within 
+halls of residence, face to face, by writing or in written, spoken or electronic communications 
+including social media. This also applies to students undertaking a professional placement, 
+undertaking non credit-bearing modules within the Centre for Lifelong Learning, studying by 
+distance learning, by blended learning or studying at another institution (e.g. through an 
+exchange or on a collaborative programme). 
+ 
+13. In exceptional cases, the University may decide to hold a hearing for a student previously 
+registered at the University of Strathclyde. This will be in cases where a decision relating to the 
+award of the University is required, in relation to Non-academic Misconduct, despite the student 
+no longer being registered at the University. 
+ 
+14. For students registered at the University who are studying at another institution, the allegation of 
+Non-academic Misconduct is usually considered by the Host Institution, but this does not 
+preclude input from the University of Strathclyde in cases where it is not the Host Institution. Nor 
+does it prevent the University of Strathclyde from undertaking its own separate investigation
+
+--- PAGE 5 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+4 
+ 
+ 
+under this Procedure and applying appropriate penalties as it sees fit. 
+ 
+15. The University reserves the right to continue to consider and conclude a disciplinary case in a 
+Reported Student’s absence if they choose to withdraw from the University while the case is 
+being considered. Reported Students whose registration is withdrawn by the University will not 
+normally be taken through this Procedure, (unless in the exceptional circumstances outlined in 
+paragraph 13). In cases where Reported Students are appealing a withdrawal from studies by 
+the University of Strathclyde at Stage 1 or Stage 2 of the Academic Appeals Procedure, any 
+discipline process under this Procedure will be put into abeyance until such appeals process is 
+concluded. If the Reported Student is allowed to resume registration, any discipline process 
+under this Procedure will recommence at the stage at which it was put into abeyance. 
+ 
+16. If the University uncovers further incidence(s) of misconduct from previous years of study, it has 
+the right to withhold or re-classify a student’s award (or re-consider progression). 
+ 
+17. In some cases, where contravention of the Regulations leads to concerns regarding a Reported 
+Student’s fitness to practise, the University may, separately from this Procedure, implement a 
+Fitness to Practise procedure. If a Reported Student is involved in a Fitness to Practise hearing 
+or follow up action plan, the University Secretary (or nominee) reserves the right to postpone 
+any concurrent disciplinary processes, under this Procedure, whilst these matters are 
+concluded. It is important to note that a decision to halt a disciplinary process for this reason will 
+only be taken to benefit the Reported Student. 
+ 
+18. This Procedure has an associated right to appeal, set out in paragraph 66 onwards below. 
+Reported Students also have the right to make a complaint at any point in the disciplinary 
+process under this Procedure, through the University’s Complaints Handling Procedure. 
+ 
+19. Strath Union has procedures for addressing discipline-related issues within their premises and 
+under the auspices of Strath Union activity, such as societies, sports clubs and Strath Union 
+meetings. However, such matters may also be referred to the University for consideration under 
+this Procedure. 
+ 
+20. Reported Students who consider they have a disability or condition that affects their ability to 
+engage with the disciplinary processes under this Procedure should disclose this to the 
+Misconduct Officer or Senate Office, as appropriate, with relevant evidence provided to allow for 
+an assessment and, where found applicable, for a reasonable adjustment to be made during the 
+handling of the case. Advice and support can be sought from the Disability & Wellbeing Service
+. 
+ 
+LEGAL PROCEEDINGS AND STANDARD OF PROOF 
+21. There may be instances where an alleged act of Non-academic Misconduct may also constitute 
+a criminal offence, for example theft of work, fraud etc. It is important to note that the nature and 
+scope of an internal University disciplinary process, under this Procedure, and the nature and 
+scope of a criminal process are fundamentally different. Any disciplinary process is a civil matter 
+where the alleged Non-academic Misconduct is more likely than not to have occurred. In 
+contrast, the criminal process is an external procedure and the standard of proof for the 
+allegation to be proven is beyond reasonable doubt. 
+ 
+22. Where the University of Strathclyde has reason to consider that a crime may have been 
+committed, the University/University Secretary reserves the right to report the matter to the 
+police and/or other appropriate UK authority. The University’s 
+Procedure for Managing Students
+
+--- PAGE 6 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+5 
+ 
+ 
+with Criminal Proceedings or Unspent Criminal Convictions confirms arrangements for declaring 
+unspent criminal convictions and charges pending trial. 
+ 
+23. Where an alleged case of Non-academic Misconduct is subject to criminal or civil legal 
+proceedings, the University may: 
+ 
+a. Decide to hold in abeyance any relevant disciplinary process under this Procedure until 
+such time as the legal proceedings have concluded; 
+b. Take advice as is appropriate to ensure University investigations do not prejudice 
+judicial process; 
+c. Impose restricted access to University services, buildings and other property on the 
+basis of ensuring the safety and wellbeing of the Reported Student and other students 
+and staff. 
+ 
+24. Where any disciplinary process under this Procedure has been put in abeyance pending the 
+outcome of criminal or civil legal proceedings, the Reported Student has an obligation to keep 
+the University informed, in writing, of the progress of those legal proceedings, and to confirm the 
+outcome of any such proceedings within one week of conclusion, as detailed in the University’s 
+Procedure for Managing Students with Criminal Proceedings or Unspent Criminal Convictions
+. 
+ 
+25. If a Reported Student is convicted of a related criminal offence, then this conviction can be 
+relied upon to establish a disciplinary offence. If a Reported Student is found not guilty of a 
+criminal offence or the case is not proven, the University can still take disciplinary action against 
+the Reported Student if there is sufficient evidence that a breach of the Regulations occurred. 
+ 
+EXAMPLES OF NON-ACADEMIC MISCONDUCT 
+26. Non-academic Misconduct may occur directly, indirectly, individually, collectively, in person 
+and/or by spoken, electronic and remote communications, including via social media. For the 
+purposes of this Procedure, Non-academic Misconduct includes, but is not limited to, any of the 
+following examples, or a combination of these examples: 
+ 
+a. Disruption of, or improper interference with, the academic, administrative, sporting, 
+social or other activities of the University, including offensive behaviour, whether on 
+University premises or elsewhere; 
+b. Obstruction of, or improper interference with, the functions, duties or activities of any 
+student, member of staff or other employee of the University or any authorised visitor to 
+the University; 
+c. Behaviour that brings the University into disrepute, including instances where comments 
+or other actions have been published or reported, which are attributable to the Reported 
+Student; 
+d. Intentional or reckless damage to, or defacement of, University property or the property of 
+the University and community; 
+e. Misuse or unauthorised use of University premises, facilities or items of property; 
+f. Failure to disclose name and other relevant details to an officer or employee of the 
+University in circumstances when it is reasonable to require that such information is 
+given; 
+g. Distribution of promotional material on University premises without prior approval. For 
+example, the University will not tolerate the distribution of promotional material that 
+encourages excessive alcohol consumption; 
+h. Failure to treat others (students, staff, neighbours and other people within the
+
+--- PAGE 7 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+6 
+ 
+ 
+community) with respect, as outlined in the University’s Dignity and Respect Policy. This 
+applies to all communication methods including, but not limited to, personal contact, 
+email, written communication, online communication, social media activity (see Student 
+Guidance on the Use of Social Media and Virtual Learning Environments) or  soc ial 
+community websites; 
+i. Acts of dishonesty, including theft, deceit or deception in relation to the University, 
+University documentation, its staff or students; 
+j. Action likely to cause injury, impair safety or raise false alarm on or off University of 
+Strathclyde premises, such as acts involving damage to or discharge, without just cause, 
+of a Fire Extinguisher or other Fire Safety Equipment; 
+k. Verbally or non-verbally abusing, harassing, victimising or discriminating against staff, 
+students, the public and authorised visitors to the University. Where such activity is 
+taken on the grounds of protected characteristics (age, disability, race, ethnic or national 
+origin, religion or belief, sex, sexual orientation, gender reassignment, pregnancy, 
+maternity, marriage or civil partnership or socio-economic background), this will be 
+considered an aggravating factor; 
+l. Repeatedly contacting another person (by phone, email, text or on social networking 
+sites) against the wishes of the other person; 
+m. Any sexual misconduct/sexual impropriety, including, but not limited to, non-consensual 
+sexual activity, sexual violence, assault, harassment, unwanted remarks of a sexual 
+nature and stalking; 
+n. Violent, indecent, disorderly, threatening or offensive behaviour or language whilst on or 
+off University premises whether directed towards a member of staff, another student, 
+professional staff such as police, ambulance, fire crew etc, or a member of the public; 
+o. Conduct that unjustifiably infringes freedom of thought or expression, whilst on 
+University premises or engaged in University work, study or activity; 
+p. Improper coercion or manipulation of students to their physical  or mental detriment, for 
+example when making others take part in demeaning activities such as associated with 
+initiation; 
+q. Making false, frivolous, malicious or vexatious complaints; 
+r. Failure to comply with a previously imposed penalty under this Procedure, including non- 
+payment of a disciplinary fine; 
+s. Any activity which expresses extremist views or supports radicalisation is not permitted, 
+including accessing or sharing extremist materials, or using extremist language; 
+t. Failure to observe guidance on matters of public safety or health relating to the 
+University or wider community, whether issued by the University or a statutory body; 
+u. Any other act or behaviour which may be reasonably interpreted by the University as 
+Non-academic Misconduct, notwithstanding the lack of equivalent examples above. 
+ 
+PROCEDURAL STEPS 
+27. The main body of this Procedure sets out the steps to be followed in alleged cases of Non- 
+academic Misconduct. 
+ 
+28. The University of Strathclyde operates a tiered process for managing alleged cases of Non- 
+academic Misconduct as follows: 
+ 
+a. Early Intervention/Caution; 
+b. Misconduct Officer consideration (Stage 1); 
+c. Escalation to a Senate Discipline Committee (Stage 2).
+
+--- PAGE 8 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+7 
+ 
+ 
+ 
+29. Following the implementation of Stage 1 and Stage 2 of the Procedure, the Reported Student 
+has a right to appeal. 
+ 
+EARLY INTERVENTION/CAUTION 
+30. Considering and using disciplinary action at an early stage can prevent more serious offences 
+or issues arising. The University of Strathclyde views this Procedure as part of a supportive and 
+educational approach, as Non-academic Misconduct may be the first indicator of underlying 
+challenges. The Early Intervention/Caution stage of this Procedure can provide Reported 
+Students with an opportunity for reflection and learning. 
+ 
+31. For allegations where there are significant concerns for the health and safety of students and 
+staff, cases will automatically progress to Stage 1. Due to the serious nature of cases involving 
+the offering or accepting of any kind of bribe or threatening or coercing others in relation to 
+assessments at and/or in association with the University, which often represent situations where 
+concerns regarding student and staff health and wellbeing are evident, these cases will 
+automatically be escalated to Stage 1 of this Procedure. The examples provided here are not 
+exhaustive and there may be other cases which will automatically progress to Stage 1 at the 
+discretion of the Department. 
+ 
+32. Through Early Intervention/Caution, the Department will be able to apply one or more of the 
+following recommendations: 
+ 
+a. No further action required; 
+b. Informal resolution between all parties involved to take place to resolve any conflicts that 
+have arisen. This will only occur if all individuals involved consent to this approach. This 
+may result in the creation of a Behavioural Contract. There will be cases where this is 
+clearly not an appropriate course of action; 
+c. Reported Student to submit a sanctioned and approved apology letter; 
+d. Reported Student referred to Support and Wellbeing Services; 
+e. Reported Student required to attend specific workshops or training events; 
+f. For incidents taking place within accommodation services, Reported Student required to 
+pay a fixed penalty fine for misuse of/damage to property and/or breaches of health and 
+safety guidance and/or breaches of public health guidance. Posters are displayed in 
+Halls of Residence setting out the fixed-penalty fines and the behaviours that can incur 
+these fines; 
+g. Any other sanction not affecting registration or progress of studies deemed appropriate 
+to impose upon the Reported Student by the Department. Any financial costs imposed 
+under this outcome, i.e. replacement of damaged equipment, should not exceed £500. 
+In such cases where a payment for damages occurred exceeds £500, the case should 
+be referred to Stage 1 of this Procedure. 
+ 
+33. In cases where the Department has decided that action is required (see paragraph 32 b to g) 
+above), they will produce an Early Intervention/Caution Form detailing any sanctions deemed 
+appropriate. This will be shared with the Reported Student and with the Senate Office (see 
+Table of Roles in Annex 1). 
+ 
+34. Failure to complete any actions by the deadlines assigned, will normally result in a Misconduct 
+Officer being appointed to consider the case at Stage 1 (see paragraph 36 onwards).
+
+--- PAGE 9 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+8 
+ 
+ 
+ 
+35. If a Reported Student does not accept the outcome of Early Intervention/Caution, the matter will 
+automatically be escalated to Stage 1 of this Discipline Procedure for consideration. 
+ 
+STAGE 1: MISCONDUCT OFFICER CONSIDERATION 
+36. For cases where the following apply, Stage 1 of this Procedure will be implemented: 
+ 
+a. Allegations fall within the categories outlined in paragraph 31 above; or 
+b. The Reported Student does not accept the Early Intervention/Caution recommendations 
+that are put in place; or 
+c. The Department believes that a full Stage 1 investigation is appropriate, for example, 
+due to repeated Non-academic Misconduct allegations and/or because measures put in 
+place at a previous Early Intervention/Caution have not been adhered to. 
+ 
+37. Any Stage 1 consideration of an alleged act of Non-academic Misconduct shall normally include 
+an interview with the Reported Student by a Misconduct Officer for the purposes of setting out 
+the allegations/issues to be investigated, understanding the Reported Student’s position and to 
+present any evidence obtained. However, in cases where allegations against five or more 
+Reported Students relate to the same incident, the Department may choose to request a written 
+statement from the Reported Students, (responding to the case and the evidence presented), in 
+lieu of an interview. This does not preclude an interview from being held later if this is felt 
+necessary by the Department, or at the request of the Reported Student, for example to clarify 
+elements of the written statement or discuss emerging evidence. 
+ 
+38. The Misconduct Officer should contact the Reported Student with a proposed date and time for 
+the interview at least five working days in advance of the interview date. The student will be 
+notified of/provided with: 
+ 
+a. The details of the alleged offence; 
+b. The evidence under consideration, including any witness statements; 
+c. Information relating to penalties which may be imposed if the alleged offence is admitted 
+or found to be proven; 
+d. Their right to be accompanied (or represented in their absence) by a Supporter and/or 
+Representative; 
+e. Their right to submit evidence to the Misconduct Officer in advance of the interview; 
+f. Their right to submit a written statement in response to the alleged offence(s) to the 
+Misconduct Officer in advance of the interview; 
+g. Their right to identify witnesses in support of their case; 
+h. Confirmation of the name and job role of any other members of staff who will attend the 
+interview; 
+i. Confirmation of whether any Professional Advisers of the University will attend the 
+interview; 
+j. A link to this Non-academic Misconduct Procedure. 
+ 
+39. The Reported Student shall be asked to confirm attendance at least three working days in 
+advance of the date of the interview. The Reported Student may request an alternative date, if 
+this falls within a timescale that does not extend past fifteen working days from the date that the 
+Misconduct Officer contacted the Reported Student to arrange the interview.
+
+--- PAGE 10 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+9 
+ 
+ 
+ 
+40. Any Reported Student asked to attend a Stage 1 interview is encouraged to seek support and 
+guidance from the Strath Union Student Advice Hub. 
+ 
+41. Failure by the Reported Student to respond to a request for interview or to attend an interview 
+on an agreed date will not stop the case from being progressed by the Misconduct Officer. In 
+exceptional circumstances, it may be possible for a Reported Student to submit a written 
+statement to the Misconduct Officer with their prior agreement. This will only be possible in 
+cases where there is an acceptable and evidenced reason why the Reported Student is unable 
+to attend an interview in person or virtually. 
+ 
+42. Reported Students may submit evidence to the Misconduct Officer, either in advance of the 
+interview or at the interview. Guidance for students on producing evidence for consideration at 
+any stage of this Procedure is available online and should be utilised by Reported Students 
+when they are preparing a submission of evidence 
+ 
+43. The Reported Student may be accompanied to the interview by a Supporter and/or a 
+Representative, (see Table of Roles in Annex 1
+), of the Reported Student’s choice. As stated in 
+the Table of Roles, the Representative may address the Misconduct Officer on the Reported 
+Student’s behalf if requested to do so by the Reported Student. The Supporter has no formal 
+role in the meeting, although they will be invited to state their name and relationship to the 
+Reported Student. Further information on these roles is set out below: 
+ 
+a. Supporters and Representatives are expected to conduct themselves in a polite and 
+respectful manner throughout the proceedings; 
+b. Supporters are not expected to answer questions on behalf of the Reported Student or 
+make statements to the Misconduct Officer. They may ask for clarification on any points 
+discussed during the interview, when invited to do so by the Misconduct Officer; 
+c. Supporters and Representatives are not permitted to ask questions of witnesses, unless 
+directed to do so by the Misconduct Officer in the case of Representatives, with the 
+agreement of the witness beforehand; 
+d. Supporters and Representatives are not expected to interrupt the proceedings. If there 
+are interruptions, the proceedings may be adjourned and when reconvened the 
+Reported Student may be asked to bring an alternate Supporter and/or Representative. 
+ 
+44. Following the interview, the Misconduct Officer will consider the evidence collected during the 
+investigation. If the Reported Student has presented new evidence at the interview, it may be 
+necessary for the Misconduct Officer to make further enquiries and meet with witnesses again 
+or with any new witnesses, as necessary. It may also be necessary to hold a further interview 
+with the Reported Student, for which the process set out in paragraphs 36 to 43 will apply. 
+ 
+45. In cases where further time is required to gather additional evidence or clarify details, or where 
+a follow-up interview is required, the Misconduct Officer will write to the Reported Student to 
+confirm a timescale by which they will be informed of the outcome. This will not normally total 
+more than 30 working days since the date of the interview with the Reported Student, however 
+in complex cases more time may be required. The Misconduct Officer is responsible for keeping 
+the Reported Student informed of any delays, the reasons for this and the revised timescales.
+
+--- PAGE 11 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+10 
+ 
+ 
+ 
+46. In reaching their conclusion, the Misconduct Officer may decide to dismiss the allegation on the 
+grounds that it has not been possible to establish, on the balance of probabilities, that the Non- 
+academic Misconduct occurred. Such a finding will be reached in the following circumstances: 
+ 
+a. A lack of demonstrable evidence that proves, on the balance of probabilities, that the 
+alleged Non-academic Misconduct took place as reported; 
+b. Parties involved have offered conflicting versions of events and are found by the 
+Misconduct Officer to be reliable witnesses, making it impossible to arrive at a 
+conclusion. 
+ 
+47. If the Misconduct Officer upholds the allegation of Non-academic Misconduct on the grounds 
+that either the evidence obtained demonstrates that it is likely that Non-academic Misconduct 
+has occurred, and/or the Reported Student admits responsibility for the Non-academic 
+Misconduct they are accused of, they will impose one or more of the following penalties: 
+ 
+a. Any of the recommendations set out in paragraph 32 above, for Early 
+Intervention/Caution; 
+b. A formal written warning, setting out terms and conditions for the Reported Student’s 
+continued registration at the University and timelines within which any specific actions 
+must be taken; 
+c. Reported Student required to make good, in whole or in part, any damage caused; 
+d. Reported Student required to pay a fine, not exceeding an amount determined by 
+Senate, (last set in Session 2021/22 at £200). Any fines collected by this Procedure will 
+be allocated to central funds to support students encountering hardship; 
+e. Reported Student to repay monies obtained fraudulently from the University; 
+f. Reported Student is temporarily excluded from a particular University service and/or 
+building, such the Library Services, IT Services, Accommodation Services etc; 
+g. In exceptional circumstances, where the health and safety of other students and staff is 
+a concern, Reported Student may be permanently excluded from a service not directly 
+related to academic studies, for example Accommodation Services or Disability & 
+Wellbeing Services. 
+ 
+48. A Misconduct Officer may also refer a case for consideration under Stage 2 of the Procedure. 
+Referral to Stage 2 will normally occur in instances where there is a repeated offence, with 
+repeated offence(s) having been formally investigated under Stage 1. Referral to Stage 2 will 
+also be required where the penalty that the Misconduct Officer determines should be imposed 
+has an impact on a Reported Student’s opportunity to progress as planned in their studies. 
+Misconduct Officers are empowered by Senate to use their judgement to determine whether a 
+case should be referred to Stage 2. 
+ 
+49. The Misconduct Officer will write to the Reported Student confirming the outcome of the Stage 1 
+Investigation and any penalties being applied. The Misconduct Officer will inform the Reporting 
+Person of the outcome only and will not normally disclose penalties unless these are directly 
+linked to the Reporting Person. 
+ 
+50. If a student wishes to appeal a Stage 1 outcome, information on the process and criteria for 
+appeal is set out in paragraph 69 onwards. 
+ 
+51. It should be noted that the relevant undergraduate or postgraduate Board of Examiners may 
+not use its discretion to adjust marks that have been reduced for disciplinary reasons and may
+
+--- PAGE 12 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+11 
+ 
+ 
+not apply compensation to such marks. 
+ 
+STAGE 2: SENATE DISCIPLINE COMMITTEE 
+52. This section of the Procedure applies to cases referred to the Stage 2 Senate Discipline 
+Committee, following management at Stage 1. 
+ 
+53. All cases referred by a Misconduct Officer to Stage 2 (via the Senate Office), will be considered 
+by the University Secretary (or nominee). The Senate Office SharePoint site provides guidance 
+for Misconduct Officers and templates for submitting a case to Stage 2, including a checklist, 
+timeline template and Stage 1 report template. 
+ 
+54. In cases where the University Secretary (or nominee) decides that a referral has been made 
+without sufficient cause, the case will be returned by the Senate Office to the Misconduct 
+Officer for action. In such cases, the Misconduct Officer will be responsible for following the 
+steps set out in paragraphs 46 to 51 above, including notifying the Reported Student of the 
+outcome of the allegation against them. 
+ 
+55. In cases where the University Secretary, (or nominee), decides that the case should be heard 
+by a Senate Discipline Committee for consideration, the Senate Office will organise a hearing 
+of a Senate Discipline Committee. In exceptional cases, the University Secretary (or nominee) 
+may commission an investigation to supplement the findings of the Misconduct Officer’s Stage 
+1 Report, in advance of a Senate Discipline Committee hearing. 
+ 
+56. In cases referred to a Senate Discipline Committee, the University Secretary (or nominee) will 
+write to the Reported Student to confirm that a Senate Discipline Committee hearing will take 
+place, with at least ten working days’ notice, and to confirm arrangements for the hearing. The 
+student will be notified of/provided with: 
+ 
+a. The details of the alleged offence; 
+b. The evidence under consideration, including any witness statements (the Reported 
+Student will receive the same evidence pack as a Senate Discipline Committee, barring 
+any briefing notes and checklists produced specifically for Senate Discipline Committee 
+members); 
+c. Information relating to penalties which may be imposed if the alleged offence is admitted 
+or found to be proven; 
+d. Their right to be accompanied (or represented in their absence) by a Supporter and/or 
+Representative; 
+e. Their right to submit evidence to a Senate Discipline Committee in advance; 
+f. Their right to call witnesses in support of their case; 
+g. The date, time and place of the hearing; 
+h. Confirmation of whether any Professional Advisers of the University will attend the 
+hearing; 
+i. Confirmation of the names of any witnesses that a Senate Discipline Committee will call 
+to the hearing; 
+j. A link to this Non-academic Misconduct Procedure. 
+ 
+57. If a Reported Student cannot attend the hearing, (the Senate Office will request a compelling 
+and evidenced explanation as to why they cannot attend), they will be invited to an alternative 
+hearing. In exceptional cases, for example where a Reported Student can evidence that they 
+are unable attend the hearing, in person or virtually, they may submit a written statement for
+
+--- PAGE 13 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+12 
+ 
+ 
+consideration by a Senate Discipline Committee. 
+ 
+58. A Senate Discipline Committee comprises Staff and Student members of Senate known as 
+Senators (see Table of Roles in Annex 1). The Convener will ask members of a Senate 
+Discipline Committee to declare any perceived, potential or actual conflicts of interest ahead of 
+each meeting and the membership of the Committee may be amended as appropriate. The 
+Convener of the Committee will circulate the following to Committee members in advance of the 
+hearing: 
+ 
+a. The report of the Misconduct Officer, including any recommendations to a Senate 
+Discipline Committee; 
+b. The evidence gathered by the Misconduct Officer/s to support their findings, e.g. witness 
+statements, emails, social media posts, character references etc; 
+c. Any additional evidence gathered as part of an additional investigation requested by the 
+University Secretary (see paragraph 55); 
+d. A record of any previous Early Intervention/Caution cases where action was taken; 
+e. The report/s from any previous Stage 1 instances of Non-academic Misconduct or Non- 
+academic Misconduct, where the case was upheld; 
+f. Any statements or evidence submitted by the Reported Student prior to the hearing, 
+including any mitigation they wish to submit, for example evidence of illness or 
+challenging personal circumstances. 
+ 
+59. Any evidence which the Reported Student wishes to be considered by a Senate Discipline 
+Committee must be submitted to the Senate Office at least five working days before the 
+hearing. Guidance is available online
+ for students who are producing evidence for 
+consideration at any stage of this Procedure and should be used by Reported Students when 
+they are preparing a submission of evidence. 
+ 
+60. If the Reported Student wishes to admit the offence, with any mitigating circumstances, this may 
+be done in writing before the date of the hearing. The Reported Student shall still be entitled to 
+appear before a Senate Discipline Committee and should confirm in writing, at least five working 
+days ahead of the hearing, whether they will attend. 
+ 
+61. Each Reported Student must inform the Senate Office, at least five working days before the 
+hearing, of the names of any Supporter and Representative, and their relationship to them, (see 
+paragraph 43 above for more information on these roles), who will accompany the Reported 
+Student to the hearing. The Reported Student will be entitled to receive from the Senate Office 
+a note of the names of any Professional Advisors and/or witnesses who will be appearing on 
+behalf of the University. The Reported Student will have the right to suggest other witnesses 
+that can be contacted for a written statement or to attend the hearing. If the Reported Student 
+fails to provide the details of their Representative within the stated timelines, the Convener of 
+the Senate Discipline Committee may decide not to allow the Representative to attend the 
+hearing. 
+ 
+62. If a Reported Student fails to attend a Senate Discipline Committee, the hearing will proceed in 
+their absence. 
+ 
+63. A Senate Discipline Committee may, if it is deemed necessary, adjourn a hearing for a period of 
+time. This will only occur in: 
+ 
+a. Exceptional cases where a Senate Discipline Committee cannot reach a decision and is
+
+--- PAGE 14 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+13 
+ 
+ 
+therefore required to refer the case back to the University Secretary; or 
+b. Cases where a Student Discipline Committee refers a student to a Fitness to Practise 
+panel or to student support services for wellbeing or health support; or 
+c. The Convener is advised by the University Secretary that criminal proceedings have 
+been brought to the University’s attention. 
+ 
+64. If a Senate Discipline Committee does not find reasonable cause for the alleged Non-academic 
+Misconduct, the case will be dismissed. The Senate Office will keep a record of the case for the 
+duration of the student’s registration, for reporting purposes. 
+ 
+65. In cases where a Senate Discipline Committee upholds the allegation of Non-academic 
+Misconduct, it is empowered to impose one or more of the following sanctions or penalties: 
+ 
+a. Any of the penalties set out in paragraphs 32 and 47 above, for Early Intervention or 
+Stage 1, respectively; 
+b. Reported Student required to pay a fine, (in addition to any requirement to make good, 
+in whole or part, any damaged caused), not exceeding an amount determined by 
+Senate, (last set in Session 2021/22 at £500). Any fines imposed by this Procedure will 
+be allocated to central funds to support students encountering hardship; 
+c. Reported Student required to repay monies obtained fraudulently from the University; 
+d. Reported Student suspended from attendance at the University for a stipulated period; 
+e. Reported Student is suspended from access to named University Services or facilities 
+for a stipulated period; 
+f. Reported Student is permanently excluded from access to named University Services or 
+facilities; 
+g. Reported Student’s degree classification will be capped; 
+h. Reported Student is awarded an exit award rather than the degree for which they 
+registered; 
+i. An award or credits for which the Reported Student could be eligible is withheld 
+permanently or for a specified period of time; 
+j. An award previously granted by the University of Strathclyde is revoked, either 
+permanently or for a specified period of time, under Statute 3.6.3; 
+k. Reported Student is suspended from the University for a specified period of time; 
+l. Reported Student is permanently excluded from the University of Strathclyde without 
+credits or awards gained; 
+m. Reported Student is permanently excluded from the University of Strathclyde with credits 
+or awards gained; 
+n. Such other penalties as may be proportionate to the offence committed by the Reported 
+Student and considered appropriate by a Senate Discipline Committee.
+1 
+ 
+66. Any of the above penalties may be suspended for a period of time for the following reasons: 
+ 
+a. The Reported Student is appealing the decision of a Senate Discipline Committee; 
+b. A Senate Discipline Committee has specified conditions, in agreement with the 
+University Secretary (or nominee), for example, that the University awaits a student’s 
+ 
+ 
+1 Under Constitutional Regulation 1.5.5. Senate delegates its powers to a Senate Discipline Committee, which is empowered to use its 
+judgement to consider individual discipline cases in accordance with the provision of Regulations for Student Discipline and determine 
+proportionate penalties. These may include a hybrid of the penalties listed in paragraph 84, including variations on these penalties, or 
+other penalties not listed above or anywhere else within this Procedure. Senate empowers a Senate Discipline Committee to exercise its 
+judgement in such cases.
+
+--- PAGE 15 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+14 
+ 
+ 
+ 
+participation in a Fitness to Practise panel, the outcomes of which might affect the 
+penalty applied. 
+ 
+67. The University Secretary (or nominee) will write to the Reported Student to confirm the outcome 
+of the case and the implementation of any penalties. 
+ 
+68. The Senate Office will inform the Reporting Person, who made the allegation, of the outcome 
+only and will not normally disclose penalties unless these are directly linked to the Reporting 
+Person. 
+ 
+RIGHT TO APPEAL 
+69. Following a Reported Student’s receipt of confirmation that a Non-academic Misconduct case 
+has been upheld and details of any penalty being applied, either from the Misconduct Officer 
+(for Stage 1) or a Senate Discipline Committee (for Stage 2), the Reported Student may decide 
+to appeal the decision. 
+ 
+70. A decision made by a Misconduct Officer to refer a case to the University Secretary for 
+consideration under Stage 2 of the Procedure does not constitute a penalty, and at this stage a 
+Reported Student is unable to appeal. If the University Secretary considers that a case should 
+not progress to a Senate Discipline Committee hearing the case will be returned to the relevant 
+Department for disposal under Stage 1 of the Procedure and the application of an appropriate 
+penalty. At this stage the Misconduct Officer will write to the Reported Student to inform them of 
+the outcome of the Stage 1 disciplinary process and their right to appeal. 
+ 
+71. As stated in paragraph 35, if a Reported Student does not accept recommendations put in place 
+as part of Early Intervention/Caution, their case will automatically progress to Stage 1. 
+ 
+72. A Reported Student wishing to submit an appeal against the outcome of a Stage 1 case must do 
+so within 10 working days of receipt of written confirmation of the outcome of the case from the 
+Misconduct Officer. 
+ 
+73. A Reported Student wishing to submit an appeal against an outcome of a Stage 2 case must 
+submit this within 10 working days of receipt of written confirmation from the University 
+Secretary of the outcome of the case from a Senate Discipline Committee. 
+ 
+74. A Reported Student has the right to submit an appeal on one or more of the following criteria 
+against a decision made, or the penalty imposed, in both Stage 1 and Stage 2 cases: 
+ 
+a. New material evidence is available, which was not available on reasonable enquiry or 
+application at the time of consideration at Stage 1 or Stage 2; 
+b. A procedural irregularity occurred during the process; 
+c. Bias or prejudice against the Reported Student was demonstrated by the Misconduct 
+Officer and/or a Senate Discipline Committee; 
+d. The penalty imposed is excessive or represents inappropriate punishment. 
+ 
+75. When submitting an appeal, the Reported Student will need to provide new evidence to 
+demonstrate sufficient grounds for appeal against the criteria listed in paragraph 74. This may 
+take the form of email correspondence, the notes of a Senate Discipline Committee, outcome 
+letters or other documentary evidence. It is unlikely that an appeal will be heard if the relevant
+
+--- PAGE 16 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+15 
+ 
+ 
+and new evidence and/or a compelling commentary is not provided to demonstrate there are 
+sufficient grounds for appeal. 
+ 
+Appeals  Against  Stage 1 Outcomes 
+76. Appeals against Stage 1 outcomes will be submitted to the Executive Dean of the Faculty (or 
+nominee). The Reported Student must complete the Discipline Procedure Appeals Form and 
+clearly set out the above criteria for appeal, confirming which of the above categories in 
+paragraph 74 form the basis of the appeal. Any supporting evidence must be submitted to the 
+Executive Dean of Faculty, along with the Discipline Procedure Appeals Form. 
+ 
+77. The Executive Dean (or nominee) will consider whether there are sufficient grounds to hear the 
+appeal. If the appeal is determined to be admissible, the Executive Dean (or nominee) will 
+recommend to the University Secretary that the case progresses to a Senate Discipline 
+Committee under Stage 2 of this Procedure. 
+ 
+78. If the University Secretary decides that the case should be considered by a Senate Discipline 
+Committee, Stage 2 will be instigated (see paragraphs 52 to 68 above). In such cases, the 
+University Secretary will write to the student after the Executive Dean has confirmed the 
+outcome of the appeal. 
+ 
+79. If the Executive Dean (or nominee) determines that there are insufficient grounds for appeal 
+against a Stage 1 outcome, the case will be dismissed and there is no further right of appeal. In 
+such cases, the Executive Dean (or nominee) will confirm the outcome of the Stage 1 appeal to 
+the Reported Student within 30 working days of receipt. 
+ 
+Appeals  Against  Stage 2 Outcomes 
+80. Appeals against Stage 2 Senate Discipline Committee outcomes will be submitted to the Senate 
+Office, using the Discipline Procedure Appeals Form. The Reported Student must clearly set out 
+the criteria for appeal (see paragraph 74 above), and will need to provide new evidence to 
+demonstrate sufficient grounds for appeal against these criteria. It is unlikely that an appeal will 
+be heard if the relevant and new evidence and/or a compelling commentary is not provided to 
+demonstrate there are sufficient grounds for appeal. 
+ 
+81. Any evidence submitted to support an appeal must be submitted to the Senate Office along with 
+the Discipline Procedure Appeals Form. Guidance for students on producing evidence for 
+consideration at any stage of this Procedure is available online and should be utilised by 
+Reported Students when they are preparing an appeal submission. 
+ 
+82. The Senate Office will confirm receipt of the appeal to the Reported Student, usually within five 
+working days. 
+ 
+83. The Vice-Principal (or nominee) will convene a Panel to discuss the appeal, comprising 
+themselves, a Senate Discipline Appeals Board Convener and the Director of Education 
+Enhancement (or nominee). This Panel will reach a decision as to whether there are sufficient 
+grounds for the appeal to be heard by a Senate Discipline Appeals Board. A Professional 
+Advisor of the University may also be in attendance to provide advice and guidance. 
+ 
+84. If the Panel decide that there are insufficient grounds for appeal, the Vice Principal (or nominee) 
+will write to the Reported Student, within 30 working days of receipt of the appeal, to inform 
+them of this decision. This letter will reconfirm the original outcomes and any penalties assigned
+
+--- PAGE 17 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+16 
+ 
+ 
+at Stage 2. There is no further right of appeal. 
+ 
+85. If the Panel determines there are sufficient grounds for appeal, the Vice-Principal will refer the 
+case to a Senate Discipline Appeals Board. The Vice-Principal (or nominee) will write to the 
+student, within 30 working days of receipt of the appeal, to inform the student that a Senate 
+Discipline Appeals Board will hear their appeal. 
+ 
+86. A Senate Discipline Appeals Board will not comprise Senators who were on the original Senate 
+Discipline Committee. The Convener will ask Senators forming the Senate Discipline Board to 
+declare any perceived or actual conflicts of interest ahead of each meeting and the membership 
+of the Board may be amended as appropriate. 
+ 
+87. If a Stage 2 Senate Discipline Committee has previously imposed a penalty of partial or full 
+suspension or expulsion, the student will not normally be permitted to attend the University 
+during the period when the appeal case is being investigated and heard. The Reported Student 
+may apply to the Vice-Principal for permission to attend the University if it would be 
+unreasonable to prevent attendance. Reasons for such an application for permission may 
+include, but are not limited to: 
+ 
+a. Undertaking a formal on campus assessment for their programme of study; 
+b. A change in circumstances since the Stage 2 Senate Discipline Committee; 
+c. A delay in the appeal hearing not linked to further investigation of a case; 
+d. The timing of an appeal, for example if the timing of a Senate Discipline Appeals Board 
+means that a Reported Student successfully appealing the original penalty would be 
+prevented from returning to study immediately. 
+ 
+88. Applications for a Reported Student to attend the University in the circumstances outlined in 
+paragraph 83 above, must be submitted to the Senate Office in writing. On review of a 
+recommendation from the Vice-Principal (or nominee), the Principal (or nominee) may refuse or 
+grant permission to attend the University and may, if granting permission to attend, limit 
+attendance to specific locations and/or times. 
+ 
+89. A Senate Discipline Appeals Board hearing will follow the same format as that outlined for a 
+Senate Discipline Committee hearing in paragraphs 56 to 68. 
+ 
+90. A Senate Discipline Appeals Board may, if it is deemed necessary, adjourn a hearing for a 
+period of time. This will only occur in: 
+ 
+a. Exceptional cases where a Senate Discipline Appeals Board cannot reach a decision 
+and is therefore required to refer the case back to the Vice Principal, who may decide to 
+refer the case back to the University Secretary with a recommendation that further 
+investigations are undertaken; or 
+b. Cases where a Senate Discipline Appeals Board refers a student to a Fitness to Practise 
+panel or to student support services for wellbeing or health support; or 
+c. The Convener is advised by the University Secretary that criminal proceedings have 
+been brought to the University’s attention. 
+ 
+91. If the Reported Student’s appeal is upheld, the Reported Student will receive written 
+confirmation from the Vice Principal (or nominee) that all penalties are either withdrawn, (if Non- 
+academic Misconduct is determined not to have occurred), or reduced. Any reduced penalties 
+will be in line with those outlined under paragraph 65 of this Procedure.
+
+--- PAGE 18 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+17 
+ 
+ 
+ 
+92. If a Senate Discipline Appeals Board dismisses the appeal, the Vice-Principal (or nominee) will 
+confirm to the Reported Student, in writing, that the original outcome and penalties from Stage 2 
+stand. 
+ 
+93. The Reported Student will normally be formally informed of the outcome of the hearing within 
+five working days of the hearing. 
+ 
+94. Students can contact the Scottish Public Services Ombudsman for advice, should they wish to 
+make a complaint to the Ombudsman regarding a Non-academic Misconduct case and 
+outcome, in line with sections 3 and 4 of the Complaints Handling Procedure. 
+ 
+95. Senate receives regular reports of cases heard by Senate Discipline Committees and Senate 
+Discipline Appeals Boards. These are anonymised in nature and noted under the Reserved 
+Agenda of Senate.
+
+--- PAGE 19 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+18 
+ 
+ 
+ 
+ANNEX 1 - ROLES 
+Roles and Responsibilities relating to Student Discipline 
+ 
+Principal Under Statue 5.2 the Principal is responsible for maintaining and 
+promoting the efficiency and good order of the University. 
+ 
+The Principal chairs the University Senate. 
+ 
+Under Ordinance 1.3.1 the Principal may refuse to admit any person 
+as a member or student of the University, and may suspend any 
+student from any class or classes, and may exclude any member or 
+student or other individual(s) from any part of the University or its 
+precincts for reasons including but not limited to unreasonable, amoral 
+or illegal conduct. 
+Vice-Principal During the absence of the Principal the Vice-Principal undertakes the 
+duties of the Principal. 
+ 
+The Vice-Principal has a specific decision-making role under the 
+Student Discipline Procedures. 
+University Secretary The responsibilities of the University Secretary include the provision of 
+support services for Senate, and, through the Senate Office, for 
+overseeing University-level discipline cases, and, through the 
+Directorate of Strategy & Policy, for overseeing University-level 
+complaints handling. 
+ 
+The University Secretary has a specific decision-making role under 
+the Student Discipline Procedures. 
+Associate Principal & 
+Executive Deans 
+Associate Principal & Executive Deans may be invited by the Vice- 
+Principal to convene Senate Discipline Appeals Board. 
+Deputy Associate 
+Principals 
+Deputy Associate Principals may be invited by the University 
+Secretary to convene Senate Discipline Committees or by the Vice- 
+Principal to convene Senate Discipline Appeals Boards. 
+Misconduct Officer (An 
+academic or 
+professional services 
+member of staff) 
+Appointed by the Head of Department/School, or Director or Head of 
+Service, to consider allegations of Non-academic Misconduct. 
+ 
+Under the Student Discipline Procedures, the Misconduct Officer is 
+empowered to impose penalties on behalf of Senate following a Stage 
+1 investigation, or to recommend to the University Secretary that a 
+case is heard by a Senate Discipline Committee. 
+Professional Advisor A Professional Advisor, to include where appropriate internal or 
+external legal counsel, who is invited to attend a Senate Discipline 
+Committee or a Senate Discipline Appeals Board hearing to provide 
+professional advice. 
+Representative Person chosen by the Reported Student to offer advice or to represent 
+them in interviews with Misconduct Officers, and/or at Senate 
+Discipline Committee/Senate Discipline Appeals Board hearings. 
+Subject to prior consent of the Convener, more than one 
+Representative may accompany the student to a Senate Discipline
+
+--- PAGE 20 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+19 
+ 
+ 
+ 
+ Committee or Senate Discipline Appeals Board. See paragraph 42 for 
+further details. 
+Senate Discipline 
+Appeals Board 
+A Sub-Committee of Senate established to consider student appeals 
+against decisions of the Senate Discipline Committee regarding 
+disciplinary offences (constitutional regulation 1.5.6). Membership 
+comprises both Staff Senators and Student Senators. The Senate 
+Discipline Appeals Board is empowered to ratify or rescind penalties 
+assigned at Stage 2 by the Senate Discipline Committee. 
+Senate Discipline 
+Appeals Board 
+Convener 
+An Associate Principal or Deputy Associate Principal invited by the 
+Vice-Principal to convene a Senate Discipline Appeals Board. 
+Senate Discipline 
+Committee 
+A Sub-Committee of Senate that convenes to hear and decide on the 
+outcome of individual disciplinary cases in accordance with the 
+provisions of the Regulations for Student Discipline (
+constitutional 
+regulations 1.5.4 & 1.5.5). S enate Discipline Committees may also 
+make recommendations on policy to Senate. Membership comprises 
+Staff Senators and Student Senators. 
+Senate Discipline 
+Committee Convener 
+A Deputy Associate Principal invited by the University Secretary to 
+convene a Senate Discipline Committee 
+Senator Members of Senate who are appointed to hear Stage 2 cases at 
+Senate Discipline Committees and to hear appeals at Senate 
+Discipline Appeals Boards. Members collectively make decisions on 
+the outcome of Stage 2 and on appeal cases on behalf of Senate. 
+Senate Office Professional Services Office in the Directorate of Education 
+Enhancement that provides expert advice and administrative support 
+for the Student Discipline Procedures, and additionally supports the 
+University Senate, the Principal and the Vice-Principal. 
+Supporter Person chosen by the Reported Student to accompany them to 
+interviews with Misconduct Officers; and/or to Senate Discipline 
+Committee/Senate Discipline Appeals Board hearings. The Supporter 
+has no formal role in the Procedure beyond support for the Reported 
+Student accused of Non-academic Misconduct. See paragraph 
+42 for 
+further details.
+
+--- PAGE 21 ---
+
+Student Discipline Procedure: Non-Academic Misconduct 
+20 
+ 
+ 
+ 
+ANNEX 2 – DEFINITIONS 
+Terms used within this Procedure 
+ 
+Term Meaning 
+Academic Misconduct Any action or attempted action that may result in creating 
+an unfair academic advantage for a student, or an unfair 
+academic advantage or disadvantage for any other 
+student member/s of the academic community and as 
+further defined in the University’s Student Discipline 
+Procedure for Non-academic Misconduct. 
+Department Academic department/school, faculty, directorate or 
+service within a directorate. 
+Host Institution The university or organisation at which a Reported 
+Student is primarily registered, for example for example a 
+home university for a student on exchange. 
+Non-academic Misconduct Violation of the University’s Regulations though behaviour 
+which is not defined as Academic Misconduct (see 
+paragraph 25 above). 
+Regulation(s) Charter, statutes, ordinances, constitutional regulations, 
+academic regulations, policies, procedures, codes of 
+practice, codes of conduct, guidance documents and any 
+other University documents which include within them 
+details of the regulation of Non-academic Misconduct 
+behaviours of students of the University. 
+Reporting Person A student, staff member, StrathUnion representative, 
+recognised University visitor (such as an external 
+examiner), external professional body representative or a 
+member of the public. 
+Reported Student Student against whom an allegation of Non-academic 
+Misconduct has been made. 
+StrathUnion The trading name of the University of Strathclyde’s 
+Students’ Association.

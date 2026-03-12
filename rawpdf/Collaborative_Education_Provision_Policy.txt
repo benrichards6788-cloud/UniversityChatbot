@@ -1,0 +1,1403 @@
+--- PAGE 1 ---
+
+1 
+ 
+     
+ 
+POLICY AND CODE OF 
+PRACTICE ON 
+COLLABORATIVE 
+EDUCATION PROVISION 
+Version No. Description Author Approval Effective Date 
+1.2 Policy and Code of Practice 
+on Collaborative Education 
+Provision 
+Education 
+Enhancement 
+Senate 
+November 2015 
+November 2015 
+1.3 Minor revisions for currency; 
+updates to clauses 23 
+(Library Archives); 25-28 
+(MoUs); addition of reference 
+to TNE (Annex 1); removal of 
+references to Twinning 
+Agreements. 
+Education 
+Enhancement 
+Senate  
+March 2025 
+April 2025 
+ 
+ Version 1.3 
+ 
+ 
+the place of useful learning  
+The University of Strathclyde is a charitable body, registered in Scotland, number 
+SC015263
+
+--- PAGE 2 ---
+
+2 
+ 
+CONTENTS 
+INTRODUCTION .............................................................................................................. 3 
+PRINCIPLES UNDERPINNING THE UNIVERSITY’S COLLABORATIVE PROVISION .......... 3 
+APPROVAL OF COLLABORATIVE ACTIVITIES ............................................................... 5 
+PROCEDURES FOR ESTABLISHING A COLLABORATIVE ACTIVITY .............................. 5 
+Collaborative Provision SharePoint Site ........................................................................... 5 
+Signing of Collaborative Agreements ................................................................................ 6 
+Memorandum of Understanding (MoU) .............................................................................. 6 
+Draft Collaborative Agreement ........................................................................................... 7 
+Liaison with Professional, Statutory and Regulatory Bodies (PSRBs) ........................... 8 
+Financial Arrangements ...................................................................................................... 8 
+Collaborative Agreements .................................................................................................. 8 
+Collaborative Agreements Database ............................................................................... 10 
+RESPONSIBILITY FOR, AND EQUIVALENCE OF, ACADEMIC STANDARDS .................. 10 
+ASSURING ACADEMIC STANDARDS AND THE QUALITY OF PROGRAMMES AND 
+AWARDS ...................................................................................................................... 12 
+Duration, Modification and Review of Agreements ......................................................... 12 
+Termination of Agreements ..............................................................................................  12 
+Policy on Serial Agreements ............................................................................................  13 
+Assessment Requirements ............................................................................................... 13 
+External Examining ........................................................................................................... 13 
+Certificates and Transcripts ............................................................................................. 13 
+Information for Students ................................................................................................... 14 
+Publicity and Marketing .................................................................................................... 14 
+Shared Module Arrangements ..........................................................................................  14 
+External Research Students ............................................................................................. 15 
+Joint Supervision Arrangements ..................................................................................... 15 
+International Student Exchanges ..................................................................................... 16 
+Dual Degree Awards.......................................................................................................... 17 
+ANNEX 1 – POLICY FOR THE AWARDING OF DUAL DEGREES .................................... 18 
+ANNEX 2 – WORKFLOW OF COLLABORATIVE AGREEMENT PROCESS ...................... 21 
+ANNEX 3 – COLLABORATIVE AGREEMENT SIGNATURES ........................................... 23 
+ANNEX 4 - GLOSSARY OF TERMS ................................................................................ 24
+
+--- PAGE 3 ---
+
+3 
+ 
+INTRODUCTION 
+1. The Charter of the University permits it to co-operate with other university authorities 
+for ‘the conduct of examinations and for such other purposes as the University may 
+from time to time determine’. In addition, it permits students to undertake 
+programmes of study, examinations and periods of study at other universities or 
+places of learning. These permissions have enabled the development of collaborative 
+arrangements with appropriate institutions and agencies in the UK and overseas 
+where these support the University’s strategic objectives and where there is clear 
+educational benefit to the students and the partners concerned.  
+ 
+2. In particular, the University’s links with overseas institutions and overseas students 
+enrich the cultural life of staff and students, stimulate teaching and research and 
+enhance the international standing of the University. 
+ 
+3. The policy and procedures outlined here align with UK Quality Code for Higher 
+Education, Advice and Guidance on Partnerships.  
+ 
+PRINCIPLES UNDERPINNING THE UNIVERSITY’S COLLABORATIVE 
+PROVISION 
+4. The following principles will be applied to all new collaborative provision: 
+a. Full account must be taken of the Policy and Procedures outlined in this Code of 
+Practice prior to establishing a collaborative agreement. 
+b. Collaborations with institutions in the European Higher Education Area must 
+have regard to Part 1 of the 
+Standards and Guidelines for Quality Assurance in 
+the European Higher Education Area (2015).   
+c. The rationale for all collaborative provision must align with the University’s 
+strategy. 
+d. Proposals for collaborative education should only be considered in areas which 
+are compatible with the Faculty’s academic profile and expertise. 
+e. The Faculty must be able to demonstrate how proposals for collaborative 
+education align with its strategic and academic plans. 
+f. The Faculty must be able to demonstrate how proposed new developments 
+complement rather than compete with existing collaborative and other provision. 
+g. Any collaboration leading to awards (including joint, dual or double awards
+) of 
+the University must be academically sound, developed and maintained through 
+rigorous quality assurance and enhancement processes. 
+h. Any collaborative activity must be sustainable and financially sound. 
+i. Risks associated with any collaborative activity must be identified and mitigated 
+wherever possible. 
+j. The University expects that any institution named in a proposal for collaborative 
+activity should:  
+i.   be an established educational provider with the legal capacity to enter into 
+such an arrangement and, where relevant, award degrees; 
+ii. have a mission and ethos which aligns with the University’s vision and 
+strategic aims; 
+iii. have appropriately qualified staff (academic, administrative, technical); 
+iv. have clear academic structures;
+
+--- PAGE 4 ---
+
+4 
+ 
+v. have an appropriate physical infrastructure;  
+vi. operate on a sound financial basis. 
+ 
+5. The University expects due diligence to have taken place with regards to the 
+proposed collaborative partner’s infrastructure and facilities. This should be 
+recorded in the Collaborative Provision Checklist and the Collaborative 
+Education Provision Form (CPA Subgroup agreement coversheet). 
+ 
+6. Except where the collaboration relates to the teaching and assessment of a language 
+other than English, the University normally requires the language of instruction and 
+assessment to be English. If there are sound academic reasons why this is not 
+possible, the approval of Senate must be sought for the language of instruction and 
+assessment to be a language other than English. Where the language of instruction 
+and assessment is not English, arrangements must be put in place for the translation, 
+by an independent translator, of a sample of programme materials and examination 
+scripts so that these can be appropriately reviewed and monitored by the University 
+and the External Examiners. 
+ 
+7. The University requires dissertations to be written in English. Exceptionally, the 
+relevant Board of Study may permit submission in a language other than 
+English, in which case a translation of the abstract into English must 
+accompany the thesis (Academic Regulations
+). 
+ 
+8. The University may: 
+a. collaborate to offer joint taught programmes leading to an award of the 
+University of Strathclyde;  
+b. collaborate to offer joint taught programmes leading to an award of the partner 
+institution(s); 
+c. collaborate to offer master’s-level dual degrees jointly taught and leading to 
+individual degree awards of both the University and the partner institution; 
+collaborate to offer joint degrees leading to a single qualification awarded jointly 
+by both, or all, institutions;  
+collaborate to offer double degrees jointly developed to deliver a single 
+programme leading to separate qualifications being granted by both, or all, of 
+them; 
+d. validate taught programmes that complement the University’s portfolio and are 
+of an appropriate standard; 
+e. enter into appropriate articulation arrangements to facilitate student entry to 
+specific degree programmes at the University, usually with advanced standing; 
+f. collaborate to jointly supervise a student on a research programme; 
+g. collaborate in international student exchanges and study abroad agreements;  
+h. enter into contract with institutions and agencies to supply administrative and/or 
+academic services to support the University’s off-campus programmes. Such 
+contracts may include the use of properly supervised local tutors or counsellors 
+to support delivery;  
+i. collaborate on research activities or enable staff exchanges. 
+ 
+Note: all of the above are defined more fully in Annex 4: Glossary of Terms.
+  
+ 
+9. The University records all collaborative provision on the Collaborative Agreements 
+Database.
+
+--- PAGE 5 ---
+
+5 
+ 
+10. The University does not enter into franchising arrangements. 
+ 
+APPROVAL OF COLLABORATIVE ACTIVITIES 
+11. Senate has oversight and formal responsibility for the approval of all collaborative 
+agreements, with the exception of faculty-specific student exchange agreements. 
+This Policy and Code of Practice outlines the process and expectations for draft 
+agreements; Senate expects faculties to satisfy themselves that these conditions are 
+met prior to recommendation for final approval by Senate (following an earlier review 
+by Senate Business Committee’s Collaborative Provision Agreement Subgroup). 
+ 
+12. The Collaborative Provision Agreement Subgroup reviews and assesses new 
+collaborative agreements leading to an award or joint award of the University, with the 
+exceptions outlined above. The Subgroup will report to Senate Business Committee 
+and will undertake due diligence of draft agreements to ensure: 
+a. strategic alignment with institutional aims and objectives;  
+b. p artnerships support the delivery of an outstanding teaching and student 
+experience; 
+c. a dherence to this policy and code of practice as well as the UK Quality Code for 
+Higher Education. 
+ 
+13. The Subgroup aims to provide a cohesive approach to the initiation, approval and 
+ongoing monitoring of collaborative provision, integrating strategic and operational 
+activity across all faculties and professional services including special fee 
+arrangements. 
+ 
+PROCEDURES FOR ESTABLISHING A COLLABORATIVE ACTIVITY 
+Collaborative Provision SharePoint Site  
+14. All collaborative arrangements should be developed, agreed and managed in 
+accordance with this Policy and Code of Practice.  
+ 
+15. The SharePoint site contains useful information and links for international activity 
+including collaborations in research, education and knowledge exchange. The site 
+provides outline guidance on drawing up collaborative agreements, whether national 
+or international. 
+ 
+16. A flow chart is provided on the SharePoint site for each type of educational 
+collaboration showing the different stages which must be followed in the development 
+of collaborative education. The site also provides links to the Collaborative Provision 
+Checklist which must be completed for all new collaborative partnerships,  
+collaborative agreement templates and further guidance. For further details regarding 
+the maintenance of the Collaborative Agreements Database please refer to  clauses 
+47-50. 
+ 
+17. Annex 3 identifies the appropriate signatory for each type of collaborative 
+agreement.  
+ 
+18. Any member of staff who is approached by an institution(s) wishing to undertake 
+collaborative activity with the University (be that at departmental, faculty or University 
+level) must first discuss this with their Head of Department, the Executive Dean and 
+the Head of International Development and Recruitment (or equivalent) to ensure the 
+proposal will align with the faculty strategy and that the proposed partner is
+
+--- PAGE 6 ---
+
+6 
+ 
+appropriate. Consultation must be undertaken with the faculty representative member 
+of CPA Subgroup before proceeding further with negotiating an agreement. 
+ 
+19. The University’s Collaborative Agreements Database must be consulted by the 
+initiating department to establish whether the proposed partner is new to the 
+University or whether a collaborative agreement already exists. An Outline Case for 
+the Proposed Collaboration should be completed to assist with the preliminary 
+consideration of a proposed new partner and a checklist is also available for guidance 
+on what aspects should be considered. The strategic, academic and business case 
+justification for collaboration should be established and information provided (other 
+than in the case of existing collaborative partners) on the legal status of the proposed 
+partner, its operating environment, financial viability, mission and values, 
+management and organisational structure, academic provision, overall staffing and 
+staffing available to the collaborative activity. 
+ 
+20. All arrangements for collaborative activity must be detailed in a Senate-approved 
+collaborative agreement. A memorandum of understanding will not suffice as this is 
+simply a statement of intent to explore possible forms of collaboration.  
+Signing of Collaborative Agreements 
+21. A collaborative agreement or memorandum of understanding should not be signed 
+by the member of academic staff negotiating it. All collaborative agreements must 
+follow the procedures within this policy and be reviewed by the Collaborative 
+Provision Agreement Subgroup, approved by Senate and signed by the Principal. 
+This workflow is detailed in Annex 2
+.  
+ 
+22. The only exceptions to Clause 21 are: 
+a. Student Exchange Agreements where exchange opportunities are open only 
+to students from a particular department or faculty may be signed by the 
+Executive Dean of the relevant faculty (not the Head of Department). Student 
+Exchange agreements do not require Senate approval unless they are 
+University-wide agreements.  
+b. Articulation Agreements where progression is determined by faculties based 
+on qualifications, standard programmes and standard fees should be signed by 
+the Executive Dean of the relevant faculty (not the Head of Department). 
+Articulation agreements where progression is automatic, the programme is not a 
+standard programme (e.g. 2+2 arrangements) and special fee arrangements 
+apply should be approved by Senate via the Collaborative Provision Agreement 
+Subgroup.  
+ 
+23. A signed copy of all formal collaborative agreements in respect of collaborative 
+provision, service support for off-campus learning, and external and jointly supervised 
+research students should be uploaded onto the Collaborative Agreements Database.  
+ 
+24. A copy of all institutional agreements in respect of international student exchanges 
+should be lodged with the Recruitment and International Office (RIO). All local 
+arrangements should be retained in the faculty office and a copy sent to RIO.  
+Memorandum of Understanding (MoU) 
+25. An MoU is not normally required by the University; however, this may be required by 
+the partner institution before a more detailed agreement is discussed. The desire to 
+discuss collaborative ventures may be recognised initially through a memorandum of 
+understanding along the lines set down in the MoU template. MoUs are the 
+responsibility of Faculties through the office of the Executive Dean, unless they 
+involve more than one Faculty, and therefore come under the Principal's Office. MoUs
+
+--- PAGE 7 ---
+
+7 
+ 
+must not be used in place of collaborative agreements and would not normally be 
+signed where no further agreement or collaboration was anticipated. 
+ 
+26. An MoU should be signed within the faculty by the Executive Dean (or nominee), or, 
+in the case of institution-wide agreements, by the Principal (or nominee) and details 
+should be entered in the Collaborative Agreements Database. An MoU cannot 
+commit the University to anything more specific than a willingness to discuss potential 
+collaborative activities, anything more specific requires a collaborative agreement 
+which must be approved by Senate via the Collaborative Provision Agreement 
+Subgroup and signed by the Principal or nominee. 
+ 
+27. MoUs should be noted at the CPA Subgroup by the appropriate faculty 
+representative, or by RIO if University wide, and reported to Senate through the 
+Faculty or CPA Report to Senate. Copies of the signed MoU should be kept in the 
+relevant Faculty Office or RIO and uploaded onto the University’s Collaborative 
+Agreements Database by the Faculty Office or RIO. 
+ 
+28. If any MoUs have obligations or commitments upon the University, then further advice 
+should be sought from the CPA Subgroup, through Education Enhancement, who 
+may in turn seek input from Legal Services or other areas of the University as 
+appropriate.  
+Draft Collaborative Agreement 
+29. If the responsible person within the faculty agrees that the proposed partner is 
+appropriate and that the proposed collaborative activity fits within faculty strategic and 
+academic plans and with their academic profile and expertise, then consideration can 
+be given to the preparation of a draft collaborative agreement. Assistance may be 
+sought from: the Faculty Office for wider faculty information and strategic ‘fit’; Legal 
+Services for advice on contractual terms and conditions, partnerships, international 
+issues and exchange; the Information Governance Unit for advice relating to data 
+sharing; Education Enhancement for quality assurance issues in completing an 
+agreement; and Senate Business Committee’s Collaborative Provision Agreement 
+Subgroup for Recognition of Prior Learning and special fees.  
+ 
+30. The University requires due diligence to have taken place with regards to the 
+proposed partner’s infrastructure and facilities and for this to be reported on. Where 
+students will be registered for a University of Strathclyde award, the University will 
+want to be assured that the collaborating body has the capability to provide, and 
+assure the quality of, an appropriate student learning experience. In these cases, 
+information should be provided to demonstrate a relevant track record and 
+experience, appropriate internal procedures (preferably endorsed by external quality 
+assurance review) and adequate facilities for learning support. 
+ 
+31. In all cases, Senate expects faculties to satisfy themselves that: 
+a. each partner institution has the legal capacity to enter into the proposed 
+collaborative arrangements and award joint degrees if appropriate (i.e. single 
+parchment in name of all partner institutions); 
+b. each partner institution is adequately resourced and is currently operating on a 
+sound financial basis; 
+c. each institution’s mission and strategic aims (including the learning and teaching 
+strategy) align with those of the University of Strathclyde; 
+d. each partner institution complies with the relevant national quality assurance 
+regime;
+
+--- PAGE 8 ---
+
+8 
+ 
+e. due diligence has been carried out with regards to each partner institution’s 
+infrastructure and facilities; 
+f. the standard of each programme is appropriate to the award;  
+g. there are appropriate internal structures to assure standards and quality in the 
+HE provision; 
+h. staff in the area of collaboration are appropriately qualified;  
+i. the administrative structures underpinning effective admission, delivery, 
+assessment and maintenance of student data are appropriate and robust; 
+j. the quality of the student learning experience is comparable to that within the 
+University itself; 
+k. there are adequate resources to facilitate student learning in an HE 
+environment;  
+l. each partner institution offers a safe work and study environment;  
+m. each partner institution complies with local Health and Safety standards;  
+n. each institution operates an environment of equal opportunity for all students 
+and staff, including appropriate provision for those with disabilities.  
+ 
+32. The checklist on the Collaborative Provision SharePoint site
+ provides further detailed 
+guidance that should be considered at this stage.  
+ 
+33. Discussions with the proposed partner can only proceed once information on 
+the legal and financial standing and educational vision of the proposed partner 
+has been assessed and agreed to be appropriate by the responsible person 
+within the faculty (Executive Dean/Head of International Development and 
+Recruitment or equivalent). 
+Liaison with Professional, Statutory and Regulatory Bodies (PSRBs) 
+34. Departments and faculties should inform any professional, statutory or regulatory 
+body which has approved, recognised or accredited a programme of any possible or 
+actual collaborative arrangements that have a direct impact on accreditation and 
+should ensure that the status of the programme in respect of PSRB accreditation is 
+made clear to prospective students.  
+Financial Arrangements 
+35. Collaborative education must be fully costed and accurately accounted for and should 
+be of clear benefit to the University. A business case should be prepared including a 
+risk matrix. Adequate safeguards should be in place against financial or other risks 
+which might compromise academic standards or the quality of learning opportunities. 
+Validation fees for the new session need to be set timeously and these fees must be 
+communicated to the partner institution, following the approval of the Fee Strategy 
+Group. 
+ 
+36. Any collaborative agreements with special fee arrangements must be reviewed by the 
+Chief Financial Officer and the Collaborative Provision Agreement Subgroup, prior to 
+approval by the Principal through Senate.  
+Collaborative Agreements 
+37. All collaborative programmes that lead to awards (including 
+joint, dual or double 
+awards) o f the University must  be governed by a formal written collaborative 
+agreement approved by Senate and signed by the Principal (or nominee) and the 
+responsible person in the collaborating agency or institution.
+
+--- PAGE 9 ---
+
+9 
+ 
+ 
+38. Where the University of Strathclyde is the administering institution, the Faculty Office 
+and academic leader for the programme should draw up a draft agreement based on 
+one or more of the standard University templates that are available on the SharePoint 
+site. A ll such agreements must be made subject to the University’s Standard Terms 
+and Conditions for collaborative provision. 
+ 
+39. Before a collaborative agreement can be signed, it must have been approved by the 
+relevant Faculty Board of Study and by Senate Business Committee’s Collaborative 
+Provision Agreement Subgroup. The faculty will require to complete the following 
+paperwork as the basis for the recommendation of a collaborative agreement to, and 
+final approval by, Senate: 
+a. a detailed Programme Proposal, as for other University programmes;  
+b. draft Programme Regulations, as for other University programmes (which should 
+state the name of the collaborating body and indicate which parts of the 
+programme will be delivered by the collaborating body); 
+c. a draft agreement. 
+ 
+40. It is the responsibility of the leading department/faculty to ensure that detailed 
+programme proposals and regulations are prepared and submitted to the relevant 
+faculty committees and the Regulations Subgroup of QAC, (regulations-
+amendments@strath.ac.uk), i n accordance with the guidance for p rogramme and 
+module approval. New modules must be set up in time for delivery in the new 
+session.  
+ 
+41. Appropriate consultation should take place with the partner(s) in parallel with 
+Strathclyde’s internal approval process. Senate approval is subject to any necessary 
+minor changes that may be agreed subsequently with the partner, the Faculty Office 
+and, where appropriate, the Senior Officer with responsibility for Learning and 
+Teaching (Vice Principal or nominee).  
+ 
+42. The leading academic and the Faculty Office are responsible for finalising the 
+proposed agreement and ensuring that the final agreement is signed, and that the 
+details are entered on the Collaborative Agreements Database.  
+ 
+43. The head(s) of the relevant department(s) is responsible for ensuring that the 
+collaboration proceeds in accordance with the agreement. 
+ 
+44. The Faculty Office is responsible for ensuring that the agreement is reviewed at the 
+appropriate time. This would normally occur every three years, and six months prior 
+to expiry as detailed in the Collaborative Education Provision Review Template, 
+available from the Collaborative Provision SharePoint site.  
+ 
+45. Where Strathclyde is not the administering institution, the University would expect to 
+sign a comparable agreement prepared by the administering institution and approved 
+by Senate.  
+ 
+46. The review of Collaborative Education Provision should take place every three years 
+(following the completion of three full academic cycles of each agreement). If the 
+outcome of the first or any subsequent review indicates cause for concern, if there 
+are significant changes to the collaborative relationship, issues that require to be 
+addressed at operational level, or a request for review from the collaborative partner, 
+a shorter interval may be recommended between reviews. Each review will be 
+considered at a joint meeting of QAC and CPA Subgroup in June/July each year.
+
+--- PAGE 10 ---
+
+10 
+ 
+Collaborative Agreements Database 
+47. The Collaborative Agreements Database should be updated regularly by each 
+Faculty Office in respect of agreements generated within the faculty. The data will be 
+made available to the Quality Assurance Committee at the time of the discussion of 
+the Annual Faculty Reports.  
+ 
+48. Responsibilities are as follows: 
+a. Each Faculty Office is responsible for updating the Collaborative Agreements 
+Database with relevant information on collaborative activities. 
+b. Education Enhancement has a quality assurance and monitoring role and 
+provides advice on adherence to the Collaborative Education Provision policy. 
+c. The Recruitment and International Office is responsible for coordinating and 
+managing international student exchange activity and study abroad agreements; 
+the record of student exchange activity will be maintained through the Mobility 
+Online system rather that the Collaborative Agreements Database. 
+ 
+49. The Collaborative Agreements Database identifies, as relevant, for each agreement: 
+ 
+• title of agreement 
+• location of partner institution (country) 
+• type of agreement 
+• name of partner institution 
+• dates of duration of agreement (valid from and to) 
+• the responsible faculty(ies) 
+• the responsible department(s) 
+• name of the University of Strathclyde contact 
+• date of signature of memorandum of understanding (if appropriate) 
+• date of Senate approval 
+• date of signature 
+• date of next faculty review (if applicable) 
+• date of last QAC review (if applicable) 
+• date of next QAC review  
+• date of termination of agreement (if applicable) 
+ 
+50. New agreements should be added once they have been approved. The dates of 
+Senate approval and signature should be added following the meeting of Senate 
+which gave the approval. 
+ 
+RESPONSIBILITY FOR, AND EQUIVALENCE OF, ACADEMIC STANDARDS 
+51. Quality assurance arrangements for collaborative provision must be as rigorous as 
+those for the University’s internal provision. As far as possible they should accord with 
+the relevant University policies, procedures and guidelines. In particular:  
+a. all collaborative provision should be appropriately located within the Scottish 
+Credit and Qualifications Framework (SCQF) in terms of both level and credit; 
+b. standards should be benchmarked by reference to the QAA national subject 
+benchmarks (where available) and the use of peer review through the work of 
+the External Examiners and, where relevant, Professional Statutory and 
+Regulatory Bodies; 
+c. any divergences from UK reference points (e.g. relevant subject benchmark 
+statements, etc.) should be explicitly acknowledged and explained in the 
+agreement;
+
+--- PAGE 11 ---
+
+11 
+ 
+d. the processes and procedures for programme and module approval and review 
+should be integrated with the University’s own quality assurance procedures;  
+e. there should be clear processes for student representation and for seeking and 
+responding to the views of students; 
+f. be reviewed where appropriate by the Collaborative Provision Agreements 
+Subgroup. 
+ 
+52. For all arrangements that lead to awards of the University of Strathclyde, the 
+University of Strathclyde will be the administering institution. For collaboration that 
+leads to joint awards, either of the partner institutions may take on this role by 
+agreement with the other partner institutions. The administering institution will take 
+the lead in establishing the details of the collaborative activity and will be responsible 
+for the academic standard of the programme and all aspects of programme and 
+student administration, including quality assurance and enhancement. 
+ 
+53. In the case of articulation arrangements, the partner institution will be responsible for 
+the academic standards of provision and the quality of the student learning 
+experience while students are in attendance at that institution. The University of 
+Strathclyde will be responsible for the academic standards of provision and the 
+quality of the student learning experience at Strathclyde and for the standard of the 
+final award. 
+ 
+54. Where the University validates a programme delivered in whole or in part by a partner 
+institution it accepts responsibility for the academic standard of the programme and 
+the level and credit-rating within SCQF. The University will approve and monitor the 
+validated programme alongside its own programmes using the appropriate structures 
+and processes. 
+ 
+55. Where the University agrees to provide joint supervision of research students, 
+supervision arrangements and the standard of awards are the responsibility of the 
+administering institution. Any arrangement with another institution/agency to jointly 
+supervise a student on a research programme leading to an award or joint award of 
+the University must be approved by Senate.  
+ 
+56. Similarly, any arrangement with another institution/agency to register a student as an 
+external research student of the University must be approved by Senate. All such 
+arrangements must be formalised in writing and signed by the appropriate Executive 
+Dean (or nominee) and the responsible person in the external agency.  
+ 
+57. Responsibility for assuring due diligence with partner institutions and students for 
+student exchange programmes rests with the relevant Head of Department (or 
+nominee) in the first instance. Any resultant bilateral agreements must be signed by 
+the Executive Dean (or nominee) for faculty- or department-specific agreements, or 
+the Principal (or nominee) where the agreement is institution wide. Arrangements for 
+credit transfer from any such international student exchanges must be agreed with 
+the Head of Department (or nominee) before the exchange takes place.  
+ 
+58. Credit transfer will not exceed 25% of the total credit required for an honours degree 
+or 34% for a pass degree without the approval of the appropriate Faculty Academic 
+Committee and Senate. Assessments carried out by the collaborating institution will 
+not count for more than 10% of marks for the purposes of Honours Classification 
+without the approval of the Faculty Board of Study.
+
+--- PAGE 12 ---
+
+12 
+ 
+ASSURING ACADEMIC STANDARDS AND THE QUALITY OF PROGRAMMES 
+AND AWARDS 
+Duration, Modification and Review of Agreements 
+59. Agreements will be valid in the first instance for an appropriate period as specified in 
+the agreement.  
+ 
+60. Agreements may be modified by written agreement of both parties. Modifications 
+must allow students already on a programme to complete the programme under the 
+terms and conditions they originally enrolled on. 
+ 
+61. Agreements will be subject to periodic review as prescribed by the joint meeting of 
+QAC and CPA Subgroup to a normal maximum of three yearly intervals, and six 
+months prior to expiry as detailed in the Collaborative Education Provision Review 
+template, available on the Collaborative Provision SharePoint site
+. 
+Termination of Agreements 
+62. Agreements may be terminated by mutual agreement of the University of Strathclyde 
+and the partner institution, provided that an agreed minimum period of notice is given 
+and that the interests of any students already studying under the terms of the 
+agreement are safeguarded. 
+ 
+63. In addition, the University of Strathclyde may terminate an agreement for any 
+significant breach of the terms of that agreement, such as: 
+a. a decline in the standard of the operation or delivery of the programme identified 
+by periodic review which the University feels cannot be sufficiently rectified in an 
+appropriate timescale; 
+b. extensive deviation from the agreed module and/or programme proposal; 
+c. factors affecting financial viability; 
+d. deviation from other matters detailed in the agreement (such as the use of the 
+University of Strathclyde name in other contexts, financial irregularities, equality 
+and diversity, and health and safety); 
+e. risk, by association, and so adverse effect by continued association.  
+ 
+64. When a collaborative agreement comes to an end or is terminated the interests of 
+any students already studying under the terms of the agreement must be 
+safeguarded. 
+ 
+65. Any decision to terminate the agreement will be subject to satisfactory arrangements 
+being made to enable existing students to complete their programme and be 
+assessed for the award for which they registered. Such arrangements will be 
+determined by agreement between the University and the partner institution. 
+ 
+66. The following should be considered when agreeing an exit strategy and will apply 
+until 
+all students have graduated or otherwise left the programme(s) concerned: 
+a. External Examiners will continue to be appointed and to carry out their duties. 
+b. Examination Boards will continue to be held. 
+c. If a Joint Management Committee was formed, it should continue to meet. 
+d. Annual Monitoring will continue in line with normal procedures. 
+e. All scheduled reviews will be carried out.
+
+--- PAGE 13 ---
+
+13 
+ 
+f. Any fees payable by either institution will continue to be paid relative to the 
+remaining number of students. 
+ 
+67. A decision to withdraw must be communicated promptly to the partner institution and 
+must allow sufficient time for detailed arrangements to be discussed and agreed. 
+Where a decision to terminate is taken voluntarily, by mutual consent, or is, in effect, 
+a decision not to renew, sufficient time should be built in to the notice period to allow 
+all students to complete their programme. A date should be agreed for the final intake 
+of students as well as a method of calculating the appropriate fees payable by either 
+institution where these are not already calculated on a per student basis. 
+ 
+68. An action plan should be agreed between the faculty and partner institution and 
+Faculty Academic Committee kept informed. Where the withdrawal also involves 
+withdrawal of a programme, approval must be sought from Senate. 
+ 
+69. Following the completion or departure of the final students, the faculty should write to 
+the partner institution to confirm the termination of the agreement and the Quality 
+Assurance Committee informed. 
+ 
+70. Where a joint institute or centre has been set up in connection with a joint 
+programme, any decision to terminate the agreement will be subject to satisfactory 
+arrangements being made in relation to staff employed by that institute or centre. The 
+HR Departments at all the partner institutions should be consulted at an early stage. 
+Policy on Serial Agreements 
+71. The written agreements underpinning all collaborative provision should make clear 
+that the partner may only offer approved collaborative provision at a venue other than 
+that specified in the collaborative agreement with the express written permission of 
+the University. This permission will only be granted once the University is convinced 
+that the academic and physical infrastructure at the new venue is suitable. 
+ 
+72. Similarly, the partner organisation may only assign the powers delegated to it by the 
+University to a third party with the express written permission of the University. 
+Assessment Requirements 
+73. Where a partner institution is involved in the assessment of students for Strathclyde 
+awards, it is essential that it understands and follows the University’s requirements for 
+the conduct of assessments. 
+External Examining 
+74. External Examining procedures for modules and programmes offered through 
+collaborative arrangements should be consistent with the University’s normal 
+practices as laid down in the policies and regulations of the University as approved by 
+Senate. 
+ 
+75. The awarding institution must retain ultimate responsibility for the appointment, 
+functions and briefing of External Examiners, including responding to External 
+Examiners’ reports. 
+Certificates and Transcripts 
+76. The University of Strathclyde retains sole authority for the award of certificates and 
+final transcripts relating to its programmes delivered through collaborative 
+arrangements.
+
+--- PAGE 14 ---
+
+14 
+ 
+77. The certificate and/or the transcript must record the language of instruction and the 
+language of assessment where this was not English (except where this relates to the 
+study of a foreign language where the principal language of assessment is also the 
+language of study). 
+ 
+78. The certificate and/or the transcript should normally record the name and location of 
+any partner organisation engaged in the delivery of the programme of study leading 
+to the award.  
+Information for Students 
+79. All students registered on a collaborative programme should, as a minimum, have a 
+copy of the programme specification approved by the awarding institution. 
+ 
+80. It is important that all students understand the nature of their formal relationship with 
+the University, and which partner organisation is responsible for which part of their 
+learning experience. Information available to students and prospective students on a 
+collaborative programme should include information about the appropriate channels 
+for particular concerns, complaints, appeals and discipline. 
+ 
+81. The University requires that the information given by the partner organisation or agent 
+to students and prospective students on collaborative programmes be monitored 
+regularly to ensure that it is accurate, complete and up to date. 
+Publicity and Marketing 
+82. In order to ensure that there is no opportunity for misunderstanding of the nature 
+and standing of the programmes and awards provided under a particular collaborative 
+arrangement, partner institutions must agree that the name of the University of 
+Strathclyde shall only be associated with the modules and/or programmes detailed in 
+the collaborative agreement. The name of the University of Strathclyde should not be 
+associated with the partner institution in any other connection. 
+ 
+83. All publications pertaining to modules and/or programmes which are the subject of 
+agreement shall be approved by the faculty nominee prior to publication and use. 
+Shared Module Arrangements 
+84. The University may permit students to take modules at other higher education 
+institutions (HEIs) on the recommendation of the relevant faculty and with the 
+approval of Senate and where modules are of an appropriate level and credit 
+weighting. The following basic guidelines have been agreed and may be further 
+refined to suit specific degree regulations. 
+ 
+85. Arrangements will be made at departmental level and the departments concerned 
+should agree on the modules to be made available to students in the collaborating 
+university. Efforts should be made to develop a convenient timetable for teaching, 
+taking into account the need for staff or students to travel between institutions. 
+ 
+86. There must be excellent communication between the departments, the students and 
+the Student Business sections or equivalent of the institutions concerned. A Module 
+Co-ordinator (agreed by both departments) must be appointed for each shared 
+module. The Module Co-ordinator will be responsible for ensuring that both Student 
+Business sections have the appropriate information about each shared module 
+(module title, the programme(s) that the module is to be part of, etc.) and for seeing 
+that information on the shared module is made available on web sites, in handbooks 
+and other public material.
+
+--- PAGE 15 ---
+
+15 
+ 
+87. Where the institutions concerned operate different assessment schemes, assessment 
+in shared modules will conform to the practice in the department delivering the 
+module and where necessary the final mark will be converted (as agreed by the 
+departments at the outset) into the appropriate format for the student's home 
+institution. The Module Co-ordinator will be responsible for reporting student marks to 
+the student's home institution in the format appropriate to that institution. The 
+student's home institution will be responsible for recording and publishing the module 
+result. An appropriate data sharing agreement should be approved, in consultation 
+with the Information Governance Unit, to accompany the collaborative agreement. 
+ 
+88. Students will register at their home institution only. It is expected that students taking 
+shared modules will only require access to the facilities of their home university. 
+ 
+89. It is expected that there will be a comparable volume of student exchange so that 
+cross charging will not be necessary. If there is expected to be an imbalance, 
+arrangements for cross-charging should be agreed by the faculty in advance. 
+External Research Students 
+90. A department/faculty can accept a student to undertake a research degree outwith 
+the University (for example within a company or Government Research Laboratory). 
+Any proposal to register a student as an external research student of the University 
+must be explicitly notified to the Head of Department for approval. 
+ 
+91. The arrangements for external research students will, as far as possible, follow the 
+normal procedures and guidelines for postgraduate research programmes set out in 
+the University’s Code of Practice for Postgraduate Research Students
+ as approved 
+by Senate. In particular and in accordance with these PGR Guidelines: 
+a. two University Supervisors should normally be appointed in addition to any 
+External Supervisor; 
+b. the University Supervisors should ensure compliance with the University’s Policy 
+and Code of Practice for Postgraduate Research Programmes; 
+c. the University Supervisors should ensure that appropriate arrangements are 
+made for regular contact between the internal supervisors, the external 
+supervisor or contact point and the student. 
+ 
+92. Academic staff are also reminded that the 
+QAA Quality Code Advice and Guidelines 
+for Research Degrees, UK Research and Innovation and the University’s Research 
+Policy pl ace considerable emphasis on providing students with research training, 
+appropriate instructional classes and contact with an appropriate research 
+community. Arrangements for external research students must take this into account. 
+ 
+93. In order to expedite requests to the faculty and Senate for approval of external 
+research students, the appropriate form (contact PGR Admissions) must be 
+completed and signed by the Head of Department, appropriate signatories in the 
+external agency and the relevant 
+Executive Dean (or nominee). Approval requests to 
+Senate must confirm that the appropriate form has been completed with copies 
+returned to Student Experience. 
+Joint Supervision Arrangements 
+94. Any proposal for a department or faculty to collaborate with another institution/agency 
+(University X) to jointly supervise a student on a research programme leading to an 
+award or joint award of the University must be explicitly notified to Senate Business 
+Committee’s Collaborative Provision Agreement Subgroup for approval.
+
+--- PAGE 16 ---
+
+16 
+ 
+95. Proposals to Senate must confirm one of the following: 
+EITHER 
+a. The University of Strathclyde will be the administering institution.  
+In this case, University of Strathclyde terms and conditions, procedures, 
+guidelines and regulations will apply. Students will be students of the University 
+of Strathclyde: they will be bound by University of Strathclyde regulations and 
+will be entitled to use the student support services of either University. 
+OR 
+b. The University of X will be the administering institution.  
+In this case University of X procedures, guidelines and regulations will apply. 
+Students will be students of the University of X: they will be bound by University 
+of X regulations and will be entitled to use the student support services of either 
+university. Senate may nevertheless insist that the University of Strathclyde 
+Senate is required to approve the Examining Committee. This option may only 
+be used where the collaborating institution has powers to award research 
+degrees and where Senate considers it appropriate. 
+ 
+96. The arrangements for jointly supervised students will as far as possible follow the 
+normal procedures and guidelines for postgraduate research programmes set out in 
+the University’s Code of Practice for Postgraduate Research Students 
+ as approved 
+by Senate. 
+ 
+97. In order to expedite requests to the Faculty Board and Senate for approval of jointly 
+supervised students, the appropriate form (contact PGR Admissions) must be 
+completed and signed by the Head of Department, appropriate signatories in the 
+external agency and the relevant Vice Dean and/or Head of International 
+Development and Recruitment (or equivalent). Approval requests to Senate must 
+confirm that the appropriate form has been completed with copies returned to Student 
+Experience and the Faculty Office. 
+ 
+98. These agreements for external and jointly supervised research students should also 
+be made subject to the University’s Standard Terms and Conditions for collaborative 
+provision. 
+International Student Exchanges 
+99. A rrangements for student exchanges within the EU are normally based on the 
+European Credit Transfer System (ECTS) and the ECTS quality standards in respect 
+of documentation, learning agreements for individual students and student 
+transcripts. Departments are expected to adopt ECTS or comparable standards for all 
+student exchanges. 
+ 
+100. Departments and faculties are expected to monitor international exchange 
+arrangements and are encouraged to comment on student uptake and feedback in 
+the annual Faculty Annual Reports to the Quality Assurance Committee, Senate and 
+Court. This information should be shared with RIO.  
+ 
+101. RIO provides support to international students coming into Strathclyde and maintains 
+oversight of student movements under institutional exchange schemes. RIO also 
+maintains the Mobility Online database for exchange students. The faculties are 
+responsible for ensuring the currency of the collaborative agreements on the 
+Collaborative Agreements Database. Quality assurance of current agreements lies 
+with Education Enhancement.  
+ 
+102. Students taking a year out abroad to study a language and culture as a compulsory 
+part of their Strathclyde degree are exceptions to the foregoing arrangements and the
+
+--- PAGE 17 ---
+
+17 
+ 
+responsibility for student support and monitoring in these cases rests with their 
+department and faculty in the first instance. 
+Dual Degree Awards 
+103. Dual awards are subject to the principles and procedures governing other forms of 
+collaborative provision. Further rationale and context on dual awards are described 
+in Annex 1.  
+ 
+104. A faculty can submit a statement of intent to Quality Assurance Committee seeking 
+an ‘agreement in principle’ for new proposals to ensure early compliance with 
+minimum requirements. Departments are encouraged to liaise with the Student 
+Experience Directorate, including Education Enhancement in the first instance and 
+Student Business. RIO should also be consulted in the early developmental stages of 
+a new dual/joint/double degree programme proposal.
+
+--- PAGE 18 ---
+
+18 
+ 
+ANNEX 1 – POLICY FOR THE AWARDING OF DUAL DEGREES 
+Rationale 
+1. Collaboration and partnerships are at the heart of our strategic approach to education 
+as a leading international technological university. In this context, the ability to 
+engage in partnerships to deliver dual awards (as defined in Clause 6 below) is seen 
+as a natural way of extending existing strategic institutional partnerships or a potential 
+component in establishing new ones. 
+ 
+2. There are many benefits to be achieved through collaborative partnerships which 
+seek to develop and deliver dual awards, including: 
+a. the development of deeper, sustainable relationships with key partners; 
+b. academic benefits including curriculum innovation, exchange of staff and access 
+to new expertise and networks;  
+c. opportunities to increase our reputation and ranking as an international 
+university, through strategic collaborations with partners of good standing 
+aligned with our institutional values. 
+ 
+3. It is recognised that while there are no standardised ways of defining the curriculum 
+shape of different partnerships, the institution must set out minimum expectations in 
+order to preserve the core characteristics of education at Strathclyde, which is 
+integrated with research and knowledge exchange and which seeks to develop global 
+graduates with impact. Furthermore, the academic integrity of degree programmes 
+must be rigorously assured in order that dual degrees merit the award of the 
+University of Strathclyde. 
+ 
+4. In order to ensure clarity and consistency across such partnerships, this document 
+outlines the proposed definition, scope and principles upon which agreements for 
+dual awards may be approved. 
+Principles of Awarding Dual Degrees 
+5. This document sets out the principles against which the University will consider 
+agreements for dual awards. 
+ 
+6. Definitions 
+a. Joint: a programme of study developed jointly by two or more institutions 
+leading to a single qualification awarded jointly by both, or all, institutions. 
+b. Dual: two separate degree-awarding bodies jointly design a programme of 
+study comprising a joint curriculum, which diverges at a given point leading 
+to two entirely separate qualifications awarded individually by the two degree- 
+awarding bodies. 
+c. Double: two or more degree-awarding bodies jointly develop and deliver a 
+single programme (whether taught or research) leading to separate 
+qualifications (and separate certification) being granted by both, or all, of them. 
+ 
+7. ‘Equivalent level’ is used to advise that the dual degrees conferred are of the same 
+standing (e.g. SCQF level 11 and FQ-HEA level 7, which both correspond to 
+postgraduate diploma and master’s-level study), recognising that titles themselves 
+may differ across regions.
+
+--- PAGE 19 ---
+
+19 
+ 
+8. The dual award will result in an academic transcript from each institution, where each 
+institution explicitly recognises the award of the other institution, based on an agreed 
+and transparent definition of standards. 
+ 
+9. Dual degree programmes are distinct from joint degree programmes in that joint 
+degree programmes award a single qualification upon completion of the collaborative 
+programme requirements established by two partner institutions. 
+ 
+10. Partner institutions may be UK or international partnerships, however, they must be 
+able to demonstrate strategic alignment, as outlined within the introduction
+ of this 
+policy: “The Charter of the University permits it to co-operate with other university 
+authorities for ‘the conduct of examinations and for such other purposes as the 
+University may from time to time determine’. In addition, it permits students to 
+undertake programmes of study, examinations and periods of study at other 
+universities or places of learning. These permissions have enabled the development 
+of collaborative arrangements with appropriate institutions and agencies in the UK 
+and overseas where these support the University’s strategic objectives and where 
+there is clear educational benefit to the students and the partners concerned.  
+Scope 
+11. The Policy and Code of Practice is developed in accordance with the Expectations 
+and Practices of the UK Quality Code for Higher Education, Advice and Guidance on 
+Partnerships.  
+ 
+12. The Policy covers applications for programmes leading to dual award at master’s 
+level only. Honours-level programmes and integrated master’s programmes are 
+excluded from this policy. This does not preclude the extension of dual award 
+provision to undergraduate or integrated master’s in future, pending amendment of 
+the policy. 
+ 
+13. The partner institution must be a body which has the authority under its national law 
+to award degrees, including as dual awards. 
+ 
+14. The Policy and Code of Practice outlines the process for approval, renewal and 
+termination of agreements for dual awards. 
+ 
+15. T he University may engage in transnational education (TNE) in line with strategic 
+requirements and following approval by the Executive Team. 
+Requirements for Dual Awards 
+16. The University will consider applications for programmes leading to dual awards at 
+master’s level where the complete programme of study comprises no fewer than 240 
+SCQF credits (equivalent to 120 ECTS credits). 
+ 
+17. The University requires that: 
+a. a minimum of 80 SCQF credits are awarded by the University of Strathclyde; 
+b. a minimum of 80 SCQF credits are awarded by the partner university; 
+c. d epartments/faculties will be expected to articulate the rationale for the 
+development of the dual degree in the programme proposal, explicitly 
+evidencing: 
+d. t he benefits to the University of outlining how the programme will integrate with 
+and enhance all levels of the Strathclyde strategic partnership; 
+e. t he pedagogic benefits of the dual degree programme for the student and, where 
+relevant, the institution;
+
+--- PAGE 20 ---
+
+20 
+ 
+f. t he cultural and social benefits to the broader student experience articulated 
+through the Strathclyde graduate attributes (engaged, enterprising, enquiring, 
+and ethically, socially and globally aware); 
+g. t he expected level of engagement of students with the education experience at 
+Strathclyde. 
+ 
+18. The rationale (in particular 17.f) is required as evidence of additionality to the student 
+experience essential to articulating how the programme merits a dual award. This will 
+be provided in addition to the minimum additional 60 credits. 
+ 
+19. A minimum duration shall exist for dual awards of no less than 18 months, except in 
+exceptional circumstances and with the approval of Senate. 
+ 
+20. The proposal will outline mechanisms to ensure the quality of the academic award, 
+consistent with the expectation and indicators within the 
+UK Quality Code for Higher 
+Education, Advice and Guidance on Partnerships.
+
+--- PAGE 21 ---
+
+21 
+ 
+ANNEX 2 – WORKFLOW OF COLLABORATIVE AGREEMENT PROCESS 
+ 
+STAGE 1
+            
+    
+• Consult SharePoint site to determine type of collaborative agreement. 
+• Consult Annex 3 to determine sign off level. 
+• Check with Faculty Office to determine viability. 
+• Consult Collaborative Agreements Database for existing collaborations with proposed partner.  
+• Advise, as appropriate, relevant Professional Services departments of potential new 
+collaborative activity i.e. Office of the UCO, Finance, Student Experience, RIO. If an MoU, 
+consult relevant PS departments before signing in line with clause 25.  Obtain faculty approval 
+‘in principle’. 
+ 
+ 
+ 
+ 
+ 
+STAGE 2 
+ 
+ 
+ 
+STAGE 3 
+ 
+• Refer to Legal Services (for contractual issues), QEAT and Faculty Offices for advice on 
+drafting a collaborative agreement. 
+• Draft agreement will include the following information: 
+ detailed programme proposal 
+ draft regulations 
+ draft collaborative provision agreement. 
+ 
+STAGE 4  
+ 
+• Subgroup to review and assess new agreements leading to awards and ensure strategic  
+alignment.  
+• Subgroup to feed back to faculty if any amendments to be made or will advise faculty if 
+agreement is being put forward to Senate. 
+ 
+ 
+STAGE 5 
+ 
+ 
+• Relevant Professional Services notified of approval i.e. Library, IT, Admissions, RIO, Finance, 
+Student Experience, Legal Services etc.  
+ 
+STAGE 6 
+ 
+ 
+ 
+STAGE 7 
+ 
+ 
+• Original signed copy to be sent to Archives, photocopy to faculty and University Collaborative 
+Agreements Database to be updated. 
+ 
+STAGE 8 
+ 
+ 
+A Senate Approval Route Record can be found overleaf.
+Department signals intention to develop a new collaborative agreement 
+Faculty approval in principle 
+ 
+Discussions with partner organisation on form of collaboration, 
+programme and arrangements 
+Draft collaborative agreement 
+Collaborative Provision Agreements Subgroup review and assessment 
+Faculty to send agreement to Senate including any relevant amendments 
+made by Subgroup 
+Approval by Senate 
+Signing of collaborative agreement by the Principal and partner institution 
+All collaborative agreements to be subject to review as detailed in 
+collaborative provision review template available from QAC
+
+--- PAGE 22 ---
+
+22 
+ 
+ANNEX 2 continued 
+Collaborative Agreements: Senate Approval Route Record 
+Collaborative 
+Agreement  
+ 
+Faculty  
+ 
+Faculty 
+Due 
+Diligence 
+(confirmation) 
+Details Date 
+Received 
+by Senate 
+Manager 
+Circulated 
+to SBC/ 
+Subgroup 
+Comments/ 
+Deadline 
+Approved 
+by 
+Principal/ 
+Senate 
+(Date) 
+Faculty/RIO 
+Informed 
+Notify 
+Senate 
+          
+          
+          
+ 
+Draft Process for Standard Programme Approval (i.e. Collaborations where programmes are awarding credit from the University of Strathclyde 
+and require the approval of Senate) 
+Stage 1:  Agreement drafted by faculty, signed off and notified by Academic Committee (propose implementing cover sheet/form indicating faculty 
+sign off). 
+Stage 2:  Faculty sends collaboration agreement documentation (and form/cover sheet) to Senate Manager (electronically) who logs details in 
+tracking document (example above). 
+Stage 3:  Collaboration agreement discussed with Vice Principal and circulated to Senate Business Committee/Collaborative Provision Agreement 
+Subgroup. 
+Stage 4:  Senate Business Committee endorses agreement for the approval of Senate. 
+Stage 5:  EITHER agreement signed off by Principal on behalf of Senate via Vice Principal OR submitted to Senate for Senate business approval. 
+Stage 6:  Once approved, Senate Committee Manager informs the faculty who complete the Collaborative Agreements Database and inform 
+Archives. Senate Committee Manager updates Approval Route Record.
+
+--- PAGE 23 ---
+
+23 
+ 
+ANNEX 3 – COLLABORATIVE AGREEMENT SIGNATURES 
+TO BE SIGNED BY THE 
+PRINCIPAL (OR NOMINEE) 
+AND/OR APPROVED AT 
+SENATE VIA CPA 
+SUBGROUP 
+TO BE SIGNED BY THE 
+EXECUTIVE DEAN (OR 
+NOMINEE) 
+TO BE SIGNED BY 
+HEAD OF 
+DEPARTMENT 
+University wide student 
+exchange agreements and 
+special fee agreements. 
+Student Exchange agreements 
+open only to students from a 
+particular department or 
+faculty. 
+ 
+Articulation where progression 
+is automatic, non-standard 
+programme and special fee 
+arrangements apply.  
+Articulation where progression 
+is determined by faculties 
+based on qualifications for 
+standard programmes and 
+standard fees apply.  
+ 
+Institution-wide student 
+exchange agreements.  
+Appropriate arrangements with 
+partner institutions and 
+students for student exchange 
+programmes rests with Heads 
+of department. Resultant bi-
+lateral agreements to be signed 
+by the Executive Dean.  
+Appropriate 
+arrangements with 
+partner institutions and 
+students for student 
+exchange programmes 
+rests with Heads of 
+Department. 
+Where the language taught in 
+is not English. 
+ Arrangements for credit 
+transfer from any 
+international student 
+exchanges must be 
+agreed with Head of 
+Department (or nominee) 
+before the exchange 
+takes place. 
+Joint, double or dual degree 
+awards.  
+  
+Any arrangement with another 
+institution/ agency to jointly 
+supervise a student on a 
+research programme.  
+  
+Any arrangement with another 
+institution/ agency to register a 
+student as an external 
+research student of the 
+University.  
+  
+Renewals where material 
+changes have been made to 
+the agreement.  
+Renewals where no changes to 
+the original agreement have 
+been made.
+
+--- PAGE 24 ---
+
+24 
+ 
+ANNEX 4 - GLOSSARY OF TERMS 
+Articulation an arrangement whereby students, who have reached an 
+agreed standard on a particular programme of study 
+designed and delivered by an external agency, may enter a 
+specific University programme, usually with advanced 
+standing. The collaborating agency has the primary 
+responsibility for assuring the quality of its own programme 
+and the standard of any award given to the student before 
+entry to the University. 
+Administering Institution the institution taking the lead in administering a joint award of 
+two or more institutions. The administering institution would 
+register students on the joint award and would have a range 
+of other responsibilities as detailed in the policy and shown in 
+the collaborative agreement. 
+Awarding Institution is an institution empowered to award degrees, diplomas, 
+certificates or credits by virtue of authority given to it by 
+statute, Royal Charter, or the Privy Council, or under licence 
+from another authorised body. It is the institution whose 
+academic award is the award to which a programme of study 
+leads. 
+Double degree two or more degree-awarding bodies jointly develop and 
+deliver a single programme (whether taught or research) 
+leading to separate qualifications (and separate certification) 
+being granted by both, or all, of them.  
+Dual degree two separate degree-awarding bodies jointly design a 
+programme of study comprising a joint curriculum, which 
+diverges at a given point leading to two entirely separate 
+qualifications awarded individually by the two degree-
+awarding bodies. 
+European Credit Transfer 
+System (ECTS) 
+a credit system which provides a way of measuring and 
+comparing learning achievements and transferring them from 
+one institution to another. It is intended to assist in increasing 
+the transparency of educational systems and facilitating the 
+mobility of students across Europe. 
+Franchising a hands-off business agreement in which the University 
+subcontracts an appropriate providing institution to deliver 
+programmes designed by the University. This would require a 
+more formally documented process than that in operation for 
+the University’s internal or validated programmes in order to 
+ensure that the providing institution continues to maintain 
+appropriate quality and standards. The continuing cost 
+implication of this must be made clear and accepted by the 
+University and the providing institution. The University does 
+not enter into franchising agreements. 
+Joint Programmes a programme of study developed jointly by two or more 
+institutions leading to a single qualification awarded jointly by 
+both, or all, institutions. 
+Leading to Awards of the University 
+The University will be responsible for detailed approval and 
+administration of the programme as a whole in accordance
+
+--- PAGE 25 ---
+
+25 
+ 
+with its normal procedures. 
+Leading to Joint Awards of the University 
+Partners must be appropriate institutions of Higher Education 
+with degree awarding powers. The overall programme must 
+be approved in outline by all of the awarding institutions and 
+each institution will be responsible for the quality of the 
+student learning experience and the academic standard of 
+those parts of the programme it delivers. One institution is 
+appointed administering institution to be responsible for 
+detailed approval and administration of the programme in 
+accordance with the normal procedures of that institution. 
+The administering institution will be responsible for the 
+production of an annual report to allow monitoring of 
+academic quality and standards by all the partner institutions. 
+Memorandum of 
+Understanding 
+a statement that the partners intend to discuss possible 
+collaborative ventures. An MoU is not required by Strathclyde 
+but may be desired by a partner before more formal 
+negotiations can begin. An MoU does not commit the 
+University to anything more than discussions and must be 
+followed with a formal agreement before any collaborative 
+activity commences. 
+Partner/Partner Institution the term used to describe the institution or other body or 
+individual with which the University enters into an agreement 
+to collaborate. It is also used to describe an institution or 
+other body which the University commissions to provide 
+learner support. 
+Quality Assurance the means through which an institution ensures and confirms 
+that the conditions are in place for students to achieve the 
+standards set by it or by another awarding body. 
+Quality Assurance Agency 
+for Higher Education (QAA) 
+an independent body funded by subscriptions from 
+universities and colleges and through contracts with the 
+higher education funding bodies. It is responsible for 
+safeguarding standards and improving the quality of higher 
+education in the UK through and provides guidance on 
+maintaining quality and standards for universities and 
+colleges. It carries out external quality assurance by visiting 
+universities and colleges to review how well they are fulfilling 
+their responsibilities. The review methodology applied in 
+Scotland is governed by the Tertiary Quality Enhancement 
+Framework. 
+The Quality Code The UK Quality Code for HE gives all higher education 
+providers a shared starting point for setting, describing and 
+assuring the academic standards of their higher education 
+awards and programmes and the quality of the learning 
+opportunities they provide. Providers use it to design their 
+respective policies for maintaining academic standards and 
+quality. It comprises three Parts relating to academic 
+standards, academic quality and information about higher 
+education provision. 
+SCQF The Scottish Credit & Qualifications Framework brings 
+together all the mainstream Scottish qualifications and 
+provides a way of describing and comparing, qualifications. A 
+qualification can be described in terms of the number of
+
+--- PAGE 26 ---
+
+26 
+ 
+credit points which shows how much learning has been 
+achieved, and the level which shows how demanding the 
+learning is. 
+Serial Agreement  where a partner organisation assigns the powers delegated 
+to it by the University to a third party. This must only be done 
+with the express written permission of the University. 
+Service Support agreement whereby the University enters into a contract with 
+an institution or agency to supply administrative and/or 
+academic services to support the University’s programmes. 
+Standard Terms and 
+Conditions 
+the University has a set of Standard Terms and Conditions 
+which define the legal aspects of collaborative agreements. 
+These can be found as an appendix to the templates on the 
+SharePoint site.
+ These should be used for all collaborative 
+agreements. Where a proposed partner requires modification 
+of the Standard Terms and Conditions, Legal Services and 
+the Vice Principal should be consulted before agreeing to any 
+changes. 
+Student Exchange a reciprocal agreement for student exchange between 
+universities for the educational and cultural enrichment of 
+their students. During the term of the agreement each 
+university will usually send an agreed number of 
+undergraduate or integrated master’s students per year (or 
+per semester) to be enrolled at the other university. The 
+student will undertake existing modules at the other 
+institution that will overtake relevant learning outcomes for 
+the programme they are studying. The exact programme of 
+study will be determined by the student with the approval of 
+academic advisers at both the home and host institutions. 
+Study Abroad arrangements under which students from a partner institution 
+may enrol directly onto an undergraduate programme of 
+study at Strathclyde on a visiting, fee-paying basis for one or 
+two semesters.  
+Transnational Education 
+(TNE) 
+ 
+the delivery of higher education level awards by recognised 
+UK degree-awarding bodies in a country, or to students, 
+other than where the awarding provider is based. 
+Validation the formative, developmental, hands-on process by which the 
+University assures itself, on a continuing basis, that 
+programmes designed and delivered by appropriate external 
+agencies are of an appropriate standard to lead to an award 
+of the University and are consistent with the requirements of 
+the SCQF in respect of credits and levels. (Programmes so 
+validated will normally have different content and delivery 
+details from internal programmes and this will normally be 
+reflected in a different award title.)

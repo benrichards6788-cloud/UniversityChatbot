@@ -1,0 +1,168 @@
+--- PAGE 1 ---
+
+Open Access Policy 
+ 
+ 
+ 
+ 
+ 
+Prepared by: Open Research Action Group (ORAG) 
+Approved by: University Senate on the recommendation of the University Research 
+& Knowledge Exchange Committee (RKEC). 
+Route to approval: Recommended for onward consideration and approval by: 
+• Open Research Action Group (ORAG) by circulation on 18 
+December 2024. 
+• Research Sub-Committee (RSC) on 21 January 2025. 
+• RKEC on 4 February 2025. 
+Date of approval: Approved by University Senate on 26 March 2025. 
+Date effective: 1 September 2025. 
+Version number: 1.0 
+Review process: To be reviewed as and when required by the ORAG. 
+Related policies 
+and procedures: 
+Sector/Funder: 
+REF 2029 Open Access Policy (Dec 2024) 
+UK Research and Innovation (UKRI) Open Access Policy (Feb 2023) 
+Wellcome Trust Open Access Policy (Jan 2025) 
+University of Strathclyde: 
+Institutional Rights Retention Policy (January 2024) 
+Institutional Repository (Strathprints) Takedown Policy    
+Research Publications Guidance (Feb 2023)    
+Research Code of Practice (March 2023)    
+Code of Practice for Postgraduate Research Students (Sept 2023)     
+Research Data Management and Sharing Policy (March 2023)    
+Intellectual Property and Commercialisation Policy (March 2023)
+
+--- PAGE 2 ---
+
+Introduction and purpose 
+1. The University of Strathclyde (hereafter ‘the University’) is committed to promoting the research and 
+knowledge of the University to the widest possible audience through Open Research practices. This 
+policy outlines the University’s support for Open Access, one of the tenets of Open Research. This policy 
+promotes the aims of Strathclyde 2030, the University of Strathclyde Research Publications Guidance  
+and the established institutional practice of complying with the R esearch Excellence Framework (REF) 
+Open Access Policy.   
+2. This policy should be read alongside other relevant University and sectoral policies and guidance listed 
+in the cover sheet, and it supersedes previous University open access guidance.   
+3. The purpose of this policy is to: 
+i. Enable the University to disseminate its research and scholarship as widely as possible; and 
+ii. Support University authors to meet external open access requirements. 
+4. Questions relating to this policy should be directed to the University’s Open Access team at 
+openaccess@strath.ac.uk
+.  
+ 
+Scope  
+5. This policy applies to all authors or co-authors who are affiliated with the University (hereafter 'Authors'). 
+Publishing activities are carried out by Authors at all levels across the University, therefore the 
+requirements to make eligible publications open access includes all University staff (including honorary 
+and visiting) and students who publish while affiliated with the University. This is in line with the definition 
+outlined in section 1.3 of the Research Code of Practice:  
+i. All University staff (regardless of contract type) engaging in research activities.  
+ii. All University students engaging in research activities.   
+iii. Any individuals who do not fall within (i) and (ii) above but who are otherwise associated with the 
+University and are authorised to use the University’s name, facilities and/or services when 
+engaging in research activities (such persons would include, for example, those holding visiting, 
+honorary or emeritus status).  
+6. It is the responsibility of all Strathclyde authors to ensure that they meet this policy, even if they are not 
+the corresponding author.     
+7. This policy applies to all articles, authored or co- authored while the individual  is a member of staff or 
+student at Strathclyde. This includes conference proceedings published with an International Standard 
+Serial Number (ISSN).  
+8. This policy does not apply to preprints. A preprint is a version of an article that precedes formal peer view 
+and publication in an academic journal.  
+9. Thi s policy does not  apply to monographs, books, book chapters, edited collections or other research 
+outputs although the University strongly encourages authors to make them as openly available as 
+possible.   
+10. This policy applies to all in scope outputs that have been submitted for publication from 1 September 
+2025, the start date of this policy.   
+11. Authors who are in receipt of funding from organisations such as UK Research and Innovation (UKRI), 
+the Wellcome Trust, European Commission, etc., must also adhere to their funder’s open access policies 
+and ensure that all outputs related to this funding complies with their stated policies.   
+ 
+Policy requirements    
+12. From 1 September 2025, all in -scope articles submitted to journals by University authors must be 
+deposited in the institutional repository within 3 months of the acceptance date and made open access 
+with a Creative Commons Attribution (CC BY) licence (see Appendix A
+ for more information on licence 
+types). There are multiple routes available for Authors to comply with this Open Access Policy:
+
+--- PAGE 3 ---
+
+i. Green Open Access via the Institutional Rights Retention Policy    
+Green open access is where the author publishes in a journal and then deposits the accepted version 
+of this article into a subject or institutional repository. The University of Strathclyde has an Institutional 
+Rights Retention Policy t hat allows authors to make the accepted manuscripts of in-scope outputs open 
+access immediately on publication with a CC BY licence  by including specific wording in the 
+acknowledgements section of the manuscript. All outputs covered by the Open Access policy will 
+automatically be compliant if deposited in accordance with the University of Strathclyde’s Institutional 
+Rights Retention Policy . A uthors should ensure their accepted manuscripts are deposited in the 
+institutional repository via Pure within three months of acceptance.   
+ii. Diamond Open Access    
+Diamond open access is a publication model where journals or similar platforms do not charge fees to 
+either the author or reader. Diamond Open Access journals that do not require an article processing 
+charge (APC) can be found using resources such as DIAMAS  and the 
+Directory of Open Access 
+Journals. Authors must ensure that their outputs are published with a Creative Commons licence and 
+deposited in the University’s institutional repository via Pure.     
+iii. Gold Open Access via Read & Publish deals or APC payment    
+Gold open access includes outputs where the final published version of the output is made open to 
+everyone, often requiring the payment of a fee or Article Processing Charge (APC).  
+a. The University subscribes to a number of Read & Publish deals where eligible corresponding 
+authors can publish Gold open access at no additional cost to themselves. Authors must select a 
+CC BY licence when using University  Read & Publish deals or when an APC has been paid. 
+Authors must ensure that the published version is deposited in the University’s institutional 
+repository via Pure.    
+b. Authors in receipt of external research funding have the option of using the funds provided to the 
+University by specific funders to make eligible publications open access. Authors should contact 
+openaccess@strath.ac.uk prior to submission to ensure the output meets their 
+funder’s open 
+access requirements an d are eligible for APC support.     
+c. Institutional Open Access Fund - The IOAF is a small fund provided by the University to meet the 
+cost of publishing in fully Open Access journals where the Authors have no other funding available 
+to cover these APCs. Preference for funding from the IOAF wi ll be given to Early Career 
+Researchers. Further guidance can be found on the Funding Open Access webpage
+, and Authors 
+can contact openaccess@strath.ac.uk to check eligibility.     
+13. All outputs covered by this policy must be deposited in the institutional repository via Pure . Information 
+on how to do this can be found in the Pure guidance pages on Sharepoint.    
+14. Where the University of Strathclyde author is not the corresponding author and/or is not able to select 
+the required Creative Commons licence, they can meet the requirements of this policy by following the 
+Institutional Rights Retention route noted above (12.i.).      
+15. The University recognises that there may be cases, and outside of an individual’s control, where it may 
+not be possible to use a CC BY licence. In these cases, it may be possible to apply an alternative Creative 
+Commons licence after discussion with the Open Access team
+.  
+16. For all publications, any related research data must be deposited in accordance with the University’s 
+Research Data Management and Sharing Policy and Authors must also include a Data Access Statement
+.   
+ 
+Further guidance and support   
+17. A general overview of the University’s Open Access support and guidance can be found on the Library 
+Open Access Information webpage.   
+18. Authors can consult the University’s SciFree website to find journals that are included in our current Read 
+& Publish deals.  
+19. Questions relating to this policy should be directed to the Open Access Team by email at 
+openaccess@strath.ac.uk.
+
+--- PAGE 4 ---
+
+Appendix A: Creative Commons Licences   
+ 
+For information, a summary of Creative Commons Licences is given below. Authors may wish to consult the 
+more comprehensive overview of available licences from Creative Commons.  
+• CC 0 – the work is in the public domain and the creator(s) has given up their copyright. There are no 
+conditions on how the work can be used.  
+• CC BY – anyone can distribute, remix, reuse and re-share the work as long as they provide attribution 
+to the original creator(s).  
+• CC BY-SA –  anyone can distribute, remix, adapt/build upon the original as long as they provide 
+attribution to the original creator(s) and the resulting work is licences under the same terms as the 
+original.  
+• CC BY-NC – anyone can distribute, remix, adapt/build upon the original, but only for non-commercial 
+purposes. They must also provide attribution to the original creator(s).  
+• CC BY -NC-SA – anyone can distribute, remix, adapt/build upon the original, but only for non -
+commercial purposes, and the resulting work is licences under the same terms as the original. They 
+must also provide attribution to the original creator(s).  
+• CC BY-ND – anyone can distribute the original work, though they cannot adapt the work in any way 
+and attribution must be given to the creator(s).  
+• CC BY-NC-ND – anyone can distribute the original work, though they cannot adapt the work in any 
+way, and it cannot be used for commercial purposes. Attribution must be given to the creator(s).

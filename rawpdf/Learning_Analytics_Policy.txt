@@ -1,0 +1,594 @@
+--- PAGE 1 ---
+
+LEARNING ANALYTICS 
+POLICY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version No. Description Author Approval Effective Date 
+1.0 A policy for the use 
+of student learning 
+analytics at the 
+University. 
+Education 
+Enhancement 
+Approved by Senate 
+31/05/23.  
+Academic year 
+2023/24 
+onwards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the place of useful learning 
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC01526
+ 
+Version 1.0
+
+--- PAGE 2 ---
+
+Learning Analytics Policy 
+ 
+Table of Contents  
+Introduction ................................................................................................................................................................ 3 
+Learning Analytics: Definition .................................................................................................................................... 3 
+Purpose of Learning Analytics ................................................................................................................................... 3 
+Learning Analytics Policy Scope ............................................................................................................................... 4 
+Principles ................................................................................................................................................................... 4 
+Learning Insights ....................................................................................................................................................... 5 
+Data Sources and How We Use Your Data ........................................................................................................... 5 
+Analysis and Interpretation of Learning Analytics Data ............................................................................................. 6 
+Data Retention and Archiving .................................................................................................................................... 7 
+Glossary of Terms ..................................................................................................................................................... 8 
+Appendix: Ethics Framework ................................................................................................................................... 11 
+Introduction........................................................................................................................................................... 11 
+Outline of an ethical framework ........................................................................................................................... 11 
+References ........................................................................................................................................................... 13
+
+--- PAGE 3 ---
+
+Learning Analytics Policy 
+ 
+Introduction 
+1. Learning Analytics is an enhancement-led activity, providing assistive tools for staff to support students 
+and to identify enhancements to learning and teaching.  It brings together insights derived from student 
+activity on learning systems, student voice and staff activity for and on behalf of students. 
+ 
+2. This policy supports a student-centric view of learning, empowering staff to take appropriate and tailored 
+follow-up action to support students.  Learning analytics can also be used for data-informed 
+enhancement by informing learning design (see Glossary) based on a broader understanding of student 
+learning activity and student support requirements. 
+ 
+3. Learning analytics leverages data about student learning behaviour, demographic data and student voice 
+data to provide staff with immediate insights into student engagement and feedback at module, 
+programme and institutional level. This will allow staff to understand student activity and identify areas to 
+target student support if appropriate. 
+ 
+4. Learning analytics sits at the heart of our contextualised, data-informed approach to enhancement, 
+informing decision-making and providing greater understanding of the student experience.  This is 
+brought together with existing attainment, assessment and feedback data, and student voice, to give a 
+broader understanding of student experience and support needs within the context of their learning.  
+ 
+5. This policy sets out the University’s approach to the use of learning analytics, including the Learning 
+Insights dashboards (see Glossary). 
+ 
+6. This Policy should be read in conjunction with the University’s Assessment and Feedback Policy,  Student 
+Guidance on the Use of Social Media and Virtual Learning Environments, the Student Module Evaluation 
+Policy, the Equality, Diversity & Inclusion Policy, Dignity and Respect Policy, the Student Representation 
+Policy, the Student Discipline Procedure and the University’s Data Protection Policy, which can be 
+accessed from the University’s Data Protection pages on the website. 
+ 
+7. Staff members using the Learning Insights dashboards must also read this Policy in conjunction with the 
+staff guidance and information provided for the interpretation and use of learning analytics data.  
+Learning Analytics: Definition 
+8. The University defines Learning Analytics as: The legal and ethical collection, measurement, analysis, 
+reporting and use of data about learners and their contexts, for the purposes of understanding and 
+enhancing learning, and supporting students.  
+Purpose of Learning Analytics 
+9. Learning analytics has as its purpose understanding and enhancing learning environments and assisting 
+staff to support students.   
+ 
+10. Understanding and enhancing learning environments includes, but is not limited to: 
+a. Reviewing activity on the Learning Management System classes, to understand how students 
+use this platform and how this varies;  
+b. Reflecting on and making changes to learning design, teaching or programme design as part of 
+the approach to enhancement of the curriculum and broader student experience;  
+c. Analysing student feedback to identify areas of strength and for improvement;  
+d. Identifying, with a view to addressing, systematic variation in student experiences across 
+demographic and other characteristics.
+
+--- PAGE 4 ---
+
+Learning Analytics Policy 
+ 
+ 
+11. Effectively supporting students may include, but is not limited to:  
+a. Analysing students’ activity on the Learning Management System to identify patterns in how they 
+use this platform and tailor learning provision;  
+b. Informing nuanced learning support conversations between staff and students 
+ 
+12. Learning analytics may also be used in addition to existing approaches to assist staff in monitoring 
+compliance relating to specific legal obligations (e.g. Visa compliance), module or programme 
+requirements and/or to support specific programme accreditation requirements (e.g. minimum 
+attendance requirements) 
+Learning Analytics Policy Scope 
+13. This policy covers Learning Insights (see Glossary) that provide insight on the student experience by 
+presenting student engagement, student voice, and/or student attainment data. 
+ 
+14. This policy also covers the principles to be applied to any and all other learning analytics activities 
+undertaken within the University.  
+Principles 
+15. Any learning analytics activity undertaken within the University must be enhancement-led in accordance 
+with Point 9 above 
+ 
+16. Learning analytics activities undertaken by the University will be human-centred; that is to say that the 
+people who will use and be affected by the analytics system will be consulted throughout its 
+development, including in identifying requirements, defining indicators and user testing. Consultation 
+should include both University staff (e.g. as direct users of Learning Insights dashboards) and students 
+(e.g. as individuals directly affected by learning analytics activities). 
+ 
+17. Ethics shall underpin all learning analytics activities undertaken at the University, taking into account the 
+key themes of responsibility, transparency, privacy, inclusion and accuracy as identified in the Ethics 
+Framework.  In particular, ethics must be applied at all stages of learning analytics development.  
+ 
+18. The University’s approach to learning analytics supports data-informed decision making by providing staff 
+with relevant data, which will allow them to better understand, monitor, and explore student learning 
+activity, to interpret this data with reference to their own knowledge and experience, and to make 
+decisions based on these interpretations.  Therefore, learning analytics should not replace individuals’ 
+judgments with those of an algorithm or predictive model.   
+ 
+19. While some automated outputs may inform wider conversations or analysis, the dashboards will not be 
+designed or used to make automated decisions (see Glossary
+) or to explicitly recommend a course of 
+action about a student’s attainment or progression (see also Point 41). 
+ 
+20. Learning analytics considers student activity on University systems such as the Learning Management 
+System (LMS), therefore it only partly represents student activity related to academic engagement and 
+learning.  It does not capture engagement via offline study, use of on-campus spaces such as the Library 
+and labs or engagement with peers.  Similarly, it is important to understand that student activity patterns 
+do not equate to a measure of learning.  Decisions informed by learning analytics must take the 
+limitations of this data into account.
+
+--- PAGE 5 ---
+
+Learning Analytics Policy 
+ 
+Learning Insights   
+21. Learning analytics data is provided to University staff through Learning Insights .  This service is owned 
+and operated by the Education Enhancement Directorate in collaboration with ISD .  Insights provided 
+include student voice dashboards (including Student Module Evaluation and Student Surveys), and 
+engagement dashboards providing high level indicators and/or focussed insights around a particular 
+theme or activity.  Where analytics crosses over into Business Intelligence, Education Enhancement will 
+work with Strategy & Planning to ensure alignment and adherence to agreed data definitions. 
+ 
+22. Principles 24-27 below apply specifically to the design and use of Learning Insights dashboards, however 
+they are also applicable to other learning analytics activities and must be followed where possible and 
+practical: 
+ 
+23. Potential ways in which the presentation of learning analytics data may bias decision making must be 
+taken into account and mitigated as far as possible (e.g. through the design of data visualisations such 
+as dashboards and/or the provision of support and resources to users).  
+ 
+24. Student voice data (see Glossary) provides a valuable perspective on aspects of engagement in learning 
+activities, helping to provide a broader view of the student experience by including the student 
+perspective.  Therefore learning analytics can bring together student voice with activity data where 
+relevant. 
+ 
+25. Student voice data used in learning analytics (e.g. within Learning Insights dashboards) will be shown in 
+aggregated form, i.e. responses will not be attributable to individual students.   
+ 
+26. Student voice data may be displayed in survey or thematic student voice dashboards or within a wider 
+dashboard combining other data e.g. engagement.  No individual survey responses will be identifiable 
+from any student voice data sources that are shown in the dashboards.  
+ 
+Data Sources and How We Use Your Data 
+27. All student and staff data in Learning Insights dashboards is gathered and processed in accordance with 
+Data Protection legislation, as set out in the University’s Student Privacy Notice, the University’s Privacy 
+Notice – Staff and Other Categories and where relevant the Student Module Evaluation Privacy Notice.   
+ 
+28. Data sources used in the Learning Insights dashboards include, but are not limited to: the Learning 
+Management System, Student Module Evaluation data, Student Survey data and the Enterprise Data 
+Warehouse.  All data is held securely and access to each of these data sources is restricted to members 
+of University staff who require it in order to carry out their role.   
+ 
+29. Engagement dashboards at both module and programme level, by their nature, require students to be 
+identifiable.  The information presented in Learning Insights is already available to specified members of 
+staff (e.g. Department/Faculty staff and some administrative colleagues) via the Learning Management 
+System logs, however it will be visualised in dashboards to facilitate more meaningful insight into student 
+learning behaviour and support needs.   
+ 
+30. An individual student’s personal characteristics (e.g. demographic information) will never be shown 
+alongside their activity on a module or Programme.   
+ 
+31. Special category data
+ is held separately and reported on at an aggregate level only, with data grouped at 
+a suitably high level to ensure that no individual can be identified.
+
+--- PAGE 6 ---
+
+Learning Analytics Policy 
+ 
+ 
+32. Users of the Learning Insights dashboards do not have access to any additional underlying data sources 
+e.g. the Enterprise Data Warehouse or individual survey response data.  Similarly, access to the 
+Learning Insights dashboards does not grant access to view an individual student’s special category 
+data.   
+ 
+33. Visibility of Programme-level insights which identify individual students will be limited to Head of 
+Department/School and other nominated individuals.  This may include Directors of Teaching, Faculty 
+level and Professional Services staff and other staff taking a pastoral role in a Programme or 
+Department/School.   
+ 
+34. The Learning Insights Procedures provide further information on the management of the Learning 
+Insights dashboards. 
+Analysis and Interpretation of Learning Analytics Data 
+35. Principles 37-45 detailed below apply to the analysis and interpretation of data presented in Learning 
+Insights dashboards, however they must also be applied to the wider learning analytics activities 
+undertaken within the University. 
+ 
+36. Learning analytics data is most valuable when it is used to drive, inform and support wider conversations 
+with both staff and students to maximise the potential for enhancement.  Where decisions are taken with 
+partial reference to learning analytics data, this must always come after a process of active dialogue with 
+the staff/students affected, aimed at supporting the affected individuals in the first instance. 
+ 
+37. While it is a valuable source of insight learning analytics data brings with it limitations, some of which are 
+outlined in the points below.  The presentation of learning analytics data must be accompanied by 
+contextual information and/or guidance notes to aid user interpretation.  Similarly, users must familiarise 
+themselves with the guidance provided prior to taking any further action based on data presented in 
+Learning Insights dashboards or other learning analytics. 
+ 
+38. Consideration must be given to the learning analytics information being presented relative to programme 
+and/or curriculum design; specifically how representative this is of all activity on a programme and the 
+different ways that students could, or are expected to, engage with their studies.  
+ 
+39. The behavioural engagement indicators provided in the Learning Insights dashboards are predominantly 
+focussed on Learning Management System activity; other student engagement activity such as labs, 
+group work, Library visits and other offline study methods are not provided.  Therefore, the engagement 
+insights displayed in the dashboards must not be taken as a proxy measure of a student’s overall 
+engagement in their studies as it is necessary to consider the wider context.   
+ 
+40. Learning analytics data provides only a partial and contextually-variable indicator of student engagement.  
+Therefore it must not be used as the primary or sole basis or evidence for a decision affecting an 
+outcome for a student or a member of staff and for adaptations to modules and programmes.   
+ 
+41. Engagement dashboards present behavioural engagement, however this does not equate to a n indicator 
+of learning.  Similarly, high levels of behavioural engagement does not necessarily imply that a particular 
+learning outcome will be attained. 
+ 
+42. Similarly learning analytics insights do not constitute a measure of staff teaching practice or performance, 
+nor does student engagement provide an indicator of teaching quality.
+
+--- PAGE 7 ---
+
+Learning Analytics Policy 
+ 
+ 
+43. Learning analytics data pertaining to students who require particular adaptations to support their learning 
+(e.g. students with certain types of disability) may look different to the typical data for the class or cohort.  
+This is important to bear in mind when interpreting such data, as patterns and behaviours may not be 
+directly comparable with those of other students or the class as a whole. 
+ 
+44. Student voice data (including survey responses and other feedback mechanisms) is, by definition, self-
+selecting therefore may not represent the views of an entire cohort of students.  Information and 
+guidance relating to methodologies used, including sampling and validity of results, is presented 
+alongside student voice reports to aid with interpretation.  The Student Surveys SharePoint site provides 
+details of the methodology used in each of the main student surveys run at the University.  
+Data Retention and Archiving 
+45. Data held within the Learning Insights dashboards will be in accordance with agreed retention periods, 
+taking into account relevant data protection considerations.  Personal data will be 
+pseudonymised/anonymised at the earliest possible opportunity, where appropriate.   
+ 
+46. Data held within the Learning Insights dashboards will be regularly refreshed to reflect changes made 
+through University systems.  Therefore, any changes made to an individual student’s record may not be 
+instantaneously reflected in learning analytics.
+
+--- PAGE 8 ---
+
+Learning Analytics Policy 
+ 
+Glossary of Terms  
+There are many similar and sometimes overlapping terms used within the sector related to learning analytics 
+(e.g. curriculum analytics, educational analytics, business information).  For the purposes of this Policy, the terms 
+being used at Strathclyde are defined below. 
+Term Definition 
+Aggregate reporting Dashboards or other reports which combine the responses for a specified 
+group or groups of respondents into a whole entity e.g. a 
+Department/School dashboard shows a summary of the results from all 
+student responses in that Department/School. 
+Automated decision / 
+Automated decision-making 
+Automated decision-making, as defined by the ICO (Information 
+Commissioner’s Office), is the process of making a decision by automated 
+means without any human involvement. These decisions can be based on 
+factual data, as well as on digitally created profiles or inferred data. 
+Examples of this include: 
+• an online decision to award a loan; and 
+• an aptitude test used for recruitment which uses pre-programmed 
+algorithms and criteria 
+Business Intelligence / 
+Business Analytics 
+Business Intelligence at The University of Strathclyde is governed and 
+driven by Strategy & Planning and currently defined as a business-driven 
+process, supported by software and hardware technologies, that brings 
+data from corporate source systems together into the Enterprise Data 
+Warehouse, subject to data quality controls, and makes regularly 
+refreshed management information based on agreed data definitions 
+(business glossary) available to decision makers and support staff via 
+Dashboards, Reports and Analysis in SUnBIRD (Strathclyde University’s 
+Business Intelligence Reports and Dashboards). 
+Curriculum analytics  The analysis of curriculum to understand the objectives, structure, content 
+and purpose of a course, its complexity, suitability, relevance, potential for 
+student progress, pathways and personalisation.
+ 
+Dashboard A vehicle for the dynamic presentation of data with interaction enabling 
+user insights via exploration and visualization. 
+Demographics Characteristics used to describe a population group or sub-group of 
+individuals e.g. gender, age, ethnicity, domicile etc. 
+Engagement Focussed 
+Insights 
+Engagement indicators that provide specific measures of students’ 
+engagement with particular activities and resources. These primarily 
+capture behavioural engagement but may also allow inferences about 
+cognitive engagement.  
+Contrary to the Engagement Pulse Check, Focussed Insights data points 
+include assorted other, activity-specific indicators (e.g. assessment 
+extension decisions, forum post word counts, etc.) alongside actions. 
+Engagement Pulse Check Engagement indicators that provide a general, high-level summary of the 
+scale and rhythm of behavioural engagement. This involves taking the
+
+--- PAGE 9 ---
+
+Learning Analytics Policy 
+ 
+Term Definition 
+Learning Management System action as the basic data point, and pairing 
+it with some contextual ones (date, time, student, class, action type, etc.).   
+The Engagement Pulse-Check insights can assist staff in identifying 
+where a particular student or group of students may need support or 
+further follow-up based on their level of activity on a Learning 
+Management System site. 
+Learning analytics  There are multiple definitions of learning analytics across the HE sector.  
+At Strathclyde, this is defined as the legal and ethical collection, 
+measurement, analysis, reporting and use of data about learners and their 
+contexts, for the purposes of understanding and enhancing learning and 
+supporting students.  Data gathered includes information about student 
+activity on the Learning Management System combined with the student 
+record and student survey results. 
+Learning Design Learning design is a process that encompasses the thoughtful planning of 
+a learner’s journey, constructing that journey, delivering it in some form 
+and, finally, reflecting and reviewing on the outcomes. 
+(University of 
+Edinburgh, 2019) 
+Learning design can be defined as the methodology that enables teachers 
+or designers to make more informed decisions in designing learning 
+activities and interventions, which are pedagogically informed and make 
+effective use of appropriate resources and technologies. A key principle of 
+learning design is making the design process more explicit and shareable. 
+(Lilliann Buus, 2018) 
+Learning Management System A learning management system (LMS) is a software application for the 
+administration, documentation, tracking, reporting, automation, and 
+delivery of educational courses, training programs, materials or learning 
+and development programs. (Wikipedia, 2023) 
+The University currently uses Moodle (referred to at Strathclyde as 
+Myplace) as its Learning Management System, also referred to as the 
+Virtual Learning Environment (VLE). 
+Measures of attainment Measures of attainment include, for example, grades, marks, or 
+classifications. 
+Module  The individual components of a programme, usually worth 10 or 20 
+credits. 
+Programme A programme of study leading to an award.  May also be referred to as 
+“course”.   
+Learning Insights 
+ 
+Learning analytics service provided by Education Enhancement.  All 
+insights are derived from student activity, student voice or staff activity for 
+and on behalf of students.
+
+--- PAGE 10 ---
+
+Learning Analytics Policy 
+ 
+Term Definition 
+Learning Insights Dashboard Dashboards that provide insight on the Strathclyde student learning  
+experience via dynamic presentation of student engagement, student 
+voice, and/or student attainment data. 
+Student activity Refers to activity that students undertake within education systems such 
+as the Learning Management System, e.g. downloading or viewing videos 
+for a module. 
+Student engagement  A complex concept, capturing students’ levels and types of activity on, and 
+investment in, their learning experience. Engagement has multiple 
+dimensions, including behavioural (actions), cognitive (thoughts) and 
+emotional (feelings). 
+It is important to note that not all of these dimensions are easily 
+quantifiable or identifiable in dashboards. 
+Student engagement data Data representing students’ levels, types, and patterns of engagement 
+with their studies. This may cover behavioral, cognitive, or emotional 
+engagement.   
+It should be noted that not all facets of students’ engagement can be 
+readily quantifiable/measurable or identifiable, therefore presentations of 
+student data is unlikely to provide a holistic view of a student’s overall 
+engagement. 
+Student voice data / student 
+feedback 
+Data pertaining to institutional student survey responses, including student 
+module evaluation. Student voice data reflects students’ opinions and 
+experiences and is subjective in nature.  Student voice does not refer to 
+any particular feedback system.  It can also be referred to as student 
+feedback. 
+Thematic dashboard A dashboard with a particular thematic focus (e.g. assessment and 
+feedback), which draws together multiple, relevant data sources (e.g. 
+Pulse Check, Focussed Insights and Student Voice data points) to help 
+tell a story around that theme.
+
+--- PAGE 11 ---
+
+Learning Analytics Policy 
+ 
+Appendix: Ethics Framework  
+Introduction 
+From data protection to unbiased analysis, ethical questions arise at all stages of the learning analytics process. 
+For this reason, a robust ethical framework is required as a foundation for a learning analytics service at 
+Strathclyde. 
+- This paper provides a summary of how ethics is understood to relate to and underpin learning analytics at 
+Strathclyde. It is designed to serve as a touchstone for the development and use of our Student Insights 
+dashboards, and for other learning analytics work across the institution.  
+It has been informed by discussions with colleagues and a thorough review of the literature on ethics and 
+learning analytics.  A list of references included at the end of this document. 
+Learning analytics is an evolving field, as is scholarship on the ethical dimensions of data, analytics, and 
+technology. Therefore this framework will be regularly reviewed.  
+Outline of an ethical framework 
+A general framework for considering the ethical dimensions of student insight analytics is outlined in Figure 1. It 
+consists of three guiding principles, that express the fundamental role of ethics in analytical inquiry, and five 
+overlapping themes/values, that encapsulate the various ethical considerations that emerge when doing 
+student insight analytics. 
+More specific ethical principles, rules, guidelines and policies have emerged under these five themes. These are 
+developed with reference to this framework and input from consultation with colleagues and other interested 
+parties. These are discussed in the procedures that accompany this document and the institution’s Learning 
+Analytics Policy.  However, to make the principles discussed here more concrete, a of practical situations where 
+they will be applicable is provided at the end of this document. 
+ 
+Figure 1
+
+--- PAGE 12 ---
+
+Learning Analytics Policy 
+ 
+ 
+In summary, the three guiding principles are taken to mean the following: 
+• Human-centred analytics: that the people who will use and be affected by the analytics system will be 
+consulted throughout its development, including in identifying requirements, defining indicators and user 
+testing. This consultation includes both University staff (e.g. as direct users of dashboards) and students 
+(e.g. as individuals directly affected by learning analytics activities). This principle aligns with “people-
+orientedness” being one of Strathclyde’s organisational values. 
+• Ethics underpins everything: there are ethical dimensions to all aspects of the analytics process, 
+including data collection, analytical procedures, dashboard design, and resource- creation. Ethics is not 
+merely a matter of policy/governance. 
+• Clarity of purpose: a definition of, and agreement on, the purposes of learning analytics underpins how 
+the practice should be conducted and how any systems can and should be used. Ethical arguments will 
+refer back to these purposes for justification. 
+The purposes of learning analytics at Strathclyde were arrived at and refined through a process of reflection and 
+wide consultation.  
+At Strathclyde, learning analytics is defined as:  
+The legal and ethical collection, measurement, analysis, reporting and use of data about learners and their 
+contexts, for the purposes of understanding and enhancing learning and supporting students.  
+Learning analytics has as its purposes understanding and enhancing learning environments and assisting staff to 
+support students.   Review of the literature on the ethics of learning and educational analytics suggests a number 
+of issues, challenges and questions that can be categorised under at least five themes. Figure 2 presents a 
+summary of these. For more detail on each of the issues summarised by the bullet points, colleagues are invited 
+to consult the references listed at the end of this document.  
+The items listed under ‘Privacy’ are not intended to summarise obligations under data protection legislation, but 
+reflect considerations from an ethical perspective (which may relate to but is not identical with a legal one).  
+ 
+Figure 2 
+Practical implications of these guiding principles and themes/values need to be considered at all stages of work 
+on learning analytics, during and beyond this project. Areas where this ethical framework is relevant to practical 
+work may include:  
+• Development of policy/procedures – e.g. Equality Impact Assessment; Data Protection Impact 
+Assessment. 
+• Data collection, management and storage – e.g. what data is legitimate to collect; rules for appropriate 
+anonymisation of data; communication around scope of data collection. 
+Responsibility
+
+--- PAGE 13 ---
+
+Learning Analytics Policy 
+ 
+• Data analysis – e.g. avoidance of biased metrics and models. 
+• Dashboard purpose and design – e.g. open dialogue around purposes and use-cases; publication 
+thresholds and sensitive approach to what data is visualised and how. 
+• Dashboard access and permissions – e.g. defined roles and responsibilities; restricted access to 
+sensitive data. 
+• Staff development and guidance for interpretation and use – e.g. shared understanding of purpose; 
+familiarity with data protection rules; guidance on accurate interpretation of data.  
+References 
+Baker, R. S. and Hawn, A. (2022) ‘Algorithmic Bias in Education’, International Journal of Artificial Intelligence in 
+Education, 32, pp. 1052-1092. 
+  
+Bals, N., Bryce, L., Rates, D., and Sell, J. (2019) Learning Analytics: Student Perception across Scottish Higher 
+Education Institutions. Available at https://www.enhancementthemes.ac.uk/docs/ethemes/evidence- for-
+enhancement/learning-analytics-student-perception-across-scottish-higher-education-
+institutions.pdf?sfvrsn=9f2bc681_4 (accessed 14/12/21).  
+  
+Broughan, C. and Prinsloo, P. (2020) ‘(Re)centring students in learning analytics: In conversation with Paulo 
+Freire’, Assessment & Evaluation in Higher Education 45(4), pp. 617-628.  
+  
+Buckingham Shum, S., Ferguson, R., and Martinez-Maldonado, R. (2019) ‘Human-Centred Learning 
+Analytics’, Journal of Learning Analytics 6(2), pp. 1-9.   
+  
+Corrin, L., Kennedy, G., French, S., Buckingham Shum, S., Kitto, K., Pardo, A., West, D., Mirriahi, N., and Colvin, 
+C. (2019) The ethics of learning analytics in Australian higher education: A discussion paper . Available at 
+https://melbourne-cshe.unimelb.edu.au/research/research-programs/technology-enhanced-learning-in-higher-
+education/the-ethical-use-of-learning-analytics (accessed 13/12/21).  
+  
+Drachsler, H. and Greller, W. (2016) ‘Privacy and Analytics – it’s a DELICATE Issue: A Checklist for Trusted 
+Learning Analytics’. LAK '16: Proceedings of the Sixth International Conference on Learning Analytics & 
+Knowledge, pp. 89-98.  
+  
+Howell, J. A., Roberts, L. D., Seaman, K., Gibson, D. C. (2018) ‘Are We on Our Way to Becoming a ‘‘Helicopter 
+University’’? Academics’ Views on Learning Analytics’, Technology, Knowledge and Learning 23, pp. 1-20.  
+  
+Jisc (2018) Code of practice for learning analytics. Available at https://www.jisc.ac.uk/guides/code-of-practice-for-
+learning-analytics (accessed 13/12/2021).  
+  
+Karumbaiah, S. and Brooks, J. (2021) ‘How Colonial Continuities Underlie Algorithmic Injustices in Education’. 
+2021 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and 
+Technology (RESPECT), pp. 1-6.  
+  
+Microsoft (2021) Design Power BI reports for accessibility. Available at https://docs.microsoft.com/en-us/power-
+bi/create-reports/desktop-accessibility-creating-reports (accessed 13/12/21).   
+  
+Pardo, A. and Siemens, G. (2014) ‘Ethical and privacy principles for learning analytics’, British Journal of 
+Educational Technology 45(3), pp. 438-450. 
+ 
+  
+Prinsloo, P. and Slade, S. (2014) ‘Student Data Privacy and Institutional Accountability in an Age of Surveillance’. 
+In Menon, M. E., Terkla, D. G., and Gibbs, P. (eds.), Using Data to Improve Higher Education: Research Policy 
+and Practice. Sense Publishers, pp. 197-214.  
+  
+Prinsloo, P. and Slade, S. (2016) ‘Student Vulnerability, Agency, and Learning Analytics: An Exploration’, Journal 
+of Learning Analytics, 3(1), pp. 159-182.  
+  
+Prinsloo, P. and Slade, S. (2018) ‘Mapping responsible learning analytics: a critical proposal’. In: Khan, B. H., 
+Corbeil, J. R., and Corbeil, M. E. (eds.), Responsible Analytics & Data Mining in Education: Global Perspectives
+
+--- PAGE 14 ---
+
+Learning Analytics Policy 
+ 
+on Quality, Support, and Decision-Making. Routledge, pp. 63-79. Available via Open Research Online at 
+http://oro.open.ac.uk/55827/ (accessed 10/12/2021).  
+  
+Slade, S., and Prinsloo, P. (2013) ‘Learning Analytics: Ethical Issues and Dilemmas’, American Behavioral 
+Scientist 57(10), pp. 1510-1529.  
+  
+Steiner, C. M., Kickmeier-Rust, M. D., and Albert, D. (2016) ‘LEA in Private: A Privacy and Data Protection 
+Framework for a Learning Analytics Toolbox’, Journal of Learning Analytics 3(1), pp. 66-90.  
+  
+Swenson, J. (2014) ‘Establishing an Ethical Literacy for Learning Analytics’. LAK '14: Proceedings of the Fourth 
+International Conference on Learning Analytics & Knowledge, pp. 246-250.  
+  
+The Open University (2014) Policy on Ethical use of Student Data for Learning Analytics . Available at 
+https://help.open.ac.uk/documents/policies/ethical-use-of-student-data/files/22/ethical-use-of-student-data-
+policy.pdf (accessed 10/12/2021).  
+  
+University of Strathclyde (n.d.) Our values. Available at https://www.strath.ac.uk/whystrathclyde/values/ 
+(accessed 10/12/2021).  
+  
+Wintrup, J. (2017) ‘Higher Education’s Panopticon? Learning Analytics, Ethics and Student Engagement’, Higher 
+Education Policy 30, pp. 87-103.

@@ -1,0 +1,471 @@
+--- PAGE 1 ---
+
+STUDENT MODULE 
+EVALUATION POLICY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version No. Description Author Approval Effective Date 
+1.0 A policy confirming 
+arrangements for the 
+University-wide 
+student evaluation of 
+modules. 
+Education 
+Enhancement 
+Senate 2nd August 2021 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+the place of useful learning 
+The University of Strathclyde is a charitable body, registered in 
+Scotland, number SC015263
+
+--- PAGE 2 ---
+
+Table of Contents 
+ 
+GLOSSARY OF TERMS ............................................................................................................................. 3 
+INTRODUCTION ........................................................................................................................................ 4 
+PRINCIPLES .............................................................................................................................................. 4 
+HOW STUDENT MODULE EVALUATION IS UNDERTAKEN IN THE UNIVERSITY .................................. 5 
+REPORTING AND RESULTS ..................................................................................................................... 6 
+DATA PROTECTION .................................................................................................................................. 7 
+RESPONSIBILITIES ................................................................................................................................... 8 
+Appendix A .................................................................................................................................................  9
+
+--- PAGE 3 ---
+
+GLOSSARY OF TERMS 
+ 
+Aggregate reporting Reports which combine the responses for a specified 
+group or groups of respondents into a whole entity e.g. a 
+Department/School report shows a summary of the 
+results from all student responses from modules 
+evaluated in that Department/School. 
+Demographics Characteristics used to describe a population group or 
+sub-group of individuals e.g. gender, age, ethnicity, 
+domicile etc. 
+Department/School Report The report produced showing the aggregated student 
+feedback for all modules in a Department/School (see 
+Appendix A). 
+Module The individual components of a programme, normally 
+worth 10 or 20 credits. 
+Module Evaluation The process of obtaining feedback from students on all 
+aspects of teaching, learning, and assessment within a 
+module. 
+Module Leader The person responsible for gathering Student Module 
+Evaluation feedback (see also Assessment and 
+Feedback Policy). May also be known as: Module 
+Coordinator, Year Coordinator, Module Registrar, Class 
+Coordinator, Class Organiser. This individual must hold 
+the Class Organiser role in Pegasus to view and access 
+module reports. 
+Module report The report produced showing the aggregated student 
+feedback for an individual module. See Appendix A. 
+Myplace Dashboard This is displayed as the home page when a user is 
+logged on to Myplace, found by clicking on Home in the 
+main menu or Dashboard in the Navigation bar. 
+Programme The full degree programme leading to an award. 
+Questionnaire The set of questions students are asked to complete to 
+provide feedback on a module. This normally refers to 
+the standardised set of core and optional questions 
+provided by the central system. 
+Redaction The removal of offensive or inappropriate comments from 
+a module report. This will be carried out by the 
+Education Enhancement Directorate, normally upon the 
+request of the Head of Department/School or nominee. 
+Response rate The responses received as a percentage of the 
+invitations sent out by the system 
+Student Report The report produced for students showing the 
+aggregated student feedback for a module along with the 
+reflections from teaching staff. See Appendix A. 
+Survey Method of gathering feedback from a given sample of 
+individuals; in terms of module evaluation this is the 
+method of gathering quantitative feedback from students 
+enrolled in a particular module, administered via online 
+questionnaire. 
+Working days The University’s standard working week is normally 
+Monday to Friday, covering five working days.
+
+--- PAGE 4 ---
+
+INTRODUCTION 
+ 
+1. This policy sets out the University’s approach to Student Module Evaluation at the University of 
+Strathclyde (hereafter University), defined in the University’s Assessment and Feedback Policy 
+as the process of obtaining feedback from students on all aspects of teaching, learning, and 
+assessment within a module. 
+ 
+2. This policy on Student Module Evaluation reflects many years of work, in consultation with staff 
+and students across all four Faculties. Our focus for Student Module Evaluation is to obtain and 
+act on feedback to help enhance the Strathclyde student experience. As agreed by the Education 
+Strategy Committee, Student Module Evaluation will form an important element of in fulfilling our 
+ambitious aims for education in our strategy and vision for 2025. 
+ 
+3. Student Module Evaluation at the University is an enhancement-led activity, carried out to provide 
+a means for staff to listen and respond to the Strathclyde student voice, supporting improvements 
+to learning and teaching. 
+ 
+4. This policy supports our institutional objective for consistency in the review of learning and 
+teaching across all disciplinary areas. The student voice is at the heart of 
+our contextualised, data-led approach to enhancement, it informs our decision-making, and 
+provides greater understanding of student feedback and its impact on the student experience. 
+ 
+5. Student Module Evaluation is carried out as part of wider module and programme reflective 
+review processes across Departments/Schools. 
+ 
+6. This Policy should be read in conjunction with the University’s Assessment and Feedback Policy,  
+Student Guidance on the Use of Social Media and Virtual Learning Environments, the Dignity 
+and Respect Policy, the Student Representation Policy, the Student Discipline Procedure and 
+the University’s Data Protection Policy, which can be accessed from the University’s Data 
+Protection pages on the website. 
+ 
+7. The policy applies to all credit-bearing undergraduate and postgraduate modules offered by the 
+University, including but not limited to projects, placements, dissertations and work-based 
+learning. The policy can also be applied to other modules where it is deemed appropriate to use 
+the institutional approach to help obtain student feedback. 
+ 
+ 
+ 
+PRINCIPLES 
+ 
+8. The purpose of Student Module Evaluation is to enhance learning and teaching and the 
+experience of our students through a clear and consistent institutional approach, with agreed 
+procedures for gathering, analysing, acting upon and responding directly to student feedback. To 
+this end, Student Module Evaluation is expected across all credit-bearing modules. 
+ 
+9. Student Module Evaluation should normally be carried out online using the central facility 
+delivered via Myplace. The central facility ensures a consistent and systematic approach for staff 
+and students, enables aggregate reporting and supports the University Strategic Plan.
+
+--- PAGE 5 ---
+
+10. The University strongly encourages students to respond to Student Module Evaluation 
+questionnaires, however they are not mandatory. Staff should encourage students to participate 
+in module evaluation surveys and to share their honest feedback, however students should not 
+feel pressured to complete an evaluation. Care must be taken to avoid leading students to 
+respond in a particular way. Survey results, in the form of a Student Report, will be available to 
+all students enrolled on that module. 
+ 
+11. Staff must provide a response to acknowledge student feedback, normally using the central 
+online facility. Responding to student feedback will contribute positively to the overall student 
+experience and to the provision of excellent teaching at the University. It is good practice to 
+highlight to students where their feedback has resulted in changes to learning and teaching 
+delivery and, where relevant, to explain why suggested changes are not implemented. Student 
+Module Evaluation is part of the wider module evaluation process carried out over a longer period, 
+therefore further actions to fully close the feedback loop with students should also be considered. 
+ 
+12. Students are encouraged to be honest, professional and timely in their feedback while adhering 
+to the University’s Dignity and Respect Policy, the Student Representation Policy and University 
+Guidance on the Use of Social Media and Virtual Learning Environments. Any student who is in 
+breach of these policies may be subject to action under the University’s Student Discipline 
+Procedure. 
+ 
+13. All student feedback is confidential and responses are anonymised for reporting purposes. 
+Student and staff data is gathered and used in line with the University’s Data Protection Policy 
+(see para 29) and the University’s Student Module Evaluation Privacy Notice is available on 
+Myplace, through module evaluation surveys and via email notifications. 
+ 
+ 
+HOW STUDENT MODULE EVALUATION IS UNDERTAKEN IN THE UNIVERSITY 
+ 
+14. Module level feedback from students is gathered via Myplace as part of online and face-to-face 
+learning and teaching delivery. Staff members should encourage students to complete the 
+evaluation during class time where possible e.g. lectures, seminars, labs, tutorials etc, to ensure 
+engagement and high response rates as part of a strong student-staff partnership. 
+ 
+15. Module evaluations can take place at mid-semester, at end-of-semester, or at both mid- and end- 
+of-semester. A summer semester evaluation option is also available for modules that do not 
+follow the two-semester calendar. 
+ 
+16. The Education Enhancement Directorate maintains and periodically reviews a set of core and 
+optional module evaluation questions, which allow question sets for individual modules to be 
+tailored with a limited number of additional optional questions. 
+ 
+17. A questionnaire is produced for each student on every credit-bearing module being surveyed in 
+a Student Module Evaluation period. The questionnaires provide students with an opportunity to 
+feed back and comment on various aspects of their modules, e.g. content, structure, 
+presentation, workload, and provision of resources and give staff evaluation information with 
+which to enhance the module. Students can access module evaluation surveys from any device 
+via personalised email notifications and from Myplace.
+
+--- PAGE 6 ---
+
+18. Student module evaluation data is used for reflection by staff, who prepare a response to students 
+as part of closing the feedback loop. Once student responses have been gathered, a report is 
+produced for the Module Leader. This report determines the format and timeline for the student 
+report (see paragraph 24). 
+ 
+19. If the Module Leader has not provided a response to acknowledge student feedback within the 
+required deadline (normally 6 working days after the survey has closed for mid-semester 
+evaluations and 10 working days after the survey has closed for end-of-semester evaluations), it 
+is escalated to the Head of Department/School or nominee. If no Departmental/School response 
+is then issued within a reasonable timescale, a generic Faculty response to acknowledge the 
+feedback received will be included in the student report. The Vice Deans Academic for each 
+Faculty will receive a report each semester highlighting the modules where no response to 
+student feedback was provided. 
+ 
+20. The Education Enhancement Directorate is responsible for the coordination of Student Module 
+Evaluation surveys. Please contact modules@surveys.strath.ac.uk for further information. 
+ 
+ 
+REPORTING AND RESULTS 
+ 
+21. Student Module Evaluation results are produced at module, Department/School, Faculty and 
+Institution level. Report templates are designed and prepared by the Education Enhancement 
+Directorate, in consultation with Faculties, Departments and Schools. Reports are automatically 
+generated by the module evaluation system within a set period after evaluations have closed, as 
+outlined in Appendix A. Requests for new reports or amendments to a report’s design will be 
+managed               as outlined in the accompanying procedures document. 
+ 
+22. When interpreting results, it should be noted that student module evaluation data is opinion- 
+based, therefore may contain biases towards staff with certain protected characteristics. To 
+account for this, it is important that data is contextualised and interpreted with care (see also Para 
+24). 
+ 
+23. Department/School reports with module level detail will be made available to Heads of 
+Department/School and nominees; data contained in this report should be managed sensitively, 
+with a focus on enhancement activity, and onward distribution only as required. 
+ 
+24. In addition to Module, Department/School and Faculty reporting, aggregate reports will be 
+created as part of wider thematic insight on particular topics of interest (including, but not limited 
+to: Estates, Demographic reporting, International students etc.). These thematic aggregate 
+reports will be shared with Quality Assurance Committee and Learning Enhancement Committee 
+annually and any other relevant committees and working groups where appropriate. Module level 
+results will be anonymised in aggregate reports beyond Department/School level to account for 
+any bias in responses and avoid module-level data being de-contextualised. 
+ 
+25. In aggregate reports, if a breakdown of results would include a sub-group of fewer than 5 
+responses, the data from that sub-group will not be shown. 
+ 
+26. All students registered on the module will receive a report summarising the student feedback 
+along with the Module Leader’s response. In order to preserve confidentiality for staff and 
+students, the student report will not contain free-text responses.
+
+--- PAGE 7 ---
+
+27. Permissions access is managed within the Student Module Evaluation system. The types of 
+reports and to whom they are accessible is outlined in Appendix A. The raw data used to produce 
+the reports outlined in Appendix A  can be exported to allow staff to conduct their own further 
+analyses. 
+ 
+28. Partial completions, i.e. surveys that students have started but not submitted by the closing date, 
+will be included within the final module report. 
+ 
+29. Free text responses are not redacted before reports are issued, therefore comments pertaining 
+to named individual staff members may be included. Any comments not adhering to the 
+University’s Dignity and Respect Policy can be manually redacted by contacting the Education 
+Enhancement Directorate and may be followed up as indicated in paragraph 32. 
+ 
+ 
+DATA PROTECTION 
+ 
+30. All data gathered via student module evaluation is processed in accordance with the 
+University’s Data Protection Policy, the Student Module Evaluation Privacy Notice and the 
+University’s Privacy Notice – Staff and Other Categories. The University’s Student Module 
+Evaluation Privacy Notice  is available on Myplace and links to the Privacy Notice are provided in 
+module evaluation surveys and email notifications. 
+ 
+31. As operators of the University’s module evaluation system, the Education Enhancement 
+Directorate have access to all data and reporting information, including individual survey 
+responses. Access to personal data, including identifiable survey responses, is restricted to 
+individuals who have administrator-level access to the student module evaluation survey 
+system. Student responses to evaluation surveys will be kept confidential by the Education 
+Enhancement Directorate as detailed in the Student Module Evaluation Privacy Notice. 
+ 
+32. The core questionnaire encourages constructive and professional feedback from students, 
+referencing the University’s Dignity and Respect Policy. Responses will remain confidential, 
+except where prior permission is obtained from the student. Where free text comments require 
+further investigation, for example in accordance with the University’s Dignity and Respect Policy, 
+the Student Discipline Procedure or where safeguarding concerns are raised, this will be done at 
+the request of, and in conjunction with, the Head of Department/School or nominee. 
+ 
+33. All response data from the survey will be retained electronically for up to five years, from the end 
+of the academic year in which the feedback was given, to provide trend information. At the end 
+of the retention period, data will be anonymised and retained until no longer required. Staff and 
+student contact information will be managed as per the University Records Retention Schedule.
+
+--- PAGE 8 ---
+
+RESPONSIBILITIES 
+ 
+All Staff • Responsible for encouraging students to complete the survey and to 
+give honest feedback. 
+• Where possible, academic staff should give students the opportunity 
+to complete their questionnaires during live contact time, whether  
+face-to-face or online. 
+• Responsible for ensuring their personal information and teaching 
+records (e.g. Pegasus Roles and Responsibilities) are up-to-date. 
+Module Leader • Responsible for setting up mid- and/or end-of-semester evaluations 
+on the Myplace class site, decision making and ensuring appropriate 
+permissions on Myplace for those who require access. 
+• Responsible for ensuring module evaluation takes place as an active 
+part of learning and teaching, clearly and objectively with a focus on 
+enhancement. 
+• Responsible for reviewing and reflecting on module evaluation as  
+part of the wider module review process 
+• Producing comments to acknowledge student feedback by the 
+required deadline, adhering to the University’s Dignity and Respect 
+Policy. 
+Head of Department/ 
+School 
+• Responsible for reviewing and reflecting on module evaluation and 
+all decision-making at a Department/School level. 
+• Responsible for determining the distribution of Department/School 
+reports. 
+• Responsible for ensuring that staff responses to student feedback 
+adhere to the University’s Dignity and Respect Policy. 
+• Responsible for ensuring that participation in module evaluation 
+does not affect students’ standing in the University. 
+• Responsible for ensuring that staff promote and encourage 
+responses to Student Module Evaluations. 
+Deans / Vice Deans 
+Academic 
+• Responsible for providing summary reports on satisfaction and 
+response rates at Faculty Academic Committee and other 
+committees and working groups as required. 
+• Responsible for championing the use of the central online facility for 
+Student Module Evaluation across the Faculty. 
+Education 
+Enhancement 
+Directorate 
+• Business owners and data custodians. 
+• Responsible for the administration and operation of the central 
+Student Module Evaluation system and module evaluation settings  
+in Myplace. 
+• Responsible for communicating key requirements and deadlines. 
+• Responsible for developing and sharing information and guidance  
+materials related to the Student Module Evaluation process and  
+system. 
+• Responsible for preparing an Annual report on Student Module 
+Evaluation for QAC and Surveys and Metrics Working Group. 
+Quality Assurance 
+Committee 
+• Responsible for reviewing and reflecting on the Module Evaluation 
+Report 
+• Responsible for overseeing the implementation of the Module 
+Evaluation Policy 
+Students • Participating students are responsible for providing constructive and 
+professional feedback in line with the University’s Dignity and 
+Respect Policy.
+
+--- PAGE 9 ---
+
+Appendix A 
+ 
+Reports Produced and Access within System 
+Direct access to the module evaluation system will be provided to the users specified in the table below. 
+TYPE OF 
+REPORT 
+WHAT THE REPORT WILL COVER SYSTEM ACCESS PROVIDED 
+TO* 
+Response rates Real-time reporting of student response rates 
+ 
+ 
+Closing the feedback loop (staff) response 
+rates 
+Lecturers and Class Organisers 
+(Module Leaders) 
+Head of Department/ School and 
+nominees 
+ 
+Head of Department/ School and 
+nominees 
+Module Reports 
+(Staff) 
+Aggregated module summary and frequency 
+analysis of results by question (for rating 
+questions) 
+Mean scores by question and comparison to 
+Department/School or Academic Unit mean  
+Free text responses 
+Summary of key elements for free text 
+responses 
+Reflective comments from module leaders (in 
+final version issued after response provided 
+to students) 
+Module Leaders (Class 
+Organisers) 
+Head of Department/ School and 
+nominees 
+Student Reports Reflections from module leaders 
+Aggregated summary of responses to ratings 
+questions (not included in short format 
+reports) 
+*Note that students do not receive free text  
+comments 
+All students enrolled on a module 
+being evaluated 
+Department/ 
+School Reports 
+Aggregated Department/School summary 
+and frequency analysis of results by question 
+(for rating questions) 
+Mean scores by question and comparison to  
+Department/School or Faculty mean 
+Free text responses 
+Summary of key elements for free text 
+responses 
+Module level breakdown of results (included  
+in separate summary) 
+Head of Department/ School and 
+nominees 
+Faculty Reports Overall aggregate satisfaction score for 
+Faculty and Departments/Schools 
+Student response rates broken down for 
+Faculty and Department/School level 
+Staff response rates to closing the feedback 
+loop broken down by Faculty and 
+Department/School level 
+Dean 
+Vice Deans Academic 
+Demographic 
+Reporting 
+Interpretation of feedback from students by 
+gender, ethnicity, etc. Can be done at 
+Education Enhancement 
+Directorate – distribution to QAC,
+
+--- PAGE 10 ---
+
+institution level then broken down by Faculty, 
+Department/School to identify trends. 
+LEC and other relevant 
+Committees and audiences as 
+required 
+Aggregate 
+Reporting 
+Module-anonymised reports produced e.g. for 
+Estates Services, ISD and on topical themes, 
+e.g. teaching facilities to compare before and 
+after launch of new learning and teaching 
+building. 
+Free text comments provided by students can 
+be mined for aggregate and thematic 
+reporting, e.g. to count number of comments 
+referencing a particular word/phrase and 
+produce summary of content or to contribute  
+to aggregate reporting, e.g. comments from a 
+particular Department/School related to 
+computing labs. 
+Education Enhancement 
+Directorate – distribution to QAC,  
+LEC and other relevant 
+Committees and audiences as 
+required 
+ 
+* Access is provided to the individual’s own module, Department/School or Faculty only.

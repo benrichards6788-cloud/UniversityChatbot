@@ -1,0 +1,2810 @@
+--- PAGE 1 ---
+
+CODE OF PRACTICE ON 
+ 
+INVESTIGATIONS INVOLVING 
+HUMAN BEINGS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eighth Edition
+
+--- PAGE 2 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Contents   
+ 
+ 
+INTRODUCTION 4 
+ 
+1. General Scope 
+ 
+4 
+2. Exclusions from the Code 5 
+3. Ethical and legal principles 5 
+3.1 Compliance with ethical principles, Code and Law 5 
+3.2 General ethical principles 5 
+3.3 Ethics and Law 6 
+ 
+SECTION A: ETHICS COMMITTEES AT THE UNIVERSITY 
+ 
+7 
+1. University Ethics Committee 7 
+1.1 Purpose of the University Ethics Committee 7 
+1.2 Composition of the University Ethics Committee 7 
+1.3 Declaration of interests 8 
+             1.4 Confidentiality                                                                                                                     8 
+2. Departmental/School Ethics Committees 8 
+2.1 Purpose of Departmental/School Ethics Committees 8 
+2.2 Composition of Departmental/School Ethics Committees 8 
+ 
+SECTION B: PRINCIPLES AND PROCEDURES FOR OBTAINING ETHICAL APPROVAL 
+ 
+9 
+ 
+1. Projects which require consideration by the University Ethics Committee 
+ 
+12 
+1.1 Project considerations 12 
+1.2 Participant considerations 12 
+2. Projects which may be considered by a Departmental/School Ethics Committee 13 
+3. Generic framework approvals and procedures 13 
+3.1 Multistudy approval 13 
+3.2 Devolvement 14 
+             3.3 Simplified approval procedures                                                                                            14 
+3.4 Risk management 14 
+4. Specific ethical principles                                                                                                                 15 
+4.1 Suitability of investigators 15 
+4.2  Recruitment of participants 15 
+4.3  Informed consent 16 
+4.4. Anonymity 20 
+4.5  Information of criminal or other wrongful conduct 20 
+4.6  Biological and medical investigations and previous medical history 21 
+4.7. Medical records and other records relating to care, education etc 22 
+4.8  Research in relation to deceased persons 22 
+4.9  Cadaveric tissue 22 
+4.10 Exposure to risk, including location of investigations 23 
+5. Approval procedures: University Ethics Committee 23 
+5.1 Powers of the Committee in considering applications 23 
+5.2 Applications not approved 23 
+             5.3 Applications deferred or approved subject to conditions being satisfied                          23 
+6. Amendments to investigations following ethical approval 24 
+7. Student investigations and members of staff undertaking degrees 24 
+8. Collaborative Investigations with other universities, non-governmental organisations (NGOs) 25 
+and other organisations
+
+--- PAGE 3 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+3  
+ 
+ 
+ 
+ 
+ 
+ 
+        Contents   
+ 
+ 
+9. Investigations involving the NHS, including clinical trials 25 
+9.1 Process 26 
+9.2 Honorary contracts 26 
+9.3 Model agreement for non-commercial research with the NHS 26 
+9.5 Student investigations 27 
+10. Investigations conducted on other premises 27 
+11. Any investigations conducted outside the UK and Europe, including clinical trials 27 
+12. Adverse events 27 
+12.1 Adverse events in any type of situation 27 
+12.2. Adverse events in clinical and other medical/biological trials 28 
+13. Related approval procedures 28 
+ 
+SECTION C: MANAGEMENT APPROVAL/SPONSORSHIP PROCEDURES 
+ 
+29 
+ 
+1. Introduction 
+ 
+29 
+2. Procedures for University sponsorship 29 
+2.1 The RKES procedure 29 
+2.2 The Head of Department procedure 29 
+3. Investigations where the university is not being asked to be the sponsor 30 
+4. Insurance 30 
+ 
+SECTION D: RECORD KEEPING, MONITORING AND REPORTING 
+ 
+31 
+ 
+1. Data protection 
+ 
+31 
+1.1 Use of personal data in research 31 
+1.2 Data protection principles 31 
+1.3 Research data exemption 32 
+2. Data management and record keeping 33 
+2.1 Data planning 33 
+2.2 Data management responsibilities 33 
+2.3 Data security 33 
+2.4 Sharing data 34 
+2.5 Retention of data 34 
+2.6 Disposal of data 35 
+2.7 University Ethics Committee records 35 
+2.8 Department Ethics Committee records and monitoring 35 
+3. Monitoring of investigations approved by the University Ethics Committee 35 
+3.1 Monitoring of investigations approved by the University Ethics Committee  35 
+3.2 Monitoring of generic framework Investigations 36 
+ 
+SECTION E: ANNEXES 
+ 
+37 
+ 
+ANNEX 1 GLOSSARY 
+ 
+38 
+ANNEX 2 KEY RESPONSIBILITES OF SPONSOR 40 
+ANNEX 3 KEY RESPONSIBILTIES OF CHIEF INVESTIGATOR 41 
+ANNEX 4 INSURANCE 42 
+ANNEX 5 NOTE ON THE LAW GOVERNING RESEARCH INVOLVING HUMAN TISSUE 45 
+ANNEX 6 RESEARCH IN RELATION TO DECEASED PERSONS 47 
+ANNEX 7 DEFINITION OF MEDICAL DEVICES 48
+
+--- PAGE 4 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+4  
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+ 
+Investigations involving human beings as participants are undertaken in this University in the course of teaching 
+and research. The University seeks to ensure that the conduct of all its staff and students carrying out such 
+work, whether biological, psychological or sociological, conforms to standards set by professional bodies, and is 
+known to do so. The University Ethics Committee, with its associated Departmental/School Ethics Committees, 
+has been established to consider general ethical issues relating to the teaching and research of the University 
+which involve investigations on human beings. It aims to provide impartial advice to participants and investigators 
+and to protect the dignity, rights, safety and well-being of all actual and potential participants. In carrying out this 
+role it is the body responsible for giving ethical approval for investigations involving human participants. Ethical 
+approval is required before any such investigation can start. 
+ 
+The guidelines given in this document describe the overall principles and procedures by which the University 
+makes ethical judgements on teaching and research investigations that involve human beings as participants. 
+In applying these principles a balance has to be found. On the one hand the University requires that 
+appropriate safeguards are in place, but on the other hand it does not want to impose unnecessary regulatory 
+barriers that would prevent good teaching and research from taking place. The two major factors influencing 
+this balance are risk and complexity: when the investigation involves a higher level of risk for a participant, 
+or requires that the participant understand complex issues before giving informed consent (judged in both 
+cases from the point of view of the participant), then there is a greater procedural burden on the investigator. 
+The investigator has to establish that reasonable steps have been taken to mitigate risks, and that the residual 
+risks are justified in terms of advances to human knowledge that the project will bring. Where participants 
+have to consider complex issues in giving consent then the investigator has to ensure that information and 
+time is given so that participants can properly reflect before giving their consent. In less complex cases 
+verbal information and implied consent may be appropriate. It is the role of the University ethics committees 
+to make such judgements. 
+ 
+In parallel with ethical approval, management risk and sponsorship are assessed. The sponsor of an 
+investigation is the organisation that takes ultimate responsibility for that investigation – this is normally the 
+University of Strathclyde, the lead University in a multi-institution project, the NHS, or the financial sponsor. 
+All investigations requiring ethical approval must have an identified Sponsor. You must not start work on an 
+investigation until you have a formal statement from the designated Sponsor confirming that sponsorship is 
+in place. If your research requires a Sponsor you must not start work on the project until you have a formal 
+letter/statement from the designated Sponsor. Management risk assessment is one of the requirements of 
+the University’s insurance cover in order to be able to demonstrate proper management of that investigation. 
+ 
+This Code of Practice was developed by the University Ethics Committee and Research & Knowledge 
+Exchange Services (RKES). It was first published in March 2008. 
+ 
+ 
+ 
+1.      General Scope 
+ 
+ 
+The Code covers: 
+ 
+• all investigations conducted by University staff and students involving human beings, whether for research, 
+teaching, student projects, or other educational purposes, and using any type of research methodology; 
+• all investigations  conducted on University property, through the University, or under the auspices of the 
+University (including on sites external to the University and involving investigators from outside the 
+University), that involve human beings as participants, including investigations which have been transferred 
+from other organisations; 
+•     collaborative investigations involving human participants carried out by University staff and students 
+working with investigators who are not staff or students of the University, including data analysis where the 
+data has been obtained by a collaborating body. 
+ 
+All University staff, associated staff, registered students and other investigators involved in University-related 
+investigations are obliged to follow this Code of Practice.
+
+--- PAGE 5 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+5  
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+ 
+2.      Exclusions from the Code 
+ 
+ 
+The Code does not apply to: 
+ 
+•     procedures undertaken as part of routine patient-care: advice should be sought from the relevant 
+NHS body 
+•     research which involves only working from historical and literary databases and documents 
+•     consultation with colleagues, experts or other stakeholders about the preparation or progress of an 
+investigation, where those people do not contribute to the actual findings 
+• work which is part of routine practices in professional contexts or service evaluation (unless otherwise 
+provided). 
+ 
+A service evaluation is: 
+ 
+•     designed and conducted solely to define or judge a service 
+•     designed to answer the question - ‘What standard does this service achieve?’ 
+•     usually involves analysis of existing data but may include administration of a simple interview or 
+questionnaire. 
+ 
+If you are in doubt as to whether your investigation is a service evaluation, please seek advice from your 
+Departmental/School Ethics Committee in the first instance or from the Secretariat for the University Ethics 
+Committee (ethics@strath.ac.uk). 
+ 
+ 
+ 
+3.      Ethical and legal principles 
+ 
+ 
+3.1.   Compliance with ethical principles, codes and Law 
+ 
+ 
+All investigations on or involving human participants must comply with: 
+ 
+•     rules in this Code of Practice; 
+•     all ethical principles and relevant codes and guidance developed by professional and international 
+bodies and research councils; 
+•     legislation and legal rules. The applicable law is that of the place or places where any aspect of 
+the project is carried out, including of any place where the data are analysed. Where particular rules of 
+law relate to the provisions in this Code of Practice, they are the rules of the Law of Scotland. These, 
+therefore, are not necessarily applicable to other jurisdictions.
+
+--- PAGE 6 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+6  
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+ 
+3.2.   General ethical principles 
+ 
+ 
+For all investigations covered by this Code, approval must be given by the relevant Ethics Committee (i.e. 
+either the University Ethics Committee, the Departmental/School Ethics Committee or other ethics 
+committee as appropriate) before the work may commence. For investigations involving the NHS, ethical 
+approval must be sought from the relevant NHS Research Ethics Committee. Please note: 
+ 
+•     there is an obligation on all investigators to protect participants, and potential participants, from possible 
+harm and to preserve their dignity and rights. 
+•     investigations should not involve any significant risk to the physical or mental well-being of the  
+participants. 
+•     confidentiality and privacy of participants must be maintained. 
+•     an appropriate person (the Chief Investigator, who must be a Grade 7 or above member of staff, 
+or equivalent) must take responsibility for the investigation; in particular, in the case of student 
+investigations, the student’s supervisor is responsible for the investigation and must act as Chief 
+Investigator. 
+•     transparency and openness including accurate reporting of data. 
+•     investigations which duplicate other work unnecessarily or which are not of sufficient quality to make a  
+useful contribution to existing knowledge are in themselves unethical. 
+•     investigators should justify the number of participants chosen for each study. 
+•     insurance cover may be invalidated if an investigation commences before ethical approval (as required 
+by this Code of Practice or by other legislation/guidelines) has been obtained. 
+ 
+ 
+3.3.   Ethics and Law 
+ 
+ 
+Legal rules affect the following aspects of an investigation, in particular: 
+ 
+•     consent by or on behalf of participants in an investigation 
+•     protecting a person’s right to autonomy and dignity, including, but not confined to, bodily integrity,  
+privacy and confidentiality 
+•     protecting a person’s property or his/her right to control property, including but not confined to rights of  
+people who are not participants, e.g. to determine who comes onto their property 
+•     a person’s rights arising from adverse events such as personal injury or illness caused 
+•     particular contexts, where legislation provides a special additional set of rules, including but not 
+confined to the legislation relating to children and young persons, and legislation relating to adults with 
+cognitive impairment 
+•     the processing and storing of personal data, in particular provisions of the Data Protection Act 1998 and 
+associated regulations 
+•     a person’s rights to access information under the Freedom of Information (Scotland) Act 2002 
+•     use of human tissue obtained from deceased persons [Human Tissue (Scotland ) Act 2006 and the 
+Anatomy Act (1984)].
+
+--- PAGE 7 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+7  
+ 
+ 
+ 
+ 
+SECTION A: 
+Ethics Committees at the University 
+ 
+ 
+1.      University Ethics Committee 
+ 
+ 
+1.1    Purpose of the University Ethics Committee 
+ 
+The University Ethics Committee (U E C ) is a sub-committee of the Research & Knowledge Exchange 
+Committee (RKEC). Its remit is: 
+ 
+•     to devise and submit for approval by RKEC a University Code of Practice on investigations on human 
+beings, to keep the Code under review and to recommend such modifications as from time to time are 
+deemed necessary 
+•     to implement the current edition of the Code and to amend and update the Annexes as appropriate 
+•     to consider whether ethical approval should be granted for applications submitted to it for ethical review, 
+applying appropriate skill and care in doing so 
+•     to continue to monitor investigations for which approval has been given, and receive reports on their 
+outcomes 
+•     to  consider  and  promote  the  understanding  of  general  ethical  issues  relating  to  the teaching and 
+research of the University which involve investigations on human participants and to provide impartial 
+advice to staff and students of the University who undertake or who participate in such investigations 
+on the ethical considerations involved 
+•     to protect the dignity, rights, safety and well-being of all actual and potential participants involved in such 
+investigations 
+•     to be available to give advice and to liaise with external bodies, such as relevant NHS Research Ethics 
+Committees and national university research ethics committee organisations, on ethical matters as 
+appropriate 
+•     to monitor the work of Departmental/School Ethics Committees 
+•     to report annually to RKEC. 
+ 
+1.2    Composition of the University Ethics Committee 
+ 
+ 
+The composition of the UEC is such that it comprises a pool of up to 18 members representing a broad range 
+of experience and expertise and normally including a member with academic training or expertise in ethics, 
+a lawyer and a medically qualified person. There is a quorum of seven members for each meeting. The UEC 
+comprises: 
+ 
+•     up to 12 internal members from members of staff within the University, one of whom shall be the Convener 
+•     up to three external members who are not employees of the University 
+•     up to three lay members who are independent of the University and have no previous experience in 
+carrying out investigations involving human participants. 
+ 
+Members of the UEC will normally be appointed for three years at a time, and may be reappointed for 
+subsequent years. 
+ 
+The Convener of the UEC is appointed by the Senior Officer with responsibility for the UEC and the Director of 
+Research & Knowledge Exchange Services (RKES). Up to four Vice Conveners may also be appointed. The 
+Convener and Vice Conveners are appointed from amongst the members of the UEC, for a maximum period 
+of six years, and normally for three years in the first instance. The Convener and Vice Conveners may act on 
+behalf of the UEC and may approve investigations between meetings, subject to agreement of the UEC and 
+report back on any action taken. A Vice Convener may act in the absence of the Convener and as 
+otherwise delegated by the UEC. There is no automatic progression from Vice Convener to Convener. 
+ 
+Additionally, at the Convener’s discretion, the UEC may seek expert advice and guidance from named 
+members of staff or other independent experts on a range of matters as and when required.
+
+--- PAGE 8 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+8  
+ 
+ 
+ 
+ 
+SECTION A: 
+Ethics Committees at the University 
+ 
+ 
+1.3    Declaration of interests 
+ 
+All members of the UEC, and anyone asked to provide expert advice to the UEC, who have an interest 
+which may affect their consideration of a particular application or matter are required to declare that 
+interest and, if necessary, should temporarily withdraw from the meeting for consideration of that proposal. 
+The University’s Code of Practice on Conflicts of Interest 
+(www.strath.ac.uk/media/ps/cs/gmap/academica ffairs/publications/Code_of_Practice_ -_Conflicts_  
+of_Interest.pdf) must also be adhered to. 
+ 
+1.4    Confidentiality 
+ 
+All members of the UEC are expected to respect the confidentiality of the UEC’s business. Lay and external 
+members are required to sign a confidentiality statement on their appointment to the UEC. This statement 
+confirms that they will respect the confidentiality of the UEC’s business in relation to information of a 
+commercially sensitive nature or relating to intellectual property rights. 
+ 
+ 
+ 
+2.      Departmental/School Ethics Committees 
+ 
+ 
+2.1.   Purpose of Departmental/School Ethics Committees 
+ 
+Every department which undertakes projects which fall within the remit of this Code of Practice should establish 
+a Departmental Ethics Committee (DEC) or a School Ethics Committee (SEC). The DEC/SEC should consider 
+all applications for ethical approval within the department that do not fall within the criteria for consideration by 
+the UEC, and any matter referred to it by the UEC, applying appropriate care and skill in doing so.  
+ 
+•     DEC/SECs shall meet as often as required to consider applications made to them. Investigators who have 
+submitted proposals for consideration shall be informed of the DEC/SEC’s decision by the secretary to the 
+DEC/SEC. 
+•     DEC/SECs shall report annually to the UEC on their work. 
+•     DEC/SECs should consider preparing guidance and procedures relevant to research and related activities 
+in their domain drawing on this Code of Practice and relevant professional standards.  
+ 
+There may be instances when it would be appropriate to establish joint Departmental/School Ethics Committees, 
+for example, smaller departments might find it advantageous to work within a larger grouping where expertise 
+and responsibilities can be shared. 
+ 
+2.2    Composition of Departmental/School Ethics Committees 
+ 
+ 
+The composition of the DEC/SECs is such that they shall comprise a minimum of two members of staff from 
+the Department(s)/School concerned and may also include either a member of staff from another department 
+or an external member. The quorum for DEC/SECs is two, and it is essential that no member of staff acts as 
+a member of the committee when it is considering an application that he or she has submitted to it. One 
+of the members of the DEC/SEC must act as Convener of the DEC/SEC and may also act as Secretary to 
+the DEC/SEC, or another person may act as secretary. The secretary has the obligation to provide further 
+information to investigators as necessary in formulating applications, and will be responsible for informing 
+them of the decision of the DEC/SEC, and where the application is rejected, or the DEC/SEC requires it to 
+be amended, the reasons for that decision. The Convener and/or Secretary of the DEC/SEC are responsible 
+for maintaining a record of all submissions made to it and the decisions reached.
+
+--- PAGE 9 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+9  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+The following section contains a step-by-step guide to the procedures to be followed - see also the flow charts 
+overleaf. 
+ 
+Chief Investigators should ascertain whether the application falls within the remit of the UEC or the DEC/ 
+SEC – see Section B1 and B2 (refer to pages 10-12). 
+ 
+Investigators must have all relevant ethical approval, insurance cover, and sponsorship approval in place 
+before the study can begin. 
+ 
+University Ethics Committee 
+ 
+ 
+•   The Chief Investigator (CI) should complete the University application form (available online at 
+www.strath.ac.uk/ethics) and obtain the signature of the Head of Department. If the CI or co-
+investigator is the Head of Department then the application must be signed by the Dean. or if the study 
+involves the NHS then an IRAS application form has to be completed – this can be downloaded from 
+the IRAS website – www.myresearchproject.org.uk/. 
+•     The completed application form should be sent to ethics@strath.ac.uk together with all accompanying 
+documentation, e.g. participant information sheets and consent forms, by the deadline set by UEC. 
+Templates for the participant information sheet and consent form and the deadlines for submitting 
+applications can be found on the ethics website. RKES will process for sponsorship and management 
+approval and inform the CI of the decision. 
+•     The UEC will consider the application and may approve it; or may seek further information; or may not 
+approve it. The Chief Investigator will be informed of the outcome of UEC’s deliberations. 
+•     If the application is approved, then confirmation of insurance cover will also be provided to the CI. 
+•     If further information is required the CI will be told what this is. The UEC may decide that the further 
+information has to go back to UEC for consideration and approval, or the Convener/Vice- Convener may 
+be delegated authority to approve it on behalf of Committee. 
+• The CI will be told of the outcome. 
+• The CI must ensure that final revisions have been communicated to UEC within one year  of initial review 
+by UEC of the application for ethical approval.  Failure to do so will mean that a new application must be 
+submitted. 
+ 
+ 
+ 
+Departmental/School Ethics Committee 
+ 
+ 
+•     The Chief Investigator (CI) should complete the University application form (as above). 
+•     If study involves the NHS or has external funding then the completed form has to be sent to ethics@ 
+strath.ac.uk (together with all accompanying documentation). RKES will process for sponsorship and 
+management decision, as well as confirmation of insurance cover. The CI will be informed as to the 
+decision. 
+•     At the same time the completed form can be sent to the department for consideration by the DEC/ 
+SEC. 
+•     If the study does not involve the NHS and has no external funding then the Head of Department may take 
+the decision on sponsorship and management and can approve the study if satisfied. 
+•     The DEC/SEC will consider the ethical dimension of the study and may approve it; or seek further 
+information; or may not approve it. The DEC/SEC may have set deadlines for applications and 
+investigators should be aware of these. The DEC/SEC will notify the CI of the outcome of its deliberations. 
+•     If further information is required the CI will be told what is required. 
+•     Once approved, the DEC/SEC will notify the CI accordingly. 
+ 
+ 
+HaSS applications 
+ 
+ 
+There are different processes and procedures for HaSS applications to the UEC and their SEC, please 
+contact the HaSS Research and Knowledge Exchange support team (RaKET) by email on  hass-rke@strath.
+
+--- PAGE 10 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+10  
+ 
+ac.uk or refer to www.strath.ac.uk/ethics for guidance.
+
+--- PAGE 11 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+11  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+Procedures for ethics applications for investigations involving human beings: 
+Submission to University Ethics Committee
+
+--- PAGE 12 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+12  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+Procedures for ethics applications for investigations involving human beings: submission to  
+Departmental/School Ethics Committee
+
+--- PAGE 13 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+13  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+1.      Projects which require consideration by the U E C 
+ 
+ 
+Investigations governed by the Code that involve any of the following types of projects or 
+participants must be submitted to the UEC for prior approval: 
+ 
+1.1.   Project considerations 
+ 
+ 
+Studies must be considered by the UEC if they involve: 
+ 
+i.    any significant harm or serious discomfort of a physical or psychological nature 
+ii. an extensive degree or duration of exercise or physical exertion beyond that to which all the 
+participants are habitually accustomed 
+iii.   the collection and/or use of human biological tissue and/or fluid 
+iv.   the use of an invasive procedure 
+v.   the isolation and profiling/typing of an individual’s DNA 
+vi.  intentional deception of participants where the true nature of the study is such that there is a 
+possibility of causing physical or psychological harm or distress 
+vii.  activity which can be classed as a clinical trial or any type of investigation of a pharmaceutical drug, 
+medical procedure or medical device (see Annex 7 for the definition of ‘medical device’) 
+viii. the administration o r discontinuation of pharmaceutical drugs, liquids or other substances not 
+normally consumed by the general population 
+ix.   a situation where highly personal, intimate or other private or confidential information of a  
+personal nature is sought 
+x.   the NHS, where the criteria in Section B9 (below) apply. Check that NHS approval is needed 
+– use of NHS staff and premises may not in themselves be criteria for requirement of NHS  
+approval. 
+ 
+1.2    Participant considerations 
+ 
+ 
+Studies must be considered by the UEC if they involve a group of participants who are in a situation of 
+special vulnerability (e.g. women of childbearing potential where the investigation might carry any risk to 
+pregnancy orto a foetus, or persons with addictions). This may include those who: 
+ 
+i.    are severely ill or have a terminal illness 
+ii. are prisoners or young offenders, or are awaiting trial for a crime or offence that is relevant to 
+the project 
+iii.   are potentially subject to coercive measures by government, such as detention, 
+restrictions on movement, deportation or repatriation 
+iv.   live in or are connected to an institutional environment; 
+v.   have a physical disability or a chronic physical condition relevant to the subject of the 
+investigation and for whom participation in the investigation may pose a risk to their 
+wellbeing 
+vi.  are  unable  to  consent  for  themselves  or  have  significant  learning  difficulties  and/or  serious 
+mental health issues and/or cognitive impairment of a nature and extent that would affect their ability 
+to give informed voluntary consent (see sections 4.3.7 and 4.3.8). Not all projects where children 
+under the age of 12 are participants need  to  be  submitted to the UEC. Unless  another of  the 
+conditions in 1.1 or 1.2 above applies, projects where children under the age of 12 are participants 
+may be submitted to the DEC/SEC. 
+ 
+ 
+If you require any further advice on this please contact ethics@strath.ac.uk.
+
+--- PAGE 14 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+14  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+2.      Projects which may be considered by a Departmental/School 
+Ethics Committee 
+ 
+ 
+Where it is clear that a study does not involve any of the criteria which require it to be referred to the UEC, 
+or when the UEC has delegated authority, then DEC/SECs can approve investigations involving human 
+participants. The DEC/SEC may, where appropriate, consider generic framework applications, see Section 
+B3 below. If a DEC/SEC has any doubts about any particular investigation it is asked to consider, or if it does 
+not have the relevant expertise to make a determination on an application submitted to it, or if it cannot reach 
+agreement, then this will be referred to the UEC for consideration. 
+ 
+ 
+ 
+3.      Generic framework approvals and procedures 
+ 
+ 
+Three types of generic framework exist: 
+ 
+•     groups of similar investigations or teaching exercises involving human participants 
+•     devolvement of certain studies from the UEC to a DEC/SEC 
+•     use of simplified approval procedures by a DEC/SEC for a class of investigations under its remit. 
+ 
+Such approvals last for three years. 
+ 
+3.1.   Multistudy approval 
+ 
+ 
+3.1.1 Procedures and approval 
+ 
+It is possible to receive ethical approval for groups of similar investigations and teaching exercises by submitting 
+an application for approval of a generic framework. Such applications should be submitted to the UEC if the 
+multistudy application falls within the remit of the UEC (see Section B1 on page 11) or the appropriate DEC/ 
+SEC if the multistudy application does not fall within the remit of the UEC. This should be submitted using 
+the multistudy application form (see www.strath.ac.uk/ethics) to the relevant ethics committee. 
+ 
+Once the UEC or DEC/SEC has granted approval of a multistudy application, each individual study that 
+falls within this multistudy application will have ethical approval as long as it remains within the parameters 
+of the approved multistudy application and will not need to seek individual ethical approval from the relevant 
+ethics committee. Any study that does not fall or remain within the parameters of the framework must be 
+approved by the relevant ethics committee before it can commence/continue. Multistudy application approval 
+is normally for a period of three years. 
+ 
+Examples of when this approach may be used would be: 
+ 
+•     where approval is required for a specific teaching exercise to be used over several years; 
+•     where approval is required for a number of related investigations that adopt the same procedure(s), 
+and/or use the same research materials, and/or have related objectives, over a period of years. This 
+could apply to student dissertations.
+
+--- PAGE 15 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+15  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+3.1.2  Annual monitoring 
+ 
+The Chief Investigator/Course Leader must keep records of the individual investigations and/or teaching 
+exercises that have begun and that fall within the remit of the multistudy application approval in order 
+to monitor compliance and ensure that current professional standards are being maintained. The records 
+will include investigations/teaching exercise titles, investigators, ethics approval date, start and end dates 
+of the project, management approval date. The DEC/SEC will report annually to the UEC on approvals 
+of multistudy applications and the individual investigations and/or teaching exercises which fall within the 
+multistudy application, as part of the DEC/SEC annual monitoring exercise. The CI will report annually to the 
+UEC in relation to multistudy applications approved by the UEC, as part of the annual monitoring exercise of 
+ongoing investigations. 
+ 
+3.1.3  Risk management 
+ 
+The University’s Risk Management Framework (www.strath.ac.uk/safetyservices/riskmanagement) should be 
+followed by the CI. 
+ 
+3.2     Devolvement 
+ 
+ 
+3.2.1  Procedures and approval 
+ 
+A DEC/SEC can apply to the UEC to request the UEC to devolve responsibility for ethical approval to the 
+DEC/SEC for certain categories of investigations which would normally fall within the remit of the UEC 
+(See Section B1 on page 11) but where the DEC/SEC considers that it has the appropriate expertise to 
+consider such investigations. An application for devolvement should be made on the ‘Request to devolve 
+responsibility’ form. The devolvement application should be sufficiently detailed to allow the UEC to make 
+an informed decision as to whether devolvement would be appropriate. 
+ 
+If the UEC approves the devolvement application, the DEC/SEC must only approve investigations that clearly 
+fall within the parameters detailed in the application form. Should the DEC/SEC have any doubt that an 
+investigation does fall within these parameters or if the DEC/SEC is uncomfortable about granting ethical 
+approval for any individual application then this should be referred to the UEC for consideration and approval. 
+ 
+3.2.2  Annual monitoring 
+ 
+The DEC/SEC must keep records of the individual investigations that fall within the remit of the devolvement 
+and that it grants ethical approval for. The DEC/SEC will be required to report on these records annually to 
+the UEC as part of the DEC/SEC annual monitoring exercise. 
+ 
+3.3     Simplified approval procedures 
+ 
+ 
+Generic frameworks may cover groups of investigations that would normally fall within the remit of the DEC/ 
+SEC, but where the DEC/SEC wishes to use a streamlined procedure. This might include forms adapted to a 
+particular class of investigations, standardised consent forms, exclusion criteria, etc. This type of framework 
+is approved by the DEC/SEC but is reported to UEC as part of the DEC/SEC annual monitoring exercise. 
+ 
+3.4     Risk management 
+ 
+ 
+The  University’s  Risk  Management  Framework  (http://www.strath.ac.uk/safetyservices/riskmanagement/) 
+should be followed by the CI.
+
+--- PAGE 16 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+16  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.       Specific ethical principles 
+ 
+4.1.    Suitability of investigators 
+ 
+ 
+4.1.1  General suitability 
+ 
+All investigators must have the necessary expertise and experience to carry out their role in connection 
+with the investigation. The Committee may seek proof of training for certain procedures and may ask for 
+a curriculum vitae (CV) to be provided. The CI has, and must accept, responsibility for the oversight and 
+monitoring of the investigation, the work undertaken as part of the investigation, and must meet all reporting 
+requirements, including reporting of any change of staff on the project. 
+ 
+4.1.2  Protection of vulnerable groups 
+ 
+Membership of the Protection of Vulnerable Groups (PVG) scheme is available for certain groups of people 
+undertaking regulated work with children (a person under 18 years of age) or a protected adult (someone aged 
+16+ in receipt of one or more care, health or welfare service).  Regulated work is defined by a set of criteria 
+listed on the Disclosure Scotland website.  If a member of staff is appointed to a role in the university which 
+counts as regulated work, then HR will assist with an application to join the PVG scheme.  However, it is current 
+practice for data gathering as part of research activity to be considered by Disclosure Scotland as incidental to 
+main employment duties in a university and therefore, they have not been accepting PVG applications fo r 
+research purposes.  Research which may have an influence on NHS service provision may be an exception to 
+this and may be able to gain PVG scheme membership more easily. Disclosure Scotland may provide 
+alternative types of Disclosure for some research studies (the categories are currently Basic, Standard and 
+Enhanced).    Alternatively, the University can provide a letter for gatekeeper organisations or gatekeepers 
+within organisations stating that data gathering is not considered to be an activity which r equires membership of 
+the PVG scheme. Please contact (Lorna Dougall (l.dougall@strath.ac.uk) for further information. Applicants are 
+advised that appropriate safeguards for the protection of participants (vulnerable or otherwise) should form part 
+of an ethics application, where appropriate, irrespective of the status of PVG membership.  
+ 
+ 
+4.2     Recruitment of participants 
+ 
+ 
+4.2.1  General principles governing recruitment 
+ 
+Methods of recruitment must be consistent with the need to obtain informed consent (see below). There 
+should be no indication, express or implied, of any expectation of an agreement to participate. Generally, no 
+inducement should be offered to a participant or proposed participant. Any payment, other than expenses or 
+small remuneration for time spent, must be justified.
+
+--- PAGE 17 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+17  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.2.2  Recruitment procedure 
+ 
+•     In all cases details of the methods proposed for the recruitment of participants must be provided in the 
+application to the relevant Committee. 
+•     The process of recruitment should normally be initiated via a letter, notice or, if orally, through a group 
+approach rather than to individuals. 
+•     Where advertising is to be used, the form of the advertisement and the publicity method(s) to be 
+adopted for bringing it to the attention of potential participants should be stated in the application. Draft 
+advertisements should be provided with the application for approval. 
+•     Where it is proposed to undertake random street or doorstep surveys, telephone interviews, mail 
+or email surveys, details of these must be included in the application. 
+•     Investigators should justify the number of participants to be included in each investigation. For 
+example, a calculation of the statistical power may be appropriate. If an investigation is ‘underpowered’ 
+then further justification of validity should be given. 
+•     Where the investigation involves the recruitment of non-native English speakers the Committee 
+will wish to be clear about the inclusion/exclusion criteria for the investigation, and be assured that 
+the information about the investigation is presented in an appropriate form and that interpreters and 
+translators are used appropriately to the investigation. The Committee may ask for further information 
+about the qualifications and experience of the interpreters/translators involved before approving the 
+investigation and may request that such individuals be bound by appropriate confidentiality obligations. 
+ 
+4.3 Informed consent 
+ 
+ 
+General principle 
+ 
+It is a general principle that participants have to consent to take part, and consent to the use of any material 
+or personal information. Consent should be voluntary and informed. This principle applies during the course 
+of an investigation as well as when the participant consents to take part. In some situations (detailed at 4.3.3 
+below) this principle is qualified. 
+ 
+ 
+4.3.1 Informed consent during the investigation 
+ 
+Should new information relevant to voluntary consent emerge during the investigation, this information must 
+be communicated to each participant. Where, for any reason, a participant wishes to withdraw from the 
+investigation, or wishes to withdraw some or all of their data, that wish must be respected. Data which is 
+held anonymously cannot be withdrawn once collected and this should be made clear to the participant in 
+accompanying documentation. If the participant wishes it, an opportunity should be provided for him or her to 
+discuss in private decisions relating to withdrawal. 
+ 
+Participants should be made aware that at no time do they have to answer any questions, or participate in 
+any activity, that they may feel uncomfortable with. Incomplete answers may invalidate s ome standardised 
+questionnaires and while participants still have the right not to answer any question, researchers may 
+encourage participants in the written instructions to complete the entire questionnaire. Howeve r, participants 
+must be fully informed as to the nature of the questions before beginning a questionnaire, particularly where 
+there are any questions relating to sensitive or personal information.
+
+--- PAGE 18 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+18  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.3.2 Loss of capacity to consent during an investigation 
+ 
+Should a participant in the course of an investigation lose the capacity (see Section 4.3.7 below) to consent 
+they cease to be a participant unless someone able to legally consent on their behalf does so. As ‘capacity’ 
+applies to specific tasks at a specific moment in time, a person may lose capacity to consent to one part of 
+a study while retaining capacity to consent to other parts. Similarly, capacity to consent may fluctuate across 
+time and consent may need to be re-taken at later intervals. The mechanism and underlying rationale for 
+assessing capacity and taking consent with any population who may have fluctuating or deteriorating capacity 
+should be fully outlined in the application. 
+ 
+4.3.3 Where informed or fully informed consent is not required 
+ 
+It is recognised that some investigations would be invalid if the participants were to be made aware of the 
+whole nature of the investigation or the nature of some aspects of the investigation. The general principles in 
+such circumstances are: 
+ 
+•     the chief investigator will have determined that alternative procedures are not available;  
+•     that the information withheld is the minimum necessary; and 
+•     that the likely reaction of a participant if, after taking part when told of the nature of the investigation or 
+those aspects of it, would not cause discomfort, anger or objection. 
+ 
+The Committee endorses the guidance issued by the British Psychological Society in its Code of Conduct, 
+namely: 
+ 
+“The withholding of information or the misleading of participants is unacceptable if the participants are 
+typically likely to object or show unease once debriefed. Where this is in any doubt, appropriate consultation 
+must precede the investigation. Consultation is best carried out with individuals who share the social and 
+cultural background of the participants in the research, but the advice of ethics committees or experienced 
+and disinterested colleagues may be sufficient. Intentional deception of the participants over the purpose 
+and general nature of the investigation should be avoided whenever possible. Participants should never be 
+deliberately misled without extremely strong scientific or medical justification. Even then there should be strict 
+controls and the disinterested approval of independent advisors.” 
+ 
+4.3.4  Information to be given to proposed participants 
+ 
+ 
+4.3.4.1 Information in writing – information sheet 
+ 
+For investigations that fall within the remit of the UEC or DEC/SEC, and more generally those in which a 
+participant will need to reflect to make an informed decision to participate, it is normal that each proposed 
+participant is given an information sheet. Additionally, the investigator should discuss the investigation with him 
+or her and answer fully and informatively any questions about it. Information sheets must be submitted with 
+the application to the relevant ethics committee for consideration and approval. A template for the Participant 
+Information Sheet (PIS) can be found at www.strath.ac.uk/ethics. 
+ 
+The PIS should: 
+ 
+•     be in a form that is readily understood by the individual proposed participant, or his/her parent or guardian, 
+or other person legally empowered to act, where appropriate 
+•     take account of any vulnerability of the proposed participant 
+•     provide full, relevant details of the nature, objectives and duration of the proposed investigation  
+•     inform proposed participants who the investigators conducting the investigation are and what their 
+designation is, particularly if any of them are students 
+•     detail the procedures the investigation will involve and whether any discomfort or inconvenience is likely 
+to be caused during the investigation or afterwards
+
+--- PAGE 19 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+19  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+•     detail any risks to physical or psychological health that the investigation may  pose 
+•     state that the proposed participant may withdraw at any time and that in that event data arising from his 
+or her participation will be destroyed, unless the participant specifically states at that time that the data 
+may be retained 
+•     state that confidentiality and anonymity will be maintained. Any waiver of confidentiality must be justified 
+and agreed by the participant in writing. Where the investigation is one in which there is a significant 
+likelihood that participants might disclose information relating to serious harm or immediate danger (e.g. 
+in investigations relating to people at high risk of abuse), the circumstances in which the investigator will 
+need to pass on information about that should be stated (see 4.5 below) 
+•     state that data gathered will be securely stored, how long it will be retained, and that it will be used only 
+for the investigation, or detail that it might be used to inform future investigations. If it is to be used for any 
+other investigation, now or in the future, participants must be told and must consent to this. 
+ 
+4.3.4.2 Information in writing – other forms of communication 
+ 
+There are some situations, e.g. an investigation about a person’s experience in the workplace or in a position 
+in an organisation or body where that information is of a non-sensitive nature, the information may be 
+communicated in the form of a letter or an email. 
+ 
+Investigators are encouraged to provide feedback on the outcomes of the investigation to those who 
+participated in the investigation. 
+ 
+4.3.4.3 Information given orally 
+ 
+Where the investigation is low risk and potential participants do not have to understand complex issues, 
+then information can be given orally if appropriate to the research method (for example, street or telephone 
+interviews). The investigator should use a script which should address the same issues as the written 
+information sheets, where appropriate, and include a copy of the script with the application.  
+ 
+4.3.5 Consent forms 
+ 
+ 
+Consent is given by the agreement of a person to participate in a research study. Documenting this consent 
+provides protection for a researcher should a participant later claim that they did not wish to participate 
+or had done so under false pretences. It also provides an additional check as to what understanding the 
+participant has concerning the research and their involvement in it. Consequently, the University requires that 
+documented consent be obtained wherever possible. 
+ 
+Consent should be obtained in an appropriate way. The mode of consent should be expressed in a way that 
+is readily understood by the proposed participant, or his/her parent, guardian, or person legally empowered 
+to act. The mode of form should take account of any vulnerability of the proposed participa nt. 
+ 
+Except in the circumstances detailed below every participant should sign a consent form following information 
+being given as above within information sheets. Consent forms must be submitted with the application to the 
+ethics committee for consideration and approval. A template for the consent form can be found on the website 
+www.strath.ac.uk/ethics. Note that while the NHS requires the use of tick boxes or initials to each bullet point 
+on a consent form, for research not involving the NHS, UEC recommends that a single signature at the bottom 
+of the consent form is necessary and sufficient to give documented understanding of all the bullet points and 
+consent to participate. The only exception to this is where some parts of the study are optional (e.g. access 
+to medical records, audio or video recording) where a yes/no bullet point can be included (note: if audio or 
+video recording is necessary then this should be given as a normal bullet point without a yes/no option and 
+willingness to be recorded as part of the study should be included as an inclusion criterion).
+
+--- PAGE 20 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+20  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+Potential participants should be given time to consider the information sheet if there are risks, ethical issues or 
+other considerations which may require reflection on whether to participate or not (e.g. time commitment), and 
+the consent form will include a statement which confirms that the participant has understood the information in 
+the information sheet. Specific consent to audio or video recording, where this is proposed to be used, must 
+be given. 
+ 
+Where samples of human biological material are to be taken the form must include consent to  their use. 
+The Chief Investigator must retain copies of the signed consent forms for each participant.  
+Other forms of consent 
+ 
+4.3.6 Implied consent 
+ 
+ 
+In the circumstances described above, where information is not provided through a written sheet, consent  
+can be given in a corresponding way – email, letter, orally, or via a check box on a webpage or questionnaire. 
+Completing and returning a questionnaire (or pressing a ‘submit’ button online) may also be taken as consent. 
+When a telephone interview is to be recorded the participant must consent and that agreement should ideally 
+be included in the audio recording 
+ 
+4.3.7 Obtaining consent from participants whose cognitive ability is impaired 
+ 
+ 
+It should be determined by a person with appropriate expertise whether any proposed participant whose 
+cognitive ability is impaired may lack capacity to consent. If a person with appropriate expertise is not able to 
+confirm that a proposed participant is capable of giving informed consent then the investigator must contact a 
+person who can act on his or her behalf (this may be a parent, someone with legal power appointed under a 
+Welfare Power of Attorney, or a Guardian appointed under the Adults with Incapacity (Scotland) Act 2000, or 
+a carer). This person should confirm whether or not the proposed participant is able to give informed consent, 
+and if not will be responsible for giving, or refusing, consent. The investigator should also be clear that the 
+participant is happy to take part in the investigation and record that in writing in an appropriate form. 
+ 
+If any proposed participant’s cognitive ability is to an extent impaired but sufficient to understand and 
+give consent, then consent must be obtained from him or her, and additionally the consent of any person 
+empowered to act on his or her behalf must be obtained. 
+ 
+ 
+4.3.8 Obtaining consent from participants under the age of 16 
+ 
+ 
+Researchers recruiting participants under the age of 16 are normally expected to gain written consent from 
+parents, or other(s) with parental responsibilities, to include their children in the study. Consent should also 
+be obtained from the child, normally after that. Researchers may require the child ’s consent to be in writing 
+(depending on the nature of the study and the age, maturity and life experience of the child) but if given orally, 
+for example as an expression by the child that he or she is happy to participate, researchers should maintain 
+a record showing that consent was given. 
+ 
+There may be circumstances where it is not possible to gain parental consent due to the nature of the 
+study (e.g. a street interview), or situations where seeking parental consent is deemed unnecessary due to 
+the nature of the study and the context of the child. However, even where a research question may seem 
+entirely harmless, it may not be the case for a particular group or a particular child and any study not seeking 
+parental consent on this ground must fully justify this approach (taking into account the standpoint of parents 
+wishing to be involved and informed on any research involving their children and any known views of the child 
+with respect to the question). It may be appropriate instead to obtain consent from a person who acts as a 
+‘gatekeeper’ to the child or children (e.g. a head teacher) rather than from parents but this approach must also 
+be fully justified in the application.
+
+--- PAGE 21 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+21  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.3.8.1 Active/passive consent of parents 
+ 
+It is generally expected that active (opt-in) consent will be sought unless there is sound justification for passive 
+consent (opt-out). The decision to seek active or passive parental consent will depend on several factors 
+including the nature of the study and views of gatekeepers and other stakeholders. 
+ 
+ 
+4.3.8.2 ‘Looked after’ children 
+ 
+Where a child is a ‘looked after’ child (e.g. in residential care) the investigators must identify who has ‘parental 
+responsibilities’ with respect to that child. Permission must be obtained from the appropriate person or 
+organisation that has parental responsibilities to contact that child. In doing this, information about the nature 
+of the investigation and its potential impact on the child should be given to that person.  
+ 
+If a parent has ‘parental responsibilities’ but in view of the best interests of the child, for instance, in the light 
+of a background of harm to the child or breakdown of family relationships, consent should not be sought from 
+that parent or other family member. 
+ 
+In all other situations the consent of the person with ‘parental responsibilities’ should be obtained. The 
+investigator should also be clear that the child is happy to take part and record that in writing in an appropriate 
+form. 
+ 
+ 
+4.4.   Anonymity 
+ 
+As a general principle, participants should not be identifiable in the investigation outputs, except where they are 
+providing information as experts and have consented to being identified. Investigators should, where possible, 
+follow general Data Protection Act principles, in particular by either anonymising or pseudo-anonymising data 
+as soon as possible. Section D sets out guidance in relation to the Data Protection Act 1998. 
+ 
+Detailed reasons should be given in the application as to why it is proposed not to follow this principle. In such 
+a case express waiver of the principle should be included in the consent form. The waiver should be of the 
+minimum necessary extent. 
+ 
+4.5.   Information of criminal or other wrongful conduct 
+ 
+There is no general requirement to pass on information relating to criminal or other wrongful conduct. However, 
+there are important exceptions and certain other requirements in particular contexts:  
+ 
+4.5.1 Criminal or other wrongful conduct by participants 
+ 
+•    Where the investigation is of a nature that any participant will, or will be likely, to refer to things he or is 
+doing or has done that constitute a criminal offence, the researcher should ask the participant if he or she 
+is comfortable with revealing such information. This and the participant’s response should be recorded in 
+writing. If the participant says he or she is not comfortable, the researcher should not take any steps that 
+will be likely to lead to the participant’s revealing that information. If this entails terminating the research 
+with that participant the investigator should avoid conveying any impression that the participant should 
+change his or her mind.   If the study involves a group setting, then the researcher should ask each 
+participant present whether they are comfortable with having such information revealed and establish 
+agreed rules for confidentiality.  If there is an objection then the researcher must decide whether to ask 
+the speaker not to reveal such information or to excuse the objector from the session.
+
+--- PAGE 22 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+22  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+•    Where, in the course of research, comments are made to the researcher concerning a third party that 
+might be considered to be offensive or defamatory, the researcher should take particular care when 
+considering how the results of the research are to be disseminated.  Repetition of any opinion that may 
+be considered defamatory could be subject to legal action and should be avoided and in all c ases the 
+source of any potentially controversial or defamatory opinion stemming from the research should be 
+anonymised. 
+•    Where the researcher identifies that the proposed research might touch upon matters that are the 
+subject of an on-going criminal investigation, the researcher should seek guidance from the UEC before 
+proceeding any further. In such circumstances, it is likely that the UEC will require the researcher to seek 
+the approval of the relevant authorities before continuing with the research.  
+•     Where a participant discloses that someone is being physically or psychologically harmed, by him or her, 
+or is at risk of immediate harm or danger (whether physical, psychological or otherwise) by him or her, 
+the investigator should terminate the interview or other interaction with the participant, tell the participant 
+that he or she needs to report the information, discuss with the participant how he or she can best be 
+supported in the circumstances, and should report that information to the UEC. Where the researcher 
+believes that the participant may cause imminent harm to someone then they should report this to the 
+police as soon as possible and in addition, inform the UEC. 
+•     Where a participant discloses that he or she is engaged in other exc eptionally serious criminal activities, 
+for instance, large scale fraud or blackmail, the investigator should, when such information is revealed, 
+inform the participant that he or she needs to terminate the research with them, and seek guidance from 
+the UEC. 
+ 
+4.5.2 Criminal or wrongful conduct by persons other than participants 
+ 
+•     Where a participant discloses that he or she has been harmed or is at risk of immediate harm or danger 
+(whether physical, psychological or otherwise), the investigator should pass on that information to a person 
+who can give support to the participant. Before doing this the investigator should discuss this with the 
+participant, and discuss how he or she can best be involved, with support, in the circumstances.  
+•     Where a participant discloses that someone else is in immediate physical or psychological danger 
+from another person or is being seriously physically or psychologically harmed by such as person, the 
+investigator should report that to the police and, if appropriate, someone who could help that person, and 
+discuss how the participant can be best supported in the circumstances. They should also inform the UEC 
+as soon as possible. 
+•     Where a participant discloses he or she or someone else is a victim of or is immediately threatened 
+with being a victim of exceptionally serious crime in other ways such as through large  scale  fraud  or 
+blackmail,  and which has not been reported to the police. The investigator should, inform the participant 
+that he or she needs to terminate the research with them, and seek guidance from the UEC.  
+ 
+4.6    Biological and medical investigations and previous medical history 
+ 
+ 
+4.6.1 Donation of samples etc 
+ 
+Where any biological sample is taken from a participant, the consent form should include wording that that 
+material becomes the property of the University (for background information see Annex 5).
+
+--- PAGE 23 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+23  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.6.2 Previous medical history 
+ 
+Only where appropriate, should participants be asked about their previous medical history. Where the 
+investigation involves an invasive procedure or may have a potential impact on the mental or 
+physical health of a participant who is undergoing treatment, it is good practice to send a letter to 
+the participant’s GP or other medical adviser. This may only be done with the participant’s permission. 
+ 
+In certain circumstances, the ethics committee or the University’s Insurers may require that a person with 
+suitable medical qualifications should be responsible for an investigation or in attendance when certain 
+procedures are carried out, or that facilities for emergency medical care should be at hand. It may require 
+in certain cases that participants should be medically screened before taking part in an investigation (e.g. 
+via ECG). Where appropriate, safeguards regarding communicable diseases should be taken to protect the 
+participant, the investigator and others involved in the work. 
+ 
+4.7.   Medical records and other records relating to care, education, etc 
+ 
+ 
+The general principle is that participants’ records (for example medical records, social work or school records) 
+are not accessed as they are confidential. 
+ 
+If it is intended to access participants’ records detailed reasons should be given in the application as to why it 
+is proposed not to follow this principle. In such a case an express permission to access records should be 
+included in the consent form. The permission should be of the minimum necessary extent. A form for obtaining 
+permission from the person or body holding the records should also be included in the ethics application. 
+ 
+4.8    Research in relation to deceased persons 
+ 
+Wherever research is carried out that involves an investigation of any aspect of a person who is deceased, 
+the research should respect the dignity of that deceased person and of family members. 
+ 
+4.9    Cadaveric tissue 
+ 
+ 
+The Code of Practice deals primarily with the ethical considerations involving living human beings. However, 
+for some research, it is necessary to work with whole, or parts of, deceased bodies. There are two 
+aspects to working with deceased human beings. First, the investigator must ensure that he/she is legally 
+allowed to work with such tissue, and secondly, there is the issue of the ethical considerations of working 
+with such tissue. The law in Scotland is different to that of the rest of the UK. To work with cadaveric 
+tissue you must either hold an appropriate licence from Her Majesty’s Inspector for Anatomy in Scotland, 
+or work in collaboration with a licence holder. The major ethical issue is one of informed consent, agreed at 
+the time of body donation. All research involving cadaveric tissue should be reviewed by the UEC unless this 
+responsibility has been devolved to a DEC/SEC. See Annex 6 for more detail. 
+ 
+All research involving human tissue (defined as any solid or fluid containing human cells, which includes 
+urine) must be approved by the UEC, or a DEC with appropriate devolved powers.  All human tissue 
+obtained directly from volunteers must be obtained through appropriately trained sta ff. The ethics 
+application must make it clear the level of training of the research group in this regard.  Tissue may also be 
+obtained via regulated tissue banks, for example the NHSGGC Bio-repository, which have generic NHS 
+approval for research purposes. These ‘biobanks’ will review an application for tissue, and once approved, 
+they will release anonymous tissue to appropriate researchers. Whilst an IRAS (NHS) ethics applic ation is 
+not required in this case, researchers must still complete a UEC application.
+
+--- PAGE 24 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+24  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+4.10  Exposure to risk, including location of investigations 
+ 
+ 
+The places where investigations are to be undertaken must be appropriate to the type of study and the risks 
+involved. This includes consideration of the investigator – who should not be placed in a vulnerable situation – 
+as well as the participants. The ethics committee reserves the right to visit and inspect any such facility. Within 
+the University all research and teaching investigations involving humans should be carried out in line with the 
+University’s Occupational Health and Safety Policy and Regulations. For any investigations being conducted 
+elsewhere investigators will be required to comply with the Health and Safety rules in place at that site. Where 
+research takes place at premises other than the University’s premises, the Chief Investigator must ensure 
+that suitable Health and Safety arrangements are in place before research commences. Under legislation any 
+premises used for conducting clinical trial work will be subject to good clinical practice and, where appropriate, 
+good manufacturing practice inspections. These will be conducted under the auspices of the MHRA and 
+will incur a fee. 
+ 
+ 
+ 
+5.      Approval procedures: University Ethics Committee 
+ 
+ 
+The UEC meets on a monthly basis to consider applications submitted to it by the submission deadline 
+published on the University’s website (www.strath.ac.uk/ethics). From the time of receipt of an application, the 
+Committee will usually make its decision within 60 days. However, if the Committee seeks further information 
+from the investigators then the timescale is suspended until the Committee is satisfied that all its points of 
+concern have been answered. The UEC Secretariat will communicate this decision to the Chief Investigator 
+in writing as soon as practicable after the decision is made. 
+ 
+5.1    Powers of the Committee in considering applications 
+ 
+ 
+The Committee may: 
+ 
+•     approve the application 
+•     approve the application subject to conditions being satisfied 
+•     not approve the application 
+•     defer consideration of the application subject to further information being sought and obtained from the 
+investigators or from experts external to the Committee and/or the University of Strathclyde 
+•     take such other decision as is appropriate. 
+ 
+ 
+5.2    Applications not approved 
+ 
+ 
+Where the application is not approved this decision, and the reasons for reaching that decision, will be 
+communicated to the Chief Investigator in writing. The Committee may give guidance as to modifications that 
+the applicant may wish to consider with a view to making a new application. 
+ 
+5.3    Applications deferred or approved subject to conditions being satisfied 
+ 
+ 
+If further information or amendments are sought for a particular application from the relevant investigators, 
+the Convener (or Vice Convener of the Committee) may be delegated authority by the committee to consider 
+the additional information or changes made and either to approve it on behalf of the committee or to return it 
+to the committee for further consideration. The information and amendments must be provided before ethical 
+approval can be given. Any decisions will be reported to the next meeting of the Committee for endorsement.
+
+--- PAGE 25 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+25  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+6.    Amendments to investigations following ethical approval 
+ 
+ 
+Once an application is approved the investigators must not deviate from it as approved. The CI must notify 
+the committee of any proposed amendments and allow the committee (or the Convener or Vice Convener 
+on behalf of the committee) time to consider and approve them before implementing them. Similarly, if there 
+is any change to the personnel involved in the investigation, the committee should be asked to approve this 
+amendment and should be provided with details of the qualifications and experience of the new investigator(s). 
+If such amendments are minor they may be handled by the UEC outwith its committee meetings (normally 
+by the Convener or Vice Convener). If, however, the proposed changes are more substantial then they will 
+be considered by the committee at its next meeting and, in some instances, a revised application may be 
+requested. Failure to obtain ethical approval for amendments may invalidate insurance cover. 
+ 
+In the case of an investigation that is the subject of NHS Research Ethics Committee (REC) approval, a copy 
+of the ‘substantial amendment form’ as obtained from the NHS REC, should be submitted to the UEC for 
+consideration also. 
+ 
+ 
+7. Student investigations and investigations of members of staff 
+undertaking degrees 
+ 
+ 
+For student investigations involving the NHS please refer to Section 9 below. 
+ 
+It is recognised that many student investigations and dissertations may fall within the remit of this code 
+of practice. Courses, particularly within the social sciences and business subject areas, typically contain 
+large numbers of students who may have made their own project proposals which are usually low risk 
+from the ethical point of view. The responsible academic usually plays a purely supervisory role rather than 
+an investigatory role, although for the purposes of this Code of Practice he or she is formally Chief 
+Investigator (apart from some investigations involving the NHS – see Section 9). In these situations it is 
+valuable for departments to have good screening processes in place to filter out unsuitable investigations 
+before students have invested much time. The scrutiny of those which are to go ahead despite being more 
+complex is prioritised, and a light touch procedure may be used for the other investigations. If this is the case 
+then the generic framework should include a description of these procedures. 
+ 
+Students acting as investigators, and members of staff carrying out research as part of work towards obtaining 
+a degree, should be under the supervision of a member of staff who is minimum Grade 7 (or equivalent). 
+Students, and members of staff in this position, cannot apply for ethical approval themselves (apart from 
+some investigations involving the NHS, see Section 9). Applications must be made by the supervisor 
+acting, for this purpose, as Chief Investigator. The supervisor, on behalf of the University, is responsible 
+for all actions of the students (and members of staff in this position) relating to the investigation and hence it is 
+the supervisor’s responsibility to ensure that the student is aware of and observes the relevant guidelines and 
+receives appropriate training in any procedures and techniques to be undertaken as part of the investigation. 
+As with all investigations involving human participants, supervisors should take responsibility for submitting 
+details of the proposed investigations for approval where necessary and for ensuring that all necessary 
+approvals are in place before the investigation commences. See also Section B3 (above) on generic approval.
+
+--- PAGE 26 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+26  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+8. Collaborative investigations with other universities, non- 
+governmental organisations (NGOs) and other organisations 
+ 
+ 
+For investigations involving collaboration with other universities, NGOs or other organisations, applications 
+should be submitted to RKES for consideration of risk management/sponsorship and insurance cover before 
+the investigation begins. Ethical approval is normally only required from the Ethics Committee at one of 
+the collaborating universities or organisations, normally the university or organisation which is sponsoring 
+the investigation. RKES will advise on whether or not the application should be submitted to the UEC at 
+Strathclyde. The University will consider collaborative research with other organisations, providing their 
+ethical processes have been considered by the UEC at Strathclyde to be robust and rigorous. Whatever the 
+ethical approval route, the application will be forwarded by RKES to the Finance Office for confirmation of 
+insurance cover. 
+ 
+ 
+ 
+9.    Investigations involving the NHS, including clinical trials 
+ 
+ 
+The UEC Secretariat in RKES can offer advice on sponsorship approval and how to complete the IRAS form 
+and to submit an application to the NHS, and should be contacted early in the procedure. NHS applications 
+cannot be submitted without sponsorship approval so researchers should factor in time for this process when 
+considering submissions. 
+ 
+Ethical approval is required from the NHS for most but not all investigations in which it is involved. Details of 
+the circumstances in which NHS ethical approval is required, and information on the application procedure, 
+can be found on the Integrated Research Application System (IRAS) website at www.myresearchproject.org. 
+uk. Investigation s involvin g NHS staff or undertake n on NHS premise s do not necessaril y requir e NHS 
+ethica l approval . Pleas e check with the UEC secretaria t if you are in doubt . The authority to award 
+ethical approval is delegated to a local NHS Research Ethics Committee (REC), usually in the area where 
+the Chief Investigator and/or the NHS body involved are based. The researcher is not required to submit a 
+University ethics application form as well as an IRAS form, the IRAS form is sufficient. Once NHS approval is 
+in place, then the Convenor will usually endorse the application on behalf of the UEC. 
+ 
+The regulations governing NHS ethical approval are set out in the Governance Arrangements for Research 
+Ethics Committees in Scotland and regulations for research governance in the Research Governance 
+Framework for Health and Community Care (2006). 
+ 
+Research and investigations involving medicines are regulated under the Medicines for Human Use (Clinical 
+Trials) Regulations 2004. All clinical trials must be notified to the Medicines and Healthcare Products 
+Regulatory Agency (MHRA) which approves and licences the use of such products for clinical trials. Similarly, 
+research involving medicinal devices is also regulated by MHRA.
+
+--- PAGE 27 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+27  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+9.1  Process 
+ 
+ 
+The application should first be submitted to RKES for sponsorship and management risk approval and 
+confirmation of insurance cover. Approval should then be sought from the NHS, in terms of research and 
+ethical approval. Thereafter, ethical approval can be given by the Convener on behalf of the UEC. 
+ 
+ 
+ 
+Submit application to RKES 
+for sponsorship and or 
+management approval. 
+ 
+ 
+ 
+ 
+RKES will forward 
+application to Finance 
+Office for confirmation 
+of insurance. 
+ 
+ 
+ 
+ 
+Seek research and ethical 
+approval from NHS 
+ 
+ 
+ 
+ 
+Ethical approval can be given 
+by Convener on behalf of UEC. 
+This is coordinated by RKES 
+and does not require action 
+by investigator. 
+ 
+ 
+ 
+ 
+ 
+9.2 Honorary contracts 
+ 
+ 
+Where a University employee or student, as part of an investigation, is conducting activities which will have 
+a direct impact on the care of NHS patients, the employee or student will be accountable to the NHS body 
+for this work and will need to hold an Honorary contract with the NHS body. The Chief Investigator of such 
+an investigation must ensure that such contracts are in place before work on the investigation proceeds. The 
+Chief Investigator should discuss such contracts with RKES. 
+ 
+9.3 Model agreement for non-commercial research with the NHS 
+ 
+ 
+A model agreement for research carried out between Universities and the NHS has been produced 
+by the UK Clinical Research Collaboration (UKCRC). Full details can be found at www.ukcrc.org/ 
+regulationgovernance/modelagreements/mnca.aspx.
+
+--- PAGE 28 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+28  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+The model agreement is a template for documenting the relationship between, and the responsibilities of, the 
+non-commercial sponsor(s) of a research study (the University) and the Health Service organisation where 
+the study takes place. The agreement is intended to be used in a range of research scenarios including 
+clinical trials, medical device studies, research using patient data only, and research using human tissue. 
+ 
+RKES will provide guidance on when this agreement should be used and the implications involved. 
+ 
+9.4    Student investigations 
+ 
+ 
+In April 2008, new guidance was issued by the NHS advising that for all doctoral research, the student should 
+be named as Chief Investigator on NHS ethics applications. Full guidance can be found at www.nres.npsa. 
+nhs.uk/applications/faq/before-applying. For research projects below doctoral level, the named CI should 
+normally be the academic supervisor. Please note, although for doctoral research the student should be 
+named as the CI, the responsibilities set out in the Research Governance Framework for Health and Social 
+Care still fall to the academic supervisor in line with Section 7 above. 
+ 
+10.    Investigations conducted on other premises 
+ 
+If University staff or students wish to carry out investigations with human participants on premises other 
+than those of the University of Strathclyde they must determine if ethical approval from any collaborating 
+organisation is required (which may be in addition to any ethical approval from the University). Investigators 
+should ensure that this ethical approval is obtained, in order to comply with the University’s insurance 
+policies. This is particularly important for investigations where the University is the sponsor. Under such 
+circumstances investigators will also need to comply with the rules and regulations of the collaborating 
+organisation, including health and safety. 
+ 
+11.    Any investigations conducted outside the UK, including 
+clinical trials 
+ 
+ 
+If University staff or students wish to carry out investigations outside the UK and Europe, then the researcher 
+should clearly identify a local supervisor who can monitor their research. The researcher must ensure that a 
+Code of Practice is sent to the local supervisor. 
+ 
+12.    Adverse events 
+ 
+ 
+12.1  Adverse events in any type of investigation 
+ 
+ 
+If participants report any problems during the course of the investigation (either to the investigator or to 
+the secretary of the UEC) or if the investigators have any cause for concern, the investigation may need to 
+be stopped and the Chief Investigator must inform the UEC of what has occurred. The Chief Investigator 
+must report any untoward event arising during an investigation to the UEC as soon as possible and, where 
+appropriate, to the participant’s own doctor with his or her consent. Should such a situation occur then the 
+investigation should be stopped for the individual in question and consideration should be given to stopping 
+the investigation as a whole, depending on the nature and/or severity of the symptom or event. The Secretariat 
+to the UEC will inform the University’s Finance Office Insurance Adviser as soon as possible.
+
+--- PAGE 29 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+29  
+ 
+ 
+ 
+ 
+SECTION B: Principles and Procedures 
+for Obtaining Ethical Approval 
+ 
+ 
+12.2. Adverse events in clinical and other medical/biological trials 
+ 
+ 
+For clinical trials the sponsor is required under law to report all serious adverse events and all suspected 
+unexpected adverse reactions that occur to the Medicines and Healthcare Products Regulatory Agency 
+(MHRA). For suspected unexpected serious adverse reactions (SUSARs) which occur in clinical trials where 
+the University is the sponsor these must be reported to the UEC which is required to report to the MHRA 
+within specific time limits. For fatal and life threatening SUSARs the period is seven days for the initial 
+report and a further eight days for additional relevant information. For all other SUSARs the period is 15 
+days. For clinical trials where the University is not the sponsor, the timescales will be the same but 
+investigators must be aware of the need to follow correct reporting procedures. Sponsors are required, under 
+law, to provide an annual list of all suspected serious adverse reactions in relation to each product being 
+tested. 
+ 
+In addition, where no-fault insurance cover for the investigation has been arranged under the University’s 
+clinical trials policy, any serious adverse event must also be reported to the University’s Insurance Adviser in 
+the Finance Office as soon as possible, in order that it can be notified to the Insurers as a potential claim. 
+ 
+Participants should also be encouraged to note any unusual or unexpected events or symptoms arising 
+during or after an investigation and report them to the investigator and to their own doctor. Depending on the 
+nature and/or severity of these events or symptoms, the Chief Investigator should report these to the UEC as 
+they might affect the UEC’s decisions on any future similar investigation. If a participant does drop out of an 
+investigation, for whatever reason, then the investigators should take reasonable steps to find out whether 
+any harm has come to the individual as a result of participating in the investigation. 
+ 
+ 
+13.   Related approval procedures 
+ 
+ 
+As well as ethical approval, insurance and sponsorship must be in place before an investigation can begin. 
+The procedures are streamlined so that applicants need submit investigations for consideration for ethical, 
+sponsorship and insurance purposes only once, as described above. Section C and Annex 4 provide further 
+guidance on sponsorship and insurance respectively.
+
+--- PAGE 30 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+30  
+ 
+ 
+ 
+ 
+SECTION C: Management Approval/ 
+Sponsorship Procedures 
+ 
+ 
+1.      Introduction 
+ 
+ 
+In terms of the University’s sponsorship and management risk procedure, all investigations requiring ethical 
+approval must have an identified sponsor. The sponsor is not necessarily the funding body but the individual, 
+or organisation (or group of individuals or organisations) that takes on the ultimate responsibility for 
+confirming there are proper arrangements to initiate, manage, and monitor an investigation. Annex 2 of this 
+Code of Practice sets out the responsibilities of the sponsor. 
+ 
+Normally the sponsor will be the organisation taking the lead for particular aspects of the arrangements 
+for the investigation. In the majority of cases this will be the University. However, where the NHS is involved 
+in an investigation it may take on the role of sponsor solely or jointly with the University (see Section 3 below 
+for more information). 
+ 
+2.      Procedures for University sponsorship 
+ 
+Two separate procedures exist for applying to obtain University sponsorship. Depending on the circumstances, 
+an investigation seeking University sponsorship will go through either the RKES procedure or the Head of 
+Department procedure. 
+ 
+2.1.   The RKES procedure 
+ 
+ 
+Any new investigation involving human subjects which:- 
+ 
+•     is within the remit of the UEC (see section B1.1 and 1.2 of the Code of Practice); or 
+•     involves the NHS; or 
+•     has external funding; 
+ 
+must follow the RKES procedure. Only one of the conditions above has to be present for the RKES 
+procedure to apply. 
+ 
+Upon receipt of an ethics application form, the UEC Secretariat in RKES will assess the investigation for 
+sponsorship and risk management and will confirm University sponsorship on behalf of the University unless 
+there are concerns related to sponsorship and/or management risk. If there are concerns (i.e. the human 
+investigation is categorised as medium/high risk in terms of risk) RKES will discuss same with the Senior 
+Officer with responsibility for the UEC. A decision will then be made by RKES and the Senior Officer.  
+ 
+ 
+2.2.   The Head of Department procedure 
+ 
+ 
+Where an investigation:- 
+ 
+•     is not within the remit of the UEC; and 
+•     does not involve the NHS; and 
+•     does not have external funding; 
+ 
+the appropriate ethics application form should be submitted by the Chief Investigator to his/her Head of 
+Department. Where the Chief Investigator is the Head of Department the form should be submitted to the 
+appropriate Dean or Deputy Head of Department.
+
+--- PAGE 31 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+31  
+ 
+ 
+ 
+ 
+SECTION C: Management Approval/ 
+Sponsorship Procedures 
+ 
+ 
+The Head of Department should consider whether the University is an appropriate sponsor for the 
+investigation and the management risk issues, if any, arising from the investigation.  If the Head of 
+Department decides the University is an appropriate sponsor and the project poses low/no management risk 
+issues, the sponsorship section of the UEC form should be signed and dated by the Head of Department. 
+ 
+If the Head of Department is any doubt about the implications of sponsorship or the assessment of 
+management risk issues s/he should contact RKES. 
+ 
+No investigation involving human subjects should begin until sponsorship and ethical approval have been 
+confirmed. 
+ 
+3. Investigations where the University is not being asked to be 
+the sponsor 
+ 
+ 
+If the University is not being asked to sponsor the investigation but there are management risk issues 
+associated with the investigation, the paperwork will be reviewed by RKES. A decision as to whether the 
+management risk issues are acceptable to the University will be made. 
+ 
+For investigations that involve the NHS an IRAS form must be completed and submitted online. An 
+investigation submitted through IRAS will be considered by the appropriate ethics committee and also by the 
+appropriate NHS Research & Development (R&D) Office. The R&D office will consider the sponsorship and 
+risk management issues associated with the investigation even if the University or some other organisation is 
+sponsoring the investigation. 
+ 
+4.      Insurance 
+ 
+ 
+Annex 4 provides useful guidance on insurance issues associated with investigations involving human 
+subjects both from a University and an NHS perspective. 
+ 
+Applications to DECs/SECs automatically have insurance cover from the Universit y.
+
+--- PAGE 32 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+32  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+1.      Data protection 
+ 
+ 
+The Data Protection Act 1998 concerns the processing of personal data. ‘Personal data’ is any data which 
+relates to a living individual who can be identified from that data or from that data and other information which 
+is in the possession of, or is likely to come into the possession of, the data controller. ‘Sensitive personal data’ 
+is information that relates to race/ethnic origin, political opinions, religious beliefs, trade union membership, 
+health (mental or physical) or details of criminal offences. Under the legislation this category of information 
+must be handled with a higher degree of protection at all times. ‘Processing’ covers anything you do with 
+personal data from collection or receipt right through to disposal or destruction and all the stages in between 
+e.g. copying, release, storage etc. 
+ 
+1.1    Use of personal data in research 
+ 
+ 
+It is recognised that some research requires the processing and/or storage of personal and/or sensitive 
+personal data relating to living individuals. The use of any personal data is governed by the Data Protection 
+Act 1998 (DPA). If your research involves the processing of personal data you must comply with the Act and 
+the University’s current Data Protection Policy. The University’s policy and supporting guidance for staff is 
+available from www.strath.ac.uk/dataprotection. 
+ 
+It should be noted that the University’s Data Protection Policy and guidance are there to assist staff. However, 
+they will not provide in-depth detail regarding every eventuality relating to data protection in research projects. 
+Therefore, if you are unsure about any aspect regarding data protection you should discuss this with the Chief 
+Investigator or the Information Governance Unit (dataprotection@strath.ac.uk). You should consider the data 
+protection implications at the outset of your research project and build appropriate processes/safeguards 
+into the project as required. Please note that if you fully anonymise data so that no living individual can be 
+identified from it/related to it then it is no longer considered ‘personal data’ under the Act and there will be no 
+data protection implications. 
+ 
+1.2    Data protection principles 
+ 
+ 
+The University must comply with the eight data protection principles as set out in the Act. In summary these 
+state that personal data shall: 
+ 
+•     be obtained and processed fairly and lawfully and shall not be processed unless certain conditions are 
+met, 
+•     be obtained for a specified and lawful purpose and shall not be processed in any manner incompatible with  
+that purpose, 
+•     be adequate, relevant and not excessive for that purpose, 
+•     be accurate and kept up to date, 
+•     not be kept for longer than is necessary for that purpose, 
+•     be processed in accordance with the data subject’s rights, 
+•     be kept safe from unauthorised access, accidental loss or destruction, and  
+•     not be transferred to a country outside the European Economic Area, unless that country has equivalent 
+levels of protection for personal data. 
+ 
+In order to ensure that you comply with these principles you should have a clear plan for how you will process 
+personal data i.e. how will you gather, use, store, retain and destroy this information?
+
+--- PAGE 33 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+33  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+1.3    Research data exemption 
+ 
+ 
+Under Section 33 of the Data Protection Act 1998 personal data may be exempt from some of the data 
+protection principles as long as the research activity fulfils certain conditions. To be exempt from some of the 
+data protection principles the research activity must fulfil all of the following conditions:  
+ 
+•     The personal data is being used exclusively for research purposes (includes statistical or historical research 
+purposes). The personal data must have no other use, not even incidental use;  
+•     The  personal  data  is  not  being  used  to  support  measures  or  decisions  relating  to  any  identifiable  living  
+individual (not just the data subject but anyone who may be affected by your research); 
+•     The personal data is not being used in a way that will cause, or is likely to cause, substantial damage or 
+substantial distress to any data subject; and 
+•     The results of the research activity, or any resulting statistics, must not be available in a form that identifies  
+the data subjects. 
+ 
+If the research activity cannot fulfil all of the conditions set out above then the exemption cannot apply.  
+ 
+If  the  research  activity  does  fulfil  the  conditions  set  out  above  then  the  personal  data  may  be  used  in  the  
+following ways: 
+ 
+ 
+1.3.1 May be used for a new purpose 
+ 
+Under the second data protection principle, personal data shall be obtained only for one or more specified and 
+lawful purposes, and shall not be further processed in any manner incompatible with that purpose or purposes. 
+However, if the research activity fulfils the conditions above then the second part of this principle does not 
+apply. The personal data can then be processed for another purpose. 
+ 
+1.3.2 May keep the personal data for a research purpose 
+ 
+The fifth data protection principle says that personal data processed for any purpose or purposes shall not be  
+kept for longer than is necessary for that purpose or purposes. 
+ 
+However, if the research activity fulfils the conditions above then this does not apply and personal data can be  
+retained for longer than is necessary for that purpose.  If required the data can be retained indefinitel y. 
+ 
+1.3.4 Need not provide personal data under the subject right of access. 
+ 
+The sixth data protection principle requires that personal data shall be processed in accordance with the rights 
+of data subjects set out in Section 7 of the Act. 
+ 
+One of the rights of individuals is the right of access to their own personal data. Personal data that forms part 
+of a programme of research may be exempt from this right provided that the research activity has met all the 
+conditions for the Research Exemption. 
+ 
+This only applies if: 
+ 
+•     The personal data is processed in compliance with the relevant conditions.  
+•     The results of research or resulting statistics are not made available in a form which identifies data subjects.  
+ 
+However, it should be noted that it still good practice to inform participants at the outset if there is an intention 
+to use their personal data again and how long it will be held for (if this is known at the time). If it is clear that 
+personal data will never be of any further use then it is appropriate to destroy it after a set period of time.
+
+--- PAGE 34 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+34  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+If participants were specifically told that data would be destroyed after a certain period of time then this should 
+be adhered to unless it is possible to go back to the participants and ask for their permission to retain the data 
+for longer. 
+ 
+2.      Data management and record-keeping 
+ 
+ 
+It is essential that all University records are managed appropriatel y, including those related to research. 
+Records may be held in many formats i.e. databases, hard copy, Microsoft Office documents etc. The 
+theories of good data and records management apply irrespective of the format or medium in which that 
+information is held. You should consider the format/medium when planning how you will handle data. Please 
+note that the Information Governance Unit has created a number of records management guidance notes to 
+assist staff with managing records 
+(www.strath.ac.uk/is/compliance/recordsmanagement/#d.en.611686). 
+ 
+2.1    Data planning 
+ 
+ 
+It is good practice to create a data plan at the outset of any research project, whether externally-funded or not. 
+It is likely that data planning will be built into the funding application process. Most funders provide policies and 
+guidance on managing your data, which should be available to you via the funde r’s website, or by contacting 
+the funder directly. The basic points that a data plan should address are data management, access and 
+preservation. 
+ 
+For projects that include personal and/or sensitive personal data it is even more important to consider how 
+these datasets will be managed at the outset of the project. These arrangements may be reviewed during the 
+research or upon completion. 
+ 
+ 
+2.2    Data management responsibilities 
+ 
+ 
+The CI is responsible for ensuring that all data, including any personal data, gathered in the course of a 
+programme of research is managed appropriately. The CI should ensure that he/she is aware of the University’s 
+Data Protection Policy and any relevant guidance for staff that may be relevant in relation to his/her research 
+and the management of data (www.strath.ac.uk/dataprotection/dppoliciesandguidance). 
+ 
+2.3    Data security 
+ 
+ 
+It is essential that all data is managed with appropriate security. This is true irrespective of the media on which 
+the data is stored i.e. hard copy or electronic. In the case of personal data the seventh data protection principle 
+states that personal data shall be kept safe from unauthorised access, accidental loss or destruction. 
+ 
+Keeping data secure involves both operational and technical measures. All staff involved in research projects 
+should be aware of any project-specific measures, as well as University policies and procedures in relation to 
+data/IT security. 
+ 
+As a minimum staff should be aware of the following: 
+ 
+•     Access to information should be suitably secure and restricted to only staff who require access e.g. hard 
+copy records should be held securely in lockable cabinets, electronic records should be on secure drives. 
+•     Electronic data should never be stored on desktops or C drives. These are not backed up to the University 
+network and are therefore considered insecure.
+
+--- PAGE 35 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+35  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+•     The use of portable electronic storage devices should be avoided, unless absolutely necessary. The 
+possibility of remotely accessing data held on secure University servers should be considered. If you must 
+take data off-site consider if you can render any personal data anonymous first. This means ensuring that 
+no individual can be identified from that data.   
+•     If portable devices must be used for confidential information and/or personal data then they must be 
+encrypted. This is considered by the Information Commissioner (who enforces Data Protection) to be the 
+minimum level of security which should to be applied to personal data held on portable media.  
+ 
+Information Services should be contacted for additional information regarding encryption and other security 
+measures related to electronic data. The University’s encryption policy should be followed by all researchers 
+(www.strath.ac.uk/it/security/encryption). 
+ 
+ 
+Records Management Guidance notes produced by the Information Governance Unit are available on this 
+topic, including: 
+ 
+•     information security 
+•     determining if information is confidential 
+•     storing records. 
+ 
+2.4    Sharing data 
+ 
+ 
+If you are working on a project in collaboration with another institution/organisation then you should ensure that 
+a suitable agreement is in place regarding data sharing. This is of particular concern where personal data is 
+involved. A suitable agreement should be in place which will outline the roles and responsibilities of both sides. 
+This may also address potential issues in relation to Intellectual Property Rights. In addition, where personal 
+data is involved, an appropriate agreement will include a data sharing agreement which will clearly define the 
+roles of data controller and data processor. Advice should be sought from RKES. 
+ 
+2.5    Retention of data 
+ 
+ 
+As stated above, it is good practice to inform participants how long their personal data will be retained at the 
+outset, if know. Many funding councils will set periods for which research data must be retained. These will 
+usually be stipulated at the outset. You must ensure that you have a plan as to how and where data where will 
+be stored and how long for. In the case of clinical trials or investigations involving the NHS where the University 
+is acting as sponsor or co-sponsor, or where no-fault insurance cover has been arranged, arrangements 
+must be made for long-term retention of all relevant information. This will include retaining a copy of the 
+original application (together with any approved amendments), copies of the signed consent form for each 
+individual who participated in the investigation, copies of the signed conditions of compensation forms for each 
+participant where appropriate (see Annex 4 on Insurance) and any other relevant documentation. 
+ 
+ 
+The fifth data protection principle states that personal data should not be retained for longer than is necessary 
+(in relation to the purpose for which it was collected). Again, there may be requirements by funders in relation 
+to how long any personal data must be retained. You should check with the relevant funding body. 
+ 
+If no external funding requirements are involved then you should consider how long data must be retained for 
+legal, statutory or organisational requirements. 
+ 
+N.B. Personal data does not need to be retained in line with the fifth data protection principle if it meets the 
+criteria of the research exemption under S33 of the Act. See Section 1.3 Research Data Exemption above for 
+more information.
+
+--- PAGE 36 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+36  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+2.6    Disposal of data 
+ 
+ 
+When data no longer requires to be kept then you must dispose of it appropriately. Confidential waste, including 
+any personal data, must be disposed of securely. This may require: 
+ 
+•     confidential shredding of hard copy material 
+•     permanent deletion of electronic data 
+•     suitable disposal of IT storage devices i.e. CD Roms/hard drives etc. 
+ 
+Information Services can provide more information related to removing or deleting electronic data. Estates 
+Services can provide more information on recycling and waste management ( www.strath.ac.uk/estates/ 
+recycling) 
+ 
+ 
+ 
+2.7    University Ethics Committee records 
+ 
+ 
+All records relating to the ethics committee are maintained by the relevant department (at the time of writing 
+this is RKES). These records will be retained for an appropriate time as required by the University to meet its 
+statutory, regulatory or administrative requirements. 
+ 
+ 
+ 
+2.8    Departmental Ethics Committee records and monitoring 
+ 
+ 
+DECs are required to report to the UEC on an annual basis.   This report will include information on all 
+investigations that the DEC has considered throughout the year, including student investigations, together 
+with information on whether or not the investigations were approved.   DECs should also keep records of 
+meetings, decisions, amendments to applications and investigations, and copies of correspondence relating 
+to all applications that are considered. 
+ 
+ 
+3. Monitoring 
+ 
+ 
+3.1    Monitoring of investigations approved by the University 
+Ethics Committee 
+ 
+ 
+The UEC will monitor all proposals submitted for ethical approval. This will normally be conducted on an 
+annual basis using the UEC Monitoring Report Form. 
+ 
+At the conclusion of the investigation for which ethical approval has been granted, the CI will report back to 
+the UEC on the outcome of the investigation with an account of anything which may have occurred within 
+the investigation that may prompt ethical questions for any similar future investigation and with anything else 
+that they feel the UEC should know.
+
+--- PAGE 37 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+37  
+ 
+ 
+ 
+ 
+SECTION D: Record Keeping, 
+Monitoring and Reporting 
+ 
+ 
+3.2    Monitoring of generic framework Investigations 
+ 
+ 
+The DEC/SEC will be responsible for monitoring all the work undertaken as part of any generic framework, 
+approved by either the UEC or the DEC/SEC, and will report back to the UEC in its annual monitoring 
+report (see above). This report will either confirm that all work undertaken falls within the parameters of the 
+generic framework as approved, or will indicate where any changes have been made. It will also identify if any 
+unexpected events occurred during the study.
+
+--- PAGE 38 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+38  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+1.      Glossary 
+ 
+ 
+2.      Key responsibilities of the Sponsor 
+ 
+ 
+3.      Key responsibilities of the Chief Investigator 
+ 
+ 
+4.      Insurance 
+ 
+ 
+5.      Note on the law governing research involving human tissue 
+ 
+ 
+6.      Research in relation to deceased persons 
+ 
+ 
+7.      Definition of medical devices
+
+--- PAGE 39 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+39  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 1 GLOSSARY 
+ 
+Adverse event – any problems that might arise during an investigation. The Chief Investigator must report 
+any untoward event to the ethics committee and the investigation may have to be stopped. Further information 
+is contained in Section B12. 
+ 
+Consent – when participants agree to take part in the investigation. This is explained in more detail in Section 
+B4 under 4.3.8. 
+ 
+Chief Investigator – the lead investigator who has overall responsibility for the investigation. A full description 
+of the role and responsibilities of the Chief Investigator is given in Annex 3. 
+ 
+Clinical trial – the University has adopted the definition used by the Medicines for Human Use (Clinical 
+Trials) Regulations 2004 which define a clinical trial as ‘any investigation in human subjects, other than a 
+non-interventional trial, intended: 
+ 
+a.   to discover or verify the clinical, pharmacological or other pharmacodynamic effects of one or 
+more medicinal products, 
+b.   to identify any adverse reactions to one or more such products, or 
+c.   to study absorption, distribution, metabolism and excretion of one or more such products, 
+with the object of ascertaining the safety or efficacy of those products.’ 
+ 
+In order to assist investigators determine whether or not their investigation is a clinical trial the MHRA has 
+produced an algorithm – this is available at the following web site: 
+www.mhra.gov.uk/home/idcplg?IdcService=SS_GET_PAGE&nodeId=723 
+ 
+Separate insurance arrangements may need to be put in place for clinical trials – further information is 
+contained in Annex 5. 
+ 
+Generic approval – approval for a number of investigations that fall within an agreed framework (e.g. student 
+projects),  or  approval  to  run  an  investigation  using  the  same  procedures  on  a  number  of occasions. 
+A full description of generic approval is given in Section B3. 
+ 
+Investigation – a study to explore particular conditions, behaviours, opinions or reactions to particular stimuli, 
+in order to gain more information 
+ 
+IRAS - Integrated Research Application System (replaces NRES online application form). 
+ 
+MHRA – Medicines and Healthcare Products Regulatory Agency 
+Monitoring –the UEC and the DEC/SECs will undertake regular monitoring of all the protocols that they 
+approve, to ensure that the protocol has been adhered to and to identify any issues that might have arisen. 
+Additionally the UEC will seek an annual report from the DEC/SEC’s on their activities. 
+ 
+Participant - a person is considered to be a participant in an investigation if they are contributing data into 
+that investigation either actively (for example through taking part in a survey or undertaking particular tasks) 
+or passively (for example through being the subject of observation). 
+ 
+Principal Investigator – where an investigation is conducted on more than one site a Principal Investigator 
+will be identified for each site. The Principal Investigator will be the lead researcher at that site. 
+ 
+Protocol – a description of the investigation to be undertaken including the investigators involved, where the 
+investigation will take place and under what conditions, the methods and procedures to be used, the number 
+of participants being sought, the inclusion/exclusion criteria to be applied, and the likely duration of the 
+investigation.
+
+--- PAGE 40 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+40  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+Sponsor – the individual, institution, company or organisation that takes responsibility for securing the 
+arrangements to initiate, manage and finance the investigation, including ensuring that all necessary 
+approvals are in place. A full description of the role and responsibilities of the sponsor is given in Annex 3. 
+ 
+SUSAR – suspected unexpected serious adverse reaction. Where a SUSAR occurs in any clinical trial where 
+the University is the sponsor these must be reported to the ethics committee which is required to report to the 
+MHRA within specified time limits. For clinical trials where the University is not the sponsor the timescales 
+will be the same but investigators must follow the correct reporting procedures. Sponsors are required under 
+law to provide an annual list of all suspected SUSAR’s in relation to each product being tested. Further 
+information is available at Section B12.
+
+--- PAGE 41 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+41  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 2 KEY RESPONSIBILITIES OF THE SPONSOR 
+ 
+ 
+The sponsor is the individual, institution, company or organisation that takes on the ultimate responsibility for 
+the initiation and management (or arranging the initiation or management) of, and the financing (or arranging 
+the financing) for, the investigation. The sponsor is responsible for all aspects of the investigation and for 
+seeking all appropriate approvals, ensuring that the research protocol has passed scientific/peer quality 
+assurance, and ensuring that arrangements are in place for good practice in conducting the investigation, for 
+monitoring the progress of the investigation and for reporting the outcomes. The key responsibilities of the 
+sponsor are: 
+ 
+•     The research proposal respects the dignity, rights, safety and well-being of participants and the relationship 
+with care professionals; 
+•     An appropriate process of independent expert review has demonstrated that the research proposal is 
+worthwhile, of high scientific quality and good value for money; 
+•     An appropriate ethics committee has given a favourable opinion; 
+•     In the case of a clinical trial involving a medicine, someone acting on behalf of the sponsor obtains a 
+clinical trial authorisation and the arrangements for the trial comply with the law; 
+•     Appropriate arrangements are in place for the registration of a trial; 
+•     The chief investigator, and other key researchers, including those at collaborating sites, have the necessary 
+expertise and experience and have access to the resources needed to conduct the proposed research 
+successfully; 
+•     The arrangements and resources proposed will allow the collection of high quality, accurate data and 
+the systems and resources proposed are those required to allow appropriate data analysis and data  
+protection; 
+•     Arrangements proposed for the work are consistent with this research governance framework;  
+•     Organisations and individuals involved in the research agree the division of responsibilities between them; 
+•     There is written agreement about the arrangements for the management and monitoring of the study; 
+•     Arrangements are in place for the sponsor and other stakeholder organisations to be alerted if significant 
+developments occur as the study progresses, whether in relation to the safety of individuals or to scientific 
+direction; 
+•     Agreement has been reached about compensation in the event of harm to research participants and if 
+any organisation, or the sponsor itself, offers compensation without proof of negligence, it has made the 
+necessary financial arrangements; 
+•     There are arrangements for the conclusion of the study including appropriate plans for disseminating the 
+findings; 
+•     Scientific judgements made by the sponsor in relation to these responsibilities should be based on  
+independent and expert advice; 
+•     The sponsor is expected to assist any enquiry, audit or investigation related to the funded work.
+
+--- PAGE 42 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+42  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 3 KEY RESPONSIBILITIES OF THE CHIEF INVESTIGATOR 
+ 
+ 
+The Chief Investigator is the lead investigator for the investigation and is responsible for the following: 
+ 
+•     The research team gives priority at all times to the dignity, rights, safety and well-being of participants; 
+•     The study complies with all legal and ethical requirements; 
+•     The research is carried out to the standards in this research governance framework;  
+•     Controlled trials are registered and for clinical trials involving medicines, the research follows any conditions 
+imposed by the licensing authority; 
+•    The Chief Executive of the organisation(s) involved and/or any other individual(s) with responsibilities 
+within this framework are informed that the study is planned, and their permission is obtained before the 
+research starts; 
+•     When a study involves participants under the care of a doctor, nurse or other worker for the condition to 
+which the study relates, those care professionals are informed that their patients or users are being invited 
+to participate and agree to retain overall responsibility for their care; 
+•     When the research involves a service user or carer or a child, looked after or receiving services under 
+the auspices of the local authority, the agency director or their deputy or other appropriate person (e.g. 
+social worker) agrees to the person (and/or their carer) being invited to participate and is fully aware of the 
+arrangements for dealing with any disclosures or other relevant information;  
+•     Potential participants and other service users and carers are involved in the design and management of 
+the study whenever appropriate; 
+•     The study is submitted for ethics review and it does not start without a favourable opinion, and the research 
+team acts on any conditions attached to the ethics opinion; 
+•     Unless participants or the ethics opinion says otherwise, participants’ care professionals are given any 
+information directly relevant to their care that arises in the research; 
+•     Each member of the research team, including those at collaborating sites, is qualified by education, training  
+and experience to discharge his/her role in the study and their qualifications are documented;  
+•     Each investigator in a clinical trial involving medicines is aware of his/her legal duties;  
+•     Students and new researchers have adequate supervision, support and training; 
+•     Unless urgent safety measures are necessary, the research follows the protocol or proposal agreed by the 
+relevant ethics committee and by the sponsor; 
+•     Substantive changes to the protocol or proposal are submitted for ethical review and for the sponsor’s 
+agreement. These amendments are implemented only when approved; 
+•     Procedures are kept in place to ensure collection of high quality, accurate data and the integrity and 
+confidentiality of data during processing and storage; 
+•     Arrangements are made for the appropriate archiving of data when the research has finished and to make  
+it accessible; 
+•    Reports on the progress and outcomes of the work required by the sponsor, funders, or others with a 
+legitimate interest are produced on time and to an acceptable standard;  
+•     The findings from the work are opened to critical review through the accepted scientific and professional  
+channels; 
+•     Once  established,  findings  from  the  work  are  disseminated  promptly  and  fed  back  as  appropriate  to  
+participants; 
+•     The chief investigator accepts a key role in detecting and preventing scientific misconduct by adopting the  
+role of guarantor on published outputs; 
+•     Arrangements  are  kept  in  place  for  the  management  of  financial  and  other  resources  provided  for  the  
+study, including for the management of any intellectual property arising;  
+•     All data and documentation associated with the study are available at the request of the inspection and 
+auditing authorities. 
+Please note:  
+• Ensuring that final revisions have been communicated to UEC within one year of initial review by UEC 
+of the application for ethical approval.  Failure to do so will mean that a new application must be 
+submitted.  
+• If an investigator leaves the University then agreement must be reached on who is responsible 
+for the files, notes and records relating to the investigation - normally this is the sponsor.
+
+--- PAGE 43 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+43  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 4 INSURANCE 
+ 
+1.      Outline of Insurance Policies 
+ 
+ 
+The University maintains a range of insurance policies including - 
+ 
+•     Employer’s Liability - which indemnifies the University against its liability for accidental injury to its  
+employees suffered during the course of their duties 
+•     Public Liability - which indemnifies the University against its liability for accidental injury to persons and  
+for accidental damage to the property of others 
+•     Products Liability 
+•     Professional Indemnity 
+•     Clinical Trials - under which no-fault cover is available. 
+ 
+Applications to the UEC should be accompanied by a completed insurance questionnaire. The information 
+provided in the insurance cover questionnaire will allow UEC to either confirm insurance cover or refer the 
+application to Finance for further checks. In cases where ethical approval is required from a collaborating 
+university or the NHS, but not the University, confirmation of insurance cover will also be sought. It must be 
+made clear at the time of submission if the University is acting as Sponsor or Co-Sponsor for the research 
+proposed. Ethical and management approval is only given when appropriate insurance cover is in place. 
+ 
+The purpose of the University’s insurance policies is to indemnify the University of Strathclyde (including 
+its staff, students, and ethics committee members, while working under the control of the University and on 
+University business), and not external investigators/organisations. 
+ 
+2.      Liability vs no fault insurance 
+ 
+ 
+The University holds two types of insurance to cover claims arising as a result of its involvement in research 
+involving human subjects / clinical trials: 
+ 
+2.1    Legal liability cover 
+ 
+ 
+Legal liability cover is available under but the Public Liability policy and the Clinical  Trials policy. 
+ 
+Legal liability policies provide cover for loss/harm to individuals resulting from their participation in a research 
+study or clinical trial where the University has been proven to be legally liable for that loss/harm. These 
+policies place a burden of proof upon the claimant to prove the University’s liability for their loss. 
+ 
+2.2    No fault cover 
+ 
+ 
+No fault cover is provided by the University’s Clinical Trials Policy. 
+ 
+No fault insurance is intended to provide compensation to clinical trial research subjects in the event of their 
+suffering a significant harm/loss which, on balance of probabilities, is directly attributable to their involvement 
+in the trial. There is no requirement for the claimant to prove negligence on the part of the Universit y. 
+ 
+For example, a research subject may experience an unexpected adverse reaction which was not caused by 
+negligence. Under a legal liability policy no cover would apply but a no fault policy will provide compensation 
+in this instance. 
+ 
+The insurance cover appropriate for most University investigations will be Legal Liability cover.
+
+--- PAGE 44 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+44  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+3.      Conditions of cover and exclusions 
+ 
+Insurance cover may be invalidated if the conditions of cover are not complied with:  
+ 
+•    Studies must not commence until ethical approval (as required by this Code or by other legislation/ 
+guidelines) has been obtained or, where ethical approval is required for a proposed amendment, until 
+approval of the amendment is obtained. 
+•     All material facts must be disclosed to insurers. 
+•     The University must take reasonable precautions to prevent any event which may give rise to a claim.  
+•     All legislation, regulations and guidelines (including this Code and the decisions of University ethics 
+committees) relevant to a particular investigation should be followed. 
+•     Insurers must be notified of claims, or of circumstances which have the potential to lead to a claim, as soon 
+as possible. A delay in notification could result in the absence of cover. 
+ 
+Not all legal liabilities are covered by the University’s policies. Exclusions under the Public Liability policy 
+include: 
+ 
+•     liability arising from use of aircraft/aerial/aeorspatial devices 
+•     liability arising from water borne craft 
+•     liability arising from ionising radiation/nuclear components 
+•     fines and penalties 
+•     legal liabilities assumed by the University under contract/agreement which would not otherwise have 
+attached. 
+ 
+Exclusions under the Clinical Trials policy include, but are not limited to: 
+ 
+•     clinical trials outside the UK 
+•     research subjects known to be pregnant at the time of the trial 
+•     research subjects under 5 years of age 
+•     trials with the purpose of assisting with or altering the process of conception 
+•     investigating or participation in methods of contraception 
+•     trials involving genetic engineering (other than a Clinical Trial in which Medicinal Purpose is treating, 
+preventing and diagnosing disease) 
+•     trials where the substance under investigation has been designed, altered or manufactured by the 
+University 
+•     fines and penalties 
+•     legal liabilities assumed by the University under contract/agreement which would not otherwise have 
+attached. 
+ 
+Where an activity is normally excluded it may be possible to arrange an extension to the policy on provision of 
+additional information and/or an additional premium. 
+ 
+All investigations taking place overseas must be referred to UEC for confirmation of insurance cover. 
+ 
+Many contracts may require that the University waive rights of recovery and/or hold harmless the other 
+party to the agreement. It should be noted that if this is done without the express approval of insurers, the 
+policies claims conditions will have been breached and insurers may avoid the claim. Such agreements must 
+therefore be referred to the University’s Insurance Adviser prior to the commencement of the investigation. 
+ 
+Further  details  on  policy  conditions  and  exclusions  can  be  obtained  from  the  University’s  Insurance 
+Adviser as required.
+
+--- PAGE 45 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+45  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+4.      Clinical trials insurance cover 
+ 
+The University holds a Clinical Trials policy (limit of indemnity £30M any one event and in the aggregate) which 
+provides cover for losses arising from Clinical Trials except those specifically excluded.  
+ 
+Insurers define a Clinical Trial as “an investigation or a series of investigations conducted on any person for a 
+Medicinal Purpose” where Medicinal Purpose is defined as: 
+ 
+•     treating or preventing disease 
+•     diagnosing disease or ascertaining the existence, degree of, or extent of, a physiological condition  
+•     assisting with, or altering in any way, the process of conception or investigating or participating in methods 
+of conception or contraception 
+•     inducing anaesthesia 
+•     otherwise preventing or interfering with the normal operation of a physiological function.  
+ 
+The policy has a number of policy conditions and exclusions as outlined in Section 3 on Conditions of Cover 
+and Exclusions. 
+ 
+The Clinical Trials policy provides both legal liability and no fault cover.  In most instances legal liability cover 
+will be the most appropriate cover for University activities. The decision whether or not to offer No Fault cover 
+for a particular investigation rests with the UEC. Investigators should therefore not state in their applications 
+that no-fault compensation cover is in place if this is not in fact the case. 
+ 
+There is no legal requirement for no-fault compensation to be offered for investigations involving human 
+participants in the UK. Some organisations (e.g. NHS bodies) will not be in a position to o ffer no-fault 
+compensation. 
+ 
+No Fault cover is most likely to be considered where: 
+ 
+•     the investigation is a clinical trial and involves potential harm to participants  
+•     the investigation is a clinical trial and there is potential for damage to the University ’s standing. 
+ 
+Depending on the number and nature of investigations for which no-fault cover is requested, additional premium 
+may be due. A claim by participants will only be covered if there is a valid policy at the time of the claim and the 
+claim is notified during the policy period. 
+ 
+5. Claims and potential claims 
+ 
+ 
+Any claim for compensation, or specific event which has the potential to give rise to a claim, must be reported 
+to the University’s Insurance Adviser in Finance as soon as possible, in order that it can be notified to the 
+Insurers as a claim/potential claim. 
+ 
+6. Individual members’ liability 
+ 
+ 
+In addition to the policies outlined at Section 1 above, the University has in place Directors and Officers Liability 
+cover. This specifically provides cover for all directors and officers of the University and its subsidiaries. This 
+includes all members (staff and lay members) of the UEC and the DEC/SECs. This provides cover for any 
+‘wrongful act’, i.e. any error, misstatement, act, omission, neglect or breach of duty committed, attempted or 
+allegedly committed or attempted by an insured person acting in this capacity. It will provide for the amount 
+which the insured is legally and personally liable to pay in respect of claims including defence  costs, legal 
+representation expenses and awards of damages.
+
+--- PAGE 46 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+46  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 5 NOTE ON THE LAW GOVERNING RESEARCH INVOLVING 
+HUMAN TISSUE 
+ 
+ 
+Human tissue taken from a living person 
+ 
+This note is confined to the law in Scotland, relating to research involving human tissue taken from a living 
+person.   It is understood that no research that is likely to come before the Committee is carried out on 
+human tissue taken from dead bodies. (A different set of rules under Human Tissue (Scotland) Act 2006 
+applies to such research). 
+ 
+Scotland compared with England and Wales. 
+ 
+The law applicable to the question in Scotland is 
+a.   Scots common law as it applies to determine who owns material taken from a living body 
+b.   A small number of the provisions in the Human Tissue Act 2004, essentially for our purpose Section 
+45 with Schedule 4, which creates a criminal offence if material is taken for DNA analysis in certain 
+circumstances 
+ 
+In England, by contrast, almost all the law is contained in the whole of the Human Tissue Act 2004. That 
+contains inter alia elaborate provisions regulating consent. 
+ 
+What counts as material from a living body, research on which is governed by the law in 
+Scotland? 
+ 
+Except for the purpose of the criminal offence relating to material taken for DNA analysis there is no statutory 
+definition applicable to material taken from a living person in Scotland. 
+ 
+It must be assumed that any material generated by and then separated from a living person’s body has to be 
+considered. The exception in the English statutory law, excluding “hair and nail” (Human Tissue Act 
+2004 section 53) does not apply in Scots (common) law. There is also no rule excluding very small quantities 
+in Scotland. 
+ 
+Who owns it? 
+ 
+Probably (see Niall Whitty, SME, sv Medical Law para 340) at the moment it is separated from the body, 
+the person from whose body it has come. Though there is no other authority on the matter in Scots law, I 
+consider that should the question ever required to be determined by a court, it would take this view, following 
+the approach in a number of other jurisdictions. 
+ 
+That person can donate it to another – e.g. to the investigator, the institution employing the investigator and 
+so on. (Some material cannot legally be sold) 
+ 
+The relation of “Donation” to “Consent” to use 
+ 
+Once something is donated the person from whom it comes no longer has a right or interest in what is then 
+done with it. A possible exception may be where something is done that would affect that person’s dignity, 
+which is highly unlikely in the context of research. 
+ 
+The question is therefore correctly one of donation rather than consent to use. However, if a person insisted 
+on not donating the material, then the question would arise as to consent to use. In such a situation, 
+which is unlikely, it would be appropriate to follow the guidelines in the English legislation, not as law, but as 
+appropriate ethical rules.
+
+--- PAGE 47 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+47  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+How is donation achieved? 
+ 
+It is probably implied in the research context. But for the avoidance of doubt it should be specifically stated in 
+the consent form. 
+ 
+Material for DNA analysis – New Statutory Criminal Offence 
+ 
+ 
+Section 45 (with Schedule 4) of the Human Tissue Act 2004 makes it a criminal offence in Scotland (as well as 
+in England Wales and Northern Ireland) to have “bodily material” for DNA analysis in certain circumstances. 
+The offence can be committed by the institution as well as an individual (see Section 49). 
+ 
+There are four conditions all of which are required for the offence to be committed (Section 45(1): 
+ 
+•    There is “bodily  material” (defined as material “from a human body [alive or dead] that “consists of or  
+includes human cells”) 
+•     A person [which can be an institution such as a university] has it 
+•     That person intends that DNA in it be analysed and intends that the results of that analysis be used, 
+other than for medical diagnosis or treatment of the person from whom it comes, criminal justice and 
+such things (Schedule 4 Part 2), or for certain sorts of medical research where the person from whom 
+it has come cannot be traced (once Regulations have been made for this; the Court of Session, when that 
+happens/if it happens is the supervisory body in Scotland). 
+•     There is no “consent” (as defined in the legislation) from the person from whom it has come (or from 
+the relevant other party as defined in the legislation where the person is a “child” or has cognitive 
+impairment.
+
+--- PAGE 48 ---
+
+Code of Practice on Investigations Involving Human Beings  | Eighth Edition 
+Edition 
+48  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ANNEX 6 RESEARCH IN RELATION TO DECEASED PERSONS 
+ 
+ 
+1.      Practical issues 
+ 
+ 
+The University of Strathclyde does not have a Medical School or Anatomy Department and does not routinely 
+receive bodies donated for medical research. However the University is licensed under the Anatomy Act 
+through its department of Biomedical Engineering and can examine and store cadaveric tissue at this facilit y. 
+Alternatively cadaveric samples can be obtained through collaboration with such departmen ts (e.g. the 
+Anatomy Department of Glasgow University) or via importation from an appropriate source. According to the 
+Anatomy Act, only licensed individuals may import tissue, and therefore the only source of tissue for non- 
+licensed departments and individuals is through collaboration. 
+ 
+If you wish to work with cadaveric tissue for the purpose of transplantation studies, then a separate licence 
+must be obtained from the Human Tissue Authority (see 
+www.hta.gov.uk/licensingandinspections/licenceapplicationstep-by-stepguide.cfm). 
+ 
+ 
+ 
+2.      Ethical issues 
+ 
+ 
+All research involving cadaveric tissue should be reviewed by the UEC unless devolved to a DEC/SEC. The 
+overwhelming ethical issue regarding the use of cadaveric human tissue concerns consent: whether the 
+intended use is compatible with the written consent given by the donor prior to death; that the tissue is treated 
+respectfully during the research programme and that the tissue is disposed of in accordance with the wishes 
+of the deceased. A secondary ethical issue is one of health and safety of the staff and students performing the 
+research. 
+ 
+Ethics applications must demonstrate that the intended research is appropriate based on the donor consent, 
+and that training associated with the manual handling of the tissue is more than adequate to ensure researcher 
+safety. 
+ 
+ 
+ 
+3.      Research using tissue obtained from living donors 
+ 
+ 
+Such tissues are obtained via regulated tissue banks, which have generic NHS (the UK ones do) approval 
+for research purposes. After their committee reviews an application for tissue, and approves it, they release 
+anonymous tissue on that basis. Such research must still gain ethical approval at the University of Strathclyde. 
+However, tissue obtained from a NHS tissue bank will be assumed to have been ethically obtained and 
+researchers should include the letter of approval from tissue banks within their application.
+
+--- PAGE 49 ---
+
+Code of Practice on Investigations Involving Human Beings | Eighth  Edition 48  
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION E: ANNEXES 
+ 
+ 
+ 
+ 
+ANNEX 7 DEFINITION OF MEDICAL DEVICES 
+ 
+ 
+Council Directive 93/42/EEC of 14 June 1993 concerning medical devices 
+ 
+For the purposes of the Medical Devices Directive, the following definitions shall apply: 
+ 
+A ‘medical device’ means any instrument, apparatus, appliance, software, material or other article, whether 
+used alone or in combination, including the software intended by its manufacturer to be used specifically for 
+diagnostic and/or therapeutic purposes and necessary for its proper application, intended by the manufacturer 
+to be used for human beings for the purpose of: 
+ 
+•     diagnosis, prevention, monitoring, treatment or alleviation of disease 
+•     diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap 
+•     investigation, replacement or modification of the anatomy or of a physiological process 
+•     control of conception 
+ 
+and which does not achieve its principal intended action in or on the human body by pharmacological, 
+immunological or metabolic means, but which may be assisted in its function by such means.
+
+--- PAGE 50 ---

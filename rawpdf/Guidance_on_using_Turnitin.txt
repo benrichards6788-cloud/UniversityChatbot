@@ -1,0 +1,258 @@
+--- PAGE 1 ---
+
+Assessment and Feedback 
+Guidance on using Turnitin 
+Version 
+No. 
+Description  Author Approval 
+body 
+Effective 
+Date 
+1.0 Guidelines for the use of Turnitin Assessment 
+and 
+Feedback 
+Working 
+Group 
+Senate September 
+2014 
+2.0 Guidance on using Turnitin Assessment 
+and 
+Feedback 
+Working 
+Group 
+Senate August 
+2025 
+ 
+Review Date August 2028 
+Section Responsible Education Enhancement 
+ 
+Purpose of Policy 
+This guidance outlines the University of Strathclyde’s position on the use of Turnitin in the 
+identification and investigation of suspected academic misconduct in submissions by 
+Undergraduate and Postgraduate Taught Students. 
+ 
+Scope of Policy 
+This guidance should be read by students and by staff involved in the marking of 
+Undergraduate and Postgraduate Taught students’ submitted work and the return of marks 
+and feedback to students following submission. This guidance should also be read by 
+Boards of Examiners.
+
+--- PAGE 2 ---
+
+Guidance on using Turnitin  
+Contents 
+Introduction .......................................................................................................................................................... 1 
+Scope..................................................................................................................................................................... 1 
+Using Turnitin ....................................................................................................................................................... 1 
+Using Turnitin Similarity Reports ....................................................................................................................... 2 
+Factors to consider when using Turnitin Similarity Reports .......................................................................... 3 
+Further support on the use of Turnitin .............................................................................................................. 5
+
+--- PAGE 3 ---
+
+1 
+ 
+ 
+ 
+Guidance on using Turnitin 
+ 
+Introduction 
+ 
+1. This guidance outlines the University of Strathclyde’s (hereafter ‘the University’) position on, and 
+recommendations for, effective practice for the use of Turnitin in the identification and investigation of 
+suspected academic misconduct in submissions by Undergraduate and Postgraduate Taught Students. 
+ 
+2. This guidance on using Turnitin should be used alongside the University’s Assessment and Feedback 
+Policy, Guidance on Maintaining Academic Integrity, and the Student Discipline Procedure: Academic 
+Misconduct 
+  
+ 
+Scope 
+ 
+3. This guidance applies to all summative assessment submissions made by students via Myplace on 
+Undergraduate and Postgraduate Taught programmes and modules, for which a Turnitin similarity check is 
+deemed as practical and pedagogically appropriate by the module or programme leader.  
+ 
+Using Turnitin 
+ 
+4. Turnitin is a text-matching service that allows the University to check whether work submitted by a student 
+matches in part or whole any text which is published or stored online and/or within Turnitin’s database. 
+ 
+5. Turnitin operates via Myplace as a configurable option within the Assignment Activity submission function. 
+When the Assignment Activity is configured to enable Turnitin submissions, staff can access a Similarity 
+Score and link to the corresponding Similarity Report provided by Turnitin, alongside the other standard 
+submission details for each student.  
+ 
+6. This Similarity Report means that Turnitin can be used alongside other tools, practices, and procedures the 
+University employs to discourage, detect, and investigate student academic misconduct, particularly 
+plagiarism and collusion.  
+ 
+7. Turnitin Similarity Reports cannot be used to identify, initiate, investigate, or evidence allegations relating to 
+the misuse of Generative-AI (Gen-AI). Moreover, the University does not endorse or permit the use of
+
+--- PAGE 4 ---
+
+2 
+ 
+Turnitin AI Checker (or any other tools or services claiming to detect the use of Gen-AI) and prohibits the 
+submission of students' submitted work to these tools or services. More information can be found in the 
+Guidance on Gen-AI and Academic Integrity/Misconduct.      
+ 
+8. The University expects that all assessments submitted through Myplace will be passed through Turnitin at 
+the point of final submission unless there is a pedagogical or practical reason for not doing so. 
+ 
+9. Providing access to Similarity Reports can support students to understand good academic practice, 
+particularly in the early part of their programme. Programme teams may decide to withhold these reports so 
+that students have the opportunity to demonstrate an appreciation of good academic practice, without 
+advance insight of Turnitin. Where a Programme team decides to withhold similarity reports from students, 
+this should be communicated in writing to students in advance through the normal channels with a clear 
+justification offered.  
+ 
+10. Guidance on setting up and using Turnitin features is available via the University’s Myplace support pages 
+for Turnitin.  
+ 
+11. Markers should not use Turnitin’s Feedback Studio to provide marks and feedback comments or 
+summaries on student submissions. This is because technical issues with Turnitin’s Feedback Studio can 
+only be resolved by Turnitin, and the feedback data generated through that tool is stored outwith the 
+University’s systems and is therefore not readily recoverable where issues arise. The feedback functions 
+and tools provided through Myplace should be used instead.  
+ 
+ 
+12.  More information about the use of Turnitin at the University of Strathclyde, including system requirements 
+and licence agreements, is available on the University website.  
+ 
+Using Turnitin Similarity Reports 
+ 
+13. Using Turnitin to identify and investigate academic misconduct necessarily depends on subject specialist 
+interpretation of the Similarity Report. 
+ 
+14. The Similarity Report presents the results of a comparison of the text submitted by the student(s) with the 
+contents of specified search targets selected for the assessment. The search targets could include: 
+a. the work of others which has been submitted to Turnitin; 
+b. active and archived sources online; and, 
+c. published academic work in periodicals, journals, and other publications.
+
+--- PAGE 5 ---
+
+3 
+ 
+15. The Similarity Report highlights for staff the specific passages of text which match text from other sources 
+and provides a reference or link to the source. The Similarity Report also contains a Similarity Score, which 
+is displayed as a percentage. This number indicates the proportion of the text in the submission which 
+matches text found elsewhere.  
+ 
+16. Without further investigation, the Similarity Report and associated Similarity Score must not be considered 
+as evidence that plagiarism or collusion has or has not taken place. Turnitin does not check for plagiarism, 
+instead it checks for similarities between the submission and other text held on the Turnitin database. 
+ 
+17. The most effective way of interpreting a Similarity Report and Score will vary depending on the academic 
+context and the specific arrangements for the assessment. Staff should rely on their experience and 
+academic judgement when deciding whether a particular Similarity Report and Score merits a disciplinary 
+investigation in line with the Student Discipline Procedure - Academic Misconduct.  
+ 
+18. The Similarity Score must not be taken as immediate or definitive evidence of academic misconduct. 
+Reports and Scores which are concerning or anomalous in a given context should be investigated first by 
+the staff member responsible for marking the work. There may be reasonable explanations for high or low 
+Similarity Scores (for example, high scores as a result of the use of a mandatory template or a low score in 
+a submission consisting of personal reflections).  
+ 
+19. Where a submission presents an extremely low score, such as zero, an investigation is advised into 
+whether means of deliberately circumventing Turnitin have been deployed. This could include, but need not 
+be limited to: 
+a. uploading an image of text rather than the text itself; 
+b. using synonyms to disguise plagiarised text; and/or, 
+c. inserting white letters or numbers in between the plagiarised text which merge with the background 
+and render the submission as a single word when it is processed.  
+ 
+20. Programme leaders should ensure that staff involved in marking submissions are aware of Department 
+approaches to interpreting and investigating Similarity Reports.  
+ 
+21. Turnitin provide detailed guidance and tips on how to approach the interpretation of Similarity Reports on 
+their website.   
+ 
+Factors to consider when using Turnitin Similarity Reports  
+ 
+22. The nature of the Similarity Report and its value in the detection and investigation of academic misconduct 
+is dependent on more than the content of the text a student passes through the software. There are other
+
+--- PAGE 6 ---
+
+4 
+ 
+factors that markers and Department Academic Misconduct Officers should bear in mind when reviewing 
+Similarity Reports and Scores. For example: 
+ 
+a. The nature of the assessment may have an impact on the Similarity Report and Score. For example, 
+submissions for an assessment which has been set several times before, with previous cohorts of 
+students, may lead to more matches and relatively high Similarity Scores.  
+ 
+b. The length of the submission could be relevant. For example, finding that 10% of a 12,000-word 
+undergraduate dissertation matches an existing source may be different to finding that 10% of a 300-
+word short answer matches another text. While a single poorly referenced or formatted sentence might 
+lead to a score of 10% in the latter, this is unlikely to be the case in the former.  
+ 
+c. The stage of a student’s development and expected levels of competency in academic conventions 
+and practices (such as referencing) at the time of submission could be relevant. Poor scholarship 
+which results in a concerning Similarity Score in the work of a first-year student or a student who is 
+new to UK academic culture may be viewed differently to a concerning Similarity Score in the 
+submission of a fourth-year student completing their final project.  
+ 
+d. Assessments which consist of the same or similar questions and tasks which have been completed by 
+previous cohorts of students are more likely to lead to higher Similarity Scores. This issue might also 
+be apparent in subjects where assessments are designed to closely align with the requirements of 
+Accrediting or Professional, Statutory, and Regulatory Bodies (PSRBs).  
+ 
+e. Text which has been copied from sources in languages other than English may not lead to a match on 
+Turnitin, particularly where the text has never been translated into English and published or where a 
+translation leads to a different phrasing or arrangement of the text. 
+ 
+f. Dealing with a concerning Similarity Report for a piece of assessed group work will require a clear and 
+consistent approach which is fair to all students involved in the submission.  
+ 
+g. Despite the increase in availability and use of online and digital resources, most students are still likely 
+to engage with some hard copy or print-only resources in completing some assessments. These 
+sources are likely to produce fewer matches on Turnitin. 
+ 
+h. Similarity Reports might include so-called ‘false positives’ (for example, technical phrases that are not 
+only common but often essential in particular work or within disciplines). Filters and exclusions can be 
+applied to assignments to ensure that these phrases are not included in Similarity Reports and Scores. 
+Filters and exclusions should be set up when an assignment is created.
+
+--- PAGE 7 ---
+
+5 
+ 
+i. Some specialised content included in a submission will not be checked by Turnitin. This includes, but 
+may not be limited to, images, graphics, diagrams, graphs, charts, maps, handwritten content, 
+mathematical notation, and software coding.  
+ 
+j. Submissions which have been procured from a third-party, such as an ‘essay mill,’ created using Gen-
+AI tools, or altered using third-party software, such as automated or manual synonymising software, 
+may not result in a concerning Similarity Report or Score.  
+ 
+k. Assessment briefings given to students should flag any formatting conventions which are required by 
+the assessment and the configuration of Turnitin. For example, Turnitin may only recognise direct 
+quotes when they are presented in double quotation marks (“”), so if the practices of a student, or the 
+demands of an assessment, mean that single quotation marks (‘’) or indented text are used to indicate 
+quoted text, these passages will not be recognised as direct quotes. 
+ 
+l. During inductions and prior to assessment submissions, students may benefit from staff demonstrating 
+how Turnitin operates and an explanation of how staff use it to detect and investigate academic 
+misconduct. It is advised that such opportunities are also used to remind students that submissions are 
+also manually checked for signs of academic misconduct as part of the marking process.  
+ 
+m. Programme Leaders may insist that markers sample 10% of all submissions to Turnitin for more 
+detailed, manual checks, which could include but should not be limited to submissions recording higher 
+Similarity Scores. This mirrors the approach to sampling set out in the University’s Policy on 
+Moderation and Double Marking. 
+ 
+n. Guidance on managing the settings on Turnitin in Myplace is available from the University’s Myplace 
+support pages for Turnitin. 
+ 
+Further support on the use of Turnitin 
+ 
+23. Please see the support section of 'Myplace' for guidance on using Turnitin or contact the Library and IT 
+helpdesk 
+ 
+24. For further guidance on matters of academic integrity or the Student Discipline Procedure: Academic 
+Misconduct, please contact the Senate Office (senate-discipline@strath.ac.uk).
