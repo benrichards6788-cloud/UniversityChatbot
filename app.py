@@ -9,7 +9,7 @@ from query_policies import retrieve_policies
 
 PDF_DIR = Path("guidance pdf")
 FIXED_K = 10
-MAX_EXTRACT_CHARS = 700
+MAX_EXTRACT_CHARS = 500
 
 
 def render_pdf_embed(pdf_path: Path, height: int = 700):
@@ -44,6 +44,23 @@ def strip_breadcrumbs(text: str) -> str:
         if len(parts) == 3:
             return parts[2].strip()
     return cleaned
+
+
+def clean_section_name(section: str) -> str:
+    """Hide broken section labels and normalize spacing for sane ones."""
+    if not section:
+        return ""
+
+    section = " ".join(section.split()).strip()
+
+    if section.lower() == "document":
+        return ""
+
+    tokens = section.split()
+    if len(tokens) >= 8 and all(len(tok) == 1 for tok in tokens[:8]):
+        return ""
+
+    return section
 
 
 def group_chunks_by_document(chunks):
@@ -90,7 +107,7 @@ with tab_chat:
 
             st.markdown(answer)
 
-            with st.expander("Sources used", expanded=True):
+            with st.expander("Sources used", expanded=False):
                 if not chunks:
                     st.write("No sources retrieved.")
                 else:
@@ -99,10 +116,13 @@ with tab_chat:
                     for source_num, (doc_title, doc_chunks) in enumerate(grouped_chunks.items(), start=1):
                         first_chunk = doc_chunks[0]
                         source_file = first_chunk.get("source_file")
-                        section_names = sorted({" ".join((c.get("section") or "Unknown section").split()) for c in doc_chunks})
+
+                        raw_sections = [c.get("section") or "" for c in doc_chunks]
+                        section_names = sorted(
+                            {clean_section_name(section) for section in raw_sections if clean_section_name(section)}
+                        )
 
                         st.markdown(f"### 📄 {doc_title}")
-
                         st.caption(
                             f"{len(doc_chunks)} supporting excerpt"
                             + ("s" if len(doc_chunks) > 1 else "")
@@ -110,7 +130,7 @@ with tab_chat:
 
                         if section_names:
                             if len(section_names) == 1:
-                                st.write(f"**Section:** {' '.join(section_names[0].split())}")
+                                st.write(f"**Section:** {section_names[0]}")
                             else:
                                 st.write(f"**Sections:** {', '.join(section_names[:3])}")
 
@@ -121,27 +141,34 @@ with tab_chat:
                             chunk_text = strip_breadcrumbs(chunk.get("text", ""))
                             st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
-                                            f"""
-                                            <div style="
-                                            background-color:#1e3a5f;
-                                            padding:14px;
-                                            border-radius:8px;
-                                            border-left:4px solid #4da3ff;
-                                            font-size:0.95rem;
-                                            line-height:1.5;">
-                                            {chunk_text[:500]}   
-                                            </div>
-                                            """,
-                                            unsafe_allow_html=True
+                                f"""
+                                <div style="
+                                background-color:#1e3a5f;
+                                padding:14px;
+                                border-radius:8px;
+                                border-left:4px solid #4da3ff;
+                                font-size:0.95rem;
+                                line-height:1.5;">
+                                {chunk_text[:MAX_EXTRACT_CHARS]}
+                                </div>
+                                """,
+                                unsafe_allow_html=True
                             )
 
                         if source_file:
-                            pdf_path = PDF_DIR / source_file
-                            show_pdf = st.toggle(
-                                f"View source PDF: {source_file}",
-                                key=f"toggle_pdf_{source_num}_{source_file}"
-                            )
-                            if show_pdf:
+                            pdf_key = f"show_pdf_{source_num}_{source_file}"
+                            if pdf_key not in st.session_state:
+                                st.session_state[pdf_key] = False
+
+                            col1, col2 = st.columns([1, 5])
+                            with col1:
+                                if st.button("Open PDF", key=f"btn_{pdf_key}"):
+                                    st.session_state[pdf_key] = not st.session_state[pdf_key]
+                            with col2:
+                                st.caption(source_file)
+
+                            if st.session_state[pdf_key]:
+                                pdf_path = PDF_DIR / source_file
                                 render_pdf_embed(pdf_path)
 
                         st.divider()

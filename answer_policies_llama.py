@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import textwrap
 import os
 from query_policies import retrieve_policies
