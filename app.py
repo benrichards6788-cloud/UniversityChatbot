@@ -110,7 +110,7 @@ with tab_chat:
 
                         if section_names:
                             if len(section_names) == 1:
-                                st.write(f"**Section:** {section_names[0]}")
+                                st.write(f"**Section:** {' '.join(section_names[0].split())}")
                             else:
                                 st.write(f"**Sections:** {', '.join(section_names[:3])}")
 
