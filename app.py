@@ -101,9 +101,12 @@ with tab_chat:
                         source_file = first_chunk.get("source_file")
                         section_names = sorted({(c.get("section") or "Unknown section") for c in doc_chunks})
 
-                        st.markdown(f"### 📄 Source {source_num}")
-                        st.write(f"**Document:** {doc_title}")
-                        st.write(f"**Retrieved excerpts:** {len(doc_chunks)}")
+                        st.markdown(f"### 📄 {doc_title}")
+
+                        st.caption(
+                            f"{len(doc_chunks)} supporting excerpt"
+                            + ("s" if len(doc_chunks) > 1 else "")
+                        )
 
                         if section_names:
                             if len(section_names) == 1:
@@ -116,8 +119,21 @@ with tab_chat:
 
                         for extract_num, chunk in enumerate(doc_chunks, start=1):
                             chunk_text = strip_breadcrumbs(chunk.get("text", ""))
-                            st.markdown(f"**Relevant extract {extract_num}:**")
-                            st.info(chunk_text[:MAX_EXTRACT_CHARS])
+                            st.markdown(f"**Supporting extract {extract_num}:**")
+                            st.markdown(
+                                            f"""
+                                            <div style="
+                                            background-color:#1e3a5f;
+                                            padding:14px;
+                                            border-radius:8px;
+                                            border-left:4px solid #4da3ff;
+                                            font-size:0.95rem;
+                                            line-height:1.5;">
+                                            {chunk_text[:600]}   
+                                            </div>
+                                            """,
+                                            unsafe_allow_html=True
+                            )
 
                         if source_file:
                             pdf_path = PDF_DIR / source_file
