@@ -192,8 +192,8 @@ with tab_chat:
                                             key=f"dl_{pdf_key}"
                                         )
 
-    if st.session_state[pdf_key]:
-        render_pdf_embed(pdf_path)
+                            if st.session_state[pdf_key]:
+                                render_pdf_embed(pdf_path)
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
