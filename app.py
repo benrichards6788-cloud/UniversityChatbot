@@ -1,8 +1,12 @@
 import streamlit as st
+import base64
 from answer_policies_llama import answer_question
 from query_policies import retrieve_policies
+from pathlib import Path
 
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
+
+PDF_DIR = Path("guidance pdf")
 
 with tab_chat:
     st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
@@ -10,17 +14,17 @@ with tab_chat:
     st.title("Strathclyde Policy Assistant")
     st.caption("RAG demo: FAISS + MiniLM retrieval + Llama (Ollama) generation")
 
-    # Session chat history
+    
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Sidebar controls
-    with st.sidebar:
-        st.header("Settings")
-        k = st.slider("Top-k retrieved chunks", 3, 20, 12)
-        show_sources = st.checkbox("Show retrieved sources", value=True)
-        st.markdown("---")
-        st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
+    
+    #with st.sidebar:
+      #  st.header("Settings")
+       # k = st.slider("Top-k retrieved chunks", 3, 20, 12)
+        #show_sources = st.checkbox("Show retrieved sources", value=True)
+        #st.markdown("---")
+        #st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
 
     # Render history
     for m in st.session_state.messages:
@@ -30,15 +34,15 @@ with tab_chat:
     prompt = st.chat_input("Ask a policy question...")
 
     if prompt:
-        # Show user message
+        # show user message
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
 
-        # Retrieve (for transparency + sources display)
+        
         chunks = retrieve_policies(prompt, k=k)
 
-        # Generate answer (your existing RAG)
+        # generate answer 
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
                 answer = answer_question(prompt, k=k)
@@ -50,11 +54,38 @@ with tab_chat:
                     if not chunks:
                         st.write("No sources retrieved.")
                     else:
-                        for i, c in enumerate(chunks, start=1):
-                            st.markdown(f"### Source {i}")
-                            st.write(f"**Title:** {c.get('doc_title')}")
-                            st.write(f"**Section:** {c.get('section')}")
-                            st.write(c.get("text", "")[:1500])
+                        PDF_DIR = Path("guidance pdf")   
+
+for i, c in enumerate(chunks, start=1):
+
+    st.markdown(f"### Source {i}")
+
+    st.write(f"**Title:** {c.get('doc_title')}")
+    st.write(f"**Section:** {c.get('section')}")
+
+    st.write(c.get("text", "")[:1500])
+
+    source_file = c.get("source_file")
+
+    if source_file:
+        pdf_path = PDF_DIR / source_file
+
+        if pdf_path.exists():
+            with open(pdf_path, "rb") as f:
+                pdf_bytes = f.read()
+
+            base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
+
+            pdf_display = f"""
+                <iframe
+                    src="data:application/pdf;base64,{base64_pdf}"
+                    width="100%"
+                    height="600"
+                    type="application/pdf">
+                </iframe>
+            """
+
+            st.markdown(pdf_display, unsafe_allow_html=True)
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
