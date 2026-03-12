@@ -56,7 +56,7 @@ timing of the release of feedback and the scheduling of subsequent assessments a
 considered (particularly where feedback can be used by students to improve the development 
 of future work), as well as the provision of opportunities for students to clarify feedback.  
 The University expects that feedback will normally be returned to students within 15 working 
-days of assessment submission2. The University’s VLE, Myplace, provides a platform for the 
+days of assessment submission2. The University’s VLE, Myplace,  provides a platform for the 
 electronic return of grades and feedback, and where permitted by the nature of an assessment, 
 staff are expected to implement the submission of assessments online through Myplace, in 
 order to promote effectiveness and efficiency in each stage of the assessment and feedback 

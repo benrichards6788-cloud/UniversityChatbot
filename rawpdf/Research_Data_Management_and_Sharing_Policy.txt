@@ -68,7 +68,7 @@ transparency of research findings (e.g. verification, reproducibility and replic
 become reputational and is reflected in a growing number of scholarly journals and communities of practice, 
 many of which mandate openness and sharing of any data accompanying publications. 
 Research data processed by University Researchers (as defined in 1.2) is expected to be managed to a high 
-standard throughout the research data lifecycle in support of  the University’s Strategic Plan ; to avoid data 
+standard throughout the research data lifecycle in support of  the University’s Strategic Plan; to avoid data 
 loss, contractual and/or data protection breaches; and to widely share the evidence which underpins research, 
 for societal and public benefit.  The University supports Researcher s to achieve excellence through the 
 provision of systems, infrastructure, tools, training and guidance via our cross -functional Research Data 
@@ -109,7 +109,7 @@ This policy does not apply to Undergraduate Students and Postgraduate Taught Stu
 Property issues associated with involving these students in research projects are addressed in ANNEX B of 
 the Intellectual Property (IP) & Commercialisation policy. 
 Research data 
-The definition of ‘ research data’ for the purpose of this policy is digital  or analogue (i.e. represented in a 
+The definition of ‘research data’ for the purpose of this policy is digital  or analogue (i.e. represented in a 
 physical way) information that is created, collected, and/or reused to produce, validate and/or enrich research 
 findings.  
 ‘Research data’ therefore includes: 
@@ -141,7 +141,7 @@ whether the project is funded. Research data subject to funder, regulatory and c
 be managed according to those requirements and any exceptions should be approved by the sponsor, funder 
 or relevant authority.  
 This policy outlines expectations on Researchers regarding best practice in research data management and 
-sharing. Aspects of the policy which are mandatory are differentiated using the word ‘ must’. The guidance 
+sharing. Aspects of the policy which are mandatory are differentiated using the word ‘must’. The guidance 
 associated with this policy details best practice for data storage, sharing and the preservation of data and 
 provides examples of what is appropriate, proportionate and realistic.
 
@@ -271,7 +271,7 @@ applications as part of the grant submission process.
 4.1.1 In accordance with University/funder policies and sector best practice, all student (PGR) and staff 
 research projects are required to have a DMP. As outlined in 3.1.5, a Provisional DMP should be in 
 place prior to project commencement and updates should be made as required over the course of 
-the project (treating it as a ‘living ’ document), resulting in a Final DMP on project completion. The 
+the project (treating it as a ‘living’ document), resulting in a Final DMP on project completion. The 
 DMP should document key decisions concerning data collection, storage, sharing and preservation 
 as appropriate to the project and in accordance with applicable funder data requirements and/or 
 contractual/ethical agreements. In the interests of transparency and to enable monitoring of research 
@@ -287,7 +287,7 @@ activities, if fully justified at application stage; for example, UKRI guidance 
 be requested for any costs related to research data management which will be incurred during the 
 project and not be covered by directly allocated or indirect costs.’ 2 Guidance on costing research 
 projects can be sought from the Costing and Pricing Team in RKES.  
-4.1.3 Researchers can use the University’s generic DMP template , which contains local information and 
+4.1.3 Researchers can use the University’s generic DMP template, which contains local information and 
 prompts. Tailored templates, such as those that adhere to funder requirements, can be found on 
 DMP Online . When applying for funding grants and bids, Researchers are lik ely to be asked to 
 structure the DMP to fit the funder or scheme-specific template.  

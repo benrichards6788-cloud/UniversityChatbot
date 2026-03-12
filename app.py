@@ -40,12 +40,12 @@ with tab_chat:
             st.markdown(prompt)
 
         
-        chunks = retrieve_policies(prompt, k=k)
+        chunks = retrieve_policies(prompt, k=7)
 
         # generate answer 
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
-                answer = answer_question(prompt, k=k)
+                answer = answer_question(prompt, k=7)
 
             st.markdown(answer)
 

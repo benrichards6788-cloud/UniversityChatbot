@@ -231,9 +231,9 @@ _SUBSECTION_INLINE_RE = re.compile(
 )
 
 def split_subsections(body: str, parent_title: str, min_tokens: int = 500) -> List[Dict]:
-    """Split a section body into smaller sub-sections based on inline all-caps numbered headings.
+    """split a section body into smaller subsections based on inline all-caps numbered headings.
 
-    Returns a list of {title, body}. If no split points are found (or body is small), returns one item.
+    returns a list of {title, body}. If no split points are found, returns one item.
     """
     body = (body or "").strip()
     if not body:
@@ -264,8 +264,8 @@ def split_subsections(body: str, parent_title: str, min_tokens: int = 500) -> Li
         seg = body[seg_start:seg_end].strip()
         if not seg:
             continue
-        num = m.group(1).strip()               # e.g. "4."
-        name = _normalize_heading(m.group(2))  # e.g. "ANONYMOUS MARKING"
+        num = m.group(1).strip()
+        name = _normalize_heading(m.group(2))
         sub_title = f"{parent_title} | {num} {name}"
         out.append({"title": sub_title, "body": seg})
 
@@ -406,49 +406,6 @@ def chunk_body(text_with_breadcrumb: str) -> str:
     """
     parts = text_with_breadcrumb.split("\n\n", 1)
     return parts[1] if len(parts) == 2 else text_with_breadcrumb
-
-
-# split large sections on numbered ALL-CAPS subheadings:
-_SUBSEC_RE = re.compile(r"(?=(\b\d+\.)\s+([A-Z][A-Z \-/&]{3,}))")
-
-def split_subsections(body: str, parent_title: str, min_tokens: int = 500):
-    body = (body or "").strip()
-    if not body:
-        return []
-
-    # only split big sections
-    if approx_tokens(body) < min_tokens:
-        return [{"title": parent_title, "body": body}]
-
-    matches = list(_SUBSEC_RE.finditer(body))
-    if len(matches) < 2:
-        return [{"title": parent_title, "body": body}]
-
-    starts = [m.start() for m in matches]
-    starts.append(len(body))
-
-    out = []
-
-    # keep any intro text before first heading
-    if starts[0] > 0:
-        prefix = body[:starts[0]].strip()
-        if prefix:
-            out.append({"title": parent_title, "body": prefix})
-
-    for i, m in enumerate(matches):
-        seg = body[m.start():starts[i + 1]].strip()
-        if not seg:
-            continue
-
-        num = m.group(1).strip()
-        name = _normalize_heading(m.group(2))
-        sub_title = f"{parent_title} | {num} {name}"
-        out.append({"title": sub_title, "body": seg})
-
-    return out if out else [{"title": parent_title, "body": body}]
-
-
-
 
 
 # chunk a single file

@@ -101,7 +101,7 @@ approval;
 encourage the effectiveness of assessment in aiding students to achieve the necessary 
 knowledge and skills described in a module or programme’s intended learning outcomes; 
 - TESTA (Transforming the Experience of Students Through Assessment) is now integrated 
-within the University’s Internal Review process (relating to reviews scheduled from  2019-
+within the University’s Internal Review process (relating to reviews scheduled from 2019-
 20); 
 - The development of Unistats (previously KIS - Key Information Sets) which allows students 
 to compare official programme data from all Higher Education Institutions and Colleges in 
@@ -279,7 +279,7 @@ delivered will be reviewed by an academic committee.
 It is important that a full set of documentation be submitted for scrutiny and that the 
 approval process is formally recorded. The UK Quality Code for Higher Education ‘Course
  
-Design and Development’ states ‘ Approval processes should ensure that definitive course 
+Design and Development’ states ‘Approval processes should ensure that definitive course 
 documentation is produced accurately and fairly describing the learning opportunities, intended 
 student outcomes and support offered. Providers are responsible and accountable for the 
 information they produce and for ensuring definitive course documentation remains current, 
@@ -469,7 +469,7 @@ The University expects the business case to be comprised of the following:
 - The academic case incorporating programme specification, draft programme regulations 
 and module descriptor form. 
 - Supplementary information particularly regarding rationale, resource requirements/ 
-availability and detailed programme content (details can be found in section 2 ‘ Preparing a 
+availability and detailed programme content (details can be found in section 2 ‘Preparing a 
 Business Case: Information Required’). 
  
 3.1.1 Programme Specifications 
