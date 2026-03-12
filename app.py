@@ -119,7 +119,7 @@ with tab_chat:
 
                         for extract_num, chunk in enumerate(doc_chunks, start=1):
                             chunk_text = strip_breadcrumbs(chunk.get("text", ""))
-                            st.markdown(f"**Supporting extract {extract_num}:**")
+                            st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
                                             f"""
                                             <div style="
@@ -129,7 +129,7 @@ with tab_chat:
                                             border-left:4px solid #4da3ff;
                                             font-size:0.95rem;
                                             line-height:1.5;">
-                                            {chunk_text[:600]}   
+                                            {chunk_text[:500]}   
                                             </div>
                                             """,
                                             unsafe_allow_html=True
