@@ -71,7 +71,7 @@ def group_chunks_by_document(chunks):
 
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
-    st.markdown(
+st.markdown(
         """
         <style>
             .main .block-container {
