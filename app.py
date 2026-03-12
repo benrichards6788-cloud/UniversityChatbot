@@ -238,8 +238,7 @@ with tab_dates:
     st.caption(
         "Exact dates vary by academic year and programme. "
         "This prototype surfaces official information rather than storing it locally."
-    )    if not text:
-        return ""
+    )   
 
     cleaned = text.strip()
     if cleaned.startswith("[Policy:"):
