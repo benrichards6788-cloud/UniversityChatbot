@@ -99,7 +99,7 @@ with tab_chat:
                     for source_num, (doc_title, doc_chunks) in enumerate(grouped_chunks.items(), start=1):
                         first_chunk = doc_chunks[0]
                         source_file = first_chunk.get("source_file")
-                        section_names = sorted({(c.get("section") or "Unknown section") for c in doc_chunks})
+                        section_names = sorted({" ".join((c.get("section") or "Unknown section").split()) for c in doc_chunks})
 
                         st.markdown(f"### 📄 {doc_title}")
 
