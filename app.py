@@ -60,7 +60,7 @@ tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
 
 with tab_chat:
     st.title("Strathclyde Policy Assistant")
-    st.caption("RAG demo: FAISS + MiniLM retrieval + Llama (Ollama) generation")
+    st.caption("Ask me anything about Strathclyde policy and I will assist you!")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
