@@ -332,6 +332,7 @@ def pack_runs_to_chunks(
     runs: List[List[str]],
     doc_title: str,
     section_title: str,
+    source_file: str,
     target_tokens: int = DEFAULT_TARGET_TOKENS,
     overlap_ratio: float = DEFAULT_OVERLAP_RATIO,
     min_tokens: int = 120
@@ -351,7 +352,8 @@ def pack_runs_to_chunks(
 
         # if adding this run would exceed budget + chunk not empty, finish chunk
         if cur_buf and (cur_tok + rtok > target_tokens):
-            chunks.append(_make_chunk(doc_title, section_title, cur_buf))
+            if cur_buf:
+                chunks.append(_make_chunk(doc_title, section_title, source_file, cur_buf))
             cur_buf, cur_tok = [], 0
 
         cur_buf.append(run_text)
@@ -359,7 +361,7 @@ def pack_runs_to_chunks(
 
     # after the loop, seal the last part into a final chunk
     if cur_buf:
-        chunks.append(_make_chunk(doc_title, section_title, cur_buf))
+        chunks.append(_make_chunk(doc_title, section_title, source_file, cur_buf))
 
     # duplicate the first ~1 sentence of the next chunk
     out = []
@@ -387,13 +389,14 @@ def pack_runs_to_chunks(
 
     return out
 
-def _make_chunk(doc_title: str, section_title: str, pieces: Iterable[str]) -> Dict:
+def _make_chunk(doc_title: str, section_title: str, source_file: str, pieces: Iterable[str]) -> Dict:
     breadcrumb = f"[Policy: {doc_title}] [Section: {section_title}]"
     text = breadcrumb + "\n\n" + " ".join(pieces).strip()
     return {
         "doc_title": doc_title,
         "section": section_title,
         "text": text,
+        "source_file": source_file,
     }
 
 def chunk_body(text_with_breadcrumb: str) -> str:
@@ -474,6 +477,7 @@ def chunk_file(
     )
 
     doc_title = prettify_title(txt_path.stem)
+    source_file = txt_path.with_suffix(".pdf").name
 
     all_chunks: List[Dict] = []
 
@@ -508,6 +512,7 @@ def chunk_file(
                 runs,
                 doc_title=doc_title,
                 section_title=sub["title"],   # important: use subsection title
+                source_file=source_file,
                 target_tokens=target_tokens,
                 overlap_ratio=overlap_ratio,
             )
