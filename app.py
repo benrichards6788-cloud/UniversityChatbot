@@ -49,12 +49,12 @@ with tab_chat:
 
             st.markdown(answer)
 
-            if show_sources:
-                with st.expander("Sources used"):
-                    if not chunks:
-                        st.write("No sources retrieved.")
-                    else:
-                        PDF_DIR = Path("guidance pdf")   
+
+            with st.expander("Sources used"):
+                if not chunks:
+                    st.write("No sources retrieved.")
+                else:
+                    PDF_DIR = Path("guidance pdf")
 
 for i, c in enumerate(chunks, start=1):
 
