@@ -71,7 +71,6 @@ def group_chunks_by_document(chunks):
 
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
-# Force chat input to the bottom of the viewport
 st.markdown(
     """
     <style>
@@ -81,21 +80,27 @@ st.markdown(
 
         div[data-testid="stChatInput"] {
             position: fixed;
-            bottom: 0.75rem;
-            left: 50%;
-            transform: translateX(-50%);
-            width: min(900px, calc(100vw - 3rem));
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
             z-index: 1000;
+            padding: 1rem 2rem;
             background: transparent;
         }
 
         div[data-testid="stChatInput"] > div {
-            background: rgb(14, 17, 23);
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: rgb(14,17,23);
             border-radius: 14px;
-            padding: 0.2rem;
-            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+            box-shadow: 0 6px 24px rgba(0,0,0,0.35);
         }
     </style>
+    """,
+    unsafe_allow_html=True,
+)
     """,
     unsafe_allow_html=True,
 )
