@@ -71,39 +71,39 @@ def group_chunks_by_document(chunks):
 
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
-st.markdown(
-    """
-    <style>
-        .main .block-container {
-            padding-bottom: 8rem;
-        }
+    st.markdown(
+        """
+        <style>
+            .main .block-container {
+                padding-bottom: 8rem;
+            }
 
-        div[data-testid="stChatInput"] {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            width: 100%;
-            z-index: 1000;
-            padding: 1rem 2rem;
-            background: transparent;
-        }
+            div[data-testid="stChatInput"] {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                z-index: 1000;
+                padding: 1rem 2rem;
+                background: transparent;
+            }
 
-        div[data-testid="stChatInput"] > div {
-            width: 100%;
-            max-width: 1200px;
-            margin: auto;
-            background: rgb(14,17,23);
-            border-radius: 14px;
-            box-shadow: 0 6px 24px rgba(0,0,0,0.35);
-        }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-    """,
-    unsafe_allow_html=True,
-)
+            div[data-testid="stChatInput"] > div {
+                width: 100%;
+                max-width: 1200px;
+                margin: auto;
+                background: rgb(14,17,23);
+                border-radius: 14px;
+                box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+            }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+        """,
+        unsafe_allow_html=True,
+    )
 
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
 
