@@ -19,12 +19,11 @@ with tab_chat:
         st.session_state.messages = []
 
     
-    #with st.sidebar:
-      #  st.header("Settings")
-       # k = st.slider("Top-k retrieved chunks", 3, 20, 12)
-        #show_sources = st.checkbox("Show retrieved sources", value=True)
-        #st.markdown("---")
-        #st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
+    with st.sidebar:
+        st.header("Settings")
+        k = 10
+        st.markdown("---")
+        st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
 
     # Render history
     for m in st.session_state.messages:
@@ -40,62 +39,34 @@ with tab_chat:
             st.markdown(prompt)
 
         
-        chunks = retrieve_policies(prompt, k=7)
+        chunks = retrieve_policies(prompt, k=k)
 
         # generate answer 
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
-                answer = answer_question(prompt, k=7)
+               answer = answer_question(prompt, k=k)
 
-            st.markdown(answer)
+        st.markdown(answer)
 
-
-            with st.expander("Sources used"):
-                if not chunks:
-                    st.write("No sources retrieved.")
-                else:
-                    PDF_DIR = Path("guidance pdf")
-
-for i, c in enumerate(chunks, start=1):
-
-    st.markdown(f"### Source {i}")
-
-    st.write(f"**Title:** {c.get('doc_title')}")
-    st.write(f"**Section:** {c.get('section')}")
-
-    st.write(c.get("text", "")[:1500])
-
-    source_file = c.get("source_file")
-
-    if source_file:
-        pdf_path = PDF_DIR / source_file
-
-        if pdf_path.exists():
-            with open(pdf_path, "rb") as f:
-                pdf_bytes = f.read()
-
-            base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
-
-            pdf_display = f"""
-                <iframe
-                    src="data:application/pdf;base64,{base64_pdf}"
-                    width="100%"
-                    height="600"
-                    type="application/pdf">
-                </iframe>
-            """
-
-            st.markdown(pdf_display, unsafe_allow_html=True)
-
-        st.session_state.messages.append({"role": "assistant", "content": answer})
+        with st.expander("Sources used", expanded=True):
+            if not chunks:
+                st.write("No sources retrieved.")
+            else:
+                for i, c in enumerate(chunks, start=1):
+                    st.markdown(f"### Source {i}")
+                    st.write(f"**Title:** {c.get('doc_title')}")
+                    st.write(f"**Section:** {c.get('section')}")
+                    if c.get("source_file"):
+                        st.write(f"**PDF:** {c.get('source_file')}")
+                        st.write(c.get("text", "")[:1500])
 
 
-with tab_dates:
-    st.subheader("University Key Dates")
-    st.write(
-        "These are the official academic key dates published by the University. "
-        "For the most up-to-date information, always consult the official website."
-    )
+    with tab_dates:
+        st.subheader("University Key Dates")
+        st.write(
+            "These are the official academic key dates published by the University. "
+            "For the most up-to-date information, always consult the official website."
+        )
 
     st.link_button(
         "Open Strathclyde Key Dates",
