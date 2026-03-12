@@ -4,10 +4,10 @@ from pathlib import Path
 from html import escape
 
 import streamlit as st
+import streamlit.components.v1 as components
 
 from answer_policies_llama import answer_question
 from query_policies import retrieve_policies
-import streamlit.components.v1 as components
 
 PDF_DIR = Path("guidance pdf")
 FIXED_K = 10
@@ -51,16 +51,13 @@ def clean_section_name(section: str) -> str:
 
     section = section.strip()
 
-    # Hide generic fallback labels.
     if section.lower() == "document":
         return ""
 
-    # If the heading has been shredded into lots of tiny tokens, hide it.
     tokens = section.split()
     if len(tokens) >= 6 and sum(len(tok) <= 2 for tok in tokens) / len(tokens) >= 0.6:
         return ""
 
-    # Normal whitespace cleanup for sane strings.
     return " ".join(tokens)
 
 
@@ -91,16 +88,17 @@ with tab_chat:
         st.markdown("---")
         st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
 
+    # Render existing chat history first
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-
-
+    # Chat input appears after history so it stays at the bottom
     prompt = st.chat_input("Ask a policy question...")
 
     if prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
+        st.session_state.sources_expanded = False
 
         with st.chat_message("user"):
             st.markdown(prompt)
@@ -111,82 +109,86 @@ with tab_chat:
             with st.spinner("Thinking..."):
                 answer = answer_question(prompt, k=FIXED_K)
 
-        st.markdown(answer)
+            st.markdown(answer)
 
-        with st.expander("Sources used", expanded=st.session_state.sources_expanded):
-            if not chunks:
-                st.write("No sources retrieved.")
-            else:
-                grouped_chunks = group_chunks_by_document(chunks)
-                for source_num, (doc_title, doc_chunks) in enumerate(grouped_chunks.items(), start=1):
-                    first_chunk = doc_chunks[0]
-                    source_file = first_chunk.get("source_file")
+            with st.expander("Sources used", expanded=st.session_state.sources_expanded):
+                if not chunks:
+                    st.write("No sources retrieved.")
+                else:
+                    grouped_chunks = group_chunks_by_document(chunks)
 
-                    raw_sections = [c.get("section") or "" for c in doc_chunks]
-                    section_names = sorted(
-                        {
-                            clean_section_name(section)
-                            for section in raw_sections                                if clean_section_name(section)
-                        }
-                    )
+                    for source_num, (doc_title, doc_chunks) in enumerate(grouped_chunks.items(), start=1):
+                        first_chunk = doc_chunks[0]
+                        source_file = first_chunk.get("source_file")
 
-                    st.markdown(f"### 📄 {doc_title}")
-                    st.caption(
-                    f"{len(doc_chunks)} supporting excerpt"
-                    + ("s" if len(doc_chunks) > 1 else "")
+                        raw_sections = [c.get("section") or "" for c in doc_chunks]
+                        section_names = sorted(
+                            {
+                                clean_section_name(section)
+                                for section in raw_sections
+                                if clean_section_name(section)
+                            }
                         )
 
-                    if section_names:
-                        if len(section_names) == 1:
-                            st.write(f"**Section:** {section_names[0]}")
-                        else:
-                            st.write(f"**Sections:** {', '.join(section_names[:3])}")
-
-                    if source_file:
-                        st.write(f"**PDF:** {source_file}")
-
-                    for extract_num, chunk in enumerate(doc_chunks, start=1):
-                        chunk_text = strip_breadcrumbs(chunk.get("text", ""))
-                        safe_chunk = escape(chunk_text[:MAX_EXTRACT_CHARS])
-
-                        st.markdown(f"**Retrieved Evidence {extract_num}:**")
-                        st.markdown(
-                            f"""
-                            <div style="
-                            background-color:#1e3a5f;
-                            padding:14px;
-                            border-radius:8px;
-                            border-left:4px solid #4da3ff;
-                            font-size:0.95rem;
-                            line-height:1.5;">
-                            {safe_chunk}
-                            </div>
-                            """,
-                            unsafe_allow_html=True
+                        st.markdown(f"### 📄 {doc_title}")
+                        st.caption(
+                            f"{len(doc_chunks)} supporting excerpt"
+                            + ("s" if len(doc_chunks) > 1 else "")
                         )
 
-                    if source_file:
-                        pdf_path = PDF_DIR / source_file
-                        pdf_key = f"show_pdf_{source_num}_{source_file}"
+                        if section_names:
+                            if len(section_names) == 1:
+                                st.write(f"**Section:** {section_names[0]}")
+                            else:
+                                st.write(f"**Sections:** {', '.join(section_names[:3])}")
 
-                        if pdf_key not in st.session_state:
-                            st.session_state[pdf_key] = False
+                        if source_file:
+                            st.write(f"**PDF:** {source_file}")
 
-                        col1, col2 = st.columns([1, 1])
+                        for extract_num, chunk in enumerate(doc_chunks, start=1):
+                            chunk_text = strip_breadcrumbs(chunk.get("text", ""))
+                            safe_chunk = escape(chunk_text[:MAX_EXTRACT_CHARS])
 
-                        with col1:
-                            if pdf_path.exists():
-                                with open(pdf_path, "rb") as f:
-                                    st.download_button(
-                                        "Download PDF",
-                                        data=f.read(),
-                                        file_name=source_file,
-                                        mime="application/pdf",
-                                        key=f"dl_{pdf_key}"
-                                    )
+                            st.markdown(f"**Retrieved Evidence {extract_num}:**")
+                            st.markdown(
+                                f"""
+                                <div style="
+                                background-color:#1e3a5f;
+                                padding:14px;
+                                border-radius:8px;
+                                border-left:4px solid #4da3ff;
+                                font-size:0.95rem;
+                                line-height:1.5;">
+                                {safe_chunk}
+                                </div>
+                                """,
+                                unsafe_allow_html=True
+                            )
 
-                        if st.session_state[pdf_key]:
-                            render_pdf_embed(pdf_path)
+                        if source_file:
+                            pdf_path = PDF_DIR / source_file
+                            pdf_key = f"show_pdf_{source_num}_{source_file}"
+
+                            if pdf_key not in st.session_state:
+                                st.session_state[pdf_key] = False
+
+                            col1, col2 = st.columns([1, 1])
+
+                            with col1:
+                                if pdf_path.exists():
+                                    with open(pdf_path, "rb") as f:
+                                        st.download_button(
+                                            "Download PDF",
+                                            data=f.read(),
+                                            file_name=source_file,
+                                            mime="application/pdf",
+                                            key=f"dl_{pdf_key}"
+                                        )
+
+                            if st.session_state[pdf_key]:
+                                render_pdf_embed(pdf_path)
+
+                        st.divider()
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
@@ -210,5 +212,4 @@ with tab_dates:
     st.markdown("- Spring assessment period")
     st.caption(
         "Exact dates vary by academic year and programme. "
-        "This prototype surfaces official information rather than storing it locally."
     )
