@@ -101,9 +101,9 @@ st.markdown(
         """,
         unsafe_allow_html=True,
     )
-    """,
-    unsafe_allow_html=True,
-    )
+""",
+unsafe_allow_html=True,
+)
 
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
 
