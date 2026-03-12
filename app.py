@@ -7,6 +7,7 @@ import streamlit as st
 
 from answer_policies_llama import answer_question
 from query_policies import retrieve_policies
+import streamlit.components.v1 as components
 
 PDF_DIR = Path("guidance pdf")
 FIXED_K = 10
@@ -14,24 +15,22 @@ MAX_EXTRACT_CHARS = 500
 
 
 def render_pdf_embed(pdf_path: Path, height: int = 700):
-    """Embed a local PDF inside the Streamlit app."""
     if not pdf_path.exists():
-        st.warning(f"PDF not found: {pdf_path.name}")
+        st.warning(f"PDF not found: {pdf_path}")
         return
 
     pdf_bytes = pdf_path.read_bytes()
     base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
 
-    pdf_display = f"""
-        <iframe
-            src="data:application/pdf;base64,{base64_pdf}"
-            width="100%"
-            height="{height}"
-            type="application/pdf"
-            style="border: 1px solid #444; border-radius: 8px;">
-        </iframe>
+    pdf_html = f"""
+    <iframe
+        src="data:application/pdf;base64,{base64_pdf}"
+        width="100%"
+        height="{height}"
+        style="border: none; border-radius: 8px;">
+    </iframe>
     """
-    st.markdown(pdf_display, unsafe_allow_html=True)
+    components.html(pdf_html, height=height + 20, scrolling=True)
 
 
 def strip_breadcrumbs(text: str) -> str:
@@ -170,19 +169,31 @@ with tab_chat:
                             )
 
                         if source_file:
+                            pdf_path = PDF_DIR / source_file
                             pdf_key = f"show_pdf_{source_num}_{source_file}"
+
                             if pdf_key not in st.session_state:
                                 st.session_state[pdf_key] = False
 
-                            if st.button(f"View source PDF: {source_file}", key=f"btn_{pdf_key}"):
-                                st.session_state[pdf_key] = not st.session_state[pdf_key]
-                                st.session_state.sources_expanded = True
-                                st.rerun()
+                            col1, col2 = st.columns([1, 1])
 
-                            if st.session_state[pdf_key]:
-                                render_pdf_embed(PDF_DIR / source_file)
+                            with col1:
+                                if st.button(f"View source PDF", key=f"btn_{pdf_key}"):
+                                    st.session_state[pdf_key] = not st.session_state[pdf_key]
 
-                        st.divider()
+                            with col2:
+                                if pdf_path.exists():
+                                    with open(pdf_path, "rb") as f:
+                                        st.download_button(
+                                            "Download PDF",
+                                            data=f.read(),
+                                            file_name=source_file,
+                                            mime="application/pdf",
+                                            key=f"dl_{pdf_key}"
+                                        )
+
+    if st.session_state[pdf_key]:
+        render_pdf_embed(pdf_path)
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
