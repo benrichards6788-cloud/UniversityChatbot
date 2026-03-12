@@ -184,18 +184,18 @@ with tab_chat:
                             st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
                                 f"""
-                                <div style="
-                                background-color:#1e3a5f;
-                                padding:14px;
-                                border-radius:8px;
-                                border-left:4px solid #4da3ff;
-                                font-size:0.95rem;
-                                line-height:1.5;">
-                                {safe_chunk}
-                                </div>
+                                    <div style="
+                                    background-color:#1e3a5f;
+                                    padding:14px;
+                                    border-radius:8px;
+                                    border-left:4px solid #4da3ff;
+                                    font-size:0.95rem;
+                                    line-height:1.5;">
+                                    {safe_chunk}
+                                    </div>
                                 """,
                                 unsafe_allow_html=True
-                            )
+                                )
 
                         if source_file:
                             pdf_path = PDF_DIR / source_file
