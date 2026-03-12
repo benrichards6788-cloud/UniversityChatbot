@@ -71,6 +71,35 @@ def group_chunks_by_document(chunks):
 
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
+# Force chat input to the bottom of the viewport
+st.markdown(
+    """
+    <style>
+        .main .block-container {
+            padding-bottom: 8rem;
+        }
+
+        div[data-testid="stChatInput"] {
+            position: fixed;
+            bottom: 0.75rem;
+            left: 50%;
+            transform: translateX(-50%);
+            width: min(900px, calc(100vw - 3rem));
+            z-index: 1000;
+            background: transparent;
+        }
+
+        div[data-testid="stChatInput"] > div {
+            background: rgb(14, 17, 23);
+            border-radius: 14px;
+            padding: 0.2rem;
+            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+        }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
 
 with tab_chat:
@@ -88,12 +117,10 @@ with tab_chat:
         st.markdown("---")
         st.markdown("**Tip:** Ask about exams, personal circumstances, admissions, marking.")
 
-    # Render existing chat history first
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # Chat input appears after history so it stays at the bottom
     prompt = st.chat_input("Ask a policy question...")
 
     if prompt:
@@ -185,12 +212,10 @@ with tab_chat:
                                             key=f"dl_{pdf_key}"
                                         )
 
-                            if st.session_state[pdf_key]:
-                                render_pdf_embed(pdf_path)
-
                         st.divider()
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
+        st.rerun()
 
 with tab_dates:
     st.subheader("University Key Dates")
@@ -212,4 +237,5 @@ with tab_dates:
     st.markdown("- Spring assessment period")
     st.caption(
         "Exact dates vary by academic year and programme. "
+        "This prototype surfaces official information rather than storing it locally."
     )
