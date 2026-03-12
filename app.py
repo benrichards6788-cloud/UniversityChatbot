@@ -72,37 +72,36 @@ def group_chunks_by_document(chunks):
 st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
 st.markdown(
-        """
-        <style>
-            .main .block-container {
-                padding-bottom: 8rem;
-            }
+    """
+<style>
 
-            div[data-testid="stChatInput"] {
-                position: fixed;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                width: 100%;
-                z-index: 1000;
-                padding: 1rem 2rem;
-                background: transparent;
-            }
+.main .block-container {
+    padding-bottom: 8rem;
+}
 
-            div[data-testid="stChatInput"] > div {
-                width: 100%;
-                max-width: 1200px;
-                margin: auto;
-                background: rgb(14,17,23);
-                border-radius: 14px;
-                box-shadow: 0 6px 24px rgba(0,0,0,0.35);
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
+div[data-testid="stChatInput"] {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 1rem 2rem;
+    z-index: 999;
+    background: transparent;
+}
+
+div[data-testid="stChatInput"] > div {
+    max-width: 1200px;
+    margin: auto;
+    background: rgb(14,17,23);
+    border-radius: 16px;
+    padding: 0.25rem;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+}
+
+</style>
 """,
-unsafe_allow_html=True,
+    unsafe_allow_html=True,
 )
 
 tab_chat, tab_dates = st.tabs(["Chat", "Key Dates"])
@@ -184,25 +183,21 @@ with tab_chat:
                             st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
                                 f"""
-                                    <div style="
-                                    background-color:#1e3a5f;
-                                    padding:14px;
-                                    border-radius:8px;
-                                    border-left:4px solid #4da3ff;
-                                    font-size:0.95rem;
-                                    line-height:1.5;">
-                                    {safe_chunk}
-                                    </div>
+                                <div style="
+                                background-color:#1e3a5f;
+                                padding:14px;
+                                border-radius:8px;
+                                border-left:4px solid #4da3ff;
+                                font-size:0.95rem;
+                                line-height:1.5;">
+                                {safe_chunk}
+                                </div>
                                 """,
                                 unsafe_allow_html=True
-                                )
+                            )
 
                         if source_file:
                             pdf_path = PDF_DIR / source_file
-                            pdf_key = f"show_pdf_{source_num}_{source_file}"
-
-                            if pdf_key not in st.session_state:
-                                st.session_state[pdf_key] = False
 
                             col1, col2 = st.columns([1, 1])
 
@@ -213,14 +208,14 @@ with tab_chat:
                                             "Download PDF",
                                             data=f.read(),
                                             file_name=source_file,
-                                            mime="application/pdf",
-                                            key=f"dl_{pdf_key}"
+                                            mime="application/pdf"
                                         )
 
                         st.divider()
 
         st.session_state.messages.append({"role": "assistant", "content": answer})
         st.rerun()
+
 
 with tab_dates:
     st.subheader("University Key Dates")
