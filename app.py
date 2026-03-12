@@ -79,31 +79,35 @@ st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 
 st.markdown(
     """
-<style>
+    <style>
+        .main .block-container {
+            padding-bottom: 9rem;
+        }
 
-.main .block-container {
-    padding-bottom: 9rem;
-}
+        div[data-testid="stChatInput"] {
+            position: fixed !important;
+            bottom: 1.2rem;
+            left: 0;
+            right: 0;
+            width: calc(100% - 4rem);
+            margin-left: auto;
+            margin-right: auto;
+            z-index: 1000;
+        }
 
-div[data-testid="stChatInput"] {
-    position: fixed !important;
-    bottom: 1rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1200px, calc(100vw - 4rem));
-    z-index: 1000;
-}
+        div[data-testid="stChatInput"] > div {
+            width: 100%;
+            background: rgba(14,17,23,0.97);
+            border-radius: 18px;
+            padding: 0.35rem;
+            box-shadow: 0 10px 28px rgba(0,0,0,0.45);
+        }
 
-div[data-testid="stChatInput"] > div {
-    width: 100%;
-    background: rgb(14,17,23);
-    border-radius: 16px;
-    padding: 0.25rem;
-    box-shadow: 0 6px 24px rgba(0,0,0,0.35);
-}
-
-</style>
-""",
+        div[data-testid="stChatInput"] textarea {
+            font-size: 1rem !important;
+        }
+    </style>
+    """,
     unsafe_allow_html=True,
 )
 
