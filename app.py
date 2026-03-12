@@ -80,13 +80,14 @@ st.set_page_config(page_title="Strathclyde Policy Assistant", layout="wide")
 st.markdown(
     """
     <style>
+
         .main .block-container {
-            padding-bottom: 9rem;
+            padding-bottom: 12rem;
         }
 
         div[data-testid="stChatInput"] {
             position: fixed !important;
-            bottom: 1.2rem;
+            bottom: 2.5rem;      /* pushes it further from bottom */
             left: 0;
             right: 0;
             width: calc(100% - 4rem);
@@ -98,14 +99,16 @@ st.markdown(
         div[data-testid="stChatInput"] > div {
             width: 100%;
             background: rgba(14,17,23,0.97);
-            border-radius: 18px;
-            padding: 0.35rem;
+            border-radius: 20px;
+            padding: 0.6rem;    /* makes the input container taller */
             box-shadow: 0 10px 28px rgba(0,0,0,0.45);
         }
 
         div[data-testid="stChatInput"] textarea {
-            font-size: 1rem !important;
+            font-size: 1.05rem;
+            min-height: 60px;   /* increases input height */
         }
+
     </style>
     """,
     unsafe_allow_html=True,
