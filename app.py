@@ -178,10 +178,6 @@ with tab_chat:
                             col1, col2 = st.columns([1, 1])
 
                             with col1:
-                                if st.button(f"View source PDF", key=f"btn_{pdf_key}"):
-                                    st.session_state[pdf_key] = not st.session_state[pdf_key]
-
-                            with col2:
                                 if pdf_path.exists():
                                     with open(pdf_path, "rb") as f:
                                         st.download_button(
