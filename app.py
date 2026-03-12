@@ -1,6 +1,7 @@
 import base64
 from collections import defaultdict
 from pathlib import Path
+from html import escape
 
 import streamlit as st
 
@@ -47,20 +48,23 @@ def strip_breadcrumbs(text: str) -> str:
 
 
 def clean_section_name(section: str) -> str:
-    """Hide broken section labels and normalize spacing for sane ones."""
+    """Normalize sane section labels and hide broken OCR/PDF extraction artifacts."""
     if not section:
         return ""
 
-    section = " ".join(section.split()).strip()
+    section = section.strip()
 
+    # Hide generic fallback labels.
     if section.lower() == "document":
         return ""
 
+    # If the heading has been shredded into lots of tiny tokens, hide it.
     tokens = section.split()
-    if len(tokens) >= 8 and all(len(tok) == 1 for tok in tokens[:8]):
+    if len(tokens) >= 6 and sum(len(tok) <= 2 for tok in tokens) / len(tokens) >= 0.6:
         return ""
 
-    return section
+    # Normal whitespace cleanup for sane strings.
+    return " ".join(tokens)
 
 
 def group_chunks_by_document(chunks):
@@ -82,6 +86,9 @@ with tab_chat:
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
+    if "sources_expanded" not in st.session_state:
+        st.session_state.sources_expanded = False
+
     with st.sidebar:
         st.header("Settings")
         st.markdown("---")
@@ -95,6 +102,7 @@ with tab_chat:
 
     if prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
+        st.session_state.sources_expanded = False
 
         with st.chat_message("user"):
             st.markdown(prompt)
@@ -107,7 +115,7 @@ with tab_chat:
 
             st.markdown(answer)
 
-            with st.expander("Sources used", expanded=False):
+            with st.expander("Sources used", expanded=st.session_state.sources_expanded):
                 if not chunks:
                     st.write("No sources retrieved.")
                 else:
@@ -119,7 +127,11 @@ with tab_chat:
 
                         raw_sections = [c.get("section") or "" for c in doc_chunks]
                         section_names = sorted(
-                            {clean_section_name(section) for section in raw_sections if clean_section_name(section)}
+                            {
+                                clean_section_name(section)
+                                for section in raw_sections
+                                if clean_section_name(section)
+                            }
                         )
 
                         st.markdown(f"### 📄 {doc_title}")
@@ -139,6 +151,8 @@ with tab_chat:
 
                         for extract_num, chunk in enumerate(doc_chunks, start=1):
                             chunk_text = strip_breadcrumbs(chunk.get("text", ""))
+                            safe_chunk = escape(chunk_text[:MAX_EXTRACT_CHARS])
+
                             st.markdown(f"**Retrieved Evidence {extract_num}:**")
                             st.markdown(
                                 f"""
@@ -149,7 +163,7 @@ with tab_chat:
                                 border-left:4px solid #4da3ff;
                                 font-size:0.95rem;
                                 line-height:1.5;">
-                                {chunk_text[:MAX_EXTRACT_CHARS]}
+                                {safe_chunk}
                                 </div>
                                 """,
                                 unsafe_allow_html=True
@@ -160,16 +174,13 @@ with tab_chat:
                             if pdf_key not in st.session_state:
                                 st.session_state[pdf_key] = False
 
-                            col1, col2 = st.columns([1, 5])
-                            with col1:
-                                if st.button("Open PDF", key=f"btn_{pdf_key}"):
-                                    st.session_state[pdf_key] = not st.session_state[pdf_key]
-                            with col2:
-                                st.caption(source_file)
+                            if st.button(f"View source PDF: {source_file}", key=f"btn_{pdf_key}"):
+                                st.session_state[pdf_key] = not st.session_state[pdf_key]
+                                st.session_state.sources_expanded = True
+                                st.rerun()
 
                             if st.session_state[pdf_key]:
-                                pdf_path = PDF_DIR / source_file
-                                render_pdf_embed(pdf_path)
+                                render_pdf_embed(PDF_DIR / source_file)
 
                         st.divider()
 
