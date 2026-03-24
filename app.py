@@ -204,13 +204,3 @@ with tab_dates:
         "https://www.strath.ac.uk/keydates/"
     )
 
-    st.markdown("### Academic Year Overview (example)")
-    st.markdown("- Welcome and Development Week: September")
-    st.markdown("- Semester 1 teaching block")
-    st.markdown("- Winter assessment period")
-    st.markdown("- Semester 2 teaching block")
-    st.markdown("- Spring assessment period")
-    st.caption(
-        "Exact dates vary by academic year and programme. "
-        "This prototype surfaces official information rather than storing it locally."
-    )
