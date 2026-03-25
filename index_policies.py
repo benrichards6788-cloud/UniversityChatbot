@@ -18,7 +18,6 @@ def load_chunks(jsonl_path: Path):
     return chunks
 
 # encode chunks to embeddings
-
 def embed_chunks(chunks):
     texts = [ch["text"] for ch in chunks]
     embs = EMB.encode(texts, convert_to_numpy=True, normalize_embeddings=True)

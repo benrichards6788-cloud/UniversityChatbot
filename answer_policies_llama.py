@@ -19,23 +19,15 @@ USER QUESTION AND CONTEXT:
 {user_prompt}
 """
 
-    if USE_OLLAMA:
-        response = ollama.generate(
-            model=MODEL_NAME,
-            prompt=full_prompt
-        )
-        return response["response"].strip()
-
-    else:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ]
-        )
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    )
 
-        return response.choices[0].message.content.strip()
+    return response.choices[0].message.content.strip()
 
 
 #formats retrieved chunks into readable context block for model
@@ -51,12 +43,6 @@ def build_context(chunks, max_chars: int = 5000) -> str:
 
 
 def answer_question(question: str, k: int = 10) -> str:
-    """
-    Full RAG step:
-    1. Retrieve relevant policy chunks using FAISS.
-    2. Build a prompt.
-    3. Ask Llama for an answer grounded in those chunks.
-    """
     chunks = retrieve_policies(question, k=k)
     if not chunks:
         return "I couldn't find any relevant policy sections to answer that."
