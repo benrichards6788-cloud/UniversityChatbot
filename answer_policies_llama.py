@@ -2,15 +2,10 @@ import textwrap
 import os
 from query_policies import retrieve_policies
 
-USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
+from openai import OpenAI
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-if USE_OLLAMA:
-    import ollama
-else:
-    from openai import OpenAI
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-def call_llama(system_prompt: str, user_prompt: str) -> str:
+def call_gpt(system_prompt: str, user_prompt: str) -> str:
 
     full_prompt = f"""SYSTEM:
 {system_prompt}
@@ -73,7 +68,7 @@ def answer_question(question: str, k: int = 10) -> str:
     {context}
     """)
 
-    return call_llama(system_prompt, user_prompt)
+    return call_gpt(system_prompt, user_prompt)
 
 
 def main():
