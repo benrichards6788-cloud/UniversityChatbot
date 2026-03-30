@@ -1,18 +1,14 @@
 """
 semantic chunker python file
 splits chunks of text based on their meaning
-produces a JSONL file 
-
+produces a JSONL file
 """
-
 import re
 import json
 import math
 import argparse
 from pathlib import Path
 from typing import List, Dict, Iterable
-
-import numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer, util
 

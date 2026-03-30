@@ -1,16 +1,14 @@
-
-import os
 import sys
 from pathlib import Path
 from langchain_community.document_loaders import PyPDFLoader
-from tqdm import tqdm #progress bar
+from tqdm import tqdm
 
 INPUT_DIR = Path("guidance pdf")      
 OUTPUT_DIR = Path("rawpdf")     
 MERGED_OUTPUT = OUTPUT_DIR / "ALL_TEXT_MERGED.txt"  # mega-file
 
 def extract_pdf_to_text(pdf_path: Path) -> str:
-    """return full text from a PDF with page separators."""
+    #return full text from a PDF with page separators
     loader = PyPDFLoader(str(pdf_path))
     pages = loader.load()
     chunks = []
