@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
 
 """
-Hybrid retrieval module for the Strathclyde Policy Assistant.
+Hybrid retrieval module for Strathclyde Policy Assistant
 
 Retrieval strategies:
-    - "dense"  : FAISS cosine similarity only (all-MiniLM-L6-v2)
-    - "sparse" : BM25 keyword ranking only (rank_bm25)
-    - "hybrid" : Reciprocal Rank Fusion (RRF) of dense + sparse (default)
-
-Reciprocal Rank Fusion reference:
-    Cormack, G.V., Clarke, C.L.A. and Buettcher, S. (2009).
-    Reciprocal Rank Fusion Outperforms Condorcet and Individual Rank
-    Learning Methods. SIGIR 2009.
+    - dense  : FAISS cosine similarity only (all-MiniLM-L6-v2)
+    - sparse : BM25 keyword ranking only (rank_bm25)
+    - hybrid : Reciprocal Rank Fusion (RRF) of dense + sparse (default)
 """
 
 import json
@@ -30,7 +25,7 @@ META_PATH       = VECTORSTORE_DIR / "meta.json"
 MODEL_NAME      = "sentence-transformers/all-MiniLM-L6-v2"
 TOP_K_DEFAULT   = 5
 
-# RRF constant — standard value from Cormack et al. (2009)
+# RRF constant
 RRF_K = 60
 
 # load resources
@@ -84,10 +79,8 @@ def _chunk_to_result(idx, score):
 
 
 def _dense_ranked(query, k):
-    """
-    return a ranked list of chunk indices using FAISS dense retrieval.
-    queries all-MiniLM-L6-v2 embeddings with cosine similarity.
-    """
+
+    #return a ranked list of chunk indices using FAISS dense retrieval.
     q_vec = (
         EMB.encode([query], convert_to_numpy=True, normalize_embeddings=True)
         .astype("float32")
@@ -97,9 +90,7 @@ def _dense_ranked(query, k):
 
 
 def _sparse_ranked(query, k):
-    """
-    return a ranked list of chunk indices using BM25Okapi sparse retrieval.
-    """
+    #return a ranked list of chunk indices using BM25Okapi sparse retrieval.
     tokens      = _tokenise(query)
     bm25_scores = BM25_INDEX.get_scores(tokens)
 
@@ -117,9 +108,7 @@ def _rrf_fusion(dense_ranking, sparse_ranking, k_rrf=RRF_K):
     Reciprocal Rank Fusion of two ranked lists.
 
     RRF score for document d = sum over each list L of 1 / (k_rrf + rank_L(d))
-    where rank is 1-based.
-
-    Reference: Cormack et al. (2009) SIGIR.
+    where rank is 1-based
     """
     rrf_scores = {}
 
@@ -143,18 +132,13 @@ def retrieve_policies(query, k=TOP_K_DEFAULT, retrieval_method="hybrid"):
     Parameters
     ----------
     query : str
-        The user's natural language question.
+        user's natural language question
     k : int
-        Number of chunks to return.
+        no of chunks to return
     retrieval_method : str
-        One of "dense", "sparse", or "hybrid".
-        - "dense"  : FAISS cosine similarity (all-MiniLM-L6-v2)
-        - "sparse" : BM25Okapi keyword ranking
-        - "hybrid" : Reciprocal Rank Fusion of dense + sparse (default)
+        dense, sparse, or hybrid
 
-    Returns
-    -------
-    list of dicts, each containing: score, idx, text, doc_title, section,
+    Returns list of dicts, each containing: score, idx, text, doc_title, section,
     retrieval_method, and any additional chunk metadata.
     """
     retrieval_method = retrieval_method.lower().strip()

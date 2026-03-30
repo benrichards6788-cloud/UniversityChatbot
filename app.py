@@ -34,7 +34,7 @@ def render_pdf_embed(pdf_path: Path, height: int = 700):
 
 
 def strip_breadcrumbs(text: str) -> str:
-    """Remove leading [Policy: ...] [Section: ...] breadcrumbs from chunk text for UI display."""
+    #Remove leading [Policy: ...] [Section: ...] breadcrumbs from chunk text for UI display
     if not text:
         return ""
 
@@ -47,22 +47,22 @@ def strip_breadcrumbs(text: str) -> str:
 
 
 def clean_section_name(section: str) -> str:
-    """Normalize sane section labels and hide broken OCR/PDF extraction artifacts."""
+    #normalize section labels and hide broken OCR/PDF extraction artifacts
     if not section:
         return ""
 
     section = section.strip()
 
-    # Hide generic fallback labels.
+    # hide generic fallback labels
     if section.lower() == "document":
         return ""
 
-    # If the heading has been shredded into lots of tiny tokens, hide it.
+    # ff the heading has been shredded into lots of tiny tokens, hide it
     tokens = section.split()
     if len(tokens) >= 6 and sum(len(tok) <= 2 for tok in tokens) / len(tokens) >= 0.6:
         return ""
 
-    # Normal whitespace cleanup for sane strings.
+    # normal whitespace cleanup for strings
     return " ".join(tokens)
 
 

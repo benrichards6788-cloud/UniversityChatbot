@@ -117,9 +117,9 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
-# section detection (heuristic)
+# section detection
 
-"""multi line regular expression that looks for lines that resemble section headings"""
+#regex that looks for lines that resemble section headings
 _SECTION_RE = re.compile(
     r"(?m)^(?P<h>"                  # start line, capture group 'h'
     r"[A-Z][A-Z \-/&]{3,}"          # matches lines written entirely in uppercase
@@ -180,9 +180,7 @@ def merge_small_sections(
     min_tokens: int = 120,
     join_with_next: bool = True,
 ) -> List[Dict]:
-    """
-    merge small sections with their neighbors.
-    """
+    #merge small sections with their neighbors.
     if not sections:
         return sections
 
@@ -239,7 +237,7 @@ def split_subsections(body: str, parent_title: str, min_tokens: int = 500) -> Li
     if not body:
         return []
 
-    # only bother when the body is large enough that dilution is likely
+    # only do when the body is large enough that dilution is likely
     if approx_tokens(body) < min_tokens:
         return [{"title": parent_title, "body": body}]
 
@@ -420,7 +418,7 @@ def chunk_file(
 ) -> List[Dict]:
     """
     loads 1 txt doc, removes page markers, cleans it,
-    splits into sections -> sentences -> semantic runs, then packs into chunks.
+    splits into sections -> sentences -> semantic runs, then packs into chunks
     """
     raw = txt_path.read_text(encoding="utf-8", errors="ignore")
 
@@ -443,7 +441,7 @@ def chunk_file(
         if not body:
             continue
 
-    # split large sections into numbered sub-sections (e.g. 4. ANONYMOUS MARKING)
+    # split large sections into numbered sub-sections
         sub_sections = split_subsections(
             body,
             parent_title=sec["title"],
@@ -468,7 +466,7 @@ def chunk_file(
             packed = pack_runs_to_chunks(
                 runs,
                 doc_title=doc_title,
-                section_title=sub["title"],   # important: use subsection title
+                section_title=sub["title"],
                 source_file=source_file,
                 target_tokens=target_tokens,
                 overlap_ratio=overlap_ratio,
