@@ -15,3 +15,4 @@ scikit-learn
 requests
 python-dotenv
 openai
+rank_bm25

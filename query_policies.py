@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Hybrid retrieval module for Strathclyde Policy Assistant
 
@@ -10,14 +8,13 @@ Retrieval strategies:
 """
 
 import json
-import math
 from pathlib import Path
 
 import faiss
 from sentence_transformers import SentenceTransformer
 from rank_bm25 import BM25Okapi
 
-# configurations
+# config
 
 VECTORSTORE_DIR = Path("vectorstore")
 INDEX_PATH      = VECTORSTORE_DIR / "policy.index"

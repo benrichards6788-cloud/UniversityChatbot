@@ -8,11 +8,11 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def call_gpt(system_prompt: str, user_prompt: str) -> str:
 
     full_prompt = f"""SYSTEM:
-{system_prompt}
+    {system_prompt}
 
-USER QUESTION AND CONTEXT:
-{user_prompt}
-"""
+    USER QUESTION AND CONTEXT:
+    {user_prompt}
+    """
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
